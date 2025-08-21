@@ -2,13 +2,40 @@ project:
   type: book
 
 book:
-  title: "intro_crimi"
-  author: "Norah Jones"
+  title: "Una introducción a la criminología"
+  author: "Juanjo Medina y Lorea Arenas (Coordinadores)"
   date: "8/21/2025"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    
+    - part: introduccion.qmd
+      chapters: 
+        - concepto.qmd
+        - metodo.qmd
+        - medicion.qmd
+        
+    - part: objetos.qmd
+      chapters: 
+        - delincuentes.qmd
+        - delito.qmd
+        - victimas.qmd
+        - control.qmd
+        - sociedad.qmd
+        
+    - part: sesgos.qmd
+      chapters: 
+        - clase.qmd
+        - genero.qmd
+        - etnicas.qmd
+        - colonial.qmd
+        - green.qmd
+        
+    - part: funcion.qmd
+      chapters: 
+        - politica.qmd
+        - prevencion.qmd
+    
     - references.qmd
 
 bibliography: references.bib

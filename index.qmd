@@ -1,9 +1,5 @@
-# Preface {.unnumbered}
+# Bienvenida {.unnumbered}
 
-This is a Quarto book.
+Esta es la página web de "Una introducción a la criminología". Este es un libro de texto digital en formato abierto y gratuito que está siendo redactado por varios expertos en la materia y que aspira a servir de manual de referencia en las asignaturas de introducción a la criminología que se imparten en los distintos grados universitarios de criminología en España.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+Esta es una página en construcción. El libro, o al menos una parte sustancial del mismo, no estará disponible hasta septiembre del 2026.
