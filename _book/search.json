@@ -16,7 +16,7 @@
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preliminares</span>"
     ]
   },
   {
@@ -46,7 +46,645 @@
     "section": "",
     "text": "Preliminares",
     "crumbs": [
-      "Preliminares"
+      "Introducción"
+    ]
+  },
+  {
+    "objectID": "metodo.html",
+    "href": "metodo.html",
+    "title": "2  Método científico y criminología",
+    "section": "",
+    "text": "2.1 ¿Para qué sirve el método?",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Método científico y criminología</span>"
+    ]
+  },
+  {
+    "objectID": "metodo.html#dos-culturas-de-investigación",
+    "href": "metodo.html#dos-culturas-de-investigación",
+    "title": "2  Método científico y criminología",
+    "section": "2.2 Dos culturas de investigación",
+    "text": "2.2 Dos culturas de investigación",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Método científico y criminología</span>"
+    ]
+  },
+  {
+    "objectID": "metodo.html#tipos-de-investigación",
+    "href": "metodo.html#tipos-de-investigación",
+    "title": "2  Método científico y criminología",
+    "section": "2.3 Tipos de investigación",
+    "text": "2.3 Tipos de investigación",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Método científico y criminología</span>"
+    ]
+  },
+  {
+    "objectID": "medicion.html",
+    "href": "medicion.html",
+    "title": "3  El delito en España",
+    "section": "",
+    "text": "3.1 Las estadísticas oficiales",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>El delito en España</span>"
+    ]
+  },
+  {
+    "objectID": "medicion.html#los-estudios-de-autoinforme",
+    "href": "medicion.html#los-estudios-de-autoinforme",
+    "title": "3  El delito en España",
+    "section": "3.3 Los estudios de autoinforme",
+    "text": "3.3 Los estudios de autoinforme",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>El delito en España</span>"
+    ]
+  },
+  {
+    "objectID": "medicion.html#nuevas-formas-de-datos",
+    "href": "medicion.html#nuevas-formas-de-datos",
+    "title": "3  El delito en España",
+    "section": "3.4 Nuevas formas de datos",
+    "text": "3.4 Nuevas formas de datos",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>El delito en España</span>"
+    ]
+  },
+  {
+    "objectID": "medicion.html#es-españa-un-país-seguro",
+    "href": "medicion.html#es-españa-un-país-seguro",
+    "title": "3  El delito en España",
+    "section": "3.5 ¿Es España un país seguro?",
+    "text": "3.5 ¿Es España un país seguro?",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>El delito en España</span>"
+    ]
+  },
+  {
+    "objectID": "medicion.html#las-encuestas-de-victimización",
+    "href": "medicion.html#las-encuestas-de-victimización",
+    "title": "3  El delito en España",
+    "section": "3.2 Las encuestas de victimización",
+    "text": "3.2 Las encuestas de victimización",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>El delito en España</span>"
+    ]
+  },
+  {
+    "objectID": "delincuentes.html",
+    "href": "delincuentes.html",
+    "title": "4  El delincuente",
+    "section": "",
+    "text": "4.1 El hombre delincuente",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>El delincuente</span>"
+    ]
+  },
+  {
+    "objectID": "delincuentes.html#el-6-crónico-y-la-curva-del-delito",
+    "href": "delincuentes.html#el-6-crónico-y-la-curva-del-delito",
+    "title": "4  El delincuente",
+    "section": "4.2 El 6% crónico y la curva del delito",
+    "text": "4.2 El 6% crónico y la curva del delito",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>El delincuente</span>"
+    ]
+  },
+  {
+    "objectID": "delincuentes.html#los-psicópatas",
+    "href": "delincuentes.html#los-psicópatas",
+    "title": "4  El delincuente",
+    "section": "4.3 Los “psicópatas”",
+    "text": "4.3 Los “psicópatas”",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>El delincuente</span>"
+    ]
+  },
+  {
+    "objectID": "delincuentes.html#especialización-y-delincuencia",
+    "href": "delincuentes.html#especialización-y-delincuencia",
+    "title": "4  El delincuente",
+    "section": "4.4 Especialización y delincuencia",
+    "text": "4.4 Especialización y delincuencia",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>El delincuente</span>"
+    ]
+  },
+  {
+    "objectID": "delincuentes.html#co-delincuencia",
+    "href": "delincuentes.html#co-delincuencia",
+    "title": "4  El delincuente",
+    "section": "4.5 Co-delincuencia",
+    "text": "4.5 Co-delincuencia",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>El delincuente</span>"
+    ]
+  },
+  {
+    "objectID": "delito.html",
+    "href": "delito.html",
+    "title": "5  El delito",
+    "section": "",
+    "text": "5.1 El delito como evento espacio temporal: la estadística moral",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>El delito</span>"
+    ]
+  },
+  {
+    "objectID": "delito.html#delito-y-oportunidad",
+    "href": "delito.html#delito-y-oportunidad",
+    "title": "5  El delito",
+    "section": "5.2 Delito y oportunidad",
+    "text": "5.2 Delito y oportunidad",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>El delito</span>"
+    ]
+  },
+  {
+    "objectID": "delito.html#el-delito-como-transacción-situacional",
+    "href": "delito.html#el-delito-como-transacción-situacional",
+    "title": "5  El delito",
+    "section": "5.3 El delito como transacción situacional",
+    "text": "5.3 El delito como transacción situacional",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>El delito</span>"
+    ]
+  },
+  {
+    "objectID": "delito.html#toma-de-decisiones",
+    "href": "delito.html#toma-de-decisiones",
+    "title": "5  El delito",
+    "section": "5.4 Toma de decisiones",
+    "text": "5.4 Toma de decisiones",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>El delito</span>"
+    ]
+  },
+  {
+    "objectID": "delito.html#emoción-significado-y-delito",
+    "href": "delito.html#emoción-significado-y-delito",
+    "title": "5  El delito",
+    "section": "5.5 Emoción, significado y delito",
+    "text": "5.5 Emoción, significado y delito",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>El delito</span>"
+    ]
+  },
+  {
+    "objectID": "delito.html#delito-o-daño-social",
+    "href": "delito.html#delito-o-daño-social",
+    "title": "5  El delito",
+    "section": "5.6 ¿Delito o daño social?",
+    "text": "5.6 ¿Delito o daño social?",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>El delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html",
+    "href": "control.html",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "",
+    "text": "7.1 La Escuela Clásica y la reforma del derecho penal",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#correccionalismo-y-rehabilitación",
+    "href": "control.html#correccionalismo-y-rehabilitación",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.2 Correccionalismo y rehabilitación",
+    "text": "7.2 Correccionalismo y rehabilitación",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#las-consecuencias-de-la-intervención",
+    "href": "control.html#las-consecuencias-de-la-intervención",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.3 Las consecuencias de la intervención",
+    "text": "7.3 Las consecuencias de la intervención",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#poder-clase-social-e-instituciones-de-control-penal-las-criminologías-críticas",
+    "href": "control.html#poder-clase-social-e-instituciones-de-control-penal-las-criminologías-críticas",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.4 Poder, clase social e instituciones de control penal: las criminologías críticas",
+    "text": "7.4 Poder, clase social e instituciones de control penal: las criminologías críticas",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#estado-neoliberal-y-la-cultura-del-control",
+    "href": "control.html#estado-neoliberal-y-la-cultura-del-control",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.5 Estado neoliberal y la cultura del control",
+    "text": "7.5 Estado neoliberal y la cultura del control",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#el-estado-regulatorio-y-los-intentos-de-desmantelarlo",
+    "href": "control.html#el-estado-regulatorio-y-los-intentos-de-desmantelarlo",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.6 El Estado regulatorio y los intentos de desmantelarlo",
+    "text": "7.6 El Estado regulatorio y los intentos de desmantelarlo",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#abolicionismo-despolicializar-minimalismo-penal",
+    "href": "control.html#abolicionismo-despolicializar-minimalismo-penal",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.7 Abolicionismo, despolicializar, minimalismo penal",
+    "text": "7.7 Abolicionismo, despolicializar, minimalismo penal",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "control.html#hay-vida-más-allá-del-derecho-penal",
+    "href": "control.html#hay-vida-más-allá-del-derecho-penal",
+    "title": "7  Las respuestas estatales al delito",
+    "section": "7.8 Hay vida más allá del derecho penal",
+    "text": "7.8 Hay vida más allá del derecho penal",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Las respuestas estatales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "sociedad.html",
+    "href": "sociedad.html",
+    "title": "8  Respuetas sociales y culturales al delito",
+    "section": "",
+    "text": "8.1 Control social, eficacia colectiva y delito",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Respuetas sociales y culturales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "sociedad.html#el-descubrimiento-del-miedo-al-delito",
+    "href": "sociedad.html#el-descubrimiento-del-miedo-al-delito",
+    "title": "8  Respuetas sociales y culturales al delito",
+    "section": "8.2 El descubrimiento del miedo al delito",
+    "text": "8.2 El descubrimiento del miedo al delito",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Respuetas sociales y culturales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "sociedad.html#ciudadanos-y-punitivismo",
+    "href": "sociedad.html#ciudadanos-y-punitivismo",
+    "title": "8  Respuetas sociales y culturales al delito",
+    "section": "8.3 Ciudadanos y punitivismo",
+    "text": "8.3 Ciudadanos y punitivismo",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Respuetas sociales y culturales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "sociedad.html#medios-de-comunicación-y-delincuencia",
+    "href": "sociedad.html#medios-de-comunicación-y-delincuencia",
+    "title": "8  Respuetas sociales y culturales al delito",
+    "section": "8.4 Medios de comunicación y delincuencia",
+    "text": "8.4 Medios de comunicación y delincuencia",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Respuetas sociales y culturales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "sociedad.html#participación-ciudadana-democracia-y-coproducción",
+    "href": "sociedad.html#participación-ciudadana-democracia-y-coproducción",
+    "title": "8  Respuetas sociales y culturales al delito",
+    "section": "8.5 Participación ciudadana, democracia y coproducción",
+    "text": "8.5 Participación ciudadana, democracia y coproducción",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Respuetas sociales y culturales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "sociedad.html#criminología-cultural",
+    "href": "sociedad.html#criminología-cultural",
+    "title": "8  Respuetas sociales y culturales al delito",
+    "section": "8.6 Criminología cultural",
+    "text": "8.6 Criminología cultural",
+    "crumbs": [
+      "Los objetos de la criminología",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Respuetas sociales y culturales al delito</span>"
+    ]
+  },
+  {
+    "objectID": "clase.html",
+    "href": "clase.html",
+    "title": "9  Clase social y criminalización",
+    "section": "",
+    "text": "9.1 La criminalización del pobre",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Clase social y criminalización</span>"
+    ]
+  },
+  {
+    "objectID": "clase.html#desigualdad-social-y-delincuencia",
+    "href": "clase.html#desigualdad-social-y-delincuencia",
+    "title": "9  Clase social y criminalización",
+    "section": "9.2 Desigualdad social y delincuencia",
+    "text": "9.2 Desigualdad social y delincuencia",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Clase social y criminalización</span>"
+    ]
+  },
+  {
+    "objectID": "clase.html#el-descubrimiento-de-la-delincuencia-de-clase-media",
+    "href": "clase.html#el-descubrimiento-de-la-delincuencia-de-clase-media",
+    "title": "9  Clase social y criminalización",
+    "section": "9.3 El descubrimiento de la delincuencia de clase media",
+    "text": "9.3 El descubrimiento de la delincuencia de clase media",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Clase social y criminalización</span>"
+    ]
+  },
+  {
+    "objectID": "clase.html#el-delito-de-cuello-blanco",
+    "href": "clase.html#el-delito-de-cuello-blanco",
+    "title": "9  Clase social y criminalización",
+    "section": "9.4 El delito de cuello blanco",
+    "text": "9.4 El delito de cuello blanco",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Clase social y criminalización</span>"
+    ]
+  },
+  {
+    "objectID": "genero.html",
+    "href": "genero.html",
+    "title": "10  Género y la mirada criminológica",
+    "section": "",
+    "text": "10.1 El olvido de la mujer",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Género y la mirada criminológica</span>"
+    ]
+  },
+  {
+    "objectID": "genero.html#feminismo-y-criminología",
+    "href": "genero.html#feminismo-y-criminología",
+    "title": "10  Género y la mirada criminológica",
+    "section": "10.2 Feminismo y criminología",
+    "text": "10.2 Feminismo y criminología",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Género y la mirada criminológica</span>"
+    ]
+  },
+  {
+    "objectID": "genero.html#masculinidad-y-criminología",
+    "href": "genero.html#masculinidad-y-criminología",
+    "title": "10  Género y la mirada criminológica",
+    "section": "10.3 Masculinidad y criminología",
+    "text": "10.3 Masculinidad y criminología",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Género y la mirada criminológica</span>"
+    ]
+  },
+  {
+    "objectID": "genero.html#criminología-queer",
+    "href": "genero.html#criminología-queer",
+    "title": "10  Género y la mirada criminológica",
+    "section": "10.4 Criminología Queer",
+    "text": "10.4 Criminología Queer",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Género y la mirada criminológica</span>"
+    ]
+  },
+  {
+    "objectID": "etnicas.html",
+    "href": "etnicas.html",
+    "title": "11  Diferencias étnicas y lo foraneo",
+    "section": "",
+    "text": "11.1 Criminología y racismo en sus orígenes",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diferencias étnicas y lo foraneo</span>"
+    ]
+  },
+  {
+    "objectID": "etnicas.html#la-criminología-norteamericana-y-la-cuestión-racial",
+    "href": "etnicas.html#la-criminología-norteamericana-y-la-cuestión-racial",
+    "title": "11  Diferencias étnicas y lo foraneo",
+    "section": "11.2 La criminología norteamericana y la cuestión racial",
+    "text": "11.2 La criminología norteamericana y la cuestión racial",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diferencias étnicas y lo foraneo</span>"
+    ]
+  },
+  {
+    "objectID": "etnicas.html#inmigración-y-delincuencia",
+    "href": "etnicas.html#inmigración-y-delincuencia",
+    "title": "11  Diferencias étnicas y lo foraneo",
+    "section": "11.3 Inmigración y delincuencia",
+    "text": "11.3 Inmigración y delincuencia",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diferencias étnicas y lo foraneo</span>"
+    ]
+  },
+  {
+    "objectID": "etnicas.html#diversidad-y-criminología-en-españa",
+    "href": "etnicas.html#diversidad-y-criminología-en-españa",
+    "title": "11  Diferencias étnicas y lo foraneo",
+    "section": "11.4 Diversidad y criminología en España",
+    "text": "11.4 Diversidad y criminología en España",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diferencias étnicas y lo foraneo</span>"
+    ]
+  },
+  {
+    "objectID": "colonial.html",
+    "href": "colonial.html",
+    "title": "12  Etnocentrismo y postcolonialismo",
+    "section": "",
+    "text": "12.1 El sistema global (y etnocentrista) de producción del conocimiento",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Etnocentrismo y postcolonialismo</span>"
+    ]
+  },
+  {
+    "objectID": "colonial.html#la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur",
+    "href": "colonial.html#la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur",
+    "title": "12  Etnocentrismo y postcolonialismo",
+    "section": "12.2 La miopía postcolonial de la criminología: la criminología del sur",
+    "text": "12.2 La miopía postcolonial de la criminología: la criminología del sur",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Etnocentrismo y postcolonialismo</span>"
+    ]
+  },
+  {
+    "objectID": "colonial.html#una-criminología-mediterránea",
+    "href": "colonial.html#una-criminología-mediterránea",
+    "title": "12  Etnocentrismo y postcolonialismo",
+    "section": "12.3 ¿Una criminología mediterránea?",
+    "text": "12.3 ¿Una criminología mediterránea?",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Etnocentrismo y postcolonialismo</span>"
+    ]
+  },
+  {
+    "objectID": "green.html",
+    "href": "green.html",
+    "title": "13  Criminología verde",
+    "section": "",
+    "text": "13.1 ¿Dónde aterrizar?",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Criminología verde</span>"
+    ]
+  },
+  {
+    "objectID": "green.html#delitos-ecológicos",
+    "href": "green.html#delitos-ecológicos",
+    "title": "13  Criminología verde",
+    "section": "13.2 Delitos ecológicos",
+    "text": "13.2 Delitos ecológicos",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Criminología verde</span>"
+    ]
+  },
+  {
+    "objectID": "green.html#la-criminalización-del-ecologismo",
+    "href": "green.html#la-criminalización-del-ecologismo",
+    "title": "13  Criminología verde",
+    "section": "13.3 La criminalización del ecologismo",
+    "text": "13.3 La criminalización del ecologismo",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Criminología verde</span>"
+    ]
+  },
+  {
+    "objectID": "green.html#la-respuesta-del-sistema-penal",
+    "href": "green.html#la-respuesta-del-sistema-penal",
+    "title": "13  Criminología verde",
+    "section": "13.4 La respuesta del sistema penal",
+    "text": "13.4 La respuesta del sistema penal",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Criminología verde</span>"
+    ]
+  },
+  {
+    "objectID": "green.html#desastres-naturales-desde-lo-social",
+    "href": "green.html#desastres-naturales-desde-lo-social",
+    "title": "13  Criminología verde",
+    "section": "13.5 Desastres naturales desde lo social",
+    "text": "13.5 Desastres naturales desde lo social",
+    "crumbs": [
+      "Los sesgos de la criminología",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Criminología verde</span>"
+    ]
+  },
+  {
+    "objectID": "politica.html",
+    "href": "politica.html",
+    "title": "14  Criminología y política",
+    "section": "",
+    "text": "14.1 “Polarización” y uso político de la inseguridad",
+    "crumbs": [
+      "El papel social de la criminología",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Criminología y política</span>"
+    ]
+  },
+  {
+    "objectID": "politica.html#neutralidad-imparcialidad-y-rigor-de-qué-lado-estamos",
+    "href": "politica.html#neutralidad-imparcialidad-y-rigor-de-qué-lado-estamos",
+    "title": "14  Criminología y política",
+    "section": "14.2 Neutralidad, imparcialidad y rigor: ¿de qué lado estamos?",
+    "text": "14.2 Neutralidad, imparcialidad y rigor: ¿de qué lado estamos?",
+    "crumbs": [
+      "El papel social de la criminología",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Criminología y política</span>"
+    ]
+  },
+  {
+    "objectID": "politica.html#modos-de-hacer-ciencia-y-transferencia-del-conocimiento",
+    "href": "politica.html#modos-de-hacer-ciencia-y-transferencia-del-conocimiento",
+    "title": "14  Criminología y política",
+    "section": "14.3 Modos de hacer ciencia y “transferencia del conocimiento”",
+    "text": "14.3 Modos de hacer ciencia y “transferencia del conocimiento”",
+    "crumbs": [
+      "El papel social de la criminología",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Criminología y política</span>"
+    ]
+  },
+  {
+    "objectID": "politica.html#la-ciencia-de-la-comunicación-de-la-ciencia-y-la-difusión-de-rumores",
+    "href": "politica.html#la-ciencia-de-la-comunicación-de-la-ciencia-y-la-difusión-de-rumores",
+    "title": "14  Criminología y política",
+    "section": "14.4 La ciencia de la comunicación de la ciencia y la difusión de rumores",
+    "text": "14.4 La ciencia de la comunicación de la ciencia y la difusión de rumores",
+    "crumbs": [
+      "El papel social de la criminología",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Criminología y política</span>"
+    ]
+  },
+  {
+    "objectID": "politica.html#civilizar-la-seguridad",
+    "href": "politica.html#civilizar-la-seguridad",
+    "title": "14  Criminología y política",
+    "section": "14.5 Civilizar la seguridad",
+    "text": "14.5 Civilizar la seguridad",
+    "crumbs": [
+      "El papel social de la criminología",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Criminología y política</span>"
     ]
   }
 ]
