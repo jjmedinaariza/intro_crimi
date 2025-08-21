@@ -5,6 +5,8 @@ book:
   title: "Una introducción a la criminología"
   author: "Juanjo Medina y Lorea Arenas (Coordinadores)"
   date: "8/21/2025"
+  page-navigation: true
+  cover-image: "images/amber_kipp.jpg"
   chapters:
     - index.qmd
     - intro.qmd
@@ -39,7 +41,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
-
+lang: es
 format:
   html:
     theme:
