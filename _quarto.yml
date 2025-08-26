@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Una introducción a la criminología"
+  title: "Criminología: una introducción"
   author: "Juanjo Medina y Lorea Arenas (Coordinadores)"
   date: "8/21/2025"
   page-navigation: true
@@ -11,13 +11,13 @@ book:
     - index.qmd
     - intro.qmd
     
-    - part: introduccion.qmd
+    - part: "Introducción"
       chapters: 
         - concepto.qmd
         - metodo.qmd
         - medicion.qmd
         
-    - part: objetos.qmd
+    - part: "Objetos"
       chapters: 
         - delincuentes.qmd
         - delito.qmd
@@ -25,7 +25,7 @@ book:
         - control.qmd
         - sociedad.qmd
         
-    - part: sesgos.qmd
+    - part: "Sesgos"
       chapters: 
         - clase.qmd
         - genero.qmd
@@ -33,7 +33,7 @@ book:
         - colonial.qmd
         - green.qmd
         
-    - part: funcion.qmd
+    - part: "Función"
       chapters: 
         - politica.qmd
         - prevencion.qmd
