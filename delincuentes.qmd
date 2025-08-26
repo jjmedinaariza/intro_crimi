@@ -6,7 +6,11 @@ title: "El delincuente"
 
 La criminología que se desarrolla a partir del siglo XIX estaba obsesionada con identificar los marcadores que nos permitirían distinguir al hombre delincuente. A las personas nos gusta pensar en términos de blancos y negros, de malos y buenos, de fronteras claramente demarcadas entre lo diabólico y lo divino. La realidad, como veremos, es obstinadamente más compleja.
 
-El médico italiano Cesare Lombroso publicó en ... su influyente libro 
+El médico italiano Cesare Lombroso (1885-1909) publicó en 1876 su influyente libro *L'uomo delinquente*.
+
+![Imagen de Lombroso (Fuente: Wikipedia)](/images/lombroso.JPG)
+
+## "Todos lo hacen"
 
 ## El 6% crónico y la curva del delito
 
