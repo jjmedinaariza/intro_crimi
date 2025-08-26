@@ -6,7 +6,7 @@ book:
   author: "Juanjo Medina y Lorea Arenas (Coordinadores)"
   date: "8/21/2025"
   page-navigation: true
-  cover-image: "images/amber_kipp.jpg"
+  cover-image: "images/amber_kipp_2.png"
   chapters:
     - index.qmd
     - intro.qmd

@@ -6,9 +6,24 @@ title: "El delincuente"
 
 La criminología que se desarrolla a partir del siglo XIX estaba obsesionada con identificar los marcadores que nos permitirían distinguir al hombre delincuente. A las personas nos gusta pensar en términos de blancos y negros, de malos y buenos, de fronteras claramente demarcadas entre lo diabólico y lo divino. La realidad, como veremos, es obstinadamente más compleja.
 
-El médico italiano Cesare Lombroso (1885-1909) publicó en 1876 su influyente libro *L'uomo delinquente*.
+El médico italiano Cesare Lombroso (1885-1909) publicó en 1876 su influyente libro *L'uomo delinquente*. Lombroso proponía que el hombre delincuente, en particular lo que el llamaba el **delincuente nato**, se distinguía del resto de los mortales por una serie de anomalías físicas y que representaban una reversión a una forma primitiva de ser humano. 
 
 ![Imagen de Lombroso (Fuente: Wikipedia)](/images/lombroso.JPG)
+
+Lombroso era un médico que había trabajado para el ejercito italiano y había estado al mando de varios asilos mentales. Estaba comprometido con el desarrollo de una ciencia sobre el comportamiento criminal y estaba influenciado por el *positivismo científico*, un movimiento filosófico que aspiraba al análisis racional y que ponía su fe en el progreso científico. El positivismo proponúa un enfoque empírico e inductivo para comprender las leyes de la naturaleza y del comportamiento humano. Era un método consistente en el análisis de datos obtenidos por medio de la observación científica.
+
+En su libro estudio la fisionomía de 832 delincuentes vivos, 390 de los cuales fueron comparados con 868 soldados italianos y 90 “lunáticos” y fue a partir de estas comparaciones que desarrollo sus conclusiones. Para Lombroso había varios tipos de delincuentes:
+
+* El delincuente innato: seres que no han seguido la evolución genética natural que el resto de los humanos, lo cual se manifiesta en: múltiples deficiencias degenerativas de tipo físico (orejas grandes, brazos demasiado largos, narices torcidas, etc.); peculiaridades sensoriales y funcionales (p.ej., menos sensibilidad al dolor y al contacto); una falta de sentido de la moralidad (p.ej, incapacidad de arrepentimiento); así como otras manifestaciones (lenguaje criminal, uso extensivo de tatuajes, etc.). 
+
+* El delincuente enfermo mental
+
+* El delincuente ocasional (pseudo-criminales, criminaloides, delincuentes habituales).
+
+* Delincuentes de pasión
+
+Posteriormente, en *Le Crime: Causes et remedes* (1899), también consideraría factores ambientales en la génesis del delito (el clima, la lluvia, la estructura del gobierno, la organización religiosa, etc.)
+
 
 ## "Todos lo hacen"
 
