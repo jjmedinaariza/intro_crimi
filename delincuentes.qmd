@@ -1,29 +1,31 @@
 ---
 title: "El delincuente"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---
 
 ## El hombre delincuente
 
 La criminología que se desarrolla a partir del siglo XIX estaba obsesionada con identificar los marcadores que nos permitirían distinguir al hombre delincuente. A las personas nos gusta pensar en términos de blancos y negros, de malos y buenos, de fronteras claramente demarcadas entre lo diabólico y lo divino. La realidad, como veremos, es obstinadamente más compleja.
 
-El médico italiano Cesare Lombroso (1885-1909) publicó en 1876 su influyente libro *L'uomo delinquente*. Lombroso proponía que el hombre delincuente, en particular lo que el llamaba el **delincuente nato**, se distinguía del resto de los mortales por una serie de anomalías físicas y que representaban una reversión a una forma primitiva de ser humano. 
+Durante el siglo XIX, cuando irrumpen las primeras explicaciones "científicas" del comportamiento criminal, la naciente psiquiatría:
+
+> "intentaba explicar por qué algunos delincuentes parecían imperturbables y especialmente crueles. Una y otra vez, estos psiquiatras volvían al enigma de las personas que cometían delitos repetidamente, a veces de forma obsesiva, sin importar el castigo o el tratamiento que recibieran. Descubrieron que estas personas tienden a cometer delitos espantosos y despiadados, lo que supuestamente demostraba su incapacidad para identificarse con sus víctimas. *La criminología comenzó con los esfuerzos por comprender científicamente este tipo de delincuentes*. Los teóricos utilizaron diferentes términos para identificar la condición que causaba la reincidencia, aparentemente incontrolable: trastorno moral, locura moral, manía sin delirio, degeneración, imbecilidad moral, incorregibilidad, criminalidad innata, incapacidad hereditaria. Pero aunque las etiquetas diferían, el objetivo era el mismo: explicar las acciones de los delincuentes moralmente dementes. Los teóricos concluyeron que la locura moral era un estado o condición" [@Rafter_11, p. 149]
+
+Los teóricos del siglo XIX que comenzaban a reflexionar sobre el hombre delincuente pensaban que este comportamiento repetido era el producto de una condición innata y que quienes sufrían de ella carecían de sentido moral. Esta locura moral se pensaba como una deficiencia o condición biológica.
+
+Aunque ni mucho menos fue el único autor en pensar en estos términos, suele citarse al médico italiano Cesare Lombroso (1885-1909) como particularmente influyente en la cristalización de estas ideas. Lombroso publicó en 1876 su influyente libro *L'uomo delinquente*. Lombroso proponía que el hombre delincuente, en particular lo que el llamaba el **delincuente nato**, se distinguía del resto de los mortales por una serie de anomalías físicas y que, influenciado por las teorias de la evolución de Darwin, representaban una reversión a una forma primitiva de ser humano.
 
 ![Imagen de Lombroso (Fuente: Wikipedia)](/images/lombroso.JPG)
 
 Lombroso era un médico que había trabajado para el ejercito italiano y había estado al mando de varios asilos mentales. Estaba comprometido con el desarrollo de una ciencia sobre el comportamiento criminal y estaba influenciado por el *positivismo científico*, un movimiento filosófico que aspiraba al análisis racional y que ponía su fe en el progreso científico. El positivismo proponúa un enfoque empírico e inductivo para comprender las leyes de la naturaleza y del comportamiento humano. Era un método consistente en el análisis de datos obtenidos por medio de la observación científica.
 
-En su libro estudio la fisionomía de 832 delincuentes vivos, 390 de los cuales fueron comparados con 868 soldados italianos y 90 “lunáticos” y fue a partir de estas comparaciones que desarrollo sus conclusiones. Para Lombroso había varios tipos de delincuentes:
+En su libro estudio la fisionomía de 832 delincuentes vivos, 390 de los cuales fueron comparados con 868 soldados italianos y 90 “lunáticos” y fue a partir de estas comparaciones que desarrollo sus conclusiones. Para Lombroso había varios tipos de delincuentes, uno de los cuales era el delincuente innato. Seres que no han seguido la evolución genética natural que el resto de los humanos, lo cual se manifestaba en: múltiples deficiencias degenerativas de tipo físico (orejas grandes, brazos demasiado largos, narices torcidas, etc.); peculiaridades sensoriales y funcionales (p.ej., menos sensibilidad al dolor y al contacto); una falta de sentido de la moralidad (p.ej, incapacidad de arrepentimiento); así como otras manifestaciones (lenguaje criminal, uso extensivo de tatuajes, etc.).
 
-* El delincuente innato: seres que no han seguido la evolución genética natural que el resto de los humanos, lo cual se manifiesta en: múltiples deficiencias degenerativas de tipo físico (orejas grandes, brazos demasiado largos, narices torcidas, etc.); peculiaridades sensoriales y funcionales (p.ej., menos sensibilidad al dolor y al contacto); una falta de sentido de la moralidad (p.ej, incapacidad de arrepentimiento); así como otras manifestaciones (lenguaje criminal, uso extensivo de tatuajes, etc.). 
+La teoría de la degeneración, según la cual determinadas pautas de comportamiento problemático como la delincuencia o el alcoholismo, eran el resultado de saltos hacia atras en el proceso de la evolución humana que podía transmitirse genéticamente se convirtió en otras de las obsesiones de los científicos del período [@Rafter_11].
 
-* El delincuente enfermo mental
-
-* El delincuente ocasional (pseudo-criminales, criminaloides, delincuentes habituales).
-
-* Delincuentes de pasión
-
-Posteriormente, en *Le Crime: Causes et remedes* (1899), también consideraría factores ambientales en la génesis del delito (el clima, la lluvia, la estructura del gobierno, la organización religiosa, etc.)
-
+En Estados Unidos fue particularmente influyente el estudio de la familia "Jukes" realizado por Richard Dugdale (1877), que usaba cartas genealogicas y la historia criminal y social de esta familia, para intentar demostrar la transmisión hereditaria de este tipo de pautas de comportamiento problemático y avanzar la idea de un determinismo biólogico más duro.
 
 ## "Todos lo hacen"
 
