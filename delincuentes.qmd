@@ -27,6 +27,14 @@ La teoría de la degeneración, según la cual determinadas pautas de comportami
 
 En Estados Unidos fue particularmente influyente el estudio de la familia "Jukes" realizado por Richard Dugdale (1877), que usaba cartas genealogicas y la historia criminal y social de esta familia, para intentar demostrar la transmisión hereditaria de este tipo de pautas de comportamiento problemático y avanzar la idea de un determinismo biólogico más duro.
 
+Estas ideas perduraron hasta bien entrado el siglo XX. El antropologo Earnest Hooton publicaba en 1939 Crime and the Man y The American Criminal conluyendo que los delincuentes eran biológicamente inferiores y que determinados grupos etnoraciales eran mas comunes en particulares formas delictivas. Para hacer más atractiva sus ideas, Hooton tomó la decisión, sin duda desaconsejable, de ilustrar su texto con un estilo de un mal gusto asombroso.
+
+![Diferencias etnoraciales en delitos sexuales segun Hooton](/images/hooton3.gif)
+
+Hoy en día estas ideas nos parecen lo que son, ridículas. Aunque estos autores proponían el desarrollo de conclusiones sobre la base de la observación empírica, sus métodos y presuposiciones eran, contemplados con nuestro conocimiento actual, burdos y primitivos. Las implicaciones políticas de estas ideas fueron tremendamente problemáticas. Dieron lugar al movimieno eugenésico que propuso el internamiento, esterilización y otro tipo de medidas orientadas a prevenir la reproducción biológica de estas personas que se consideraban contaminadas [@Rafter_97]. Más tarde en Europa el sustrato de estas ideas alimentó la barbarie nazi y su "solución final" para proteger la "limpieza de la raza" [@Rafter_08].
+
+La creciente popularidad de explicaciones sociales de la delincuencia durante el siglo XX sirvió para que estas perspectivas fueran perdiendo fuelle. Lo patológico se desplazó del individuo a lo social. Los sociologos, asociados entre otras a la llamada Escuela de Chigaco y que de forma más dedicada empezaron a estudiar el delito a partir de la década de 1930, rechazaban la lógica de los darwinistas sociales de que los pobres, y los delincuentes entre ellos, eran biológicamente inferiores y habían caído al último peldaño de la sociedad por ser de menor valía. Los progresistas preferían una interpretación más optimista: los pobres eran empujados por su entorno —no nacían así— a una vida de delincuencia.
+
 ## "Todos lo hacen"
 
 ## El 6% crónico y la curva del delito
