@@ -37,6 +37,28 @@ La creciente popularidad de explicaciones sociales de la delincuencia durante el
 
 ## "Todos lo hacen"
 
+La década de los 1940 supuso un antes y un después en la conceptualización de los delincuentes. Durante este período se empezó a experimentar con el método de las encuestas de autoinforme [@Kivivuori_11]. Estas encuestas, inicialmente empleadas solamente con muestras de menores en ambitos educativos, preguntaban a los participantes en las mismas sobre su participacion en actividades desviadas y delictivas. Aunque inicialmente se preguntaba sobre comportamientos infractores de caracter casi trivial a lo largo de los ultimos 75 años se pasó a usar estas encuestas para estudiar comportamientos delictivos más serios con muestras también de mayor edad.
+
+Mientras que durante el siglo XIX el delito se conceptualizaba como una aberración, estas encuestas comenzaron a generar la idea de que "todo el mundo lo hace", que el comportamiento delictivo es mucho más común de lo que se pensaba y que muchas de las diferencias de clase, raza, y otros marcadores individuales entre delincuentes y no delincuentes desaparecían o se diluían mucho cuando en vez de comparar penados y no penados comparabamos personas que decían cometer infracciones en estas encuestas con quienes no las confesaban. ¿Cómo seguir manteniendo la idea de los delincuentes como seres diferenciados y especiales si el comportamiento delictivo es tan relativamente común y presente en todos los grupos sociales? ¿Quizás lo que tenemos que preguntarnos es porque dados niveles similares de participación delictiva en distintos grupos sociales es porque los penados, aquellos que perseguimos policial y penalmente, proceden particularmente de determinados grupos sociales y no de otros?
+
+En 1940-41 fue el sociologo norteamericano Austin Portimer quien conducía el pionero estudio que lo cambió todo. Publicado en 1943 en un articulo titulado *Delinquency and its outcome in Court and College* y posteriormente en su libro de 1946 *Youth in Trouble*. 
+
+![Profesor Austin L. Porterfield (1896-1979)](/images/porterfield.jpeg)
+
+Porterfield fue uno de los primeros autores en demostrar en detalle como el control social conforma la poblacion de delincuentes registrados y de que forma las estadisticas criminales son construcciones sociales. Su estudio comparando los delincuentes penados y los estudiantes universitarios mostraba una prevalencia parecida en el tipo de infracciones que medía. Su conclusión era que:
+
+>"Los delincuentes no son una subespecie del homo sapiens.... La conducta antisocial de estudiantes y penados sugiere los mismos anhelos fundamentales: nuevas experiencias, aventura, estimulación, retos, reconocimiento, respuestas personales - en resumen, el completo espectro de emociones humanas" [@Portimer_46, 45]
+
+Desde entonces cientos de estudios han usado encuesta de autoinforme, algunas con muestras nacionales y como parte de esfuerzos comparativos a nivel internacional, como el *International Self-Report Study*, en el que en varias ocasiones ha participado España como vimos en capítulos anteriores.
+
+Quizás una de las encuestas de este tipo que de forma más minuciosa, y con una muestra representativa nacional, aspiró a medir de forma muy detallada delincuencia de caracter no solamente leve sino tambien seria a efectos de realizar estimaciones rigurosas de caracter nacional fue la *Offending Crime and Justice Survey* realizada por el británico *Home Office*.
+
+![Delincuencia confesada en la Offending Crime and Justice Survey (Fuente: Wilson et al. (2006))](/images/ocjs.png)
+
+Según este estudio un cuarto de la población de Inglaterra y Gáles con una edad comprendida entre los 10 y 25 años había cometido un delito en los previos 12 meses. La mitad de estas infracciones eran según los autores "delitos serios" (lesiones, robos de vehículos, robos en viviendas, venta de drogas de clase A o robos con violencia) [@Wilson_06].
+
+Este tipo de datos seriamente cuestiona la idea de que podemos distinguir claramente entre delincuentes y no delincuentes. 
+
 ## El 6% crónico y la curva del delito
 
 ## Los “psicópatas”
