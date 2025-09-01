@@ -19,8 +19,9 @@ book:
         
     - part: "Objetos"
       chapters: 
-        - delincuentes.qmd
         - delito.qmd
+        - delincuentes.qmd
+        - grupos.qmd
         - victimas.qmd
         - control.qmd
         - sociedad.qmd
