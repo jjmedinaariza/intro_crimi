@@ -1,5 +1,5 @@
 ---
-title: "El delito en España"
+title: "La delincuencia en España"
 ---
 
 ## Las estadísticas oficiales
@@ -10,4 +10,4 @@ title: "El delito en España"
 
 ## Nuevas formas de datos
 
-## ¿Es España un país seguro?   
+## ¿Es España un país seguro?

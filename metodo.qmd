@@ -1,5 +1,8 @@
 ---
 title: "Método científico y criminología"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---
 
 ## ¿Para qué sirve el método?

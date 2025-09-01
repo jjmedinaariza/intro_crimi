@@ -1,5 +1,8 @@
 ---
 title: "Género y la mirada criminológica"
+author:
+  name: Raquel Bartolomé
+  affiliation: Universidad de Castilla-La Mancha
 ---
 
 ## El olvido de la mujer

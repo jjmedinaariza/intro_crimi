@@ -1,3 +1,6 @@
 ---
 title: "Las victimas y los procesos de victimación"
+author:
+  name: Lorea Arenas
+  affiliation: Universidad de Extremadura
 ---

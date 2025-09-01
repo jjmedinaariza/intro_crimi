@@ -1,3 +1,6 @@
 ---
 title: "La prevención del delito"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---

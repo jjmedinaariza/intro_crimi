@@ -1,5 +1,8 @@
 ---
 title: "Criminología y política"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---
 
 ## “Polarización” y uso político de la inseguridad
@@ -10,4 +13,4 @@ title: "Criminología y política"
 
 ## La ciencia de la comunicación de la ciencia y la difusión de rumores
 
-## Civilizar la seguridad 
+## Civilizar la seguridad

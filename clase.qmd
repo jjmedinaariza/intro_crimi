@@ -1,5 +1,8 @@
 ---
 title: "Clase social y criminalización"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---
 
 ## La criminalización del pobre

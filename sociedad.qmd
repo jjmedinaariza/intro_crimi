@@ -1,5 +1,8 @@
 ---
 title: "Respuetas sociales y culturales al delito"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---
 
 ## Control social, eficacia colectiva y delito

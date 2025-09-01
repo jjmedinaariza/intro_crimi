@@ -1,5 +1,8 @@
 ---
 title: "Las respuestas estatales al delito"
+author:
+  name: Juanjo Medina
+  affiliation: Universidad de Sevilla
 ---
 
 ## La Escuela Clásica y la reforma del derecho penal

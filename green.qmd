@@ -1,5 +1,8 @@
 ---
 title: "Antropocentrismo frente a una criminología verde"
+author:
+  name: Lorea Arenas
+  affiliation: Universidad de Extremadura
 ---
 
 ## ¿Dónde aterrizar?
