@@ -1,5 +1,5 @@
 ---
-title: "Respuetas sociales y culturales al delito"
+title: "Respuestas sociales y culturales al delito"
 author:
   name: Juanjo Medina
   affiliation: Universidad de Sevilla
