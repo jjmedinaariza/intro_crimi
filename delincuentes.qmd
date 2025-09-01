@@ -41,13 +41,13 @@ La década de los 1940 supuso un antes y un después en la conceptualización de
 
 Mientras que durante el siglo XIX el delito se conceptualizaba como una aberración, estas encuestas comenzaron a generar la idea de que "todo el mundo lo hace", que el comportamiento delictivo es mucho más común de lo que se pensaba y que muchas de las diferencias de clase, raza, y otros marcadores individuales entre delincuentes y no delincuentes desaparecían o se diluían mucho cuando en vez de comparar penados y no penados comparabamos personas que decían cometer infracciones en estas encuestas con quienes no las confesaban. ¿Cómo seguir manteniendo la idea de los delincuentes como seres diferenciados y especiales si el comportamiento delictivo es tan relativamente común y presente en todos los grupos sociales? ¿Quizás lo que tenemos que preguntarnos es porque dados niveles similares de participación delictiva en distintos grupos sociales es porque los penados, aquellos que perseguimos policial y penalmente, proceden particularmente de determinados grupos sociales y no de otros?
 
-En 1940-41 fue el sociologo norteamericano Austin Portimer quien conducía el pionero estudio que lo cambió todo. Publicado en 1943 en un articulo titulado *Delinquency and its outcome in Court and College* y posteriormente en su libro de 1946 *Youth in Trouble*. 
+En 1940-41 fue el sociologo norteamericano Austin Porterfield quien conducía el pionero estudio que lo cambió todo. Publicado en 1943 en un articulo titulado *Delinquency and its outcome in Court and College* y posteriormente en su libro de 1946 *Youth in Trouble: Studies in Delinquency and Despair*. 
 
 ![Profesor Austin L. Porterfield (1896-1979)](/images/porterfield.jpeg)
 
 Porterfield fue uno de los primeros autores en demostrar en detalle como el control social conforma la poblacion de delincuentes registrados y de que forma las estadisticas criminales son construcciones sociales. Su estudio comparando los delincuentes penados y los estudiantes universitarios mostraba una prevalencia parecida en el tipo de infracciones que medía. Su conclusión era que:
 
->"Los delincuentes no son una subespecie del homo sapiens.... La conducta antisocial de estudiantes y penados sugiere los mismos anhelos fundamentales: nuevas experiencias, aventura, estimulación, retos, reconocimiento, respuestas personales - en resumen, el completo espectro de emociones humanas" [@Portimer_46, 45]
+>"Los delincuentes no son una subespecie del homo sapiens.... La conducta antisocial de estudiantes y penados sugiere los mismos anhelos fundamentales: nuevas experiencias, aventura, estimulación, retos, reconocimiento, respuestas personales - en resumen, el completo espectro de emociones humanas" [@Porterfield_46, p. 45]
 
 Desde entonces cientos de estudios han usado encuesta de autoinforme, algunas con muestras nacionales y como parte de esfuerzos comparativos a nivel internacional, como el *International Self-Report Study*, en el que en varias ocasiones ha participado España como vimos en capítulos anteriores.
 
@@ -75,22 +75,36 @@ La curva suele adoptar la forma ilustrada en la siguente imagen.
 La participación en actividades delictivas aumenta durante la adolescencia, alcanza un pico cerca de la mayoría de edad y, a partir de ahí, comienza a descencer con el paso del tiempo.
 
 En 1986 se publica un muy influyente informe del National Research Council coordinado por Al Blumstein que consolida el concepto de la **carrera criminal** y una serie de ideas básicas ligadas a este concepto. Una carrera criminal se define como "la caracterización de la secuencia longitudinal de delitos cometidos por un individuo" [@National_86, p. 12]. Una carrera criminal está definida por varios parametros:
+
 * *Participación*: la distinción entre quienes inician una y quienes no.
+
 * *Frecuencia*: la tasa delictiva de los delincuentes mientras se encuentran en activo. Esto es, el número de delitos cometidos por cada delincuente por cada año en que se encuentran activos. Este parametro vino a denotarse con la letra griega lambda.
+
 * *Seriedad*: la gravedad de los delitos cometidos.
+
+* *Escalada*: la tendencia a cometer delitos más serios.
+
 * *Duración de la carrera*: el período de tiempo que transcurre desde que los delincuentes se inician en la comisión de actos delictivos y el momento en que dejan de cometer delitos.
 
 Estos elementos se pueden ver representados en la figura que incluían en el primer capítulo de este informe:
 
 ![Representación gráfica de una carrera criminal (Fuente: National Research Council, 1986)](/images/career.png)
 
-Las carreras criminales tienen un inicio (en inglés "onset") y un momento en el que finalizan. Durante este período en el que se encuentran activos los delincuentes cometen un número de delitos X, una minoría de los cuales son detectados y sancionados por el sistema penal (dando lugar a periodos en los que los delincuentes, si encuentran en prisión, se encuentran incapacitados para cometer delitos que requieran su presencia física fuera de la prisión). Posteriormente otros conceptos fueron ligados a la idea de carreras criminales (escalada, desescalada, persistencia, desestimiento, etc).
+Las carreras criminales tienen un inicio (en inglés "onset") y un momento en el que finalizan. Durante este período en el que se encuentran activos los delincuentes cometen un número de delitos X, una minoría de los cuales son detectados y sancionados por el sistema penal (dando lugar a periodos en los que los delincuentes, si encuentran en prisión, se encuentran incapacitados para cometer delitos que requieran su presencia física fuera de la prisión). 
 
-Durante años la investigación criminológica se ha esforzado en tratar de estimar todos estos parametros (edad de iniciación, lambda, duración de carreras criminales, etc.), siendo una labor arduo compleja. Evidentemente, estas cantidades varían en función de la persona. Por lo que aquí respecta, lo importante a subrayar es que este enfoque supuso un paso determinante a entender la delincuencia como una etapa transitoria en la vida de las personas que cometen algún delito en su vida, no como una calidad o condición inmutable de las personas.
+Durante años la investigación criminológica se ha esforzado en tratar de estimar todos estos parametros (edad de iniciación, lambda, duración de carreras criminales, etc.), siendo una labor arduo compleja. Evidentemente, estas cantidades varían en función de la persona. 
 
-Seguidamente, dentro de la criminología se vino a desarrollar lo que se llamó el **paradigma del factor de riesgo**, que tuvo entre sus más prolíficos defensores al británico David Farrington, que fue investigador en uno de los primeros y mas famosos estudios longitudinales de la delincuencia el *Cambridge Study in Delinquent Development*, un estudio de 411 varones nacidos en Londres en 1953 en barrios empobrecidos y que fueron seguidos desde que tenían 8/9 años hasta sus 48.
+Por lo que aquí respecta, lo importante a subrayar es que este enfoque supuso un paso determinante a entender la delincuencia como una etapa transitoria en la vida de las personas que cometen algún delito en su vida, no como una calidad o condición inmutable de las personas. Tan relevante es ahora esta relación que:
 
+>A los teóricos se les recuerda con frecuencia quesus explicaciones sobre la de incuencia deben ajustarse a la distribución por edades, y las teorías se juzgan a menudo por su capacidad para abordar la «reforma madurativa», la «remisión espontánea» o el efecto del «envejecimiento». [@Hirschi_83, p. 553]
 
+De forma relacionada dentro de la criminología se vino a desarrollar lo que se llamó el **paradigma del factor de riesgo**, que tuvo entre sus más prolíficos defensores al británico David Farrington, que fue investigador en uno de los primeros y mas famosos estudios longitudinales de la delincuencia el *Cambridge Study in Delinquent Development*, un estudio de 411 varones nacidos en Londres en 1953 en barrios empobrecidos y que fueron seguidos desde que tenían 8/9 años hasta sus 48.
+
+Este paradigma invitaba a la identificación de factores de riesgo asociados con el inicio (y otros parámetros como persistencia, escalada, etc.) de carreras criminales para a continuación proponer métodos de prevención que sirvan para reducirlos [@Farrington_00, p. 2].
+
+>"El paradigma de prevención de factores de riesgo fue importado a la criminología desde la medicina y la salud pública ... Este paradigma se ha utilizado con éxito durante muchos años para combatir enfermedades como el cáncer y las cardiopatías. Por ejemplo, los factores de riesgo identificados para las enfermedades cardíacas incluyen el tabaquismo, una dieta rica en grasas y la falta de ejercicio. Estos pueden abordarse animando a las personas a dejar de fumar, a seguir una dieta más saludable y baja en grasas, y a hacer más ejercicio."
+
+Un **factor de riesgo** es simplemente algo que incremente la probabilidad de la actividad delictiva, no necesariamente una causa, sino simplemente un factor que aumenta dicha probabilidad. Este enfoque condujo a la proliferación de modelos explicativos de la participación en actividades delictivos de tipo multifactorial. Por ejemplo, para @Murray_10 Los factores de riesgo más importantes que correlacionan con la delincuencia incluyen la impulsividad, un coeficiente intelectual bajo y un rendimiento escolar bajo, una supervisión parental deficiente, una disciplina parental punitiva o errática, una actitud parental fría, el maltrato físico infantil, los conflictos parentales, las familias desestructuradas, los padres antisociales, las familias numerosas, los bajos ingresos familiares, los compañeros antisociales, las escuelas con altas tasas de delincuencia y los barrios con altos índices de criminalidad.
 
 ## El 6% crónico, los criminales de carreras y las trayectorias diferenciales de delincuencia
 
