@@ -58,8 +58,11 @@ Quizás una de las encuestas de este tipo que de forma más minuciosa, y con una
 Según este estudio un cuarto de la población de Inglaterra y Gáles con una edad comprendida entre los 10 y 25 años había cometido un delito en los previos 12 meses. La mitad de estas infracciones eran según los autores "delitos serios" (lesiones, robos de vehículos, robos en viviendas, venta de drogas de clase A o robos con violencia) [@Wilson_06]. Este tipo de datos seriamente cuestiona la idea de que podemos distinguir claramente entre delincuentes y no delincuentes. 
 
 A nivel teórico y conceptual, la criminología siguió profundizando en los problemas de la imagen del hombre criminal planteado por el positivismo criminológico. Así, David Matza en su influyente *Delinquency and Drift* cuestionaba la idea positivista del delincuente como esencialmente diferente o patológico. Para @Matza_64 las teorías positivistas predecían más delincuencia de la que ocurre por varias razones:
+
 * Los delincuentes no delinquen de forma persistente sino de forma episódica, la mayor parte del tiempo se la pasan en actividades convencionales
+
 * Los delincuentes llega un momento en que experimentan “reforma de maduración”, dejan de delinquir una vez llegada cierta edad
+
 * La escuela positivista negaba la capacidad de agencia de los delincuentes, mostrándolos como individuos sujetos a fuerzas totalmente fuera de su control
 
 ## La curva del delito y la carrera criminal
@@ -107,6 +110,39 @@ Este paradigma invitaba a la identificación de factores de riesgo asociados con
 Un **factor de riesgo** es simplemente algo que incremente la probabilidad de la actividad delictiva, no necesariamente una causa, sino simplemente un factor que aumenta dicha probabilidad. Este enfoque condujo a la proliferación de modelos explicativos de la participación en actividades delictivos de tipo multifactorial. Por ejemplo, para @Murray_10 Los factores de riesgo más importantes que correlacionan con la delincuencia incluyen la impulsividad, un coeficiente intelectual bajo y un rendimiento escolar bajo, una supervisión parental deficiente, una disciplina parental punitiva o errática, una actitud parental fría, el maltrato físico infantil, los conflictos parentales, las familias desestructuradas, los padres antisociales, las familias numerosas, los bajos ingresos familiares, los compañeros antisociales, las escuelas con altas tasas de delincuencia y los barrios con altos índices de criminalidad.
 
 ## El 6% crónico, los criminales de carreras y las trayectorias diferenciales de delincuencia
+
+Otro de los primeros estudios longitudinales realizados en Estados Unidos también tuvo un impacto notable en nuestra imagen de los delincuentes. El *Delinquency Birth Cohort* fue un estudio liderado por el criminólogo Marvin Wolfgang que exploró las trayectorias delictivas de todos los 9945 niños nacidos en 1945 y que vivían en Filadelfia entre los 10 y los 18 años (@Wolfgang_72). Una vez establecida la cohorte, los investigadores recopilaron datos sobre los 3475 delincuentes que habían tenido contactos oficiales con la policía no relacionados con la seguridad vial entre los 7 y los 18 años de edad. A partir de estos datos oficiales, el estudio estimó las probabilidades de cometer el primer delito, la reincidencia, el aumento de la gravedad de los delitos a lo largo del período observado, la edad de inicio, etc. 
+
+![Portada de Delinquency in a Birth Cohort](/images/birth_cohort.png)
+
+El estudio documentó que había un 35% de probabilidades de que los niños hubieran sido arrestados al menos una vez por delitos distintos de infracciones de tráfico. Solo el 6 % de la cohorte eran delincuentes crónicos (habían sido arrestados al menos cinco veces antes de los 18 años) y este 6% eran responsables de más del 50 % de todos los delitos. Un estudio de una cohorte posterior, de 1958, replicó el primer estudio, excepto que incluyó a mujeres. En el segundo estudio, el porcentaje de delincuentes crónicos fue del 7,5 %, y cometieron el 69 % de los delitos indexados. Alrededor del 9 % de los 13800 niños del segundo estudio y alrededor del 2 % de las 14500 niñas cometieron un delito violento que causó lesiones a una persona.
+
+Los datos de este estudio se vinieron a interpretar como un complemento al momento "todos lo hacen" generados por los primeros estudios de auto-informe. Aunque era cierto, y así lo demostraba también este estudio, que el comportamiento infractor es mas común de lo que a menudos pensamos (el 35% de los menores en la primera cohorte tenía algun antecedente policial), la clara detección de un porcentaje menor de estas cohortes que exhibían una mayor propensión a la reincidencia tuvo también repercusiones científicas y políticas importantes.
+
+A partir de entonces empezó a hablarse del "6% crónico" para designar de forma simbólico a ese subconjunto de delincuentes con una particular propesión hacía la comisión de delitos. Aunque los avances realizados durante el siglo XX hacían ridículo el pensar que podemos diferenciar a los delincuentes de los no delincuentes, este tipo de estudios vino a sugerir de alguna forma que hay un particular perfil de delincuentes con niveles altos de reincidencia que quizás nos debería preocupar.
+
+Años más tarde la también normeamericana Terrie Moffitt publicó un muy influyente artículo que trataba de reconciliar los datos que estudios longitudinales posteriores habían ido generando sobre trayectorias delictivas.
+
+![Imagen the Terrie Moffitt](/images/moffitt.jpeg)
+
+En un artículo publicado en 1993 y titulado *Adolescence-Limited and Life-Course-Persistent Antisocial Behavior: A Developmental Taxonomy* la profesora Moffitt proponía la existencia de dos tipos ideales de trayectorias delictivas, **la trayectoria limitada a la adolescencia** y **la trayectoria antisocial persistente a lo largo de la vida**.
+
+Para @Moffitt_93, el comportamiento antisocial es muy común en la adolescencia. Según ella habría un subtipo de personas que cometen delitos que inician sus breves carreras criminales durante la adolescencia y la culminan al transitar a la vida adulta. Este grupo sería el que mostraría una trayectoria delictiva limitada a la adolescencia. Para @Moffitt_93 sobre todo los deseos de aventura e independencia y los cambios hormonales y biológicos durante este período, combinado con las malas influencias de los iguales serían los factores clave para entender el comportamiento antisocial de las personas en esta trayectoria.
+
+>"Presento tres hipótesis etiológicas. El comportamiento antisocial limitado a la adolescencia está motivado por la brecha entre la madurez biológica y la madurez social, se aprende de
+modelos antisociales que son fácilmente imitables y se mantiene
+de acuerdo con los principios de refuerzo de la teoría del aprendizaje." [@Moffitt_93, p. 685]
+
+Para @Moffitt_93 el comportamiento delictivo de este subgrupo puede considerarse comportamiento social adaptativo, no sería en su opinión posible conceptualizarlo como comportamiento patológico. Generalmente, personas en esta trayectoria desisten de la delincuencia al transitar a la vida adulta.
+
+![Las dos trayectorias delictivias teorizadas por Moffitt](/images/trajectories.jpeg)
+Por el otro lado tendríamos el subgrupo que Moffitt define como antisociales persistentes a lo largo de la vida. Un perfil que sería lo que @Wolfgang_72 había identificado como el 6% crónico. Este subgrupo de delincuentes, según @Moffitt_93, tendría una edad de inicio en la delincuencia y el comportamiento problemático más temprano, ya se manifestaría durante la infancia, y el mismo se prolongaría en el tiempo bien pasado el tránsito a la vida adulta. Este grupo vendría caracterizado por la continuidad del comportamiento delictivo:
+
+> "A lo largo del tiempo estos individuos muestran manifestaciones cambiantes de su comportamiento antisocial: mordiscos y golpes a la edad de 4 años, hurtos en tiendas y faltar a clase a los 10, vender drogas y robar coches a los 16, atracos y violaciones a los 22, fraudes y abuso infantil a los 30; la disposición subyacente permanece, pero su expresión cambia forma en la medida en que nuevas oportunidades se presentan a lo largo de su desarrollo vital" [@Moffitt_93, p. 679].
+
+El inicio temprano en la delincuencia de este subgrupo para @Moffitt_93 resulta de la interacción en estos menores de vulnerabilidades neuropsicológicas con el haber crecido en ambientes criminógenos. Es la presencia en la edad temprana de estos individuos de estos factores que pueden servirnos para entender el prematuro inicio de su comportamiento antisocial. 
+
+...
 
 ## Los “psicópatas”
 
