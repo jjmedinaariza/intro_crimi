@@ -2,34 +2,52 @@
 title: "El delito"
 ---
 
-## ¿Delito o daño social?
+## El delito como objeto de estudio
 
-Generalmente como hemos visto se suele definir de forma sintética a la criminología como la ciencia del delito. La propia raís etimiológica det término criminología alude a la noción del crimen como central para nuestra disciplina. Parecería poco controvertido, por tanto, afirmar que el principal objeto de estudio de la criminología es el delito. Como vamos a ver es un poco más complicado.
+### ¿Delito o daño social?
 
-Ya a principios del siglo XX se produjo un debate entre Edwin Sutherland, considerado una de los principales criminólogos del siglo XX, y el jurista Paul Tappan sobre cual era el legítimo ámbito de estudio de la criminología. Para @Tappan_46 la criminología tenía que centrar su mirada en los actos definidos como delitos por la legislación penal cuando ya había una persona acusada y sancionada penalmente por el Estado, mientras que @Sutherland_49 usaba una definición más sociológica y ampliada a considerar infracciones legales no necesariamente constitutivas de ilícitos penales. El contexto de la discusión fue la introducción del concepto de **delincuencia de cuello blanco** propuesta por @Sutherland_49 pese a que por aquel tiempo las infracciones que el denominaba como tal no eran infracciones penales. Confundiendo el estatus legal con la conveniencia científica o metodológica, @Tappan_47 argumentaba lo siguiente:
+Generalmente como hemos visto se suele definir de forma sintética a la criminología como la ciencia del delito. La propia raíz etimiológica del término criminología alude a la noción del crimen como central para nuestra disciplina. Parecería poco controvertido, por tanto, afirmar que el principal objeto de estudio de la criminología es el delito. Como señala @Gottfredson_11 [p.36]: "Limitar la criminología a los comportamientos que violan la ley penal es sin duda el enfoque más común y sensato de la criminología.".
+
+Como vamos a ver es algo un poco más complicado. Ya a principios del siglo XX se produjo un debate entre Edwin Sutherland, considerado una de los principales criminólogos del siglo XX, y el jurista Paul Tappan sobre cual era el legítimo ámbito de estudio de la criminología. Para @Tappan_47 la criminología tenía que centrar su mirada en los actos definidos como delitos por la legislación penal cuando ya había una persona acusada y sancionada penalmente por el Estado, mientras que @Sutherland_49 usaba una definición más sociológica y ampliada a considerar infracciones legales no necesariamente constitutivas de ilícitos penales. El contexto de la discusión fue la introducción del concepto de **delincuencia de cuello blanco** propuesta por @Sutherland_49 pese a que por aquel tiempo las infracciones que el denominaba como tal no eran infracciones penales. Confundiendo el estatus legal con la conveniencia científica o metodológica, @Tappan_47 argumentaba lo siguiente:
 
 > "Consideramos que el «delincuente de cuello blanco», el infractor de las normas de conducta y la
 personalidad antisocial no son delincuentes en ningún sentido significativo para el científico social, a menos que haya infringido una ley penal. No podemos considerarlo como tal a menos que haya sido debidamente condenado. Puede ser un grosero, un pecador, un leproso moral o el diablo encarnado, pero no se convierte en delincuente
-por los insultos sociológicos a menos que la autoridad política constituida diga que lo es." [@Tappan_49, p. 97]
+por los insultos sociológicos a menos que la autoridad política constituida diga que lo es." [@Tappan_47, p. 97]
 
 No obstante, sería absurdo pretender que la criminología solo estudia o debería estudiar infracciones penales. Nunca ha sido así, por más que el estudio del delito sea central a la disciplina, ni probablemente debería serlo.
 
-Aunque es cierto que las criminólogas dedican la mayor parte del tiempo a estudiar infracciones penales, gestionadas por el sistema de justicia penal, también es cierto que estudian otro tipo de ilícitos. El derecho administrativo sancionador ha experimentado un crecimiento notable durante las últimas décadas. Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador.
+Aunque es cierto que las criminólogas dedican la mayor parte del tiempo a estudiar infracciones penales, gestionadas por el sistema de justicia penal, también es cierto que estudian otro tipo de ilícitos o conductas. Generalmente la focalización en distintos conceptos de lo "desviado" o lo infractor ha venido ligado a distintas perspectivas disciplinarias o teóricas (dentro de o relacionadas con) la criminología. 
 
-Algunos autores como el criminólogo australiano John Braitwaite, de hecho, considera vital para la criminología el dedicar mucha más energía de la dedicada hasta ahora a entender mecanismos reguladores diferente de los articulados en torno al sistema de control y justicia penal y, por tanto, prestar más atención, entre otras cosas, al derecho administrativo sancionador.
+Una de estas perspectivas es la desarrollada por los proponentes de los llamados **estudios de la regulación**. Algunos autores como el criminólogo australiano John Braitwaite, de hecho, considera vital para la criminología el dedicar mucha más energía de la dedicada hasta ahora a entender mecanismos reguladores diferente de los articulados en torno al sistema de control y justicia penal y, por tanto, prestar más atención, entre otras cosas, al distintos mecanismos de regulación (y las infracciones ligadas a los mismos).
 
 >"aunque la disciplina de la criminología está actualmente consolidada en términos institucionales, las herramientas intelectuales de la disciplina tienen una relevancia cada vez menor para el mundo social que está surgiendo... las principales tendencias de desarrollo de la política gubernamental implican un cambio de un estado del bienestar, gobernado por técnicas keynesianas de gestión de la demanda, a una nueva forma de estado regulador, basado en una combinación neoliberal de competencia de mercado, instituciones privatizadas y formas descentralizadas y a distancia de regulación estatal. Estos nuevos estilos de gobernanza se basan en el reconocimiento de nuevas fuerzas y mentalidades sociales, en particular de la lógica globalizadora de la gestión de riesgos, y reconfigurarán cada vez más los ámbitos social y político de formas que tendrán consecuencias para la vigilancia y el control de la delincuencia. El enfoque tradicional de la criminología en los delitos callejeros y las instituciones policiales, judiciales y penitenciarias puede ser cada vez menos relevante para los nuevos daños, riesgos y mecanismos de control que están surgiendo en la actualidad." [@Braithwaite_00, p. 222]
 
-Otros autores han propuesto el desarrollo de una **zemiología** como alternativa a la criminología, una disciplina centrada en el estudio no del delito, sino del **daño social**.
+Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador y la aparición de entidades reguladoras encargadas de velar por la aplicación del derecho que no forman parte del sistema de justicia penal.
 
-## El delito como evento espacio temporal: la estadística moral
+![Portada de una de las principales contribuciones a la zemiología](/images/socialharm.jpg)
 
-## Delito y oportunidad
+Otros autores han propuesto el desarrollo de una **zemiología** como alternativa crítica a la criminología, una disciplina centrada en el estudio no del delito, sino del **daño social** [@Hillyard_07]. Esta corriente surge para poner el acento en daños sociales generados por el Estado o grandes corporaciones, pero que rara vez son criminalizados. Desde esta perspectiva se argumenta que ceñirnos solamente al estudio de las conductas que son criminalizadas y pasan a ser, por tanto, tipificadas en las legislaciones penales como delitos dejaría fuera de nuestra mirada una serie de actos altamente dañosos, pero que por las dinámicas de poder en la sociedad actual no llegan al Código Penal. Por el contrario, señalan que pese a las pomposas declaraciones de penalistas la legislación penal están plagados de infracciones que recogen comportamientos muy triviales y que probablemente no merecen reproche penal alguno. Piensan que el control del delito es ineficaz, doloroso, y perpetuador de diferencias sociales y que el concepto de delito (y la criminología construida sobre este concepto) no hace más que legitimar la expansion de este control. Es una perspectiva que aspira a liberar a las criminólogas del corsé de la legislación penal.
 
-## El delito como transacción situacional
 
-## Toma de decisiones
 
-## Emoción, significado y delito
+### ¿Pero que es un delito?
+
+Como señala @Gottfredson_11 [p.35]:
+
+> "A muchos les puede parecer extraño ... que haya algún problema para responder a la pregunta «¿qué es el delito?», pero la definición de delito para la criminología ha sido durante mucho tiempo objeto de un considerable debate. Sin duda, la respuesta más común se basa en la ley, es decir, en el comportamiento clasificado como delito en la legislación. Según esta visión estándar de los libros de texto, un delito es un comportamiento prohibido por el derecho penal y la tarea de la criminología es describir y luego explicar los patrones de violación del derecho penal y los esfuerzos realizados para limitarlos."
+
+Los penalistas suelen definir los delitos como las acciones u omisiones tipificadas como tales por la ley penal que, teóricamente, suponen los ataques o puestas en peligros más graves de los bienes jurídicos más importantes para la ciudadanía.
+
+## El delito como evento espacio temporal
+
+## El delito a nivel micro
+
+### El delito como transacción situacional
+
+### Delito y oportunidad
+
+### Toma de decisiones
+
+### Emoción, significado y delito
 
 
