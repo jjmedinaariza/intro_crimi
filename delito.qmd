@@ -27,7 +27,7 @@ Una de estas perspectivas es la desarrollada por los proponentes de los llamados
 
 Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador y la aparición de entidades reguladoras encargadas de velar por la aplicación del derecho que no forman parte del sistema de justicia penal.
 
-![Portada de una de las principales contribuciones a la zemiología](/images/socialharm.jpg)
+![Portada de una de las principales contribuciones a la zemiología](/images/socialharm.jpg){fig-align="left" width="2in"}
 
 Otros autores han propuesto el desarrollo de una **zemiología** como alternativa crítica a la criminología, una disciplina centrada en el estudio no del delito, sino del **daño social** [@Hillyard_07]. Esta corriente surge para poner el acento en daños sociales generados por el Estado o grandes corporaciones, pero que rara vez son criminalizados. Desde esta perspectiva se argumenta que ceñirnos solamente al estudio de las conductas que son criminalizadas y pasan a ser, por tanto, tipificadas en las legislaciones penales como delitos dejaría fuera de nuestra mirada una serie de actos altamente dañosos, pero que por las dinámicas de poder en la sociedad actual no llegan al Código Penal. Por el contrario, señalan que pese a las pomposas declaraciones de penalistas la legislación penal están plagados de infracciones que recogen comportamientos muy triviales y que probablemente no merecen reproche penal alguno. Piensan que el control del delito es ineficaz, doloroso, y perpetuador de diferencias sociales y que el concepto de delito (y la criminología construida sobre este concepto) no hace más que legitimar la expansion de este control. Es una perspectiva que aspira a liberar a las criminólogas del corsé de la legislación penal.
 
@@ -44,6 +44,18 @@ Los penalistas suelen definir los delitos como las acciones u omisiones tipifica
 El delito, no obstante, no solamente es una categoría legal, sino que también es una construcción social. Las conductas que se consideran delictivas han ido variando a lo largo del tiempo y los códigos penales tambian varían de forma significativa entre países. Hay algunas conductas que suelen ser consideradas delictivas de forma más o menos universal, pero su regulación y contornos también ha cambiado a lo largo del tiempo.
 
 ## El delito como evento espacio temporal
+
+El análisis de las variaciones temporales y espaciales de la delincuencia han jugado un papel central en la práctica de la criminología científica. La llamada escuela de la **estadística moral** inauguró este tipo de estudios y aproximaciones empíricas al delito.
+
+Autores como André-Michel Guerry y Adolphe Quetelet, durante el siglo XIX, realizaron contribuciones fundamentales al estudio científico de la delincuencia al introducir métodos estadísticos y análisis empíricos para comprender los patrones delictivos. Su trabajo sentó las bases de la criminología y las ciencias sociales modernas al demostrar que la delincuencia podía estudiarse de forma sistemática utilizando datos y razonamientos estadísticos.
+
+El «Essai sur la Statistique Morale de la France» (Ensayo sobre la estadística moral de Francia) de Guerry, publicado en 1833, y los estudios estadísticos de Quetelet en Bélgica utilizaron tablas y mapas temáticos para relacionar las tasas de criminalidad con variables sociales como la alfabetización, la riqueza y la geografía.
+
+Sus análisis revelaron que las tasas de criminalidad no eran aleatorias, sino que mostraban patrones consistentes en todas las regiones y épocas, lo que sugiere que los factores sociales, y no solo las decisiones individuales, influían en el comportamiento delictivo. Contrariamente a la creencia popular, descubrieron que las tasas de criminalidad solían ser más altas en las zonas más ricas, lo que atribuyeron a las mayores oportunidades para delinquir, más que a la pobreza por sí sola.
+
+Las primeras investigaciones de Quetelet demostraron que muchos tipos de delitos siguen patrones estacionales, y que ciertos delitos alcanzan su punto álgido en épocas específicas del año. Por ejemplo, los delitos violentos suelen aumentar durante los meses más cálidos, un patrón que se ha confirmado y ampliado en investigaciones posteriores. Su trabajo demostró que estas regularidades temporales se mantenían estables a lo largo de los años, lo que sugiere que la delincuencia está influenciada por factores sociales y ambientales recurrentes, en lugar de ser puramente aleatoria o deberse únicamente a decisiones individuales.
+
+El enfoque empírico y basado en datos de Guerry y Quetelet sentó las bases para desarrollos posteriores en criminología, incluyendo el análisis espacial, los estudios ecológicos y el uso de métodos cuantitativos en las ciencias sociales.
 
 ## El delito a nivel micro
 

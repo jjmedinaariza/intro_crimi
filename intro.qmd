@@ -22,11 +22,11 @@ Uno pensaría que la introducción a la criminología, una asignatura generalmen
 
 Quitando manuales ya muy viejunos, en España si eres profesor de una introducción a la criminología tienes básicamente dos opciones: los principios de criminología de @Redondo_23 o la introducción de @Larrauri_20 . Por más que estos dos volumenes tienen muchas virtudes a nosotras como docentes nos plantean una serie de limitaciones.
 
-![Introducción a la criminología de Larrauri](/images/introduccion.png){fig-align="left" width=2in}
+![Introducción a la criminología de Larrauri](/images/introduccion.png){fig-align="left" width="2in"}
 
 El manual de @Larrauri_20 aspira a dar una introducción moderna y ajustada al hecho de que esta suele ser una asignatura del primer semestre de primero. Nuestro principal problema con este manual es que, por más que nos gusta, se nos queda corto, sobre todo si tenemos en cuenta que tiene dos partes, una que puede valer para una introducción a la criminología (con unas cien páginas) y otra que más bien es una introducción al sistema de justicia penal o al control penal (que en numerosos planes de estudios es una asignatura diferente también de primero).
 
-![Principios de Criminología de Redondo y Garrido](/images/principios.png){fig-align="left" width=2in}
+![Principios de Criminología de Redondo y Garrido](/images/principios.png){fig-align="left" width="2in"}
 
 Con más de 800 páginas los Principios de Criminología de Santiago Redondo y Vicente Garrido cortos no son. Nuestro problema con este manual es que una parte muy notable del mismo es más bien un manual para teoría criminológica y la otra parte también muy notable lo es para asignaturas de lo que se suele llamar en los grados *Formas especiales de criminalidad*. Por tanto, lo que queda del manual para una introducción a la criminología es más restringido de lo que esas 800 y pico páginas pueden sugerir.
 
