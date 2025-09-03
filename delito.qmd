@@ -15,7 +15,11 @@ Como hemos visto se suele definir de forma sintética a la criminología como la
 
 > "La criminología carece de un marco teórico distintivo, una ciencia diferenciada o una metodología, y debe la cohesión que posee al delito como su foco de atención y su justificación racional." [@Zedner_11, p. 272]
 
-Como vamos a ver es algo un poco más complicado. Ya a principios del siglo XX se produjo un debate entre Edwin Sutherland, considerado una de los principales criminólogos del siglo XX, y el jurista Paul Tappan sobre cual era el legítimo ámbito de estudio de la criminología. Para @Tappan_47 la criminología tenía que centrar su mirada en los actos definidos como delitos por la legislación penal cuando ya había una persona acusada y sancionada penalmente por el Estado, mientras que @Sutherland_49 usaba una definición más sociológica y ampliada a considerar infracciones legales no necesariamente constitutivas de ilícitos penales. El contexto de la discusión fue la introducción del concepto de **delincuencia de cuello blanco** propuesta por @Sutherland_49 pese a que por aquel tiempo las infracciones que el denominaba como tal no eran infracciones penales. Confundiendo el estatus legal con la conveniencia científica o metodológica, @Tappan_47 argumentaba lo siguiente:
+Como vamos a ver es algo un poco más complicado. Ya a principios del siglo XX se produjo un debate entre Edwin Sutherland, considerado una de los principales criminólogos del siglo XX, y el jurista Paul Tappan sobre cual era el legítimo ámbito de estudio de la criminología. 
+
+Para @Tappan_47 la criminología tenía que centrar su mirada en los actos definidos como delitos por la legislación penal cuando ya había una persona acusada y sancionada penalmente por el Estado, mientras que @Sutherland_49 usaba una definición más sociológica y ampliada a considerar infracciones legales no necesariamente constitutivas de ilícitos penales.
+
+El contexto de la discusión fue la introducción del concepto de **delincuencia de cuello blanco** propuesta por @Sutherland_49 pese a que por aquel tiempo las infracciones que el denominaba como tal no eran infracciones penales. Confundiendo el estatus legal con la conveniencia científica o metodológica, @Tappan_47 argumentaba lo siguiente:
 
 > "Consideramos que el «delincuente de cuello blanco», el infractor de las normas de conducta y la personalidad antisocial no son delincuentes en ningún sentido significativo para el científico social, a menos que haya infringido una ley penal. No podemos considerarlo como tal a menos que haya sido debidamente condenado. Puede ser un grosero, un pecador, un leproso moral o el diablo encarnado, pero no se convierte en delincuente por los insultos sociológicos a menos que la autoridad política constituida diga que lo es." [@Tappan_47, p. 97]
 
@@ -27,17 +31,17 @@ Una de estas perspectivas es la desarrollada por los proponentes de los llamados
 
 > "aunque la disciplina de la criminología está actualmente consolidada en términos institucionales, las herramientas intelectuales de la disciplina tienen una relevancia cada vez menor para el mundo social que está surgiendo... las principales tendencias de desarrollo de la política gubernamental implican un cambio de un estado del bienestar, gobernado por técnicas keynesianas de gestión de la demanda, a una nueva forma de estado regulador, basado en una combinación neoliberal de competencia de mercado, instituciones privatizadas y formas descentralizadas y a distancia de regulación estatal. Estos nuevos estilos de gobernanza se basan en el reconocimiento de nuevas fuerzas y mentalidades sociales, en particular de la lógica globalizadora de la gestión de riesgos, y reconfigurarán cada vez más los ámbitos social y político de formas que tendrán consecuencias para la vigilancia y el control de la delincuencia. El enfoque tradicional de la criminología en los delitos callejeros y las instituciones policiales, judiciales y penitenciarias puede ser cada vez menos relevante para los nuevos daños, riesgos y mecanismos de control que están surgiendo en la actualidad." [@Braithwaite_00, p. 222]
 
-Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador y la aparición de entidades reguladoras encargadas de velar por la aplicación del derecho que no forman parte del sistema de justicia penal.
+Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador y la aparición de entidades reguladoras encargadas de velar por la aplicación del derecho que no forman parte del sistema de justicia penal. Retomaremos estas ideas en el capítulo 8, por ahora valga entender que el estudio de las infracciones administrativas también puede interesar a la criminología.
 
 ![Portada de una de las principales contribuciones a la zemiología](/images/socialharm.jpg){fig-align="left" width="2in"}
 
 Otros autores han propuesto el desarrollo de una **zemiología** como alternativa crítica a la criminología, una disciplina centrada en el estudio no del delito, sino del **daño social** [@Hillyard_07]. Esta corriente surge para poner el acento en daños sociales generados por el Estado o grandes corporaciones, pero que rara vez son criminalizados. Desde esta perspectiva se argumenta que ceñirnos solamente al estudio de las conductas que son criminalizadas y pasan a ser, por tanto, tipificadas en las legislaciones penales como delitos dejaría fuera de nuestra mirada una serie de actos altamente dañosos, pero que por las dinámicas de poder en la sociedad actual no llegan al Código Penal. Por el contrario, señalan que pese a las pomposas declaraciones de penalistas la legislación penal están plagados de infracciones que recogen comportamientos muy triviales y que probablemente no merecen reproche penal alguno. Piensan que el control del delito es ineficaz, doloroso, y perpetuador de diferencias sociales y que el concepto de delito (y la criminología construida sobre este concepto) no hace más que legitimar la expansion de este control. Es una perspectiva que aspira a liberar a las criminólogas del corsé de la legislación penal. Por tanto proponen que debemos abandonar el estudio del delito y adoptar, en su lugar, una «perspectiva del daño social» que no diferencie entre los daños calificados como delitos y otros tipos de daños.
 
-De tal forma, aunque el delito sigue siendo el principal punto de anclaje de nuestra disciplina, lo cierto es que probablemente no hay que ser excesivamente dogmático al respecto. Existen argumentos legítimos para pensar en otros puntos de anclaje. Pero, por otro lado, tampoco deberíamos abandonarlo sin más como objeto de estudio. Como bien postula @Zedner_11 [p.]:
+De tal forma, aunque el delito sigue siendo el principal punto de anclaje de nuestra disciplina, lo cierto es que probablemente no hay que ser excesivamente dogmático al respecto. Existen argumentos legítimos para pensar en otros puntos de anclaje. Pero, por otro lado, tampoco deberíamos abandonarlo sin más como objeto de estudio. Como bien postula @Zedner_11 [p.] la irrupción de estas perspectivas:
 
 > "no debe implicar el abandono del delito como categoría jurídica. El compromiso crítico con el derecho penal y la teoría penal permite plantear difíciles preguntas sobre la forma en que se llega a las infracciones delictivas, cómo se definen y estructuran, a quién se aplican y las consecuencias que deben derivarse de ellas."
 
-De hecho, como abordaremos en el capítulo 8, los procesos de criminalizadión, pensar críticamente sobre la delincuencia, qué justifica la criminalización, por qué y según qué principios, entra de lleno en el ámbito de la criminología y merece más atención criminológica de la que ha recibido hasta ahora [@Zedner_11].
+De hecho, como abordaremos de forma más detallada en el capítulo 8 y brevemente en la proxima sección, los procesos de criminalizadión: pensar críticamente sobre la delincuencia, qué justifica la criminalización, por qué y según qué principios, entra de lleno en el ámbito de la criminología y merece más atención criminológica de la que ha recibido hasta ahora [@Zedner_11].
 
 ### ¿Pero que es un delito?
 
@@ -49,9 +53,9 @@ Los penalistas suelen definir los delitos como las acciones u omisiones tipifica
 
 > "El derecho penal se ocupa de identificar las formas de comportamiento, acción u omisión, la estructura de los delitos, los principios jurídicos subyacentes y los elementos constitutivos que, en ausencia de justificación o excusa, dan lugar a la responsabilidad penal. Para los teóricos del derecho penal y los filósofos del derecho, una forma obvia de resistirse a la criminalización excesiva es desarrollar una explicación más sólida de lo que debe y no debe ser criminalizado. Se centran en articular principios y valores para guiar y restringir a quienes formulan y aprueban nuevas leyes penales, así comoa quienes las administran." [@Zedner_11, p. 278]
 
-El delito, no obstante, no solamente es una categoría legal, sino que también es una construcción social. Las conductas que se consideran delictivas han ido variando a lo largo del tiempo y los códigos penales tambian varían de forma significativa entre países. Hay algunas conductas que suelen ser consideradas delictivas de forma más o menos universal, pero su regulación y contornos también ha cambiado a lo largo del tiempo.
+El delito, no obstante, no solamente es una categoría legal, sino que también es una construcción social. Las conductas que se consideran delictivas han ido variando a lo largo del tiempo y los códigos penales tambian varían de forma significativa entre países. Hay algunas conductas que suelen ser consideradas delictivas de forma más o menos universal, pero su regulación y contornos también ha cambiado a lo largo del tiempo. Cada vez hay un mayor interés por parte de historiadores de entender el delito y la justicia penal, desde la historia se están produciendo contribuciones muy relevantes para entender precisamente estas variaciones a lo largo de la historia.
 
-Para hacer frente a esta limitación @Felson_06 [p. 35] propone que adoptemos un enfoque pragmático y consideremos como delito "cualquier conducta identificable que un numero apreciable de gobiernos haya prohibido y a la que aplique sanciones penales". 
+En todo coso, para hacer frente a esta limitación para ponernos de acuerdo sobre lo que es un delito, @Felson_06 [p. 35] propone que adoptemos un enfoque pragmático y consideremos como delito "cualquier conducta identificable que un numero apreciable de gobiernos haya prohibido y a la que aplique sanciones penales".
 
 El delito también es una construcción social en otro sentido. Como señala @Zedner_11 [p. 272]:
 
@@ -67,21 +71,23 @@ De lo que se deriva que [@Zedner_11, p. 279-280]:
 
 La criminología se preocupa, por tanto, por al menos tres tipos de cuestiones en lo que refiere al delito:
 
-* ¿Cómo determinados actos u omisiones vienen a ser definidos como delitos y cuáles son los procesos, intereses y dinámicas que guían los actos legislativos de criminalización?
+-   ¿Cómo determinados actos u omisiones vienen a ser definidos como delitos y cuáles son los procesos, intereses y dinámicas que guían los actos legislativos de criminalización?
 
-* ¿De qué forma las instancias del sistema de justicia penal (policía, fiscales, jueces, prisiones) actúan frente al delito en la práctica y cuales son los factores que condicionan e influyen estas respuestas?
+-   ¿De qué forma las instancias del sistema de justicia penal (policía, fiscales, jueces, prisiones) actúan frente al delito en la práctica y cuales son los factores que condicionan e influyen estas respuestas?
 
-* ¿Que delitos se cometen y cuándo, donde, cómo y por qué (con independencia de la respuesta que las instancias del Estado den a estos delitos)?
+-   ¿Que delitos se cometen y cuándo, donde, cómo y por qué (con independencia de la respuesta que las instancias del Estado den a estos delitos)?
 
 Las dos primeras preguntas serán abordades de forma más detenida en el capítulo 8. En lo que resta de este capítulo nos centraremos en la tercera de ellas.
 
 ## El delito como evento espacio temporal
 
-El análisis de las variaciones temporales y espaciales de la delincuencia han jugado un papel central en la práctica de la criminología científica. La llamada escuela de la **estadística moral** inauguró este tipo de estudios y aproximaciones empíricas al delito.
+### La estadística moral
 
-Autores como André-Michel Guerry y Adolphe Quetelet, durante el siglo XIX, realizaron contribuciones fundamentales al estudio científico de la delincuencia al introducir métodos estadísticos y análisis empíricos para comprender los patrones delictivos. Su trabajo sentó las bases de la criminología y las ciencias sociales modernas al demostrar que la delincuencia podía estudiarse de forma sistemática utilizando datos y razonamientos estadísticos.
+El análisis de las variaciones temporales y espaciales, el dónde y el cuándo, de la delincuencia han jugado un papel central en la práctica de la criminología científica. La llamada escuela de la **estadística moral** inauguró este tipo de estudios y aproximaciones empíricas al delito.
 
-El «Essai sur la Statistique Morale de la France» (Ensayo sobre la estadística moral de Francia) de Guerry, publicado en 1833, y los estudios estadísticos de Quetelet en Bélgica utilizaron tablas y mapas temáticos para relacionar las tasas de criminalidad con variables sociales como la alfabetización, la riqueza y la geografía.
+Autores como el francés André-Michel Guerry y el belga Adolphe Quetelet, durante el siglo XIX, realizaron contribuciones fundamentales al estudio científico de la delincuencia al introducir métodos estadísticos y análisis empíricos para comprender los patrones delictivos. Su trabajo sentó las bases de la criminología y las ciencias sociales modernas al demostrar que la delincuencia podía estudiarse de forma sistemática utilizando datos y razonamientos estadísticos.
+
+El *Essai sur la Statistique Morale de la France* (Ensayo sobre la estadística moral de Francia) de Guerry, publicado en 1833, y los estudios estadísticos de Quetelet en Bélgica utilizaron tablas y mapas temáticos para relacionar las tasas de criminalidad con variables sociales como la alfabetización, la riqueza y la geografía.
 
 Sus análisis revelaron que las tasas de criminalidad no eran aleatorias, sino que mostraban patrones consistentes en todas las regiones y épocas, lo que sugiere que los factores sociales, y no solo las decisiones individuales, influían en el comportamiento delictivo. Contrariamente a la creencia popular, descubrieron que las tasas de criminalidad solían ser más altas en las zonas más ricas, lo que atribuyeron a las mayores oportunidades para delinquir, más que a la pobreza por sí sola.
 
@@ -89,7 +95,54 @@ Las primeras investigaciones de Quetelet demostraron que muchos tipos de delitos
 
 El enfoque empírico y basado en datos de Guerry y Quetelet sentó las bases para desarrollos posteriores en criminología, incluyendo el análisis espacial, los estudios ecológicos y el uso de métodos cuantitativos en las ciencias sociales.
 
+### La criminología ambiental
+
+La criminología siguió trabajando estas áreas, con un grado creciente de sofisticación estadística y metodológica [@Medina_23]. La *American Society of Criminology* tiene una división dedicada al estudio de variaciones espaciales (*Community and Place*), la *European Society of Criminology* tiene un grupo de trabajo en criminologia espacial (*Space, place, and crime*) y la *Sociedad Española de Investigación Criminológica* no se queda atrás, con un grupo en criminología ambiental. Algunos grados de criminología en España ya incorporan asignaturas optativas en herramientas cartográficas (sistemas de información geográfica) para aprender a hacer mapas del delito y análisis espaciales. Finalmente, muchos departamentos de policía en otros países (en España aún es inusual) emplean a criminólogas o geografos para hacer este tipo de trabajo como **analistas del delito** y producir informes que sirvan para el desarrollo de respuestas estratégicas y tácticas. La criminología espacial o ambiental ha experimentado un crecimiento notable, por tanto, también a nivel institucional.
+
+La criminología ambiental ha venido a documentar que el delito no se distribuye de forma aleatoria, sino que determinadas regiones, ciudades, barrios, calles, y lugares concentran un volumen desproporcionado de delitos. Estos lugares con altos niveles de delincuencia es lo que se llaman *puntos calientes* (hot spots en inglés). Este hecho es tan universal y bien documentado que algunos criminólogos consideran que podemor hablar de la existencia de una *ley de la concentración* espacial [@Weisburd_].
+
+Históricamente ha habido un desplazamiento en el foco de interes. Cuando Guerry desarrollaba sus mapas de la delincuencia en Francia en el siglo XIX estaba estudiando variación regional; la llamada *Escuela de Chicago* (que estudiaréis en la asignatura de teorías criminológicas) estaba interesada en entender diferencias entre barrios; estudios más recientes, por el contrario, estan interesados en entender que calles, que intersecciones de calles, o que direcciones concretas o lugares concentran más delincuencia. Hemos pasado de estudiar variación a nivel más agregado a unidades de análisis más localizadas.
+
+La criminología espacial ha estado interesada en entender cuestiones diversas como, por ejemplo [@Bruinsman_18, @Andresen_19]:
+
+* ¿Cuáles son los factores que explican la concentración del delito en distintos espacios?
+
+* ¿En qué medida es relevante la movilidad humana en los espacios urbanos para entender la distribución territorial del delito?
+
+* ¿De que forma los delincuentes y las víctimas se desplazan en el espacio y en qué medida es esto relevante?
+
+* ¿Que características del espacio físico/arquitectonico y del diseño urbano contribuyen al delito?
+
+* ¿Existen algunos usos del espacio público que pueden ser criminógenos?
+
+* ¿Es posible predecir que zonas tendrán niveles elevados del delito en el futuro?
+
+* ¿Podemos identificar la probable residencia de delincuentes en serie si conocemos donde han cometido sus delitos?
+
+* ¿Es el delito contagioso a nivel espacial?
+
+* ¿Cual es la mejor forma de construir y diseñar vivienda de protección oficial para inhibir la delincuencia?
+
+* ¿Que pueden hacer los *gestores del espacio* [@Eck_23] para prevenir el delito?
+
+* ¿Que impacto tiene el delito en las comunidades y espacios en los que ocurre?
+
+### El análisis temporal del delito 
+
+Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Una de las cuestiones más debatidas en los últimos tiempos ha sido el llamado *crime drop* (descenso del delito) y en qué grado este ha sido un fenómeno generalizado.
+
+Tanto en Estados Unidos como en el Reino Unido, las primeras potencias criminológicas, el delito experimentó un muy visible descenso a partir de la década de los 1990. En la siguiente figura podéis ver los datos de la *Crime Survey for England and Wales* durante este período.
+
+![Evolución del delito en Inglaterra y Gales](/images/crimedrop.png)
+Como se puede observar hay un descenso notable del delito desde mediados de los 90 hasta nuestros días en Inglaterra y Gales. ¿Por qué? ¿Es esta una tendencia tambien observable en otros países? ¿En qué medida se ha producido un desplazamiento hacia otro tipo de delitos que estos datos no miden bien?
+
+Empezemos por la última. Es verdad que las encuestas de victimación, aunque (cuando bien hechas) son generalmente consideradas como el instrumento más fiable para medir variaciones temporales en los niveles globales de delincuencia (ya que no se ven afectadas por el sesgo de denuncia), tradicionalmente no han medido delitos que a día de hoy se han vuelto muy relevantes. La ciberdelincuencia, en particular, es la forma delictiva del siglo XXI. Las encuestas de victimación, en su mayoría, no han medido historicamente estas formas delictivas. La *Crime Survey for England and Wales* fue la primera encuesta nacional que comenzó a experimentar y medir algunos de estos nuevos delitos. En la gráfica mostrada arriba se puede ver como a partir del 2017 esta encuesta incluye medidas de ciberdelincuencia. El gráfico muestra hasta que punto este tipo de delitos se ha convertido en un elemento central para entender la delincuencia contemporanea.
+
+¿Por qué se produce este descenso? Este ha sido un muy agrio debate en el que no han faltado todo tipo de hipotesis...
+
 ## El delito a nivel micro
+
+Al margen de estudiar el delito a nivel más macro y agregado para entender su distribución temporal y espacial, a la criminología le interesa entender el cómo y el porqué del delito a nivel más micro. En esta sección introduciremos brevemente algunas ideas que han sido importantes al considerar estas cuestiones.
 
 ### El delito como transacción situacional
 
