@@ -20,19 +20,19 @@ Los grados de criminología en España son una titulación relativamente recient
 
 Uno pensaría que la introducción a la criminología, una asignatura generalmente de primero de carrera y fundamental en el itinerario formativo de nuestros estudiantes, sería una excepción a esta norma, pero nuestra tesis es que no, que los manuales al uso en nuestro país no satisfacen del todo las necesidades formativas para asignaturas de introducción a la criminología.
 
-Quitando manuales ya muy viejunos, en España si eres profesor de una introducción a la criminología tienes básicamente dos opciones: los principios de criminología de @Redondo_ o la introducción de @Larrauri_ . Por más que estos dos volumenes tienen muchas virtudes a nosotras como docentes nos plantean una serie de limitaciones.
+Quitando manuales ya muy viejunos, en España si eres profesor de una introducción a la criminología tienes básicamente dos opciones: los principios de criminología de @Redondo_23 o la introducción de @Larrauri_20 . Por más que estos dos volumenes tienen muchas virtudes a nosotras como docentes nos plantean una serie de limitaciones.
 
-![Introducción a la criminología de Larrauri](/images/introduccion.png)
+![Introducción a la criminología de Larrauri](/images/introduccion.png){fig-align="left" width=2in}
 
-El manual de @Larrauri_20 aspira a dar una introducción moderna y ajustada al hecho de que esta suele ser una asignatura del primer semestre de primero. Nuestro principal problema con este manual es que, por más que nos gusta, se nos queda corto, sobre todo si tenemos en cuenta que tiene dos partes, una que puede valer para una introducción a la criminología (con unas cien páginas) y otra que más bien es una introducción al sistema de justicia penal o al control penal (que en numerosos planes de estudios es una asignatura diferente también de primero). 
+El manual de @Larrauri_20 aspira a dar una introducción moderna y ajustada al hecho de que esta suele ser una asignatura del primer semestre de primero. Nuestro principal problema con este manual es que, por más que nos gusta, se nos queda corto, sobre todo si tenemos en cuenta que tiene dos partes, una que puede valer para una introducción a la criminología (con unas cien páginas) y otra que más bien es una introducción al sistema de justicia penal o al control penal (que en numerosos planes de estudios es una asignatura diferente también de primero).
 
-![Principios de Criminología de Redondo y Garrido](/images/principios.png)
+![Principios de Criminología de Redondo y Garrido](/images/principios.png){fig-align="left" width=2in}
 
 Con más de 800 páginas los Principios de Criminología de Santiago Redondo y Vicente Garrido cortos no son. Nuestro problema con este manual es que una parte muy notable del mismo es más bien un manual para teoría criminológica y la otra parte también muy notable lo es para asignaturas de lo que se suele llamar en los grados *Formas especiales de criminalidad*. Por tanto, lo que queda del manual para una introducción a la criminología es más restringido de lo que esas 800 y pico páginas pueden sugerir.
 
 En resumen, son dos excelentes manuales, pero queremos usar este texto para reivindicar también un temario diferenciado para las asignaturas de introducción, que no sean, como en otros manuales que no citamos aquí, en realidad y de forma exclusiva una introducción a la teoría criminológica. Es inevitable hablar de teoría en una asignatura de introducción, pero no podemos llevarlo hasta el punto de restar autonomía o sentido a estas asignaturas de introduccion a la disciplina.
 
-Al margen de estas cuestiones, cada libro es también un reflejo de las preferencias teóricas, disciplinares, metodológicas e incluso políticas e ideológicas de quienes los escriben. En ese sentido, pensamos que generar una tercera opción a estos manuales mencionados puede dar una mayor libertad de elección tanto al profesorado como al alumnado. 
+Al margen de estas cuestiones, cada libro es también un reflejo de las preferencias teóricas, disciplinares, metodológicas e incluso políticas e ideológicas de quienes los escriben. En ese sentido, pensamos que generar una tercera opción a estos manuales mencionados puede dar una mayor libertad de elección tanto al profesorado como al alumnado.
 
 ## Convenciones
 
