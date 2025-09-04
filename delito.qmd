@@ -144,7 +144,33 @@ La mayoría de los estudios indican que los delitos violentos y contra la propie
 ::: {.callout-note appearance="\"simple"}
 **La teoría de las actividades rutinarias**
 
-La teoría de las actividades rutinarias fue desarrollada precisamente para tratar de entender cambios en los niveles de delincuencia...
+La teoría de las actividades rutinarias fue desarrollada precisamente para tratar de entender cambios en los niveles de delincuencia. Inicialmente desarrollada por Marcus Felson y Lawrence E. Cohen en un artículo titulado *Social change and crime rate trends: a routine activity approach*, esta teoría ofrece una perspectiva única sobre las tendencias de las tasas de criminalidad al enfocarse en las circunstancias en las que ocurren los actos delictivos predatorios, en lugar de las características o motivaciones de los delincuentes. La teoría argumenta que el delito no es simplemente el resultado de inclinaciones criminales individuales, sino que está fundamentalmente moldeado por las oportunidades que se presentan a través de las actividades rutinarias de la vida diaria.
+
+@Cohen_79 consideran que ara que un delito ocurra se tiene que producir la convergencia espacio temporal de tres elementos:
+
+* *Un delincuente potencial*: La teoría da por sentada la existencia de individuos con inclinaciones criminales, sin profundizar en las razones específicas de su motivación.
+
+* *Un objetivo adecuado*: Esto se refiere a una persona u objeto que sea atractivo como objetivo para un delincuente. La idoneidad de un objetivo está influenciada por cuatro elementos clave, a menudo resumidos por el acrónimo VIVA:
+
+  + Valor: Cuán deseable es el objetivo para el delincuente (por ejemplo, CDs populares sobre los clásicos).
+
+  + Inercia: La facilidad con la que el objetivo puede ser movido o transportado (por ejemplo, los productos electrónicos ligeros son más susceptibles que los electrodomésticos pesados).
+
+  + Visibilidad: Cuán expuesto está el objetivo a posibles delincuentes (por ejemplo, mostrar dinero en público o dejar objetos de valor cerca de una ventana).
+
+  + Acceso: Cuán fácilmente puede un delincuente llegar al objetivo (por ejemplo, patrones de calles, bienes colocados cerca de una puerta).
+
+* *La ausencia de un guardián capaz*: Un guardián es cualquiera cuya presencia o proximidad podría disuadir un crimen. Este es a menudo un ciudadano común —como un ama de casa, un hermano, un amigo o un transeúnte— en lugar de un oficial de policía o un guardia de seguridad, y su vigilancia puede ser inadvertida. Cuando los guardianes están ausentes, el objetivo se vuelve particularmente vulnerable al ataque.
+
+La teoría de la actividad rutinaria argumenta que la oportunidad es una "causa fundamental" del delito, mas importante como las variables personales y sociales. Sostiene que los cambios en la vida comunitaria y la estructura social pueden aumentar las tasas de criminalidad simplemente al alterar la cantidad de oportunidades delictivas, incluso sin ningún cambio en las motivaciones de los posibles delincuentes. La teoría establece explícitamente que ningún crimen puede ocurrir sin las oportunidades físicas para llevarlo a cabo; por lo tanto, las oportunidades de crimen son condiciones necesarias para que el crimen ocurra.
+
+La teoría destaca cómo la organización espacial y temporal de las actividades sociales facilita o dificulta que las personas traduzcan las inclinaciones criminales en acción. Una hipótesis central es que la dispersión de actividades fuera de los hogares y las familias aumenta las oportunidades delictivas y, por lo tanto, conduce a tasas de criminalidad más altas. Por ejemplo, el aumento de mujeres que ingresaron a la fuerza laboral remunerada a tiempo completo significó que más hogares quedaran sin vigilancia durante el día, contribuyendo a un aumento de los robos en domicilios.
+
+Igualmente, los cambios sociales a gran escala, como los avances tecnológicos y los cambios en la organización social, influyen significativamente en las oportunidades delictivas. La difusión de ordenadores portatiles y otros dispositivos moviles de alto valor llevó a un aumento en el volumen de bienes duraderos ligeros y fácilmente robables. El mayor uso de automóviles expandió el territorio accesible a los delincuentes depredadores y dejó más coches vulnerables al robo.
+
+Para estos autores es fundamental entender que las oportunidades del delito no se distribuyen de manera uniforme, sino que se concentran en tiempos y lugares específicos, reflejando los ritmos diarios y los movimientos de personas y propiedades.
+En ese sentido, las actividades ilegales se "alimentan de" y son "interdependientes con" las actividades rutinarias y legales de la vida cotidiana. Los mismos factores que aumentan las oportunidades para actividades legítimas (como la libertad de movimiento, nuevos bienes de consumo, vida social) pueden también aumentar inadvertidamente las oportunidades para el crimen predatorio.
+
 :::
 
 La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad interanual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
@@ -190,8 +216,6 @@ Igualmente, la presencia de terceros puede influir significativamente en la secu
 Si bien el modelo de «transacción situada» se aplica más directamente a los delitos violentos entre personas, algunas teorías criminológicas amplían la idea a otras formas de delito, haciendo hincapié en la importancia de los contextos sociales, emocionales y físicos inmediatos en la configuración del comportamiento delictivo y sus consecuencias.
 
 En este sentido @Horney_06, en su discurso inaugural como presidenta de la *American Society of Criminology* proponía que para comprender el comportamiento delictivo es más útil hacer hincapié en la especificidad de la situación que centrarse únicamente en los rasgos de personalidad estables de las personas. @Horney_06 destaca como las señales ambientales influyen en las acciones y critica las teorías tradicionales de la personalidad basadas en los rasgos, haciendo referencia al trabajo de Walter Mischel sobre las contingencias situacionales del comportamiento. Horney propone que la criminalidad debe considerarse como el resultado del vínculo inextricable entre las situaciones y el comportamiento, e insta a los criminólogos a tener en cuenta las consistencias ambientales y a recopilar datos situacionales en sus investigaciones, especialmente en los estudios sobre el curso de la vida, para comprender mejor la complejidad de las acciones humanas.
-
-### Delito y oportunidad
 
 ### Toma de decisiones
 
@@ -284,6 +308,7 @@ Algunas emociones clave y su manifestación en el delito incluirían:
 
 En esencia, Katz argumenta que comprender las diversas experiencias emocionales —que van desde la rabia y las emociones fuertes hasta el pavor, el suspense y una vertiginosa aceptación del mal— es crucial para entender por qué la gente comete crímenes, yendo más allá de las explicaciones simplistas materialistas o centradas en la personalidad o el ambiente social de los delincuentes.
 :::
+
 
 ### El cómo del delito: los guiones del delito (crime scripts)
 
