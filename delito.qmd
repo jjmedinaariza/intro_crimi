@@ -97,9 +97,9 @@ Las primeras investigaciones de Quetelet demostraron que muchos tipos de delitos
 
 El enfoque empírico y basado en datos de Guerry y Quetelet sentó las bases para desarrollos posteriores en criminología, incluyendo el análisis espacial, los estudios ecológicos y el uso de métodos cuantitativos en las ciencias sociales.
 
-### La criminología ambiental
+### La criminología ambiental y la geografía del delito
 
-La criminología siguió trabajando estas áreas, con un grado creciente de sofisticación estadística y metodológica [@Medina_23] hasta nuestros días. Hoy esta es una de las áreas de mayor actividad investigadora en la criminología.
+La criminología siguió trabajando el estudio de la geofrafía del delito, con un grado creciente de sofisticación estadística y metodológica [@Medina_23] hasta nuestros días. Hoy esta es una de las áreas de mayor actividad investigadora en la criminología.
 
 La *American Society of Criminology* tiene una división dedicada al estudio de variaciones espaciales (*Community and Place*), la *European Society of Criminology* tiene un grupo de trabajo en criminologia espacial (*Space, place, and crime*) y la *Sociedad Española de Investigación Criminológica* no se queda atrás, con un grupo en criminología ambiental. Algunos grados de criminología en España ya incorporan asignaturas optativas en herramientas cartográficas (sistemas de información geográfica) para aprender a hacer mapas del delito y análisis espaciales. Finalmente, muchos departamentos de policía en otros países (en España aún es inusual) emplean a criminólogas o geografos para hacer este tipo de trabajo como **analistas del delito** y producir informes que sirvan para el desarrollo de respuestas estratégicas y tácticas. La criminología espacial o ambiental ha experimentado un crecimiento notable, por tanto, también a nivel institucional.
 
@@ -107,7 +107,7 @@ La criminología ambiental ha venido a documentar que el delito no se distribuye
 
 Históricamente ha habido un desplazamiento en el foco de interes. Cuando Guerry desarrollaba sus mapas de la delincuencia en Francia en el siglo XIX estaba estudiando variación regional; la llamada *Escuela de Chicago* (que estudiaréis en la asignatura de teorías criminológicas) estaba interesada en entender diferencias entre barrios; estudios más recientes, por el contrario, estan interesados en entender que calles, que intersecciones de calles, o que direcciones concretas o lugares concentran más delincuencia. Hemos pasado de estudiar variación a nivel más agregado a unidades de análisis más localizadas.
 
-La criminología espacial ha estado interesada en entender cuestiones diversas como, por ejemplo [@Bruinsman_18, @Andresen_19]:
+La criminología espacial ha estado interesada en entender cuestiones diversas como, por ejemplo [@Bruinsman_18 ; @Andresen_19]:
 
 -   ¿Cuáles son los factores que explican la concentración del delito en distintos espacios?
 
@@ -139,7 +139,7 @@ Los delitos se encuentran altamente concentrados en momentos específicos del d�
 
 Los delitos suelen aumentar los fines de semana y durante la noche, especialmente para las lesiones y ciertos robos en zonas nocturnas de ocio y entretenimiento, para luego descender dramáticamente durante la madrugada. En los puntos de conexión de los sistemas de transporte público, los delitos son mas comunes durante las noches, y en los períodos vacacionales, con factores ambientales (por ejemplo, la presencia de establecimientos de venta de alcohol) influenciando estos patrones.
 
-La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
+La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida [@Andresen_13; @McDowall_11; @Linning_16]. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
 
 ::: {.callout-note appearance="\"simple"}
 **La teoría de las actividades rutinarias**
@@ -149,9 +149,9 @@ La teoría de las actividades rutinarias fue desarrollada precisamente para trat
 
 La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad interanual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
 
-El mes del año es un fuerte indicador de los niveles de delincuencia en muchos contextos, lo que respalda el uso de la estacionalidad en la previsión de la delincuencia y la asignación de recursos. Sin embargo, existen excepciones: algunos delitos (por ejemplo, los homicidios) muestran una estacionalidad débil o inconsistente, y los patrones microespaciales pueden permanecer estables incluso cuando las tasas generales fluctúan. La pandemia de COVID-19 y otras perturbaciones sociales importantes pueden anular los patrones estacionales típicos.
+El mes del año es un fuerte indicador de los niveles de delincuencia en muchos contextos, lo que respalda el uso de la estacionalidad en la previsión de la delincuencia y la asignación de recursos. Sin embargo, existen excepciones: algunos delitos (por ejemplo, los homicidios) muestran una estacionalidad débil o inconsistente, y los patrones microespaciales pueden permanecer estables incluso cuando las tasas generales fluctúan. La pandemia de COVID-19 [@Nivette_21] y otras perturbaciones sociales importantes pueden anular los patrones estacionales típicos.
 
-Una de las cuestiones más debatidas en los últimos tiempos ha sido el llamado *crime drop* (descenso del delito) y en qué grado este ha sido un fenómeno generalizado.
+Una de las cuestiones más debatidas en los últimos tiempos ha sido el llamado **crime drop** (descenso del delito) y en qué grado este ha sido un fenómeno generalizado.
 
 Tanto en Estados Unidos como en el Reino Unido, las primeras potencias criminológicas, el delito experimentó un muy visible descenso a partir de la década de los 1990. En la siguiente figura podéis ver los datos de la *Crime Survey for England and Wales* durante este período.
 
@@ -159,7 +159,7 @@ Tanto en Estados Unidos como en el Reino Unido, las primeras potencias criminol�
 
 Empezemos por la última. Es verdad que las encuestas de victimación, aunque (cuando bien hechas) son generalmente consideradas como el instrumento más fiable para medir variaciones temporales en los niveles globales de delincuencia (ya que no se ven afectadas por el sesgo de denuncia), tradicionalmente no han medido delitos que a día de hoy se han vuelto muy relevantes. La ciberdelincuencia, en particular, es la forma delictiva del siglo XXI. Las encuestas de victimación, en su mayoría, no han medido historicamente estas formas delictivas. La *Crime Survey for England and Wales* fue la primera encuesta nacional que comenzó a experimentar y medir algunos de estos nuevos delitos. En la gráfica mostrada arriba se puede ver como a partir del 2017 esta encuesta incluye medidas de ciberdelincuencia. El gráfico muestra hasta que punto este tipo de delitos se ha convertido en un elemento central para entender la delincuencia contemporanea.
 
-¿Por qué se produce este descenso? Este ha sido un muy agrio debate en el que no han faltado todo tipo de hipotesis que no resultan del todo convincentes: cambios demográficos, cambios en los mercados de drogas, variaciones en tácticas y estrategias policiales, economías más saludables, la introducción del aborto, reducciones en los niveles de exposición al plomo, cambios culturales, etc. [@Blumstein_00, @Zimring_11, @Farrell_10]. @Farrell_08 han propuesto como alternativa la *hipótesis de la seguridad*, cambios en los niveles y prácticas ciudadanas y empresariales de seguridad han podido ser un factor determinante. Ellos muestran análisis que sugieren que la caída de dos tercios en los robos de automóviles en el Reino Unido se debió en gran medida a las mejoras en los sistemas de cierre centralizado e inmovilización y especulan que la adopción de otro tipo de medidas de seguridad en el hogar y en las empresas puede haber sido determinante en este sentido. Por lo que nos interesa, baste señalar que entender los factores que pueden ser responsables de cambios en los niveles de delincuencia es también una fructifera línea de investigación dentro de la criminología.
+¿Por qué se produce este descenso? Este ha sido un muy agrio debate en el que no han faltado todo tipo de hipotesis que no resultan del todo convincentes: cambios demográficos, cambios en los mercados de drogas, variaciones en tácticas y estrategias policiales, economías más saludables, la introducción del aborto, reducciones en los niveles de exposición al plomo, cambios culturales, etc. [@Blumstein_00; @Zimring_11; @Farrell_10]. @Farrell_08 han propuesto como alternativa la *hipótesis de la seguridad*, cambios en los niveles y prácticas ciudadanas y empresariales de seguridad han podido ser un factor determinante. Ellos muestran análisis que sugieren que la caída de dos tercios en los robos de automóviles en el Reino Unido se debió en gran medida a las mejoras en los sistemas de cierre centralizado e inmovilización y especulan que la adopción de otro tipo de medidas de seguridad en el hogar y en las empresas puede haber sido determinante en este sentido. Por lo que nos interesa, baste señalar que entender los factores que pueden ser responsables de cambios en los niveles de delincuencia es también una fructifera línea de investigación dentro de la criminología.
 
 ## El delito a nivel micro
 
@@ -169,7 +169,27 @@ Al margen de estudiar el delito a nivel más macro y agregado para entender su d
 
 El concepto del delito como una «transacción situada» fue desarrollado notablemente por David F. Luckenbill, quien analizó los homicidios como secuencias de interacciones entre el agresor y la víctima. Una «transacción situada» se refiere a una cadena de interacción entre dos o más individuos que dura el tiempo que se encuentran en la presencia física inmediata unos de otros. @Luckenbill_77 descubrió que el asesinato suele ser el resultado de una serie de intercambios cada vez más intensos —lo que Goffman denominó «competición de caracteres»— en los que cada parte busca mantener o recuperar su «prestigio» mediante desafíos verbales y físicos. El resultado (por ejemplo, el homicidio) viene determinado por el contexto social inmediato y las acciones de todos los implicados, y no solo por la intención o los antecedentes individuales. Investigaciones posteriores respaldan esta opinión, demostrando que muchos delitos violentos, especialmente los homicidios, se desarrollan como procesos interactivos.
 
+::: {.callout-note appearance="\"simple"}
+**La teoría de las acciones coercitivas**
+
+@Tedeschi_94 desarrollaron toda una teoría de la violencia inspirados en parte por este modelo. La teoría de la violencia de Tedeschi y Felson, denominada *teoría interaccionista social de las acciones coercitivas*, estructura y secuencia las situaciones violentas centrándose en el daño como comportamiento orientado a objetivos que surge de procesos interaccionistas sociales. Siguiendo a Bandura consideran que toda violencia se considera instrumental y mediada cognitivamente, rechazando la "agresión enfadada" automática asociada a las teorías que distinguen entre violencia instrumental y expresiva.La teoría describe tres motivos sociales principales que inician y dan forma a los episodios coercitivos:
+
+* Influir en otros para obtener beneficios: esto incluye obtener bienes, servicios o seguridad.
+
+* Expresar quejas y establecer la justicia: este motivo está asociado con atribuciones de culpa, ira y sentimientos de injusticia, lo que a menudo conduce a acciones punitivas.
+
+* Afirmar o defender identidades sociales: la coacción puede ser una táctica de autopresentación para mantener una imagen favorable (por ejemplo, fuerte, valiente) o para evitar parecer débil.
+
+Cómo @Luckenbill_77, @Tedeschi_94 conceptualizan las situaciones coercitivas como dinámicas, implican una serie de decisiones y respuestas. Por ejemplo, en las coacciones reactivas el proceso secuencial suele comenzar con la percepción de una violación de las normas y una injusticia. Esto lleva a atribuir la culpa al autor, lo que a su vez provoca ira. Los agravios pueden expresarse entonces mediante reproches, reclamaciones de medidas correctivas o negociaciones. Las perspectivas divergentes entre los actores y los objetivos (los autores minimizan el daño, las víctimas lo exageran) pueden intensificar los conflictos.
+
+Cuando las quejas se expresan con dureza o se rechazan, las hostilidades pueden intensificarse. Los ataques a la identidad (insultos, críticas) son especialmente propensos a provocar «espirales de conflicto», en las que cada contraataque degrada aún más al otro, lo que a veces da lugar a violencia física. El alcohol y las emociones fuertes pueden exacerbar esto al deteriorar los controles cognitivos y aumentar la propensión al riesgo. 
+
+Igualmente, la presencia de terceros puede influir significativamente en la secuencia de la violencia. Pueden disuadir la delincuencia actuando como guardianes, pero también pueden exacerbar el conflicto al aumentar las preocupaciones identitarias, incitar a los antagonistas o tomar partido.
+:::
+
 Si bien el modelo de «transacción situada» se aplica más directamente a los delitos violentos entre personas, algunas teorías criminológicas amplían la idea a otras formas de delito, haciendo hincapié en la importancia de los contextos sociales, emocionales y físicos inmediatos en la configuración del comportamiento delictivo y sus consecuencias.
+
+En este sentido @Horney_06, en su discurso inaugural como presidenta de la *American Society of Criminology* proponía que para comprender el comportamiento delictivo es más útil hacer hincapié en la especificidad de la situación que centrarse únicamente en los rasgos de personalidad estables de las personas. @Horney_06 destaca como las señales ambientales influyen en las acciones y critica las teorías tradicionales de la personalidad basadas en los rasgos, haciendo referencia al trabajo de Walter Mischel sobre las contingencias situacionales del comportamiento. Horney propone que la criminalidad debe considerarse como el resultado del vínculo inextricable entre las situaciones y el comportamiento, e insta a los criminólogos a tener en cuenta las consistencias ambientales y a recopilar datos situacionales en sus investigaciones, especialmente en los estudios sobre el curso de la vida, para comprender mejor la complejidad de las acciones humanas.
 
 ### Delito y oportunidad
 
@@ -209,8 +229,12 @@ Algunas emociones clave y su manifestación en el delito incluirían:
 En esencia, Katz argumenta que comprender las diversas experiencias emocionales —que van desde la rabia y las emociones fuertes hasta el pavor, el suspense y una vertiginosa aceptación del mal— es crucial para entender por qué la gente comete crímenes, yendo más allá de las explicaciones simplistas materialistas o centradas en la personalidad o el ambiente social de los delincuentes.
 :::
 
-### Guiones del delito (crime scripts)
+### El cómo del delito: los guiones del delito (crime scripts)
+
+A la criminología también le motiva el entender de qué forma se cometen los delitos, el desarrollar descripciones adecuadas de la forma en que se articulan los mismos. Hay una larga tradición de investigación cualitativa que ha profundizado en estas cuestiones. Más recientemente se ha propuesto una herramienta, los guiones delictivos o **crime scripts** para sistematizar el modus operandi.
 
 Un guion delictivo es un modelo sistemático y procedimental que describe la secuencia de acciones, decisiones y acontecimientos que intervienen en la comisión de un tipo específico de delito. Fue introducido por primera vez por Cornish y se ha convertido en una herramienta muy utilizada en criminología para analizar el modus operandi (métodos) de los delincuentes e identificar puntos de intervención para la prevención del delito. Los guiones delictivos ayudan a descomponer delitos complejos en etapas distintas, como la preparación, la ejecución y las actividades posteriores al delito, lo que facilita la comprensión del comportamiento del delincuente y el diseño de estrategias de prevención específicas.
 
 Los guiones delictivos suelen dividir un delito en escenas o fases clave (por ejemplo, preparación, preactividad, actividad, postactividad), detallando las acciones, decisiones y facilitadores en cada etapa. Pueden completarse utilizando diversas fuentes de datos, como expedientes de casos, entrevistas e inteligencia de fuentes abiertas, y se utilizan para analizar delitos que van desde el crimen organizado y el terrorismo hasta el fraude y el narcotráfico. Este enfoque es especialmente valioso para la prevención situacional del delito, ya que destaca puntos específicos en los que las intervenciones pueden interrumpir el proceso delictivo.
+
+...
