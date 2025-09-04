@@ -34,9 +34,9 @@ En resumen, son dos excelentes manuales, pero queremos usar este texto para reiv
 
 Al margen de estas cuestiones, cada libro es también un reflejo de las preferencias teóricas, disciplinares, metodológicas e incluso políticas e ideológicas de quienes los escriben. En ese sentido, pensamos que generar una tercera opción a estos manuales mencionados puede dar una mayor libertad de elección tanto al profesorado como al alumnado.
 
-Este libro además aspira a ser gratuito y de código abierto, además de dinámico. La publicación científica se ha convertido en un negocio para unas cuantas editoriales internacionales que exprimen recursos económicos de estudiantes, administraciones públicas, y universidades. Nosotros creemos en otro modelo de ciencia, uno que la concibe como un bien común que debería estar al alcance de todos, no solamente de quienes pueden permitirse pagar por ella. 
+Este libro además aspira a ser gratuito y de código abierto, además de dinámico. La publicación científica se ha convertido en un negocio para unas cuantas editoriales internacionales que exprimen recursos económicos de estudiantes, administraciones públicas, y universidades. Nosotros creemos en otro modelo de ciencia, uno que la concibe como un bien común que debería estar al alcance de todos, no solamente de quienes pueden permitirse pagar por ella.
 
-Una de las ventajas de publicar en este formato digital y susceptible al cambio continuo es que probablemente se ira renovando y modificando de una forma más contínua que si fuera un libro de texto al uso. Su versión digital tendrá este carácter dinámico más flexible y abierto. Una vez estemos satisfechos con un primer borrador final generaremos un enlace para que quien quiera pueda descargarse e imprimir este texto en formato pdf.
+Una de las ventajas de publicar en este formato digital y susceptible al cambio continuo es que probablemente se ira renovando y modificando de una forma más contínua que si fuera un libro de texto al uso. Su versión digital tendrá este carácter dinámico más flexible y abierto. Una vez estemos satisfechos con un primer borrador final generaremos un enlace para que quien quiera pueda descargarse e imprimir este texto en formato pdf. La versión en pdf probablemente solamente la actualizaremos de forma anual, por lo que es posible que en ocasiones se puedan apreciar algunas diferencias entre la versión digital y la version susceptible de impresión como fichero pdf.
 
 ## Convenciones
 
@@ -48,5 +48,4 @@ También a lo largo del texto apareceran "notas" con una apariencia visual como 
 **¿Que son las notas?**
 
 Estas notas son simplemente pequeños excursos, aclaraciones o expansiones de algunas ideas que pueden ser leidas para complementar el argumento principal del texto.
-
 :::
