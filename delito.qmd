@@ -107,7 +107,7 @@ La criminología ambiental ha venido a documentar que el delito no se distribuye
 
 Históricamente ha habido un desplazamiento en el foco de interes. Cuando Guerry desarrollaba sus mapas de la delincuencia en Francia en el siglo XIX estaba estudiando variación regional; la llamada *Escuela de Chicago* (que estudiaréis en la asignatura de teorías criminológicas) estaba interesada en entender diferencias entre barrios; estudios más recientes, por el contrario, estan interesados en entender que calles, que intersecciones de calles, o que direcciones concretas o lugares concentran más delincuencia. Hemos pasado de estudiar variación a nivel más agregado a unidades de análisis más localizadas.
 
-La criminología espacial ha estado interesada en entender cuestiones diversas como, por ejemplo [@Bruinsman_18 ; @Andresen_19]:
+La criminología espacial ha estado interesada en entender cuestiones diversas como, por ejemplo [@Bruinsman_18; @Andresen_19]:
 
 -   ¿Cuáles son los factores que explican la concentración del delito en distintos espacios?
 
@@ -133,7 +133,7 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 
 ### El análisis temporal del delito
 
-Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local. 
+Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local.
 
 Los delitos se encuentran altamente concentrados en momentos específicos del día y de la semana, pero la intensidad de estas concentraciones varía por tipo de delito y región. Por ejemplo, algunos estudios sugieren que los robos a usarios de bancos o servicios de entrega de comida a domicilio suelen concentrarse en horas muy concretas, mientras que los hurtos y otro tipo de robos exhiben una menor concentración [@Prieto_21]. Estos "puntos calientes" temporales son estables en el tiempo y pueden ser visualizados como "latidos" (heartbeats) del delito, mostrando periodos de alto y bajo riesgo.
 
@@ -174,15 +174,15 @@ El concepto del delito como una «transacción situada» fue desarrollado notabl
 
 @Tedeschi_94 desarrollaron toda una teoría de la violencia inspirados en parte por este modelo. La teoría de la violencia de Tedeschi y Felson, denominada *teoría interaccionista social de las acciones coercitivas*, estructura y secuencia las situaciones violentas centrándose en el daño como comportamiento orientado a objetivos que surge de procesos interaccionistas sociales. Siguiendo a Bandura consideran que toda violencia se considera instrumental y mediada cognitivamente, rechazando la "agresión enfadada" automática asociada a las teorías que distinguen entre violencia instrumental y expresiva.La teoría describe tres motivos sociales principales que inician y dan forma a los episodios coercitivos:
 
-* Influir en otros para obtener beneficios: esto incluye obtener bienes, servicios o seguridad.
+-   Influir en otros para obtener beneficios: esto incluye obtener bienes, servicios o seguridad.
 
-* Expresar quejas y establecer la justicia: este motivo está asociado con atribuciones de culpa, ira y sentimientos de injusticia, lo que a menudo conduce a acciones punitivas.
+-   Expresar quejas y establecer la justicia: este motivo está asociado con atribuciones de culpa, ira y sentimientos de injusticia, lo que a menudo conduce a acciones punitivas.
 
-* Afirmar o defender identidades sociales: la coacción puede ser una táctica de autopresentación para mantener una imagen favorable (por ejemplo, fuerte, valiente) o para evitar parecer débil.
+-   Afirmar o defender identidades sociales: la coacción puede ser una táctica de autopresentación para mantener una imagen favorable (por ejemplo, fuerte, valiente) o para evitar parecer débil.
 
 Cómo @Luckenbill_77, @Tedeschi_94 conceptualizan las situaciones coercitivas como dinámicas, implican una serie de decisiones y respuestas. Por ejemplo, en las coacciones reactivas el proceso secuencial suele comenzar con la percepción de una violación de las normas y una injusticia. Esto lleva a atribuir la culpa al autor, lo que a su vez provoca ira. Los agravios pueden expresarse entonces mediante reproches, reclamaciones de medidas correctivas o negociaciones. Las perspectivas divergentes entre los actores y los objetivos (los autores minimizan el daño, las víctimas lo exageran) pueden intensificar los conflictos.
 
-Cuando las quejas se expresan con dureza o se rechazan, las hostilidades pueden intensificarse. Los ataques a la identidad (insultos, críticas) son especialmente propensos a provocar «espirales de conflicto», en las que cada contraataque degrada aún más al otro, lo que a veces da lugar a violencia física. El alcohol y las emociones fuertes pueden exacerbar esto al deteriorar los controles cognitivos y aumentar la propensión al riesgo. 
+Cuando las quejas se expresan con dureza o se rechazan, las hostilidades pueden intensificarse. Los ataques a la identidad (insultos, críticas) son especialmente propensos a provocar «espirales de conflicto», en las que cada contraataque degrada aún más al otro, lo que a veces da lugar a violencia física. El alcohol y las emociones fuertes pueden exacerbar esto al deteriorar los controles cognitivos y aumentar la propensión al riesgo.
 
 Igualmente, la presencia de terceros puede influir significativamente en la secuencia de la violencia. Pueden disuadir la delincuencia actuando como guardianes, pero también pueden exacerbar el conflicto al aumentar las preocupaciones identitarias, incitar a los antagonistas o tomar partido.
 :::
@@ -191,29 +191,27 @@ Si bien el modelo de «transacción situada» se aplica más directamente a los 
 
 En este sentido @Horney_06, en su discurso inaugural como presidenta de la *American Society of Criminology* proponía que para comprender el comportamiento delictivo es más útil hacer hincapié en la especificidad de la situación que centrarse únicamente en los rasgos de personalidad estables de las personas. @Horney_06 destaca como las señales ambientales influyen en las acciones y critica las teorías tradicionales de la personalidad basadas en los rasgos, haciendo referencia al trabajo de Walter Mischel sobre las contingencias situacionales del comportamiento. Horney propone que la criminalidad debe considerarse como el resultado del vínculo inextricable entre las situaciones y el comportamiento, e insta a los criminólogos a tener en cuenta las consistencias ambientales y a recopilar datos situacionales en sus investigaciones, especialmente en los estudios sobre el curso de la vida, para comprender mejor la complejidad de las acciones humanas.
 
-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
-
 ### Delito y oportunidad
 
 ### Toma de decisiones
 
-La toma de decisiones de los delincuentes se ha explicado tradicionalmente mediante la teoría de la elección racional, que postula que los individuos sopesan los costes y beneficios del delito antes de actuar. Sin embargo, las investigaciones demuestran que este proceso suele estar «limitado» por la escasez de información, tiempo y recursos cognitivos, lo que conduce a decisiones que no son del todo racionales [@Bernasco_17]. La economía conductual (*behavioural economics*) y los modelos de doble sistema o proceso [@Kahneman_11] resaltan además que los delincuentes usan heurísticas (atajos mentales) y se ven influenciados por sesgos, emociones y factores situacionales. 
+La toma de decisiones de los delincuentes se ha explicado tradicionalmente mediante la teoría de la elección racional, que postula que los individuos sopesan los costes y beneficios del delito antes de actuar. Sin embargo, las investigaciones demuestran que este proceso suele estar «limitado» por la escasez de información, tiempo y recursos cognitivos, lo que conduce a decisiones que no son del todo racionales [@Bernasco_17]. La economía conductual (*behavioural economics*) y los modelos de doble sistema o proceso [@Kahneman_11] resaltan además que los delincuentes usan heurísticas (atajos mentales) y se ven influenciados por sesgos, emociones y factores situacionales.
 
 Las teorías de la elección racional se remontan a los inicios del pensamiento criminológico con Beccaria y Bentham. Bentham, en particular, proponía que cada acción humana podía evaluarseen términos de la cantidad de placer o dolor que producía. El delito era simplemente una acción en la que el actor había evaluado que los beneficios superaban los costos. La función del legislador, por tanto, consistía en diseñar un sistema de sanciones que reequilibrara esa ecuación, dejando que delito dejara de producir más placer que dolor.
 
-El renacimiento del paradigma racionalista se dio con el artículo de Gary S. @Becker_68, *Crime and Punishment: An Economic Approach*, que introdujo un marco microeconómico para explicar la conducta delictiva. Becker modeló la delincuencia como un cálculo de utilidad esperada: una persona compara los beneficios de un acto ilegal con sus costos, que incluyen la probabilidad de ser descubierto y la severidad del castigo, además de los costos de oportunidad (por ejemplo, los salarios legales perdidos). Se comete el delito si la recompensa esperada es mayor que la alternativa legal; si no lo es, no se comete. También planteó el problema de la sociedad: elegir el esfuerzo de aplicación de la ley (probabilidad de sanción) y la gravedad del castigo para minimizar la pérdida social total (daño por el delito + costos de aplicación + costos de sanción). 
+El renacimiento del paradigma racionalista se dio con el artículo de Gary S. @Becker_68, *Crime and Punishment: An Economic Approach*, que introdujo un marco microeconómico para explicar la conducta delictiva. Becker modeló la delincuencia como un cálculo de utilidad esperada: una persona compara los beneficios de un acto ilegal con sus costos, que incluyen la probabilidad de ser descubierto y la severidad del castigo, además de los costos de oportunidad (por ejemplo, los salarios legales perdidos). Se comete el delito si la recompensa esperada es mayor que la alternativa legal; si no lo es, no se comete. También planteó el problema de la sociedad: elegir el esfuerzo de aplicación de la ley (probabilidad de sanción) y la gravedad del castigo para minimizar la pérdida social total (daño por el delito + costos de aplicación + costos de sanción).
 
 ![Imagen de Gary Becker](/images/becker.jpg){fig-align="left" width="2in"}
 
 Sin embargo, el modelo de Becker fue objeto de críticas importantes:
 
-* Racionalidad perfecta: se asume que los delincuentes tienen información completa y capacidad de cálculo preciso, lo cual rara vez ocurre.
+-   Racionalidad perfecta: se asume que los delincuentes tienen información completa y capacidad de cálculo preciso, lo cual rara vez ocurre.
 
-* Neutralidad frente al riesgo: la teoría no contempla aversión o propensión al riesgo.
+-   Neutralidad frente al riesgo: la teoría no contempla aversión o propensión al riesgo.
 
-* Miopía temporal: los individuos suelen descontar fuertemente el futuro, lo que reduce la eficacia de sanciones lejanas.
+-   Miopía temporal: los individuos suelen descontar fuertemente el futuro, lo que reduce la eficacia de sanciones lejanas.
 
-* Desigualdad estructural: la teoría trata el crimen como elección individual y deja en segundo plano factores sociales.
+-   Desigualdad estructural: la teoría trata el crimen como elección individual y deja en segundo plano factores sociales.
 
 Aun con estas críticas, el artículo de Becker revitalizó el enfoque racionalista, inspirando no solo investigaciones empíricas, sino toda una corriente de análisis económico del derecho.
 
@@ -227,9 +225,9 @@ La investigación en economía conductual también muestra que los individuos ap
 
 El trabajo de Kahneman ha sido importante en el desarrollo de la teoría del proceso dual. @Kahneman_11 distingue entre dos modos de procesamiento cognitivo:
 
-* El *Sistema 1*: rápido, automático, intuitivo, basado en heurísticos y emociones. Funciona sin esfuerzo consciente.
+-   El *Sistema 1*: rápido, automático, intuitivo, basado en heurísticos y emociones. Funciona sin esfuerzo consciente.
 
-* El *Sistema 2*: lento, deliberativo, analítico, capaz de cálculos complejos y de anticipar consecuencias a largo plazo.
+-   El *Sistema 2*: lento, deliberativo, analítico, capaz de cálculos complejos y de anticipar consecuencias a largo plazo.
 
 Ambos sistemas interactúan constantemente, pero no de manera simétrica: el Sistema 1 domina la mayoría de decisiones cotidianas, y el Sistema 2 interviene solo cuando se requiere un esfuerzo adicional.
 
@@ -239,17 +237,17 @@ Muchos delitos —peleas, robos oportunistas, vandalismo— ocurren en contextos
 
 Resumiendo algunas de estos cuestiones, la evidencia viene a mostrar apoyo a las siguientes cuestiones en la toma de decisiones por parte de los delincuentes [@Bernasco_17]:
 
-* *Racionalidad ajustada o limitada*. La mayoría de los delincuentes cuando hacen calculos de costos y beneficios lo hacen con información limitada, condicionados por el tiempo, y adoptando atajos mentales. A menudo le dan más importancia a los beneficios inmediatos mientras que descuentan las consecuencia a largo plazo (el sesgo del presente).
+-   *Racionalidad ajustada o limitada*. La mayoría de los delincuentes cuando hacen calculos de costos y beneficios lo hacen con información limitada, condicionados por el tiempo, y adoptando atajos mentales. A menudo le dan más importancia a los beneficios inmediatos mientras que descuentan las consecuencia a largo plazo (el sesgo del presente).
 
-* *Los factores situacionales*. La toma de decisiones puede verse muy influenciada por contingencias situacionales inmediatas. Muchos delitos son oportunistas, están provocados por señales situacionales como un coche sin cerrar o una propiedad desatendida.
+-   *Los factores situacionales*. La toma de decisiones puede verse muy influenciada por contingencias situacionales inmediatas. Muchos delitos son oportunistas, están provocados por señales situacionales como un coche sin cerrar o una propiedad desatendida.
 
-* *Sesgos cognitivos*. Los delincuentes exhiben sesgos sistemáticos cuando toman decisiones, incluyendo un exceso de confianza en su capacidad para evitar ser detectados, un optimismo poco realista sobre los resultados y una evaluación deficiente de los riesgos. Tienden a sobreestimar las ganancias potenciales y a subestimar tanto la probabilidad como la gravedad del castigo.
+-   *Sesgos cognitivos*. Los delincuentes exhiben sesgos sistemáticos cuando toman decisiones, incluyendo un exceso de confianza en su capacidad para evitar ser detectados, un optimismo poco realista sobre los resultados y una evaluación deficiente de los riesgos. Tienden a sobreestimar las ganancias potenciales y a subestimar tanto la probabilidad como la gravedad del castigo.
 
-* *Aprendizaje y adaptación*. Los delincuentes experimentados aprenden de sus experiencias pasadas, volviéndose más sofisticados en la selección de objetivos y en la evitación de riesgos. Sin embargo, esta experiencia criminal suele ser específica de cada ámbito y no se traduce necesariamente en una mejor toma de decisiones en general.
+-   *Aprendizaje y adaptación*. Los delincuentes experimentados aprenden de sus experiencias pasadas, volviéndose más sofisticados en la selección de objetivos y en la evitación de riesgos. Sin embargo, esta experiencia criminal suele ser específica de cada ámbito y no se traduce necesariamente en una mejor toma de decisiones en general.
 
-* *Diferencias individuales*. Factores que varían entre individuos como la impulsividad, el abuso de sustancias tóxicas o el alcohol, problemas de salud mental, el autocontrol, y las habilidades cognitivas generan variación sustancial en la calidad de la toma de decisiones por parte de los delincuentes. Algunos delincuentes son más propensos a actuar de forma impulsiva que otros.
+-   *Diferencias individuales*. Factores que varían entre individuos como la impulsividad, el abuso de sustancias tóxicas o el alcohol, problemas de salud mental, el autocontrol, y las habilidades cognitivas generan variación sustancial en la calidad de la toma de decisiones por parte de los delincuentes. Algunos delincuentes son más propensos a actuar de forma impulsiva que otros.
 
-* *Las influencias sociales y emocionales*. Las dinámicas sociales, como el pensamiento grupal (*group think*), la gestión de la reputación dentro de las redes criminales y la necesidad de mantener el estatus, influyen significativamente en las decisiones. Del mismo modo, como veremos con más detalle en la siguiente sección, las decisiones criminales se toman bajo la influencia de emociones intensas, como la ira, la desesperación o la presión de los compañeros.
+-   *Las influencias sociales y emocionales*. Las dinámicas sociales, como el pensamiento grupal (*group think*), la gestión de la reputación dentro de las redes criminales y la necesidad de mantener el estatus, influyen significativamente en las decisiones. Del mismo modo, como veremos con más detalle en la siguiente sección, las decisiones criminales se toman bajo la influencia de emociones intensas, como la ira, la desesperación o la presión de los compañeros.
 
 En resumen, a lo largo del tiempo hemos ido desarrollando un apreciacion de la toma de decisiones por parte de los delincuentes como un proceso complejo, en el que interactuan varios elementos, y que no se conforma a las visiones más puras o primitivas de una elección racional. Es evidente que existe una instrumentalidad a la hora de delinquir que es muy relevante, pero no podemos simplificar lo que esto implica.
 
