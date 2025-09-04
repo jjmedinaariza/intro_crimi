@@ -15,7 +15,7 @@ Como hemos visto se suele definir de forma sintética a la criminología como la
 
 > "La criminología carece de un marco teórico distintivo, una ciencia diferenciada o una metodología, y debe la cohesión que posee al delito como su foco de atención y su justificación racional." [@Zedner_11, p. 272]
 
-Como vamos a ver es algo un poco más complicado. Ya a principios del siglo XX se produjo un debate entre Edwin Sutherland, considerado una de los principales criminólogos del siglo XX, y el jurista Paul Tappan sobre cual era el legítimo ámbito de estudio de la criminología. 
+Como vamos a ver es algo un poco más complicado. Ya a principios del siglo XX se produjo un debate entre Edwin Sutherland, considerado una de los principales criminólogos del siglo XX, y el jurista Paul Tappan sobre cual era el legítimo ámbito de estudio de la criminología.
 
 Para @Tappan_47 la criminología tenía que centrar su mirada en los actos definidos como delitos por la legislación penal cuando ya había una persona acusada y sancionada penalmente por el Estado, mientras que @Sutherland_49 usaba una definición más sociológica y ampliada a considerar infracciones legales no necesariamente constitutivas de ilícitos penales.
 
@@ -109,37 +109,42 @@ Históricamente ha habido un desplazamiento en el foco de interes. Cuando Guerry
 
 La criminología espacial ha estado interesada en entender cuestiones diversas como, por ejemplo [@Bruinsman_18, @Andresen_19]:
 
-* ¿Cuáles son los factores que explican la concentración del delito en distintos espacios?
+-   ¿Cuáles son los factores que explican la concentración del delito en distintos espacios?
 
-* ¿En qué medida es relevante la movilidad humana en los espacios urbanos para entender la distribución territorial del delito?
+-   ¿En qué medida es relevante la movilidad humana en los espacios urbanos para entender la distribución territorial del delito?
 
-* ¿De que forma los delincuentes y las víctimas se desplazan en el espacio y en qué medida es esto relevante?
+-   ¿De que forma los delincuentes y las víctimas se desplazan en el espacio y en qué medida es esto relevante?
 
-* ¿Que características del espacio físico/arquitectonico y del diseño urbano contribuyen al delito?
+-   ¿Que características del espacio físico/arquitectonico y del diseño urbano contribuyen al delito?
 
-* ¿Existen algunos usos del espacio público que pueden ser criminógenos?
+-   ¿Existen algunos usos del espacio público que pueden ser criminógenos?
 
-* ¿Es posible predecir que zonas tendrán niveles elevados del delito en el futuro?
+-   ¿Es posible predecir que zonas tendrán niveles elevados del delito en el futuro?
 
-* ¿Podemos identificar la probable residencia de delincuentes en serie si conocemos donde han cometido sus delitos?
+-   ¿Podemos identificar la probable residencia de delincuentes en serie si conocemos donde han cometido sus delitos?
 
-* ¿Es el delito contagioso a nivel espacial?
+-   ¿Es el delito contagioso a nivel espacial?
 
-* ¿Cual es la mejor forma de construir y diseñar vivienda de protección oficial para inhibir la delincuencia?
+-   ¿Cual es la mejor forma de construir y diseñar vivienda de protección oficial para inhibir la delincuencia?
 
-* ¿Que pueden hacer los *gestores del espacio* [@Eck_23] para prevenir el delito?
+-   ¿Que pueden hacer los *gestores del espacio* [@Eck_23] para prevenir el delito?
 
-* ¿Que impacto tiene el delito en las comunidades y espacios en los que ocurre?
+-   ¿Que impacto tiene el delito en las comunidades y espacios en los que ocurre?
 
-### El análisis temporal del delito 
+### El análisis temporal del delito
 
-Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local. La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
+Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local. 
+
+Los delitos se encuentran altamente concentrados en momentos específicos del día y de la semana, pero la intensidad de estas concentraciones varía por tipo de delito y región. Por ejemplo, algunos estudios sugieren que los robos a usarios de bancos o servicios de entrega de comida a domicilio suelen concentrarse en horas muy concretas, mientras que los hurtos y otro tipo de robos exhiben una menor concentración [@Prieto_21]. Estos "puntos calientes" temporales son estables en el tiempo y pueden ser visualizados como "latidos" (heartbeats) del delito, mostrando periodos de alto y bajo riesgo.
+
+Los delitos suelen aumentar los fines de semana y durante la noche, especialmente para las lesiones y ciertos robos en zonas nocturnas de ocio y entretenimiento, para luego descender dramáticamente durante la madrugada. En los puntos de conexión de los sistemas de transporte público, los delitos son mas comunes durante las noches, y en los períodos vacacionales, con factores ambientales (por ejemplo, la presencia de establecimientos de venta de alcohol) influenciando estos patrones.
+
+La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
 
 ::: {.callout-note appearance="\"simple"}
 **La teoría de las actividades rutinarias**
 
 La teoría de las actividades rutinarias fue desarrollada precisamente para tratar de entender cambios en los niveles de delincuencia...
-
 :::
 
 La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad interanual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
@@ -150,8 +155,7 @@ Una de las cuestiones más debatidas en los últimos tiempos ha sido el llamado 
 
 Tanto en Estados Unidos como en el Reino Unido, las primeras potencias criminológicas, el delito experimentó un muy visible descenso a partir de la década de los 1990. En la siguiente figura podéis ver los datos de la *Crime Survey for England and Wales* durante este período.
 
-![Evolución del delito en Inglaterra  y Gales](/images/crimedrop.png)
-Como se puede observar hay un descenso notable del delito desde mediados de los 90 hasta nuestros días en Inglaterra y Gales. ¿Por qué? ¿Es esta una tendencia tambien observable en otros países? ¿En qué medida se ha producido un desplazamiento hacia otro tipo de delitos que estos datos no miden bien?
+![Evolución del delito en Inglaterra y Gales](/images/crimedrop.png) Como se puede observar hay un descenso notable del delito desde mediados de los 90 hasta nuestros días en Inglaterra y Gales. ¿Por qué? ¿Es esta una tendencia tambien observable en otros países? ¿En qué medida se ha producido un desplazamiento hacia otro tipo de delitos que estos datos no miden bien?
 
 Empezemos por la última. Es verdad que las encuestas de victimación, aunque (cuando bien hechas) son generalmente consideradas como el instrumento más fiable para medir variaciones temporales en los niveles globales de delincuencia (ya que no se ven afectadas por el sesgo de denuncia), tradicionalmente no han medido delitos que a día de hoy se han vuelto muy relevantes. La ciberdelincuencia, en particular, es la forma delictiva del siglo XXI. Las encuestas de victimación, en su mayoría, no han medido historicamente estas formas delictivas. La *Crime Survey for England and Wales* fue la primera encuesta nacional que comenzó a experimentar y medir algunos de estos nuevos delitos. En la gráfica mostrada arriba se puede ver como a partir del 2017 esta encuesta incluye medidas de ciberdelincuencia. El gráfico muestra hasta que punto este tipo de delitos se ha convertido en un elemento central para entender la delincuencia contemporanea.
 
