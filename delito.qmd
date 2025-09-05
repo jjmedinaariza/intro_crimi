@@ -325,11 +325,11 @@ Un guion delictivo suele constar de los siguientes elementos [@Chainey_22]:
 
 * *Condiciones*: describen las circunstancias que influyen en la actividad delictiva y se desglosan en:
 
-+ Requisitos previos: condiciones que deben cumplirse antes de que comience la actividad ilegal.
+  + Requisitos previos: condiciones que deben cumplirse antes de que comience la actividad ilegal.
 
-+ Facilitadores: factores que hacen que la actividad sea más fácil y rentable.
+  + Facilitadores: factores que hacen que la actividad sea más fácil y rentable.
 
-+ Condiciones de aplicación: legislación, reglamentos y licencias que rigen el acto.
+  + Condiciones de aplicación: legislación, reglamentos y licencias que rigen el acto.
 
 Los guiones pueden completarse utilizando diversas fuentes de datos, como expedientes de casos, entrevistas e inteligencia de fuentes abiertas, y se utilizan para analizar delitos que van desde el crimen organizado y el terrorismo hasta el fraude y el narcotráfico. Este enfoque es especialmente valioso para la prevención situacional del delito, ya que destaca puntos específicos en los que las intervenciones pueden interrumpir el proceso delictivo. Para más detalles podéis leer en castellano a @Arenas_24.
 
