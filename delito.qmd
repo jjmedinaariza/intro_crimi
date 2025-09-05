@@ -311,23 +311,25 @@ En esencia, Katz argumenta que comprender las diversas experiencias emocionales 
 
 A la criminología también le motiva el entender de qué forma se cometen los delitos, el desarrollar descripciones adecuadas de la forma en que se articulan los mismos. Hay una larga tradición de investigación cualitativa que ha profundizado en estas cuestiones. Más recientemente se ha propuesto una herramienta, los guiones delictivos o **crime scripts** para sistematizar el modus operandi.
 
-Un guion delictivo es un modelo sistemático y procedimental que describe la secuencia de acciones, decisiones y acontecimientos que intervienen en la comisión de un tipo específico de delito. Fue introducido por primera vez por Cornish y se ha convertido en una herramienta muy utilizada en criminología para analizar el modus operandi (métodos) de los delincuentes e identificar puntos de intervención para la prevención del delito. Los guiones delictivos ayudan a descomponer delitos complejos en etapas distintas, como la preparación, la ejecución y las actividades posteriores al delito, lo que facilita la comprensión del comportamiento del delincuente y el diseño de estrategias de prevención específicas.
+Un guion delictivo es un modelo sistemático y procedimental que describe la secuencia de acciones, decisiones y acontecimientos que intervienen en la comisión de un tipo específico de delito. Son descripciones abstractas de un tipo particular de proceso conductual, es decir, secuencias estructuradas de comportamiento que se extienden en el tiempo y quizás en el espacio, que podrían considerarse unidades o subunidades funcionalmente autónomas de secuencias más largas.
 
-Los guiones delictivos suelen dividir un delito en escenas o fases clave (por ejemplo, preparación, preactividad, actividad, postactividad), detallando las acciones, decisiones y facilitadores en cada etapa. Pueden completarse utilizando diversas fuentes de datos, como expedientes de casos, entrevistas e inteligencia de fuentes abiertas, y se utilizan para analizar delitos que van desde el crimen organizado y el terrorismo hasta el fraude y el narcotráfico. Este enfoque es especialmente valioso para la prevención situacional del delito, ya que destaca puntos específicos en los que las intervenciones pueden interrumpir el proceso delictivo.
+Fue introducido por primera vez por Cornish y se ha convertido en una herramienta muy utilizada en criminología para analizar el modus operandi (métodos) de los delincuentes e identificar puntos de intervención para la prevención del delito. Los guiones delictivos ayudan a descomponer delitos complejos en etapas distintas, como la preparación, la ejecución y las actividades posteriores al delito, lo que facilita la comprensión del comportamiento del delincuente y el diseño de estrategias de prevención específicas. Este enfoque ofrece un valor significativo a los analistas criminales, ya que sirve como herramienta para "obtener información sobre el comportamiento del delincuente y los motivos de sus decisiones" y para "organizar los conocimientos existentes sobre los requisitos para cometer un delito, como las habilidades o los recursos que los delincuentes necesitan desplegar para ejecutar un delito" [@Dehghanniri_19, p. 2].
 
-En *Nature and crime*, Marcus @Felson_06 propone un esquema que aspira a resumir las caracteristicas universales de los delitos. @Felson_06 argumenta que todos los delitos tienen una "historia física": un delincuente se mueve hacia su objetivo y entonces actúa sobre este. Para ello se desplaza por una serie de *senderos* para llegar a su objetivo, en ocasiones encontrando *barreras* que tiene que superar a veces usando algunas *herramientas* para finalmente llegar a la *convergencia* con cualquiera que sea su *objetivo*. Estos elementos nos permitirían desarrollar una "taxonomía del delito" en términos de su modus operandi.
+Un guion delictivo suele constar de los siguientes elementos [@Chainey_22]:
 
-```{mermaid}
-flowchart LR
-  A(Senderos) --> B[Barreras]
-  B --> C{Herramientas}
-  C --> D(Convergencia)
-  D --> E(Objetivo)
-```
+* *Actos*: son las etapas clave del proceso de comisión del delito.
 
-Los **senderos** pueden ser *físicos*. Un atracador puede usar una autopista, una calle, un camino, para llegar al lugar donde va a cometer su atraco. Pero pueden ser *electrónicos*. Las telecomunicaciones en este sentido han abierto distintas avenidas para la comisión de delitos, pensemos en el ambito digital de la ciberdelincuencia. Finalmente, los senderos pueden ser organizacionales, aludiendo a la forma en que delincuentes pueden aprovecharse de su posición oficial o profesional para acceder a personas, datos, o cosas. Se trata en estos casos de delitos de acceso especializado.
+* *Escenas*: describen los escenarios en los que se producen los actos. @Tompson_11 simplificaron las clasificaciones originales de Cornish en cuatro categorías principales: «preparación; preactividad; actividad y postactividad».
 
-Las **barreras** también pueden ser diversas. @Felson_06 alude a cinco tipos distintos de formas de obstaculizar el "cámino físico" al delito.
+* *Reparto de actores*: se refiere a los participantes, personas u organizaciones, y a las funciones que desempeñan en cada escena.
 
-> ""
+* *Condiciones*: describen las circunstancias que influyen en la actividad delictiva y se desglosan en:
+
++ Requisitos previos: condiciones que deben cumplirse antes de que comience la actividad ilegal.
+
++ Facilitadores: factores que hacen que la actividad sea más fácil y rentable.
+
++ Condiciones de aplicación: legislación, reglamentos y licencias que rigen el acto.
+
+Los guiones pueden completarse utilizando diversas fuentes de datos, como expedientes de casos, entrevistas e inteligencia de fuentes abiertas, y se utilizan para analizar delitos que van desde el crimen organizado y el terrorismo hasta el fraude y el narcotráfico. Este enfoque es especialmente valioso para la prevención situacional del delito, ya que destaca puntos específicos en los que las intervenciones pueden interrumpir el proceso delictivo. Para más detalles podéis leer en castellano a @Arenas_24.
 
