@@ -131,6 +131,8 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 
 -   ¿Que impacto tiene el delito en las comunidades y espacios en los que ocurre?
 
+[TERMINAR CITANDO EL ARTICULO EN PAPERS 67 E INSERTAR ALGUNOS MAPAS DE VIPOLIS]
+
 ### El análisis temporal del delito
 
 Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local.
@@ -139,7 +141,11 @@ Los delitos se encuentran altamente concentrados en momentos específicos del d�
 
 Los delitos suelen aumentar los fines de semana y durante la noche, especialmente para las lesiones y ciertos robos en zonas nocturnas de ocio y entretenimiento, para luego descender dramáticamente durante la madrugada. En los puntos de conexión de los sistemas de transporte público, los delitos son mas comunes durante las noches, y en los períodos vacacionales, con factores ambientales (por ejemplo, la presencia de establecimientos de venta de alcohol) influenciando estos patrones.
 
+[INSERTAT FIGURA DE VIPOLIS]
+
 La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida [@Andresen_13; @McDowall_11; @Linning_16]. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
+
+[INSERTAR FIGURA DE VIPOLIS]
 
 ::: {.callout-note appearance="\"simple"}
 **La teoría de las actividades rutinarias**
@@ -173,7 +179,13 @@ Para estos autores es fundamental entender que las oportunidades del delito no s
 
 La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad interanual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
 
+[INSERTAT FIGURA DE VIPOLIS]
+
 El mes del año es un fuerte indicador de los niveles de delincuencia en muchos contextos, lo que respalda el uso de la estacionalidad en la previsión de la delincuencia y la asignación de recursos. Sin embargo, existen excepciones: algunos delitos (por ejemplo, los homicidios) muestran una estacionalidad débil o inconsistente, y los patrones microespaciales pueden permanecer estables incluso cuando las tasas generales fluctúan. La pandemia de COVID-19 [@Nivette_21] y otras perturbaciones sociales importantes pueden anular los patrones estacionales típicos.
+
+[INSERTAR ALGUNA FIGURA IMPACTO DE COVID]
+
+[MENCIONAR CAMBIOS TECNOLOGICOS Y LEGALES COMO DETERMINANTES]
 
 Una de las cuestiones más debatidas en los últimos tiempos ha sido el llamado **crime drop** (descenso del delito) y en qué grado este ha sido un fenómeno generalizado.
 
@@ -313,7 +325,7 @@ A la criminología también le motiva el entender de qué forma se cometen los d
 
 Un guion delictivo es un modelo sistemático y procedimental que describe la secuencia de acciones, decisiones y acontecimientos que intervienen en la comisión de un tipo específico de delito. Son descripciones abstractas de un tipo particular de proceso conductual, es decir, secuencias estructuradas de comportamiento que se extienden en el tiempo y quizás en el espacio, que podrían considerarse unidades o subunidades funcionalmente autónomas de secuencias más largas.
 
-Fue introducido por primera vez por Cornish y se ha convertido en una herramienta muy utilizada en criminología para analizar el modus operandi (métodos) de los delincuentes e identificar puntos de intervención para la prevención del delito. Los guiones delictivos ayudan a descomponer delitos complejos en etapas distintas, como la preparación, la ejecución y las actividades posteriores al delito, lo que facilita la comprensión del comportamiento del delincuente y el diseño de estrategias de prevención específicas. Este enfoque ofrece un valor significativo a los analistas criminales, ya que sirve como herramienta para "obtener información sobre el comportamiento del delincuente y los motivos de sus decisiones" y para "organizar los conocimientos existentes sobre los requisitos para cometer un delito, como las habilidades o los recursos que los delincuentes necesitan desplegar para ejecutar un delito" [@Dehghanniri_19, p. 2].
+Fue introducido por primera vez por @Cornish_ y se ha convertido en una herramienta muy utilizada en criminología para analizar el modus operandi (métodos) de los delincuentes e identificar puntos de intervención para la prevención del delito. Los guiones delictivos ayudan a descomponer delitos complejos en etapas distintas, como la preparación, la ejecución y las actividades posteriores al delito, lo que facilita la comprensión del comportamiento del delincuente y el diseño de estrategias de prevención específicas. Este enfoque ofrece un valor significativo a los analistas criminales, ya que sirve como herramienta para "obtener información sobre el comportamiento del delincuente y los motivos de sus decisiones" y para "organizar los conocimientos existentes sobre los requisitos para cometer un delito, como las habilidades o los recursos que los delincuentes necesitan desplegar para ejecutar un delito" [@Dehghanniri_19, p. 2].
 
 Un guion delictivo suele constar de los siguientes elementos [@Chainey_22]:
 
@@ -333,3 +345,4 @@ Un guion delictivo suele constar de los siguientes elementos [@Chainey_22]:
 
 Los guiones pueden completarse utilizando diversas fuentes de datos, como expedientes de casos, entrevistas e inteligencia de fuentes abiertas, y se utilizan para analizar delitos que van desde el crimen organizado y el terrorismo hasta el fraude y el narcotráfico. Este enfoque es especialmente valioso para la prevención situacional del delito, ya que destaca puntos específicos en los que las intervenciones pueden interrumpir el proceso delictivo. Para más detalles podéis leer en castellano a @Arenas_24.
 
+[INSERTAR ALGÚN EJEMPLO]
