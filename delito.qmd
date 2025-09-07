@@ -140,15 +140,17 @@ Las variaciones temporales en la delincuencia también son un importante objeto 
 ::: {.callout-note appearance="\"simple"}
 **Las tendencias históricas del delito**
 
-Hay un creciente interés por entender cambios en la delincuencia a largo plazo. Por las dificultades de obteber datos fiables sobre otras formas de delincuencia, buena parte de la investigación se ha centrado en estudiar los patrones de la violencia, fundamentalmente en Europa, desde mediados del siglo XVI hasta nuestros días. El trabajo de @Eisner_03 en este ámbito es de obligada lectura. Este autor observa que:
+Hay un creciente interés por entender cambios en la delincuencia a largo plazo. Por las dificultades de obteber datos fiables sobre otras formas de delincuencia, buena parte de la investigación se ha centrado en estudiar los patrones de la violencia, fundamentalmente en Europa, desde mediados del siglo XVI hasta nuestros días. El trabajo de @Eisner_03 en este ámbito es de obligada lectura. @Eisner_03 [p. 83] observa que:
 
 "se pueden distinguir diferentes trayectorias a largo plazo en la disminución de los homicidios entre las distintas regiones europeas. Sin embargo, los patrones de edad y sexo en los delitos violentos graves han cambiado muy poco a lo largo de varios siglos. La disminución a largo plazo de las tasas de homicidios parece ir acompañada de una disminución desproporcionada de los homicidios entre las élites y de una caída de los conflictos entre hombres en el espacio público. Se han ofrecido diversas explicaciones teóricas para esta disminución a largo plazo, entre ellas los efectos del proceso de civilización, el fortalecimiento de los poderes del Estado, la Reforma protestante y el individualismo moderno, pero la mayoría de las teorías han sido post hoc."
 
-Otros autores han invitado a la cautela en relación con estas interpretaciones. @Schwerhoff_21 sugieren que:
+Otros autores han invitado a la cautela en relación con estas interpretaciones. @Aebi_16 [p. 57] señalan que: 
+
+"advierte que explicar la disminución de la violencia interpersonal en los países industrializados occidentales desde finales de la Edad Media mediante el efecto de un proceso civilizador requiere pasar por alto los genocidios, las matanzas masivas y los crímenes de guerra cometidos en estos países y en sus antiguas colonias."
+
+Mientras que @Schwerhoff_21 [p.1] sugieren que:
 
 "un análisis crítico exhaustivo de las fuentes plantea serias dudas sobre la solidez empírica de la tesis del declive. Las formas y los contenidos de las fuentes son inmensamente heterogéneos y un examen más detallado de la supuesta riqueza de los datos revela lagunas notables. Además, las estimaciones de población medievales y de principios de la Edad Moderna son muy poco fiables. Por lo tanto, defendemos que la investigación histórica sobre la violencia debe volver a centrarse en constelaciones históricas específicas, aceptar la necesidad de un análisis crítico minucioso de las fuentes y prestar especial atención a los contextos de la violencia."
-
-Por su parte, @Aebi_17 destacan que:
 
 :::
 
