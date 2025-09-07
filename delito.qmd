@@ -137,6 +137,21 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 
 Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local.
 
+::: {.callout-note appearance="\"simple"}
+**Las tendencias históricas del delito**
+
+Hay un creciente interés por entender cambios en la delincuencia a largo plazo. Por las dificultades de obteber datos fiables sobre otras formas de delincuencia, buena parte de la investigación se ha centrado en estudiar los patrones de la violencia, fundamentalmente en Europa, desde mediados del siglo XVI hasta nuestros días. El trabajo de @Eisner_03 en este ámbito es de obligada lectura. Este autor observa que:
+
+"se pueden distinguir diferentes trayectorias a largo plazo en la disminución de los homicidios entre las distintas regiones europeas. Sin embargo, los patrones de edad y sexo en los delitos violentos graves han cambiado muy poco a lo largo de varios siglos. La disminución a largo plazo de las tasas de homicidios parece ir acompañada de una disminución desproporcionada de los homicidios entre las élites y de una caída de los conflictos entre hombres en el espacio público. Se han ofrecido diversas explicaciones teóricas para esta disminución a largo plazo, entre ellas los efectos del proceso de civilización, el fortalecimiento de los poderes del Estado, la Reforma protestante y el individualismo moderno, pero la mayoría de las teorías han sido post hoc."
+
+Otros autores han invitado a la cautela en relación con estas interpretaciones. @Schwerhoff_21 sugieren que:
+
+"un análisis crítico exhaustivo de las fuentes plantea serias dudas sobre la solidez empírica de la tesis del declive. Las formas y los contenidos de las fuentes son inmensamente heterogéneos y un examen más detallado de la supuesta riqueza de los datos revela lagunas notables. Además, las estimaciones de población medievales y de principios de la Edad Moderna son muy poco fiables. Por lo tanto, defendemos que la investigación histórica sobre la violencia debe volver a centrarse en constelaciones históricas específicas, aceptar la necesidad de un análisis crítico minucioso de las fuentes y prestar especial atención a los contextos de la violencia."
+
+Por su parte, @Aebi_17 destacan que:
+
+:::
+
 Los delitos se encuentran altamente concentrados en momentos específicos del día y de la semana, pero la intensidad de estas concentraciones varía por tipo de delito y región. Por ejemplo, algunos estudios sugieren que los robos a usarios de bancos o servicios de entrega de comida a domicilio suelen concentrarse en horas muy concretas, mientras que los hurtos y otro tipo de robos exhiben una menor concentración [@Prieto_21]. Estos "puntos calientes" temporales son estables en el tiempo y pueden ser visualizados como "latidos" (heartbeats) del delito, mostrando periodos de alto y bajo riesgo.
 
 ![Tasas estandarizadas de delitos de robos en Barcelona por hora y año para turistas y residentes.En ambos casos, los robos se concentran a última hora de la tarde, a última hora de la noche y a primera hora de la mañana. Pero los residentes muestran un patrón distintivo en forma de «W» con un aumento pronunciado durante las primeras horas de la tarde, desde el mediodía hasta las 14:00. Fuente: Trinidad, Medina y Marteache, 2024](/images/hours.png)

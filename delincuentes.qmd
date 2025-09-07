@@ -99,7 +99,21 @@ Durante años la investigación criminológica se ha esforzado en tratar de esti
 
 Por lo que aquí respecta, lo importante a subrayar es que este enfoque supuso un paso determinante a entender la delincuencia como una etapa transitoria en la vida de las personas que cometen algún delito en su vida, no como una calidad o condición inmutable de las personas. Tan relevante es ahora esta relación que:
 
-> A los teóricos se les recuerda con frecuencia quesus explicaciones sobre la de incuencia deben ajustarse a la distribución por edades, y las teorías se juzgan a menudo por su capacidad para abordar la «reforma madurativa», la «remisión espontánea» o el efecto del «envejecimiento». [@Hirschi_83, p. 553]
+> "A los teóricos se les recuerda con frecuencia quesus explicaciones sobre la de incuencia deben ajustarse a la distribución por edades, y las teorías se juzgan a menudo por su capacidad para abordar la «reforma madurativa», la «remisión espontánea» o el efecto del «envejecimiento»." [@Hirschi_83, p. 553]
+
+La criminología evolutiva que ha dominado el estudio de los delincuentes durante las últimas décadas básicamente ha venido a aceptar que [@Steffensmeier_25, p. 241]:
+
+> * "El grupo de edad de entre los 15 a 19 es el que exhibe una mayor tasa de participación en actividades delictivas.
+>
+> * La delincuencia entre los adolescentes tiene tasas de prevalencia altas, con un porcentaje elevado de los mismos participando en actividades delictivas.
+>
+> * La curva del delito se caracteriza por un rápido aumento y un pico temprano, seguido de un rápido descenso inicial y
+luego un descenso gradual."
+
+::: {.callout-note appearance="\"simple"}
+**¿Son las premisas de la curva de la edad y el delito universales**
+
+::: 
 
 De forma relacionada dentro de la criminología se vino a desarrollar lo que se llamó el **paradigma del factor de riesgo**, que tuvo entre sus más prolíficos defensores al británico David Farrington, que fue investigador en uno de los primeros y mas famosos estudios longitudinales de la delincuencia el *Cambridge Study in Delinquent Development*, un estudio de 411 varones nacidos en Londres en 1953 en barrios empobrecidos y que fueron seguidos desde que tenían 8/9 años hasta sus 48.
 
@@ -139,17 +153,18 @@ Por el otro lado tendríamos el subgrupo que Moffitt define como antisociales pe
 
 El inicio temprano en la delincuencia de este subgrupo para @Moffitt_93 resulta de la interacción en estos menores de vulnerabilidades neuropsicológicas con el haber crecido en ambientes criminógenos. Es la presencia en la edad temprana de estos individuos de estos factores que pueden servirnos para entender el prematuro inicio de su comportamiento antisocial.
 
-[TERMINAR SECCIóN]
-...
+\[TERMINAR SECCIóN\] ...
 
 ## Los “psicópatas”
 
-[EN CONSTRUCCIÓN]
+\[EN CONSTRUCCIÓN\]
 
 ## Especialización y delincuencia
 
-[EN CONSTRUCCIÓN]
+\[EN CONSTRUCCIÓN\]
 
 ## Co-delincuencia
 
-[EN CONSTRUCCIÓN]
+\[EN CONSTRUCCIÓN\]
+
+## Explicando la participación en el delito
