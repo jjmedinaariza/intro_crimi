@@ -23,7 +23,9 @@ El contexto de la discusión fue la introducción del concepto de **delincuencia
 
 > "Consideramos que el «delincuente de cuello blanco», el infractor de las normas de conducta y la personalidad antisocial no son delincuentes en ningún sentido significativo para el científico social, a menos que haya infringido una ley penal. No podemos considerarlo como tal a menos que haya sido debidamente condenado. Puede ser un grosero, un pecador, un leproso moral o el diablo encarnado, pero no se convierte en delincuente por los insultos sociológicos a menos que la autoridad política constituida diga que lo es." [@Tappan_47, p. 97]
 
-No obstante, sería absurdo pretender que la criminología solo estudia o debería estudiar infracciones penales. Nunca ha sido así, por más que el estudio del delito sea central a la disciplina, ni probablemente debería serlo.
+No obstante, sería absurdo pretender que la criminología solo estudia o debería estudiar infracciones penales. Nunca ha sido así, por más que el estudio del delito sea central a la disciplina, ni probablemente debería serlo. De hecho algunos autores han sido muy críticos sobre lo que ceder al Estado y su legislación penal los contornos de nuestra disciplina implica. En palabras de Colin @Sumner_94 [301-302]:
+
+> "Tomar las categorías políticamente organizadas de dominación estatal y las categorizaciones de los funcionarios encargados de hacer cumplir la ley como nociones científicas es convertir las herramientas sectoriales e históricas del Estado en conceptos de comportamiento universalmente válidos. Es tomar el Estado como Dios de todo conocimiento y asumir que incluso el consentimiento popular a la legislación transforma automáticamente el juicio político vinculado al contexto en verdad universal. Como tal, es un acto de fe ciega en el orden político moderno, o el abandono de todos los principios de moralidad e investigación a los dioses de la carrera profesional, el dinero y el ascenso. En cualquiera de los dos casos, se trata, en el sentido antiguo o nuevo de la palabra ideología, de una práctica ideológica."
 
 Aunque es cierto que las criminólogas dedican la mayor parte del tiempo a estudiar infracciones penales, gestionadas por el sistema de justicia penal, también es cierto que estudian otro tipo de ilícitos o conductas. Generalmente la focalización en distintos conceptos de lo "desviado" o lo infractor ha venido ligado a distintas perspectivas disciplinarias o teóricas (dentro de o relacionadas con) la criminología.
 
@@ -93,17 +95,17 @@ Si nos dejaramos llevar por los medios de comunicación social, tendriamos que c
 
 Marcus Felson es uno de los autores que precisamente más ha insistido en la necesidad de desarrollar una visión más realista y prosaica del delito. Su obra está llena de perlas que le sirven para subrayar esto:
 
-> "Los detectives ficticios de televisión no tendrían ningún interés en la mayoría de ... asesinatos" 
+> "Los detectives ficticios de televisión no tendrían ningún interés en la mayoría de ... asesinatos"
 
->"La mayoría de los asesinatos son el trágico resultado de una pequeña y estúpida disputa. De hecho, el asesinato es menos un delito que una consecuencia. El camino hacia el asesinato no difiere mucho del de una pelea común, salvo que, por desgracia, alguien ha muerto. El asesinato tiene dos características fundamentales: una pistola demasiado cerca y un hospital demasiado lejos" 
+> "La mayoría de los asesinatos son el trágico resultado de una pequeña y estúpida disputa. De hecho, el asesinato es menos un delito que una consecuencia. El camino hacia el asesinato no difiere mucho del de una pelea común, salvo que, por desgracia, alguien ha muerto. El asesinato tiene dos características fundamentales: una pistola demasiado cerca y un hospital demasiado lejos"
 
->"El trabajo policial consiste en horas y horas de aburrimiento... El riesgo anual de morir en acto de servicio es solo del 0,000113, es decir, aproximadamente 11 por cada 100 000 agentes" 
+> "El trabajo policial consiste en horas y horas de aburrimiento... El riesgo anual de morir en acto de servicio es solo del 0,000113, es decir, aproximadamente 11 por cada 100 000 agentes"
 
->"La mayoría de los delitos son muy sencillos y no requieren habilidades avanzadas" 
+> "La mayoría de los delitos son muy sencillos y no requieren habilidades avanzadas"
 
-> "La mayoría de las organizaciones criminales son muy rudimentarias" 
+> "La mayoría de las organizaciones criminales son muy rudimentarias"
 
->"Las bandas delictivas son extremadamente aburridas la mayor parte del tiempo"
+> "Las bandas delictivas son extremadamente aburridas la mayor parte del tiempo"
 
 Aunque estamos acostumbrados a una determinada imagen del delito, esta está contaminada por las narraciones que del mismo se hacen en los medios de comunicación que tienden a exagerar la prevalencia de determinados delitos y una serie de características de los mismos que generalmente no están presentes en la mayor parte de las transgresiones que se producen en la vida cotidiana.
 
@@ -218,7 +220,7 @@ La teoría de las actividades rutinarias fue desarrollada precisamente para trat
 
     -   Acceso: Cuán fácilmente puede un delincuente llegar al objetivo (por ejemplo, patrones de calles, bienes colocados cerca de una puerta).
 
--   *La ausencia de un guardián capaz*: Un guardián es cualquiera cuya presencia o proximidad podría disuadir un crimen. Este es a menudo un ciudadano común —como un ama de casa, un hermano, un amigo o un transeúnte— en lugar de un oficial de policía o un guardia de seguridad, y su vigilancia puede ser inadvertida. Cuando los guardianes están ausentes, el objetivo se vuelve particularmente vulnerable al ataque.
+-   *La ausencia de un guardián capaz*: Un guardián es cualquiera cuya presencia o proximidad podría disuadir un crimen. Este es a menudo un ciudadano común ---como un ama de casa, un hermano, un amigo o un transeúnte--- en lugar de un oficial de policía o un guardia de seguridad, y su vigilancia puede ser inadvertida. Cuando los guardianes están ausentes, el objetivo se vuelve particularmente vulnerable al ataque.
 
 La teoría de la actividad rutinaria argumenta que la oportunidad es una "causa fundamental" del delito, mas importante como las variables personales y sociales. Sostiene que los cambios en la vida comunitaria y la estructura social pueden aumentar las tasas de criminalidad simplemente al alterar la cantidad de oportunidades delictivas, incluso sin ningún cambio en las motivaciones de los posibles delincuentes. La teoría establece explícitamente que ningún crimen puede ocurrir sin las oportunidades físicas para llevarlo a cabo; por lo tanto, las oportunidades de crimen son condiciones necesarias para que el crimen ocurra.
 
@@ -255,7 +257,7 @@ Al margen de estudiar el delito a nivel más macro y agregado para entender su d
 
 ### El delito como transacción situacional
 
-El concepto del delito como una «transacción situada» fue desarrollado notablemente por David F. Luckenbill, quien analizó los homicidios como secuencias de interacciones entre el agresor y la víctima. Una «transacción situada» se refiere a una cadena de interacción entre dos o más individuos que dura el tiempo que se encuentran en la presencia física inmediata unos de otros. @Luckenbill_77 descubrió que el asesinato suele ser el resultado de una serie de intercambios cada vez más intensos —lo que Goffman denominó «competición de caracteres»— en los que cada parte busca mantener o recuperar su «prestigio» mediante desafíos verbales y físicos. El resultado (por ejemplo, el homicidio) viene determinado por el contexto social inmediato y las acciones de todos los implicados, y no solo por la intención o los antecedentes individuales. Investigaciones posteriores respaldan esta opinión, demostrando que muchos delitos violentos, especialmente los homicidios, se desarrollan como procesos interactivos.
+El concepto del delito como una «transacción situada» fue desarrollado notablemente por David F. Luckenbill, quien analizó los homicidios como secuencias de interacciones entre el agresor y la víctima. Una «transacción situada» se refiere a una cadena de interacción entre dos o más individuos que dura el tiempo que se encuentran en la presencia física inmediata unos de otros. @Luckenbill_77 descubrió que el asesinato suele ser el resultado de una serie de intercambios cada vez más intensos ---lo que Goffman denominó «competición de caracteres»--- en los que cada parte busca mantener o recuperar su «prestigio» mediante desafíos verbales y físicos. El resultado (por ejemplo, el homicidio) viene determinado por el contexto social inmediato y las acciones de todos los implicados, y no solo por la intención o los antecedentes individuales. Investigaciones posteriores respaldan esta opinión, demostrando que muchos delitos violentos, especialmente los homicidios, se desarrollan como procesos interactivos.
 
 ::: {.callout-note appearance="\"simple"}
 **La teoría de las acciones coercitivas**
@@ -305,9 +307,9 @@ Ante las críticas al modelo económico puro, criminólogos como Derek Cornish y
 
 ![The Reasoning Criminal](/images/the-reasoning-criminal.jpg){fig-align="left" width="2in"}
 
-En las últimas décadas, la perspectiva de la elección racional ha sido enriquecida por aportes de la psicología del juicio y la toma de decisiones y de la neurociencia. Estos refinamientos no niegan que el delito sea, en parte, una decisión, pero muestran que esa decisión está plagada de sesgos, limitaciones y particularidades cognitivas. @Kahneman_79, por ejemplo, demostraron que los individuos no evalúan probabilidades de manera lineal. Tienden a sobrestimar probabilidades bajas y a subestimar probabilidades altas. Para el delincuente, esto implica que el “riesgo de ser atrapado” puede ser percibido de manera distorsionada: algunos lo magnifican, otros lo minimizan casi hasta ignorarlo.
+En las últimas décadas, la perspectiva de la elección racional ha sido enriquecida por aportes de la psicología del juicio y la toma de decisiones y de la neurociencia. Estos refinamientos no niegan que el delito sea, en parte, una decisión, pero muestran que esa decisión está plagada de sesgos, limitaciones y particularidades cognitivas. @Kahneman_79, por ejemplo, demostraron que los individuos no evalúan probabilidades de manera lineal. Tienden a sobrestimar probabilidades bajas y a subestimar probabilidades altas. Para el delincuente, esto implica que el "riesgo de ser atrapado" puede ser percibido de manera distorsionada: algunos lo magnifican, otros lo minimizan casi hasta ignorarlo.
 
-La investigación en economía conductual también muestra que los individuos aplican un descuento hiperbólico al futuro: prefieren recompensas inmediatas aunque sean pequeñas frente a castigos o beneficios lejanos. Esto explica por qué las sanciones diferidas —como una pena de cárcel que llegará tras un largo proceso— tienen un poder disuasorio menor.
+La investigación en economía conductual también muestra que los individuos aplican un descuento hiperbólico al futuro: prefieren recompensas inmediatas aunque sean pequeñas frente a castigos o beneficios lejanos. Esto explica por qué las sanciones diferidas ---como una pena de cárcel que llegará tras un largo proceso--- tienen un poder disuasorio menor.
 
 El trabajo de Kahneman ha sido importante en el desarrollo de la teoría del proceso dual. @Kahneman_11 distingue entre dos modos de procesamiento cognitivo:
 
@@ -319,7 +321,7 @@ Ambos sistemas interactúan constantemente, pero no de manera simétrica: el Sis
 
 ![Thinking Fast, Thinking Slow](/images/thinking.jpg){fig-align="left" width="2in"}
 
-Muchos delitos —peleas, robos oportunistas, vandalismo— ocurren en contextos de alta emocionalidad, presión social o búsqueda inmediata de gratificación. En estos casos puede predominar el Sistema 1: rápido, emocional y miopemente enfocado en la recompensa inmediata. Por el contrario, en otros delitos en los que puede haber más planificación —fraudes financieros, robos organizados, corrupción— se apreciará más facilmente la activación del Sistema 2. El delincuente evalúa opciones de forma más consciente, calcula riesgos, planifica la ejecución y anticipa medidas de evasión. La evidencia de entrevistas con delincuentes de cuello blanco o con ladrones profesionales muestra que analizan costes de seguridad, probabilidad de captura y ganancias esperadas. Esto es, en todo caso, un ejemplo simplificado sólo a efectos expositivos. En la práctica los dos sistemas no operan de forma aislada. Incluso delitos que nos pueden parecer planificados, por ejemplo, a menudo se cometerán en modo pilóto automático.
+Muchos delitos ---peleas, robos oportunistas, vandalismo--- ocurren en contextos de alta emocionalidad, presión social o búsqueda inmediata de gratificación. En estos casos puede predominar el Sistema 1: rápido, emocional y miopemente enfocado en la recompensa inmediata. Por el contrario, en otros delitos en los que puede haber más planificación ---fraudes financieros, robos organizados, corrupción--- se apreciará más facilmente la activación del Sistema 2. El delincuente evalúa opciones de forma más consciente, calcula riesgos, planifica la ejecución y anticipa medidas de evasión. La evidencia de entrevistas con delincuentes de cuello blanco o con ladrones profesionales muestra que analizan costes de seguridad, probabilidad de captura y ganancias esperadas. Esto es, en todo caso, un ejemplo simplificado sólo a efectos expositivos. En la práctica los dos sistemas no operan de forma aislada. Incluso delitos que nos pueden parecer planificados, por ejemplo, a menudo se cometerán en modo pilóto automático.
 
 Resumiendo algunas de estos cuestiones, la evidencia viene a mostrar apoyo a las siguientes cuestiones en la toma de decisiones por parte de los delincuentes [@Bernasco_17]:
 
@@ -368,7 +370,7 @@ Algunas emociones clave y su manifestación en el delito incluirían:
 
 -   *Vértigo y mal primordial*: Los asesinatos descritos como asesinatos sin sentido y a sangre fría están motivados por una preocupación por cuestiones morales y una seducción por las atracciones del mal primordial. La dinámica emocional se caracteriza por un "vértigo" donde los individuos oscilan entre un compromiso lúdico con el simbolismo desviado y una "vergüenza paranoica en la conformidad". La naturaleza "sin sentido" de estos asesinatos, donde hay poca ganancia material y las víctimas a menudo no se resisten, desafía la comprensión convencional. Para los perpetradores, se convierte en un acto positivo de reclamar su estatus como un desviado impresionante, una "resolución creativa" de su incertidumbre moral, donde infligen sufrimiento para escribir en la sangre de sus víctimas la historia de la falta de respeto y la falta de fe con la que otros los habían profanado. Esto a menudo refleja una "crisis de comprensión" para los propios asesinos, quienes pueden cuestionar su propia normalidad después del acto.
 
-En esencia, Katz argumenta que comprender las diversas experiencias emocionales —que van desde la rabia y las emociones fuertes hasta el pavor, el suspense y una vertiginosa aceptación del mal— es crucial para entender por qué la gente comete crímenes, yendo más allá de las explicaciones simplistas materialistas o centradas en la personalidad o el ambiente social de los delincuentes.
+En esencia, Katz argumenta que comprender las diversas experiencias emocionales ---que van desde la rabia y las emociones fuertes hasta el pavor, el suspense y una vertiginosa aceptación del mal--- es crucial para entender por qué la gente comete crímenes, yendo más allá de las explicaciones simplistas materialistas o centradas en la personalidad o el ambiente social de los delincuentes.
 :::
 
 ### El cómo del delito: los guiones del delito (crime scripts)
