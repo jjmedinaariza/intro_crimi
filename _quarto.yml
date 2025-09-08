@@ -34,7 +34,7 @@ book:
         - colonial.qmd
         - green.qmd
         
-    - part: "Función"
+    - part: "¿Criminología para qué?"
       chapters: 
         - politica.qmd
         - prevencion.qmd
