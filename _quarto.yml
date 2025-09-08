@@ -17,7 +17,7 @@ book:
         - metodo.qmd
         - medicion.qmd
         
-    - part: "Objetos"
+    - part: "Temas de estudio"
       chapters: 
         - delito.qmd
         - delincuentes.qmd

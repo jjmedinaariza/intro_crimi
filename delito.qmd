@@ -27,7 +27,7 @@ No obstante, sería absurdo pretender que la criminología solo estudia o deber�
 
 Aunque es cierto que las criminólogas dedican la mayor parte del tiempo a estudiar infracciones penales, gestionadas por el sistema de justicia penal, también es cierto que estudian otro tipo de ilícitos o conductas. Generalmente la focalización en distintos conceptos de lo "desviado" o lo infractor ha venido ligado a distintas perspectivas disciplinarias o teóricas (dentro de o relacionadas con) la criminología.
 
-Algunos psicólogos que trabajan en el ámbito de la criminología, por ejemplo, han centrado su atención no en el concepto de delito sino el de **desorden de conducta**, un patrón de comportamiento repetitivo y persistente que puede incluir sustracciones de propiedad, mentiras, violencia física, vandalismo, incumplimiento imprudente de las normas y otras formas de comportamiento antisocial. Mientras que durante mucho tiempo dentro de la sociología hubo un interés notable por la **sociología de la desviación**. Esta campo de estudio estaba interesado en explorar las acciones o comportamientos que violan las normas sociales  de reglas formales, así como las violaciones informales de las normas sociales (por ejemplo, el rechazo de las costumbres y las tradiciones). Para estos sociologos el punto de anclaje era la *desviación*, siendo el delito solo una de las muchas formas de desviación.
+Algunos psicólogos que trabajan en el ámbito de la criminología, por ejemplo, han centrado su atención no en el concepto de delito sino el de **desorden de conducta**, un patrón de comportamiento repetitivo y persistente que puede incluir sustracciones de propiedad, mentiras, violencia física, vandalismo, incumplimiento imprudente de las normas y otras formas de comportamiento antisocial. Mientras que durante mucho tiempo dentro de la sociología hubo un interés notable por la **sociología de la desviación**. Esta campo de estudio estaba interesado en explorar las acciones o comportamientos que violan las normas sociales de reglas formales, así como las violaciones informales de las normas sociales (por ejemplo, el rechazo de las costumbres y las tradiciones). Para estos sociologos el punto de anclaje era la *desviación*, siendo el delito solo una de las muchas formas de desviación.
 
 Más recientemente ha habido propuestas de resituar el objeto de interés de nuestra disciplina. Una de estas propuestas es la desarrollada por los defensores de los llamados **estudios de la regulación**. Algunos autores como el criminólogo australiano John Braitwaite, de hecho, considera vital para la criminología el dedicar mucha más energía de la dedicada hasta ahora a entender mecanismos reguladores diferente de los articulados en torno al sistema de control y justicia penal y, por tanto, prestar más atención, entre otras cosas, al distintos mecanismos de regulación (y las infracciones ligadas a los mismos).
 
@@ -57,13 +57,17 @@ Los penalistas suelen definir los delitos como las acciones u omisiones tipifica
 
 El delito, no obstante, no solamente es una categoría legal, sino que también es una construcción social. Las conductas que se consideran delictivas han ido variando a lo largo del tiempo y los códigos penales tambian varían de forma significativa entre países. Hay algunas conductas que suelen ser consideradas delictivas de forma más o menos universal, pero su regulación y contornos también ha cambiado a lo largo del tiempo. Cada vez hay un mayor interés por parte de historiadores de entender el delito y la justicia penal, desde la historia se están produciendo contribuciones muy relevantes para entender precisamente estas variaciones a lo largo de la historia.
 
-En todo coso, para hacer frente a esta limitación para ponernos de acuerdo sobre lo que es un delito, @Felson_06 [p. 35] propone que adoptemos un enfoque pragmático y consideremos como delito "cualquier conducta identificable que un numero apreciable de gobiernos haya prohibido y a la que aplique sanciones penales".
+En todo coso, para hacer frente a esta limitación para ponernos de acuerdo sobre lo que es un delito, @Felson_06 [p. 35] propone que adoptemos un enfoque pragmático y consideremos como delito "cualquier conducta identificable que un numero apreciable de gobiernos haya prohibido y a la que aplique sanciones penales". Otros criminólogos en cambio proponían una definición del delito que tratase de trascender el problema de la vinculación a legislaciones penales concretas tratando de identificar su naturaleza universal [@Gottfredson_11]. Así @Gottfredson_90 [p. 15] definían el delito como "actos de fuerza o fraude realizados en beneficio del interés propio".
 
 El delito también es una construcción social en otro sentido. Como señala @Zedner_11 [p. 272]:
 
 > "El delito no es solo una cuestión de lo que se define legislativamente como tal, sino de lo que los funcionarios de la justicia penal realmente persiguen, investigan, procesan y castigan."
 
 En los manuales de justicia penal se hace referencia a menudo a la metafora del embudo, para aludir a cómo empezamos con los delitos cometidos, de los que apenas se denuncian la mitad, se resuelve un porcentaje menor, y muchos menos se adjudican o resuelven a traves del proceso y castigo penal. Entre el universo legal de delitos contemplados en el Código Penal y los delitos actualmente denunciados, perseguidos y penalmente resueltos media (y siempre mediará) un amplio abismo.
+
+Como señalan @Felson_19:
+
+> "En la mayoría de los delitos conocidos por la policía, nadie es arrestado. Cuando hay un arresto, la mayoría de los casos nunca se envían al fiscal. De los casos que llegan a juicio, la mayoría conducen a un acuerdo entre el abogado y el fiscal, no a un juicio. De los que llegan a juicio, es mucho más probable que se celebre un juicio sin jurado en un tribunal ... local que un juicio con jurado en toda regla, como se ve en la televisión. Incluso las personas condenadas tienen muchas posibilidades de evitar el encarcelamiento, a pesar de varias décadas de políticas de «ley y orden». Por ejemplo, se estimaron unos 3,3 millones de robos en viviendas en Estados Unidos en 2016.11 De ellos, aproximadamente la mitad de los incidentes se denunciaron a la policía. Aproximadamente 1 de cada 10 resultó en arrestos. Estimamos que solo alrededor del 1 por ciento de los robos dan lugar a una condena y aún menos a encarcelamiento. La probabilidad de ser castigado por un delito relacionado con las drogas es aún mucho menor."
 
 ![Diagrama de flujo del sistema de justicia penal (Fuente: US Bureau of Justice Statistics)](/images/flowchart.png)
 
@@ -79,7 +83,27 @@ La criminología se preocupa, por tanto, por al menos tres tipos de cuestiones e
 
 -   ¿Que delitos se cometen y cuándo, donde, cómo y por qué (con independencia de la respuesta que las instancias del Estado den a estos delitos)?
 
-Las dos primeras preguntas serán abordades de forma más detenida en el capítulo 8. En lo que resta de este capítulo nos centraremos en la tercera de ellas.
+Las dos primeras preguntas serán abordades de forma más detenida en el capítulo 8. En el apartado 2 de esta capítulos nos centraremos en la tercera de ellas. Pero antes nos vamos a adentrar brevemente en otro debate: ¿Existen rasgos más o generales que definan a los actos que definimos como delictivos?
+
+### ¿Las características generales del delito?
+
+Si nos dejaramos llevar por los medios de comunicación social, tendriamos que caracterizar los delitos como eventos dramáticos y generalmente violentos. Tanto la industria del entretenimiento como los medios informativos compiten en la economía de la atención y buscan captar la nuestra contando historias sobre delitos que reunen estas características. @Felson llama esto la *falacia del drama*:
+
+> "La mayoría de los actos delictivos no son muy inteligentes ni románticos. La falacia dramática afirma que los delitos más publicitados están muy alejados de la vida real. Los medios de comunicación se dejan llevar por una secuencia de horror y distorsión. Encuentran una historia de terror y luego entretienen al público con ella. Ganan dinero con ello, al tiempo que crean un mito en la mente del público. Luego se basan en ese mito para la siguiente historia de terror. Así, el crimen se vuelve muy distorsionado en la mente del público"
+
+Marcus Felson es uno de los autores que precisamente más ha insistido en la necesidad de desarrollar una visión más realista y prosaica del delito. Su obra está llena de perlas que le sirven para subrayar esto:
+
+> "Los detectives ficticios de televisión no tendrían ningún interés en la mayoría de ... asesinatos" "La mayoría de los asesinatos son el trágico resultado de una pequeña y estúpida disputa. De hecho, el asesinato es menos un delito que una consecuencia. El camino hacia el asesinato no difiere mucho del de una pelea común, salvo que, por desgracia, alguien ha muerto. El asesinato tiene dos características fundamentales: una pistola demasiado cerca y un hospital demasiado lejos" "El trabajo policial consiste en horas y horas de aburrimiento... El riesgo anual de morir en acto de servicio es solo del 0,000113, es decir, aproximadamente 11 por cada 100 000 agentes" "La mayoría de los delitos son muy sencillos y no requieren habilidades avanzadas" "La mayoría de las organizaciones criminales son muy rudimentarias" "Las bandas delictivas son extremadamente aburridas la mayor parte del tiempo"
+
+Aunque estamos acostumbrados a una determinada imagen del delito, esta está contaminada por las narraciones que del mismo se hacen en los medios de comunicación que tienden a exagerar la prevalencia de determinados delitos y una serie de características de los mismos que generalmente no están presentes en la mayor parte de las transgresiones que se producen en la vida cotidiana.
+
+En 1990 Michael Gottfredson y Travis Hirschi publicaron un libro, *A general theory of crime*, que ha sido muy influyente en nuestra disciplina. En este libro ellos proponían una nueva teoría del delito que tendréis ocasión de estudiar en vuestras asignaturas de teoría del delito (la teoría del autocontrol). En el capítulo segundo de este libro, @Gottfredson_90 [p. 16] proponían tratar de identificar los rasgos esenciales del delito. Para estos autores:
+
+> "El hecho es que la gran mayoría de los actos delictivos son asuntos triviales y mundanos que provocan pocas pérdidas y menos ganancias. Se trata de sucesos cuya distribución temporal y espacial es muy predecible, que requieren poca preparación, dejan pocas consecuencias duraderas y, a menudo, no producen el resultado deseado por el delincuente."
+
+@Gottfredson_90 consideran que lo que sabemos sobre la distribución espacio temporal del delito sugiere que los delincuentes muestran una reticencia a esforzarse en la comisión de delitos; demuestran que la accesibilidad aumenta el riesgo de las víctimas potenciales; y muestran que evitar ser detectado forma parte del cálculo del delincuente. Los delitos comunes, que son la gran mayoría de los delitos, requieren poco esfuerzo, planificación, preparación o habilidad y tienen un coste para las víctimas que es generalmente muy trivial en términos económicos o personales. Si casi la mitad de los delitos no se denuncian es precisamente porque las víctimas no los consideraron suficientemente importantes como para tomarse la molestia, como las encuestas de victimación nos recuerdan una y otra vez.
+
+Evidentemente es muy dificil hacer generalizaciones y siempre hay excepciones, por raras que sean. Pero si algo debéis derivar de las observaciones de @Feson_19 y @Gottfredson_90 es que es importante aproximarse al estudio del delito con una visión mucho más prosaica del mismo de la que hemos adquirido a traves de los medios de comunicación social.
 
 ## El delito como evento espacio temporal
 
@@ -133,7 +157,7 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 
 -   ¿Que impacto tiene el delito en las comunidades y espacios en los que ocurre?
 
-[TERMINAR CITANDO EL ARTICULO EN PAPERS 67 E INSERTAR ALGUNOS MAPAS DE VIPOLIS]
+\[TERMINAR CITANDO EL ARTICULO EN PAPERS 67 E INSERTAR ALGUNOS MAPAS DE VIPOLIS\]
 
 ### El análisis temporal del delito
 
@@ -146,14 +170,13 @@ Hay un creciente interés por entender cambios en la delincuencia a largo plazo.
 
 "se pueden distinguir diferentes trayectorias a largo plazo en la disminución de los homicidios entre las distintas regiones europeas. Sin embargo, los patrones de edad y sexo en los delitos violentos graves han cambiado muy poco a lo largo de varios siglos. La disminución a largo plazo de las tasas de homicidios parece ir acompañada de una disminución desproporcionada de los homicidios entre las élites y de una caída de los conflictos entre hombres en el espacio público. Se han ofrecido diversas explicaciones teóricas para esta disminución a largo plazo, entre ellas los efectos del proceso de civilización, el fortalecimiento de los poderes del Estado, la Reforma protestante y el individualismo moderno, pero la mayoría de las teorías han sido post hoc."
 
-Otros autores han invitado a la cautela en relación con estas interpretaciones. @Aebi_16 [p. 57] señalan que: 
+Otros autores han invitado a la cautela en relación con estas interpretaciones. @Aebi_16 [p. 57] señalan que:
 
 "explicar la disminución de la violencia interpersonal en los países industrializados occidentales desde finales de la Edad Media mediante el efecto de un proceso civilizador requiere pasar por alto los genocidios, las matanzas masivas y los crímenes de guerra cometidos en estos países y en sus antiguas colonias."
 
 Mientras que @Schwerhoff_21 [p.1] sugieren que:
 
 "un análisis crítico exhaustivo de las fuentes plantea serias dudas sobre la solidez empírica de la tesis del declive. Las formas y los contenidos de las fuentes son inmensamente heterogéneos y un examen más detallado de la supuesta riqueza de los datos revela lagunas notables. Además, las estimaciones de población medievales y de principios de la Edad Moderna son muy poco fiables. Por lo tanto, defendemos que la investigación histórica sobre la violencia debe volver a centrarse en constelaciones históricas específicas, aceptar la necesidad de un análisis crítico minucioso de las fuentes y prestar especial atención a los contextos de la violencia."
-
 :::
 
 Los delitos se encuentran altamente concentrados en momentos específicos del día y de la semana, pero la intensidad de estas concentraciones varía por tipo de delito y región. Por ejemplo, algunos estudios sugieren que los robos a usarios de bancos o servicios de entrega de comida a domicilio suelen concentrarse en horas muy concretas, mientras que los hurtos y otro tipo de robos exhiben una menor concentración [@Prieto_21]. Estos "puntos calientes" temporales son estables en el tiempo y pueden ser visualizados como "latidos" (heartbeats) del delito, mostrando periodos de alto y bajo riesgo.
@@ -164,7 +187,7 @@ Los delitos suelen aumentar los fines de semana y durante la noche, especialment
 
 La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida [@Andresen_13; @McDowall_11; @Linning_16]. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
 
-[INSERTAR FIGURA]
+\[INSERTAR FIGURA\]
 
 ::: {.callout-note appearance="\"simple"}
 **La teoría de las actividades rutinarias**
@@ -198,13 +221,13 @@ Para estos autores es fundamental entender que las oportunidades del delito no s
 
 La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad interanual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
 
-[INSERTAT FIGURA]
+\[INSERTAT FIGURA\]
 
 El mes del año es un fuerte indicador de los niveles de delincuencia en muchos contextos, lo que respalda el uso de la estacionalidad en la previsión de la delincuencia y la asignación de recursos. Sin embargo, existen excepciones: algunos delitos (por ejemplo, los homicidios) muestran una estacionalidad débil o inconsistente, y los patrones microespaciales pueden permanecer estables incluso cuando las tasas generales fluctúan. La pandemia de COVID-19 [@Nivette_21] y otras perturbaciones sociales importantes pueden anular los patrones estacionales típicos.
 
 ![Series temporales de los robos en Barcelona, descomponiendo la tendencia, el efecto estacional y el ruido. En la tendencia se puede vislumbrar el descenso inducido por las restricciones de movilidad del COVID. Fuente: Trinidad, Medina, y Marteache, 2024](/images/covidcrime.png)
 
-[MENCIONAR CAMBIOS TECNOLOGICOS Y LEGALES COMO DETERMINANTES]
+\[MENCIONAR CAMBIOS TECNOLOGICOS Y LEGALES COMO DETERMINANTES\]
 
 Una de las cuestiones más debatidas en los últimos tiempos ha sido el llamado **crime drop** (descenso del delito) y en qué grado este ha sido un fenómeno generalizado.
 
@@ -348,20 +371,20 @@ Fue introducido por primera vez por @Cornish_ y se ha convertido en una herramie
 
 Un guion delictivo suele constar de los siguientes elementos [@Chainey_22]:
 
-* *Actos*: son las etapas clave del proceso de comisión del delito.
+-   *Actos*: son las etapas clave del proceso de comisión del delito.
 
-* *Escenas*: describen los escenarios en los que se producen los actos. @Tompson_11 simplificaron las clasificaciones originales de Cornish en cuatro categorías principales: «preparación; preactividad; actividad y postactividad».
+-   *Escenas*: describen los escenarios en los que se producen los actos. @Tompson_11 simplificaron las clasificaciones originales de Cornish en cuatro categorías principales: «preparación; preactividad; actividad y postactividad».
 
-* *Reparto de actores*: se refiere a los participantes, personas u organizaciones, y a las funciones que desempeñan en cada escena.
+-   *Reparto de actores*: se refiere a los participantes, personas u organizaciones, y a las funciones que desempeñan en cada escena.
 
-* *Condiciones*: describen las circunstancias que influyen en la actividad delictiva y se desglosan en:
+-   *Condiciones*: describen las circunstancias que influyen en la actividad delictiva y se desglosan en:
 
-  + Requisitos previos: condiciones que deben cumplirse antes de que comience la actividad ilegal.
+    -   Requisitos previos: condiciones que deben cumplirse antes de que comience la actividad ilegal.
 
-  + Facilitadores: factores que hacen que la actividad sea más fácil y rentable.
+    -   Facilitadores: factores que hacen que la actividad sea más fácil y rentable.
 
-  + Condiciones de aplicación: legislación, reglamentos y licencias que rigen el acto.
+    -   Condiciones de aplicación: legislación, reglamentos y licencias que rigen el acto.
 
 Los guiones pueden completarse utilizando diversas fuentes de datos, como expedientes de casos, entrevistas e inteligencia de fuentes abiertas, y se utilizan para analizar delitos que van desde el crimen organizado y el terrorismo hasta el fraude y el narcotráfico. Este enfoque es especialmente valioso para la prevención situacional del delito, ya que destaca puntos específicos en los que las intervenciones pueden interrumpir el proceso delictivo. Para más detalles podéis leer en castellano a @Arenas_24.
 
-[INSERTAR ALGÚN EJEMPLO]
+\[INSERTAR ALGÚN EJEMPLO\]

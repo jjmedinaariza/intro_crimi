@@ -5,7 +5,9 @@ author:
   affiliation: Universidad de Sevilla
 ---
 
-## El hombre delincuente
+## Participación en actividades delictivas
+
+### El hombre delincuente
 
 La criminología que se desarrolla a partir del siglo XIX estaba obsesionada con identificar los marcadores que nos permitirían distinguir al hombre delincuente. A las personas nos gusta pensar en términos de blancos y negros, de malos y buenos, de fronteras claramente demarcadas entre lo diabólico y lo divino. La realidad, como veremos, es obstinadamente más compleja.
 
@@ -35,7 +37,7 @@ Hoy en día estas ideas nos parecen lo que son, ridículas. Aunque estos autores
 
 La creciente popularidad de explicaciones sociales de la delincuencia durante el siglo XX sirvió para que estas perspectivas fueran perdiendo fuelle. Lo patológico se desplazó del individuo a lo social. Los sociologos, asociados entre otras a la llamada Escuela de Chigaco y que de forma más dedicada empezaron a estudiar el delito a partir de la década de 1930, rechazaban la lógica de los darwinistas sociales de que los pobres, y los delincuentes entre ellos, eran biológicamente inferiores y habían caído al último peldaño de la sociedad por ser de menor valía. Los progresistas preferían una interpretación más optimista: los pobres eran empujados por su entorno —no nacían así— a una vida de delincuencia.
 
-## "Todos lo hacen"
+### "Todos lo hacen"
 
 La década de los 1940 supuso un antes y un después en la conceptualización de los delincuentes. Durante este período se empezó a experimentar con el método de las encuestas de autoinforme [@Kivivuori_11]. Estas encuestas, inicialmente empleadas solamente con muestras de menores en ambitos educativos, preguntaban a los participantes en las mismas sobre su participacion en actividades desviadas y delictivas. Aunque inicialmente se preguntaba sobre comportamientos infractores de caracter casi trivial a lo largo de los ultimos 75 años se pasó a usar estas encuestas para estudiar comportamientos delictivos más serios con muestras también de mayor edad.
 
@@ -65,7 +67,9 @@ A nivel teórico y conceptual, la criminología siguió profundizando en los pro
 
 -   La escuela positivista negaba la capacidad de agencia de los delincuentes, mostrándolos como individuos sujetos a fuerzas totalmente fuera de su control
 
-## La curva del delito y la carrera criminal
+## Delincuencia a lo largo de la vida
+
+### La curva del delito y la carrera criminal
 
 De la misma forma que durante la década de 1940 el método del autoinforme revolucionó la criminología, a partir de los años 1970 otra innovación metodológica vino a condicionar nuestra visión del delincuente. Durante este período comienzan a sucederse estudios de naturaleza longitudinal que seguían a muestras o cohortes locales de individuos durante largos períodos de sus vidas. Estos estudios permitieron examinar de forma sistemática de qué forma la participación en actividades delictivas cambia a lo largo del tiempo.
 
@@ -103,17 +107,15 @@ Por lo que aquí respecta, lo importante a subrayar es que este enfoque supuso u
 
 La criminología evolutiva que ha dominado el estudio de los delincuentes durante las últimas décadas básicamente ha venido a aceptar que [@Steffensmeier_25, p. 241]:
 
-> * "El grupo de edad de entre los 15 a 19 es el que exhibe una mayor tasa de participación en actividades delictivas.
+> -   "El grupo de edad de entre los 15 a 19 es el que exhibe una mayor tasa de participación en actividades delictivas.
 >
-> * La delincuencia entre los adolescentes tiene tasas de prevalencia altas, con un porcentaje elevado de los mismos participando en actividades delictivas.
+> -   La delincuencia entre los adolescentes tiene tasas de prevalencia altas, con un porcentaje elevado de los mismos participando en actividades delictivas.
 >
-> * La curva del delito se caracteriza por un rápido aumento y un pico temprano, seguido de un rápido descenso inicial y
-luego un descenso gradual."
+> -   La curva del delito se caracteriza por un rápido aumento y un pico temprano, seguido de un rápido descenso inicial y luego un descenso gradual."
 
 ::: {.callout-note appearance="\"simple"}
 **¿Son las premisas de la curva de la edad y el delito universales**
-
-::: 
+:::
 
 De forma relacionada dentro de la criminología se vino a desarrollar lo que se llamó el **paradigma del factor de riesgo**, que tuvo entre sus más prolíficos defensores al británico David Farrington, que fue investigador en uno de los primeros y mas famosos estudios longitudinales de la delincuencia el *Cambridge Study in Delinquent Development*, un estudio de 411 varones nacidos en Londres en 1953 en barrios empobrecidos y que fueron seguidos desde que tenían 8/9 años hasta sus 48.
 
@@ -123,7 +125,7 @@ Este paradigma invitaba a la identificación de factores de riesgo asociados con
 
 Un **factor de riesgo** es simplemente algo que incremente la probabilidad de la actividad delictiva, no necesariamente una causa, sino simplemente un factor que aumenta dicha probabilidad. Este enfoque condujo a la proliferación de modelos explicativos de la participación en actividades delictivos de tipo multifactorial. Por ejemplo, para @Murray_10 Los factores de riesgo más importantes que correlacionan con la delincuencia incluyen la impulsividad, un coeficiente intelectual bajo y un rendimiento escolar bajo, una supervisión parental deficiente, una disciplina parental punitiva o errática, una actitud parental fría, el maltrato físico infantil, los conflictos parentales, las familias desestructuradas, los padres antisociales, las familias numerosas, los bajos ingresos familiares, los compañeros antisociales, las escuelas con altas tasas de delincuencia y los barrios con altos índices de criminalidad.
 
-## El 6% crónico, los criminales de carreras y las trayectorias diferenciales de delincuencia
+### El 6% crónico, los criminales de carreras y las trayectorias diferenciales de delincuencia
 
 Otro de los primeros estudios longitudinales realizados en Estados Unidos también tuvo un impacto notable en nuestra imagen de los delincuentes. El *Delinquency Birth Cohort* fue un estudio liderado por el criminólogo Marvin Wolfgang que exploró las trayectorias delictivas de todos los 9945 niños nacidos en 1945 y que vivían en Filadelfia entre los 10 y los 18 años (@Wolfgang_72). Una vez establecida la cohorte, los investigadores recopilaron datos sobre los 3475 delincuentes que habían tenido contactos oficiales con la policía no relacionados con la seguridad vial entre los 7 y los 18 años de edad. A partir de estos datos oficiales, el estudio estimó las probabilidades de cometer el primer delito, la reincidencia, el aumento de la gravedad de los delitos a lo largo del período observado, la edad de inicio, etc.
 
@@ -159,6 +161,50 @@ El inicio temprano en la delincuencia de este subgrupo para @Moffitt_93 resulta 
 
 \[EN CONSTRUCCIÓN\]
 
+## Identidad y delincuencia
+
+La Real Academia de la Lengua nos propone que una de las acepciones de identidad es la conciencia que una persona tiene de ser ella misma y distinta a las demás, cómo nos vemos a nosotros mismos. Nos podemos preguntar en qué medida las personas que cometen delitos desarrollan una identidad personal o social ligada a esta esfera de actividades (¿hay una identidad delictiva?) y, también, de qué forma esta identidad puede ser relevante a la hora de entender la participación continuada en actividades delictivas. En esta sección, brevemente analizaremos esta cuestión. Primero revisaremos qué sabemos sobre la identidad y luego la forma en qué criminólogos han pensado esta cuestión.
+
+La noción de identidad ha recibido mucha atención por parte de psicólogos y sociólogos, sobre todos aquellos insertos en la tradición del interaccionismo simbólico, desde principios del siglo XX. Distintas perspectivas teóricas y disciplinares han puesto el acento en distintas dimensiones de la identidad.
+
+El trabajo de @Erikson_50 durante a mediados del siglo XX ponia el acento en los aspectos del desarrollo y como la formación de la identidad es una de las tareas centrales durante la adolescencia. Las perspectivas socio-psicológicas, por el contrario, pusieron el acento en destacar como la identidad está moldeada por nuestra pertenencia a distintos grupos y categorías sociales (género, grupo étnico, profesión, etc.), que nos dotan de un sentimiento de pertenencia y de individualidad, y se han interesado en tender como oscilamos entre nuestra identidad personal (el yo) y nuestra identidad social (el nosotros) [@Tajfel_79; @Turner_85]. Las teorías cognitivas, por otra parte, han abordado la identidad como las representaciones mentales de quienes somos, incluyendo nuestros papeles sociales, rasgos, y valores, y de que forma estos esquemas mentales son marcos organizados de pensamiento que guían nuestras percepciones y comportamiento. Los sociólogos alineados con el interacionismo simbólico teorizaban la identidad como emergente de las interacciones sociales y condicionada por como otros nos perciben, para estos autores la identidad es fluida y negociada [@Goffman_59]. Finalmente, hay una serie de teorías narrativas que teorizan la identidad como el resultado de las historias de nuestras vidas que nos contamos a nosotras mismas sobre quienes somos [@Bruner_93; @McAdams_06]. Estas narrativas darían coherencia, significado, y continuidad a nuestras experiencias.
+
+Las visiones más contemporaneas contemplan la identidad como fluida, no como algo fijado, sino construido a través del lenguaje, la cultura, y el discurso. Destacan de que forma la gente puede adoptar multiples y cambiantes identidades en distintos contextos en los que se relacionan con otras personas y destacan la forma en el que las estructuras de poder y desigualdad afectan nuestras identidades.
+
+La identidad se contempla hoy como:
+
+-   *Multidimensional*. No es solo una cosa, sino que incorpora una dimensión personal, social, cultural y narrativa.
+
+-   *Dinámica y contextual*. La identidad puede cambiar a lo largo del tiempo y puede variar según el contexto. Diferentes situaciones pueden activar distintos aspectos de la identidad.
+
+-   *Relacional*. La identidad se forma a partir de nuestra relacion e interacción con otras personas, nuestras fammilias, amigos, comunidades, colegas, instituciones o colectivos a los que pertenecemos. El reconocimiento (o falta del mismo) por parte de otros condiciona nuestra identidad. Las estructuras sociales condicionan que identidades son privilegiadas o marginalizadas.
+
+-   *Es narrativa*. Existe un consenso que la identidad se forma a partir de las historias que nos contamos a nosotras mismas. Y que estas narrativas nos ofrecen coherencia y proposito en distintas circunstancias y contextos.
+
+¿De qué forma se traduce esto al ámbito de la criminología? En *Becoming deviant*, publicado originalmente en 1969 y reimprimido en el 2010, el sociólogo y criminológo David Matza fue uno de los teóricos que a partir de la segunda mitad del siglo XX vino a recordar el aspecto subjetivo de la delincuencia y el papel de la identidad. Entre las ideas clave de Matza en *Becoming Deviant* estaban la noción de identidad provisional (la identidad es siempre más una suposición que una conclusión) y su rechazo de la idea común y desafortunada de que categorías como "desviado", "delincuente" o "criminal" son cajas ontológicas en las que los seres humanos pueden encajar perfectamente.
+
+Como señala Blomberg (2010, p. xx) en la introducción a la reedición de este volumen:
+
+> "Lo que distinguía a *Becoming Deviant* en 1969 y lo que sigue distinguiéndola de otras teorías del delito hoy en día es que sitúa al lector en el ámbito subjetivo y la mente del sujeto desviado. En lugar de estar fuera mirando hacia dentro, Becoming Deviant nos sitúa dentro mirando hacia fuera a través de la lente subjetiva, los pensamientos y las acciones del sujeto desviado."
+
+David Matza resume su argumento de *Becoming Deviant* como un proceso en el que el sujeto pasa a veces de:
+
+1.  una *afinidad* por ciertos comportamientos prohibidos
+
+2.  la *afiliación* a círculos y entornos que incluyen o patrocinan las infracciones
+
+3.  la aprehensión y *significación* de las infracciones.
+
+En el marco teórico de David Matza, la **identidad** juega un papel central en el proceso de convertirse en desviado, especialmente durante la fase de significación. Matza conceptualiza este proceso no como deterministasino como secuencial y abierto, donde el pensamiento, el significado y la acción del sujeto son fundamentales.
+
+Para @Matza_10 la identidad desviada se construye y se moldea a través de una interacción compleja entre las acciones del individuo, las reacciones de la sociedad y, crucialmente, la auto-ordenación del sujeto. Las personas como sujetos se preguntan. ¿de todas las cosas que he hecho, cuál es el mejor índice de lo que soy? ¿Cuál representa con mayor precisión mi verdadero ser? Matza subraya que la identidad desviada no es simplemente impuesta, sino que es un proceso dinámico en el que el individuo, bajo la influencia de la autoridad, se convierte activamente en el autor de su propia auto-ordenacion como desviado, especialmente al interpretar la recurrencia de sus actos como una prueba concluyente de su "verdadero ser".
+
+A día de hoy numerosos estudios demuestran que tanto la identidad personal (cómo se ven a sí mismos los individuos) como la identidad social (cómo se relacionan los individuos con los grupos y las categorías sociales) están profundamente entrelazadas con el comportamiento delictivo, la persistencia y el abandono de la delincuencia [@Boduszek_15; @Copp_20; @Rocque_16].
+
+El desarrollo de una *identidad delictiva*, a menudo moldeada por comparaciones sociales negativas, roles prosociales fallidos y asociaciones con compañeros o amigos delincuentes, puede aumentar el riesgo de delinquir, mientras que los cambios hacia una identidad prosocial son sólidos predictores del abandono de la delincuencia. La teoría de la identidad social explican además cómo las afiliaciones grupales, especialmente con compañeros o amigos delincuentes, median el impacto de los entornos sociales en el pensamiento y el comportamiento delictivos [@Lauger_20].
+
+Los contextos sociales más amplios, como las relaciones familiares, la conexión con la comunidad y los estatus sociales interseccionales (por ejemplo, raza, clase, género), también desempeñan un papel fundamental en la configuración tanto de la identidad como de las vías hacia la delincuencia o el abandono de la misma. Los recientes avances teóricos y empíricos han puesto de relieve los aspectos dinámicos, narrativos y situacionales de la identidad, haciendo hincapié en que la identidad no es estática, sino que evoluciona en respuesta a las experiencias vitales y las interacciones sociales. En general, la bibliografía subraya que las intervenciones dirigidas a la identidad, tanto personal como social, pueden ser cruciales para la prevención eficaz de la delincuencia y la rehabilitación.
+
 ## Especialización y delincuencia
 
 \[EN CONSTRUCCIÓN\]
@@ -166,5 +212,3 @@ El inicio temprano en la delincuencia de este subgrupo para @Moffitt_93 resulta 
 ## Co-delincuencia
 
 \[EN CONSTRUCCIÓN\]
-
-## Explicando la participación en el delito
