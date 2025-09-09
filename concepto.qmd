@@ -9,13 +9,19 @@ author:
 
 Si estás leyendo estas líneas deberías tener una idea de cómo responder esta pregunta, pues este es un libro escrito para estudiantes de criminología a los que se les debe asumir un mínimo conocimiento sobre de qué va la titulación que han elegido. Pero esas ideas pueden estar contaminadas por relatos públicos que existen sobre la criminología que no se corresponden con la realidad.
 
-Cuando, siendo más joven, iba a alguna fiesta y me preguntaban a qué me dedicaba, me costaba la misma vida decir que era criminólogo porque sabía cómo iba a acabar la conversación. Generalmente la cosa derivaba hacia las imágenes que el público tiene sobre los criminólogos y lo excitante que tiene que ser capturar a un delincuente. Hollywood, la industria del entretenimiento en general, tiene buena parte de la culpa de esos mitos que existen sobre la criminología. A veces en películas y series televisivas se introducen personajes que dicen ser criminólogos cuando en realidad son otra cosa. A veces eso se debe a un problema de traducción del inglés al español, otras veces es desconocimiento de los guionistas. No son criminólogos quienes se dedican a hacer perfiles sobre delincuentes en serie para ayudar a su captura, generalmente son psicólogas forenses. Tampoco son criminólogas quienes se dedican a recopilar y analizar pruebas que puedan servir a consolidar la evidencia probatoria en un juicio para condenar a alguien; suelen ser criminalistas, esto es personas con una carrera técnica (medicina, biología, informática, química, etc.) que pueden aportar sus conocimientos para estos fines y que suelen contar con algún tipo de formación especializada en policía científica. Las criminólogas son otra cosa.
+Cuando, siendo más joven, iba a alguna fiesta y me preguntaban a qué me dedicaba, me costaba la misma vida decir que era criminólogo porque sabía cómo iba a acabar la conversación. Generalmente la cosa derivaba hacia las imágenes que el público tiene sobre los criminólogas y lo excitante que tiene que ser capturar a un delincuente. Hollywood, la industria del entretenimiento en general, tiene buena parte de la culpa de esos mitos que existen sobre la criminología. A veces en películas y series televisivas se introducen personajes que dicen ser criminólogos cuando en realidad son otra cosa. A veces eso se debe a un problema de traducción del inglés al español, otras veces es desconocimiento de los guionistas. No son criminólogas quienes se dedican a hacer perfiles sobre delincuentes en serie para ayudar a su captura, generalmente son psicólogas forenses. Tampoco son criminólogos quienes se dedican a recopilar y analizar pruebas que puedan servir a consolidar la evidencia probatoria en un juicio para condenar a alguien; suelen ser criminalistas, esto es personas con una carrera técnica (medicina, biología, informática, química, etc.) que pueden aportar sus conocimientos para estos fines y que suelen contar con algún tipo de formación especializada en policía científica. Las criminólogas son otra cosa.
 
 ¿Qué es, entonces, la criminología? Podría parecer una pregunta sencilla merecedora de una respuesta simple. Como veremos en realidad existen muchas formas de practicar y entender la criminología, que además han variado históricamente y entre distintos países, por lo que existen distintas formas de responder. No existe tampoco un consenso universal sobre las fronteras de la criminología (dónde empieza y dónde termina) y sobre cuál es su legítimo objeto de estudio. Veremos también que hay distintas formas de entender las relaciones de la criminología con otras disciplinas científicas y su carácter distintivo, así como con sus relaciones en el campo de la práctica profesional, las instituciones de la justicia penal y la administración pública, el activismo social, y el campo de la política.
 
 El eminente criminólogo norteamericano Edwin Sutherland, autor de uno de los más influyentes manuales de criminología del siglo XX, definía la criminología como:
 
-> “La criminología es el conjunto de conocimientos sobre el delito como fenómeno social. Incluye en su ámbito los procesos de elaboración de leyes, de infracción de leyes y de reacción ante la infracción de leyes. Estos procesos son tres aspectos de una secuencia de interacciones algo unificada. Ciertos actos que se consideran indeseables son definidos por las normas políticas. A pesar de esta limitación, algunas personas persisten en ese comportamiento y, por lo tanto, cometen delitos; la sociedad política reacciona con castigos u otros tratamientos, o con medidas preventivas. Esta secuencia de interacciones es el objeto de estudio de la criminología.” [@Sutherland_47, pp. 1].
+> “el conjunto de conocimientos sobre el delito como fenómeno social. Incluye en su ámbito los procesos de elaboración de leyes, de infracción de leyes y de reacción ante la infracción de leyes. Estos procesos son tres aspectos de una secuencia de interacciones algo unificada. Ciertos actos que se consideran indeseables son definidos por las normas políticas. A pesar de esta limitación, algunas personas persisten en ese comportamiento y, por lo tanto, cometen delitos; la sociedad política reacciona con castigos u otros tratamientos, o con medidas preventivas. Esta secuencia de interacciones es el objeto de estudio de la criminología.” [@Sutherland_47, pp. 1].
+
+::: {layout-ncol="2"}
+![](images/sutherland.jpeg)
+
+El sociólogo estadounidense Edwin Sutherland (1883-1950)
+:::
 
 En manuales españoles más modernos, como el de la profesora @Larrauri_20, se da a entender que la criminología es una ciencia social que obtiene sus conocimientos de la observación y análisis de la realidad de la delincuencia y del funcionamiento del sistema penal. Y de una forma parecida @Redondo_23 [p.] definen la criminología como aquella "ciencia que estudia los comportamientos delictivos y las reacciones sociales frente a ellos”. Ambas son formulaciones resumidas de lo propuesto por Edwin Sutherland. Por su parte, y con la elegancia y sofisticación que lo suele caracterizar, el escocés David Garland caracteriza a la criminología de la siguiente forma:
 
@@ -23,7 +29,7 @@ En manuales españoles más modernos, como el de la profesora @Larrauri_20, se d
 
 Lo primero que tenéis que entender es que no hay nada sagrado o escrito en piedra sobre estas definiciones. Como en muchas otras cuestiones en las ciencias sociales tendréis que juzgar por vosotras mismas lo convincentes que son los argumentos para mantener una postura u otra. El hecho de que haya distintas interpretaciones o respuestas implica que es una cuestión contestada, y que no podemos considerar del todo cerrada. No obstante, podéis ver que hay elementos comunes en estas caracterizaciones.
 
-Dado que esta es una introducción a la materia no podemos simplemente dejaros con la idea de que “hay muchas formas de entender la criminología, vosotros veréis cuál elegís.” Vamos a daros una definición personal preliminar que utilizaremos en este manual y luego iremos destilando y justificando sus partes. La criminología, para nosotras, puede definirse como:
+Dado que esta es una introducción a la materia no podemos simplemente dejaros con la idea de que “hay muchas formas de entender la criminología, vosotros veréis cuál elegís.” Vamos a daros una descripción personal preliminar que utilizaremos en este manual y luego iremos destilando y justificando sus partes. La criminología, para nosotras, puede caracterizarse como:
 
 > un proyecto intelectual y académico que se ha ido institucionalizando de forma gradual, desigual, y creciente en distintos países como disciplina o campo de estudio con un desarrollo socialmente determinado entroncado en las ciencias sociales, e interconectado de forma radical con varias disciplinas que tiene como temas de reflexión e investigación: el delito como evento, las personas y organizaciones que cometen delitos, las personas que sufren el delito, y las respuestas socioculturales, políticas, e institucionales al mismo que hace todo esto desde una perspectiva plural, aunque históricamente desarrollada por hombres occidentales y blancos (con los sesgos y puntos ciegos que ello implica) y que al tratar de estas cuestiones es un cuerpo de conocimientos y prácticas sociales con consecuencias en la vida de las personas y la sociedad que hace imposible no considerar su naturaleza política
 
@@ -42,11 +48,11 @@ Pensamos, teniendo esto en cuenta, que definir la criminología como ciencia par
 ::: {.callout-note appearance="\"simple"}
 **¿Es la criminología una profesión?**
 
-Una consecuencia de definir la criminología como proyecto intelectual y académico es que tenemos que definir a un criminólogo o criminóloga como cualquier científico social que se ha especializado de forma demonstrable en los objetos de estudio de la criminología, con independencia de su titulación. Es lo que tiene ser coherente.
+Una consecuencia de caracterizar la criminología como proyecto intelectual y académico es que tenemos que definir a un criminólogo o criminóloga como cualquier investigador(a) académico(a) que se ha especializado de forma demonstrable en los objetos de estudio de la criminología, con independencia de su titulación.
 
-No estamos definiendo como una profesión, como un conjunto de ocupaciones cerradas a personas graduadas en criminología. Este es otro debate (¿es la criminología una profesión?) que solo hemos visto planteado en España (aunque es posible que se de en otros países con un legado cultural como el nuestro) y que está relacionado con la manía que tenemos en nuestro país de encasillar y encorsetar (legal y administrativamente) todo, así como con el engranaje legal de nuestro mercado laboral. Ni en el mundo anglosajón ni en Europa central y del norte vamos a encontrar este tipo de debates. Sonaría a marciano.
+No estamos la criminología como una profesión, como un conjunto de ocupaciones cerradas a personas graduadas en criminología. El debate sobre si la criminología es una profesión solo lo hemos visto planteado en España (aunque es posible que se de en otros países con un legado cultural como el nuestro). La razón de ello tiene que ver con la manía que tenemos en nuestro país de encasillar y encorsetar (legal y administrativamente) todo, así como con el engranaje legal de nuestro mercado laboral. Ni en el mundo anglosajón ni en Europa central y del norte vamos a encontrar este tipo de debates. Sonaría a marciano.
 
-Sin entrar en debates sobre conceptos sociológicos y teóricos de lo que es una profesión, podemos preguntarnos si hay alguna ocupación laboral que solamente un graduado en criminología podría realizar. La respuesta, en nuestra opinión, es un no categórico y rotundo. Creemos que las titulaciones en criminología deberían capacitar a sus egresados para desarrollar un amplio espectro de ocupaciones laborales en el campo de la respuesta al delito, pero no creemos que esta capacitación los pone en una situación que les permita levantar murallas sobre determinadas ocupaciones que solamente ellos (los titulados o las tituladas en criminología) podrían o deberían realizar. En cuanto uno profundiza un poco sobre las habilidades, conocimientos y capacidades de cualquier ocupación laboral que los egresados en criminología quisieran monopolizar se vería que en realidad personas con otras titulaciones también desarrollan, o pueden desarrollar, dichas habilidades, conocimientos y capacidades de forma experta. No hay, por tanto, ninguna ocupación laboral que defina de forma específica al criminólogo. Aunque es verdad, al mismo tiempo, que su formación debería ponerles en una cierta ventaja competitiva o, cuanto menos facilitarles el acceso, en relación con distintas ocupaciones laborales en el ámbito de la seguridad, la prevención, y la intervención frente al delito tanto en el ámbito público como en el privado. En este sentido la persona con conocimientos criminológicos debería estar capacitada para:
+Sin entrar en debates sobre conceptos sociológicos y teóricos de lo que es una profesión, podemos preguntarnos si hay alguna ocupación laboral que solamente un graduado en criminología podría realizar. La respuesta, en nuestra opinión, es un no categórico y rotundo. De entrada, la formación universitaria no es FP, tiene una ambición diferente. Creemos que las titulaciones en criminología deberían capacitar a sus egresados para desarrollar un amplio espectro de ocupaciones laborales en el campo de la respuesta al delito, pero no creemos que esta capacitación los pone en una situación que les permita levantar murallas sobre determinadas ocupaciones que solamente ellos (los titulados o las tituladas en criminología) podrían o deberían realizar. En cuanto uno profundiza un poco sobre las habilidades, conocimientos y capacidades de cualquier ocupación laboral que los egresados en criminología quisieran monopolizar se vería que en realidad personas con otras titulaciones también desarrollan, o pueden desarrollar, dichas habilidades, conocimientos y capacidades de forma experta. No hay, por tanto, ninguna ocupación laboral que defina de forma específica al criminólogo. Aunque es verdad, al mismo tiempo, que su formación debería ponerles en una cierta ventaja competitiva o, cuanto menos facilitarles el acceso, en relación con distintas ocupaciones laborales en el ámbito de la seguridad, la prevención, y la intervención frente al delito tanto en el ámbito público como en el privado. En este sentido la persona con conocimientos criminológicos debería, como mínimo, estar capacitada para:
 
 -   desarrollar diagnósticos sobre el fenómeno criminal en un determinado marco espacio temporal;
 
@@ -58,7 +64,7 @@ Sin entrar en debates sobre conceptos sociológicos y teóricos de lo que es una
 
 -   analizar, evaluar y desarrollar propuestas de políticas públicas en materia de delincuencia y seguridad.
 
-Ocurre, no obstante, que en España funcionamos, por un lado, con una institución de origen feudal que son los colegios profesionales que aspiran a defender intereses corporativos creados y a monopolizar para los egresados en determinadas titulaciones ciertas ocupaciones. Y, por otro lado, contamos con una administración pública que a la hora de hacer convocatorias públicas y de definir sus plantillas laborales lo hace sobre esquemas generados en diálogo y negociación competitiva con estos colegios profesionales. Ocurre también que la criminología en España es una recién llegada en esta fiesta y los colegios profesionales ligados a otras titulaciones nos llevan ventaja y han levantado barreras para que los egresados en criminología puedan trabajar en determinados espacios de la administración pública.
+Otra cosa es que los planes de estudio de los grados de criminología doten al alumnado de estas capacidades de forma adecuada. Ocurre, por seguir con el debate que nos anima, que en España funcionamos, por un lado, con una institución de origen feudal que son los colegios profesionales que aspiran a defender intereses corporativos creados y a monopolizar para los egresados en determinadas titulaciones ciertas ocupaciones. Y, por otro lado, contamos con una administración pública que a la hora de hacer convocatorias públicas y de definir sus plantillas laborales lo hace sobre esquemas generados en diálogo y negociación competitiva con estos colegios profesionales. Sucede también que la criminología en España es una recién llegada en esta fiesta y los colegios profesionales ligados a otras titulaciones nos llevan ventaja y han levantado barreras para que los egresados en criminología puedan trabajar en determinados espacios de la administración pública.
 
 En ese sentido, aunque no creo que la criminología sea una profesión en el sentido aquí indicado, todo egresado en criminología interesado en la promoción profesional de su titulación debería luchar por la creación en su comunidad autónoma de un colegio profesional y colegiarse en dichos órganos para poder reivindicar de forma colectiva y más efectiva un mercado laboral más justo para quienes se especializan en este ámbito disciplinar.
 
@@ -92,6 +98,14 @@ Por otro lado, en España todavía no hay departamentos universitarios de crimin
 Pero la criminología como espacio de debate e investigación ha precedido a los grados de especialización en la misma. Así, por ejemplo, aunque no había grados específicos o departamentos universitarios, sí había asociaciones profesionales de científicos sociales especializados en el estudio de la criminología desde los años 1930. La *American Society of Criminology*, probablemente la más influyente a nivel internacional, se remonta a 1932 cuando varias personas ligadas al mundo de la policía comenzaron a reunirse de forma esporádica para debatir sobre cuestiones relacionadas con temas propios de la criminología, aunque no fue hasta 1946 que la palabra “criminología” aparecía en el nombre de este grupo (que a lo largo de los años ha ido creciendo y evolucionando de forma que veremos más adelante).
 
 Muchas de estas asociaciones también han ido desarrollando sus propias revistas, como *Criminology* (fundada en 1963), la revista oficial de la Sociedad Americana de Criminología, o el *British Journal of Criminology* (fundada en 1960) la revista oficial de la *British Society of Criminology*.
+
+::: {layout-ncol="2"}
+![](images/reic.jpg){width="50%"}
+
+![](images/bjc.jpeg){width="48%"}
+
+Revistas de criminología
+:::
 
 Es importante destacar que, en todo caso, el pensamiento criminológico, la producción intelectual sobre cuestiones propias de la criminología, precede también a la creación de instituciones como las sociedades de criminólogos, sus revistas especializadas, sus departamentos universitarios, o las titulaciones universitarias en este ámbito - esto es, los distintos elementos institucionales que aspiran a dotar de una cierta autonomía organizativa. Hay quienes remontan los orígenes de este pensamiento al trabajo de autores como Jeremy Bentham (1748-1832) o Cesare Beccaria (1738-1794) durante el periodo de la Ilustración en el siglo XVIII. En este sentido, y con independencia de los adornos institucionales, la criminología como ciencia distintiva o discurso académico apenas tiene 150 años.
 
@@ -129,7 +143,7 @@ Esta pluralidad, no solamente sigue existiendo, sino que muchos pensamos que deb
 
 No es exagerado señalar que los saltos cualitativos que se han ido produciendo en la criminología durante los últimos 150 años, la historia de la teoría criminológica, ha sido determinada por la suma al proyecto criminológico de nuevas comunidades de científicos sociales. La diferencia es que hoy en muchos países además contamos con académicos y científicos que hacen criminología, trabajan en departamentos de criminología, y algunos de ellos tienen grados específicos en criminología.
 
-Pensar, por tanto, que es necesario haber estudiado formalmente un grado en criminología para poder contribuir a la producción criminológica es ignorar la historia y la realidad plural contemporánea de esta área de conocimiento. En ese sentido, para mí, un criminólogo o criminóloga es *cualquier científico social que se ha especializado a lo largo de su carrera en este ámbito de estudio*. Existe, relacionado con esto, un cierto debate sobre si la criminología es, por tanto, una disciplina “autónoma” o no, si es una disciplina o es simplemente un campo de estudio en el que confluyen varias otras disciplinas. Hay muchos criminólogos muy notables que piensan que la criminología no tiene el estatus y rango de las disciplinas científico-sociales tradicionales. David Garland (), por ejemplo, nos dice que no, ya que no tiene un objeto teórico propio o métodos de investigación distintivos (en un sentido parecido, ver también Newburn, 2017).
+Pensar, por tanto, que es necesario haber estudiado formalmente un grado en criminología para poder contribuir a la producción criminológica es ignorar la historia y la realidad plural contemporánea de esta área de conocimiento. En ese sentido, para mí, un criminólogo o criminóloga es *cualquier científico social que se ha especializado a lo largo de su carrera en este ámbito de estudio*. Existe, relacionado con esto, un cierto debate sobre si la criminología es, por tanto, una disciplina “autónoma” o no, si es una disciplina o es simplemente un campo de estudio en el que confluyen varias otras disciplinas. Hay muchos criminólogos muy notables que piensan que la criminología no tiene el estatus y rango de las disciplinas científico-sociales tradicionales. @Garland_11, por ejemplo, nos dice que no, ya que no tiene un objeto teórico propio o métodos de investigación distintivos (en un sentido parecido, ver también Newburn, 2017).
 
 Es por eso por lo que a veces se discute la criminología usando la metáfora del “punto de encuentro” (Downes, 1988) de disciplinas y especialistas formados en otras disciplinas más que como una disciplina propia, una metáfora más comúnmente usada por quienes se graduaron o doctoraron en otras disciplinas como la sociología o la psicología. Así, por ejemplo, David Smith (2013) nos dice que:
 
@@ -173,7 +187,6 @@ La criminología se ha venido a ocupar del estudio de la delincuencia y las resp
 En este volumen empleamos de forma deliberada el término *temas*. En ocasiones, se hablan de los *objetos* de estudio de la criminología, pero pensamos que esto refleja una visión trasnochada, asociada al positivismo criminológico decimonónico, y que ignora que las personas, no son objetos sino subjetos. En palabras de @Matza_10, que aún a día de hoy sirven de crítica de muy buena parte de la criminología:
 
 > "La confusión comenzó cuando los científicos sociales primitivos —muchos de los cuales siguen en activo— confundieron el fenómeno que se estaba estudiando —el hombre— y lo concibieron como objeto en lugar de como sujeto. Fue un gran error. Surgieron numerosas teorías que postulaban que el hombre era meramente reactivo y negaban que fuera el autor de la acción, pero ninguna resultó convincente."
-
 :::
 
 ### Los sesgos de la criminología
@@ -182,7 +195,23 @@ La criminología como hemos visto es un producto de su tiempo, surge fundamental
 
 La criminología durante muy buena parte de su historia se ha preocupado fundamentalmente por la "*delincuencia común*", esto es, las formas delictivas más comunes en sectores sociales desfavorecidos. Aunque ya desde los años 1940 empiezan a aparecer voces dentro de nuestra disciplina llamando la atención sobre la delincuencia de los poderosos [@Sutherland_49], el estudio de la delincuencia, si por ejemplo nos atenemos a los estudios publicados en las principales revistas científicas de criminología, sigue estando fundamentalmente centrada a día de hoy en la delincuencia "común".
 
+::: {layout-ncol="3"}
+![](images/middleclasses.jpg){width="30%"}
+
+![](images/whitecollar.jpg){width="30%"}
+
+![](images/corporate.jpg){width="31%"}
+:::
+
 La criminología hasta la irrupción con fuerza de voces feministas dentro de la disciplina durante la década de 1970 no prestaba suficiente atención a la mujer como delincuente, víctima o trabajadora del sistema penal. Es solo a partir de esa década que empieza a generarse una **criminología feminista** orientada a corregir esos sesgos [@Renzetti_25]. Aún más reciente ha sido el descubrimiento de que los varones también tienen género y que solo podemos entender el comportamiento delictivo de los varones entendiendo estas identidades masculinas de género [@Messerschmidt_18]. El creciente reconocimiento de otras identidades de género y sexuales también ha venido asociado al desarrollo de una **criminologia queer** [@Buist_22], interesada en entender las mismas desde una perspectiva criminológica.
+
+::: {layout-ncol="3"}
+![](images/mujeresdelincuencia.jpg){width="31%"}
+
+![](images/feminist.png){width="28%"}
+
+![](images/womencrime.jpg){width="49%"}
+:::
 
 La criminología de caracter biológico del siglo XIX era indudablemente profundamente racista y contribuyó a través de sus prácticas [@Rafter_97] a legitimar el movimiento eugenésico [^concepto-2] y la ideología nazi [@Rafter_08].
 
@@ -192,9 +221,27 @@ La criminología de caracter biológico del siglo XIX era indudablemente profund
 
 Varios autores han profundizado en como otros conceptos criminológicos posteriores, como la subcultura de la violencia propuesta por Marvin Wolfgang, también contribuían a legitimar estereotipos de caracter racial durante el siglo XX [@Covington_95]. Las últimas décadas han visto numerosos esfuerzos orientados a identificar los mecanismos por medio de los cuales el sistema de justicia penal se estructura como institucionalmente racista.
 
+![](images/nicole-baster-blacklivesmatter.jpg)
+
 El desarrollo de la criminología en Estados Unidos y el norte de Europa han consolidado una serie de teorías y perspectivas que toman como modelo social el existente en estos países. Son teorías y perspectivas muchas veces bastante provincianas y asentadas en modos de hacer ciencia que dan más importancia a todo aquello que tiene lugar en dichas sociedades [@Medina_11]. Se ha tendido a olvidar las experiencias, vivencias y estructuras existentes en otros países del sur global. De ahí que en tiempos recientes haya habido voces demandando el desarrollo de una **criminología del sur** [@Carrington_18] que sirva para el resto del planeta ignorado en el canón criminológico, autores que defienden perspectivas postcoloniales dentro de nuestra disciplina [@Cunneen_11], o aquellos que proponen la revelancia de una criminología más global [@Bowling_11] e interesada en la comparación de la situación en distintos países [@Nelken_11].
 
+::: {layout-ncol="3"}
+![](images/decolonising.jpeg){width="30%"}
+
+![](images/southern.webp){width="30%"}
+
+![](images/decolonise.jpg){width="49%"}
+:::
+
 Finalmente, en la sociedad antropocéntrica en la que vivimos estamos tardando demasiado en entender que vivimos en un planeta finito cuyo clima y sistemas ecológicos hemos alterado de forma radical en los últimos doscientos años. Los retos a los que se enfrenta nuestro planeta como consecuencia de la acción humana en su sistema ecológico son los más serios a los que se enfrenta la humanidad. La criminología también puede jugar un papel en entender estos retos. Esta es la visión de quienes proponen el desarrollo de una **criminología verde** [@South_20].
+
+::: {layout-ncol="3"}
+![](images/green.jpg){width="32%"}
+
+![](images/verde.webp){width="33%"}
+
+![](images/green2.jpg){width="38%"}
+:::
 
 Estos sesgos en la mirada criminológica a los que aludimos en esta sección seran estudiados en mayor detalle en la tercera parte de este volumen, donde dedicaremos un capítulo a cada uno de ellos.
 
@@ -205,6 +252,14 @@ Una de las cuestiones que ha ocupado a pensadores sociales desde que aparecen la
 > "La relación entre la criminología y la política es básica, incluso interna. Desde este punto de vista, la criminología es un campo de investigación constituido en parte por la política: practicar la criminología implica, inevitablemente, enfrentarse a cuestiones políticas. Esto no significa que toda teorización sobre el crimen y la justicia sea, o tenga que ser, teoría política. Sin embargo, sí significa que toda investigación teórica y empírica sobre el crimen y su regulación plantea cuestiones políticas (y tiene implicaciones para las instituciones políticas) que solo pueden eludirse a costa de comprender plenamente por qué el delito y las respuestas sociales al delito son importantes"
 
 Los procesos de criminalización, la distribucion de recursos sociales asociados con la delincuencia, las respuestas que damos al comportamiento delictivo son procesos decididos politicamente y frente a los que una disciplina que estudia estos procesos no puede permanecer completamente "neutral".
+
+::: {layout-ncol="3"}
+![](images/democraticcriminology.jpg){width="32%"}
+
+![](images/criminologyandpublicpolicy.jpg){width="33%"}
+
+![](images/publiccriminology.jpg){width="40%"}
+:::
 
 Cada teoría criminológica lleva implícita en sí un programa político criminal, una forma de concebir el delito y una forma de responder al mismo. Como señala @Medina_25 [p.59], los partidarios de distintas teorías criminologicas:
 
