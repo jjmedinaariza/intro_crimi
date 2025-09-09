@@ -43,7 +43,6 @@ Elena Larrauri y su manual
 El manual de @Larrauri_20 aspira a dar una introducción moderna y ajustada al hecho de que esta suele ser una asignatura del primer semestre de primero. Nuestro principal problema con este manual es que, por más que nos gusta, se nos queda corto, sobre todo si tenemos en cuenta que tiene dos partes, una que puede valer para una introducción a la criminología (con unas cien páginas) y otra que más bien es una introducción al sistema de justicia penal o al control penal (que en numerosos planes de estudios es una asignatura diferente también de primero).
 
 ::: {layout-ncol="3"}
-
 ![](/images/santiago_redondo.jpg){width="30%"}
 
 ![](/images/garrido.jpg){width="30%"}

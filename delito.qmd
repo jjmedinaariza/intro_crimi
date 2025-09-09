@@ -31,13 +31,29 @@ Aunque es cierto que las criminólogas dedican la mayor parte del tiempo a estud
 
 Algunos psicólogos que trabajan en el ámbito de la criminología, por ejemplo, han centrado su atención no en el concepto de delito sino el de **desorden de conducta**, un patrón de comportamiento repetitivo y persistente que puede incluir sustracciones de propiedad, mentiras, violencia física, vandalismo, incumplimiento imprudente de las normas y otras formas de comportamiento antisocial. Mientras que durante mucho tiempo dentro de la sociología hubo un interés notable por la **sociología de la desviación**. Esta campo de estudio estaba interesado en explorar las acciones o comportamientos que violan las normas sociales de reglas formales, así como las violaciones informales de las normas sociales (por ejemplo, el rechazo de las costumbres y las tradiciones). Para estos sociologos el punto de anclaje era la *desviación*, siendo el delito solo una de las muchas formas de desviación. A día de hoy, por ejemplo, hay muchas criminólogas que han desarrollado buena parte de su carrera estudiando el consumo de drogas [@Measham_01; @Measham_11], pese a que esta no es una conducta delictiva (ni siquiera ilegal) en muchos países.
 
+::: {layout-ncol=3}
+
+![](/images/imagesofdeviance.jpg){width="19%"}
+
+![](/images/waywardpuritans.jpg){width="21%"}
+
+![](/images/outsiders.jpg){width="20%"}
+
+:::
+
 Más recientemente ha habido propuestas de resituar el tema de interés de nuestra disciplina. Una de estas propuestas es la desarrollada por los defensores de los llamados **estudios de la regulación**. Algunos autores como el criminólogo australiano John Braitwaite, de hecho, considera vital para la criminología el dedicar mucha más energía de la dedicada hasta ahora a entender mecanismos reguladores diferente de los articulados en torno al sistema de control y justicia penal y, por tanto, prestar más atención, entre otras cosas, al distintos mecanismos de regulación (y las infracciones ligadas a los mismos).
 
 > "aunque la disciplina de la criminología está actualmente consolidada en términos institucionales, las herramientas intelectuales de la disciplina tienen una relevancia cada vez menor para el mundo social que está surgiendo... las principales tendencias de desarrollo de la política gubernamental implican un cambio de un estado del bienestar, gobernado por técnicas keynesianas de gestión de la demanda, a una nueva forma de estado regulador, basado en una combinación neoliberal de competencia de mercado, instituciones privatizadas y formas descentralizadas y a distancia de regulación estatal. Estos nuevos estilos de gobernanza se basan en el reconocimiento de nuevas fuerzas y mentalidades sociales, en particular de la lógica globalizadora de la gestión de riesgos, y reconfigurarán cada vez más los ámbitos social y político de formas que tendrán consecuencias para la vigilancia y el control de la delincuencia. El enfoque tradicional de la criminología en los delitos callejeros y las instituciones policiales, judiciales y penitenciarias puede ser cada vez menos relevante para los nuevos daños, riesgos y mecanismos de control que están surgiendo en la actualidad." [@Braithwaite_00, p. 222]
 
 Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador y la aparición de entidades reguladoras encargadas de velar por la aplicación del derecho que no forman parte del sistema de justicia penal. Retomaremos estas ideas en el capítulo 8, por ahora valga entender que el estudio de las infracciones administrativas también puede interesar a la criminología.
 
-![Portada de una de las principales contribuciones a la zemiología](/images/socialharm.jpg){fig-align="left" width="2in"}
+::: {layout-ncol=2}
+
+![](/images/zemiology2.jpg){width="19%"}
+
+![](/images/socialharm.jpg){width="18%"}
+
+:::
 
 Otros autores han propuesto el desarrollo de una **zemiología** como alternativa crítica a la criminología, una disciplina centrada en el estudio no del delito, sino del **daño social** [@Hillyard_07]. Esta corriente surge para poner el acento en daños sociales generados por el Estado o grandes corporaciones, pero que rara vez son criminalizados. Desde esta perspectiva se argumenta que ceñirnos solamente al estudio de las conductas que son criminalizadas y pasan a ser, por tanto, tipificadas en las legislaciones penales como delitos dejaría fuera de nuestra mirada una serie de actos altamente dañosos, pero que por las dinámicas de poder en la sociedad actual no llegan al Código Penal. Por el contrario, señalan que pese a las pomposas declaraciones de penalistas la legislación penal están plagados de infracciones que recogen comportamientos muy triviales y que probablemente no merecen reproche penal alguno. Piensan que el control del delito es ineficaz, doloroso, y perpetuador de diferencias sociales y que el concepto de delito (y la criminología construida sobre este concepto) no hace más que legitimar la expansion de este control. Es una perspectiva que aspira a liberar a las criminólogas del corsé de la legislación penal. Por tanto proponen que debemos abandonar el estudio del delito y adoptar, en su lugar, una «perspectiva del daño social» que no diferencie entre los daños calificados como delitos y otros tipos de daños.
 
@@ -289,7 +305,14 @@ Las teorías de la elección racional se remontan a los inicios del pensamiento 
 
 El renacimiento del paradigma racionalista se dio con el artículo de Gary S. @Becker_68, *Crime and Punishment: An Economic Approach*, que introdujo un marco microeconómico para explicar la conducta delictiva. Becker modeló la delincuencia como un cálculo de utilidad esperada: una persona compara los beneficios de un acto ilegal con sus costos, que incluyen la probabilidad de ser descubierto y la severidad del castigo, además de los costos de oportunidad (por ejemplo, los salarios legales perdidos). Se comete el delito si la recompensa esperada es mayor que la alternativa legal; si no lo es, no se comete. También planteó el problema de la sociedad: elegir el esfuerzo de aplicación de la ley (probabilidad de sanción) y la gravedad del castigo para minimizar la pérdida social total (daño por el delito + costos de aplicación + costos de sanción).
 
-![Imagen de Gary Becker](/images/becker.jpg){fig-align="left" width="2in"}
+::: {layout-ncol="2"}
+
+![](/images/becker.webp){width="32%"}
+
+![](/images/garybecker.jpg){width="12%"}
+
+Gary Becker
+:::
 
 Sin embargo, el modelo de Becker fue objeto de críticas importantes:
 
@@ -305,7 +328,14 @@ Aun con estas críticas, el artículo de Becker revitalizó el enfoque racionali
 
 Ante las críticas al modelo económico puro, criminólogos como Derek Cornish y Ronald @Clarke_86 (*The Reasoning Criminal*) propusieron una versión más matizada: la teoría de la racionalidad acotada (*bounded rationality*). Según ellos, los delincuentes sí actúan con intencionalidad y propósito, pero su racionalidad está limitada por información incompleta, presiones situacionales y sesgos cognitivos. En lugar de imaginar al delincuente como un calculador abstracto, Cornish y Clarke lo describieron como un actor que toma decisiones prácticas en contextos concretos: elegir una casa sin alarma para robar, evitar lugares muy vigilados, preferir delitos de bajo esfuerzo. Estudios empíricos de ladrones de coches o carteristas muestran que efectivamente ponderan riesgos inmediatos y oportunidades visibles, aunque de manera rápida y heurística, más que mediante cálculos precisos. Esta transición de la racionalidad absoluta a la racionalidad acotada supuso un avance teórico, permitiendo incorporar hallazgos de la psicología cognitiva.
 
-![The Reasoning Criminal](/images/the-reasoning-criminal.jpg){fig-align="left" width="2in"}
+::: {layout-ncol="2"}
+
+![](/images/ronaldclarke.jpg){width="3in"}
+
+![](/images/the-reasoning-criminal.jpg){width="2.05in"}
+
+Ronald Clarke
+:::
 
 En las últimas décadas, la perspectiva de la elección racional ha sido enriquecida por aportes de la psicología del juicio y la toma de decisiones y de la neurociencia. Estos refinamientos no niegan que el delito sea, en parte, una decisión, pero muestran que esa decisión está plagada de sesgos, limitaciones y particularidades cognitivas. @Kahneman_79, por ejemplo, demostraron que los individuos no evalúan probabilidades de manera lineal. Tienden a sobrestimar probabilidades bajas y a subestimar probabilidades altas. Para el delincuente, esto implica que el "riesgo de ser atrapado" puede ser percibido de manera distorsionada: algunos lo magnifican, otros lo minimizan casi hasta ignorarlo.
 
@@ -319,7 +349,14 @@ El trabajo de Kahneman ha sido importante en el desarrollo de la teoría del pro
 
 Ambos sistemas interactúan constantemente, pero no de manera simétrica: el Sistema 1 domina la mayoría de decisiones cotidianas, y el Sistema 2 interviene solo cuando se requiere un esfuerzo adicional.
 
-![Thinking Fast, Thinking Slow](/images/thinking.jpg){fig-align="left" width="2in"}
+::: {layout-ncol="2"}
+
+![](/images/Daniel-Kahneman.jpg){width="30%"}
+
+![](/images/thinking.jpg){width="14%"}
+
+Daniel Kahneman
+:::
 
 Muchos delitos ---peleas, robos oportunistas, vandalismo--- ocurren en contextos de alta emocionalidad, presión social o búsqueda inmediata de gratificación. En estos casos puede predominar el Sistema 1: rápido, emocional y miopemente enfocado en la recompensa inmediata. Por el contrario, en otros delitos en los que puede haber más planificación ---fraudes financieros, robos organizados, corrupción--- se apreciará más facilmente la activación del Sistema 2. El delincuente evalúa opciones de forma más consciente, calcula riesgos, planifica la ejecución y anticipa medidas de evasión. La evidencia de entrevistas con delincuentes de cuello blanco o con ladrones profesionales muestra que analizan costes de seguridad, probabilidad de captura y ganancias esperadas. Esto es, en todo caso, un ejemplo simplificado sólo a efectos expositivos. En la práctica los dos sistemas no operan de forma aislada. Incluso delitos que nos pueden parecer planificados, por ejemplo, a menudo se cometerán en modo pilóto automático.
 
