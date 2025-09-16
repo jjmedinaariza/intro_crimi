@@ -1,8 +1,10 @@
 ---
 title: "¿Qué es la criminología?"
 author:
-  name: Juanjo Medina
-  affiliation: Universidad de Sevilla
+  - name: Juanjo Medina
+    affiliation: Universidad de Sevilla
+  - name: Lorea Arenas
+    affiliation: Universidad de Extremadura 
 ---
 
 ## Definiendo la criminología

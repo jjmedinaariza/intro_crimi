@@ -29,16 +29,16 @@ No obstante, sería absurdo pretender que la criminología solo estudia o deber�
 
 Aunque es cierto que las criminólogas dedican la mayor parte del tiempo a estudiar infracciones penales, gestionadas por el sistema de justicia penal, también es cierto que estudian otro tipo de ilícitos o conductas. Generalmente la focalización en distintos conceptos de lo "desviado" o lo infractor ha venido ligado a distintas perspectivas disciplinarias o teóricas (dentro de o relacionadas con) la criminología.
 
-Algunos psicólogos que trabajan en el ámbito de la criminología, por ejemplo, han centrado su atención no en el concepto de delito sino el de **desorden de conducta**, un patrón de comportamiento repetitivo y persistente que puede incluir sustracciones de propiedad, mentiras, violencia física, vandalismo, incumplimiento imprudente de las normas y otras formas de comportamiento antisocial. Mientras que durante mucho tiempo dentro de la sociología hubo un interés notable por la **sociología de la desviación**. Esta campo de estudio estaba interesado en explorar las acciones o comportamientos que violan las normas sociales de reglas formales, así como las violaciones informales de las normas sociales (por ejemplo, el rechazo de las costumbres y las tradiciones). Para estos sociologos el punto de anclaje era la *desviación*, siendo el delito solo una de las muchas formas de desviación. A día de hoy, por ejemplo, hay muchas criminólogas que han desarrollado buena parte de su carrera estudiando el consumo de drogas [@Measham_01; @Measham_11], pese a que esta no es una conducta delictiva (ni siquiera ilegal) en muchos países.
+Algunos psicólogos que trabajan en el ámbito de la criminología, por ejemplo, han centrado su atención no en el concepto de delito sino el de **desorden de conducta**, un patrón de comportamiento repetitivo y persistente que puede incluir sustracciones de propiedad, mentiras, violencia física, vandalismo, incumplimiento imprudente de las normas y otras formas de comportamiento antisocial. Mientras que durante mucho tiempo dentro de la sociología hubo un interés notable por la **sociología de la desviación**. Esta campo de estudio estaba interesado en explorar las acciones o comportamientos que violan las normas sociales de reglas formales, así como las violaciones informales de las normas sociales (por ejemplo, el rechazo de las costumbres y las tradiciones). Para estos sociologos el punto de anclaje era la *desviación*, siendo el delito solo una de las muchas formas de desviación. 
 
-::: {layout-ncol=3}
+A día de hoy, por ejemplo, hay muchas criminólogas que han desarrollado buena parte de su carrera estudiando el consumo de drogas [@Measham_01; @Measham_11], pese a que esta no es una conducta delictiva (ni siquiera ilegal) en muchos países. Lo mismo podríamos decir del ejercicio de la prostitución, aunque en determinados contextos esta ilegalizada y en algunos países criminalizada, eso no ocurre en todas las latitudes. No por ello deja de ser de interés para quienes nos dedicamos a la criminología.
 
+::: {layout-ncol="3"}
 ![](/images/imagesofdeviance.jpg){width="19%"}
 
 ![](/images/waywardpuritans.jpg){width="21%"}
 
 ![](/images/outsiders.jpg){width="20%"}
-
 :::
 
 Más recientemente ha habido propuestas de resituar el tema de interés de nuestra disciplina. Una de estas propuestas es la desarrollada por los defensores de los llamados **estudios de la regulación**. Algunos autores como el criminólogo australiano John Braitwaite, de hecho, considera vital para la criminología el dedicar mucha más energía de la dedicada hasta ahora a entender mecanismos reguladores diferente de los articulados en torno al sistema de control y justicia penal y, por tanto, prestar más atención, entre otras cosas, al distintos mecanismos de regulación (y las infracciones ligadas a los mismos).
@@ -47,12 +47,10 @@ Más recientemente ha habido propuestas de resituar el tema de interés de nuest
 
 Vemos así como aspectos importantes de la vida económica y social vienen a ser regulados por el derecho administrativo que a medida que ha ido creciendo ha ido aumentando el espacio del derecho administrativo sancionador y la aparición de entidades reguladoras encargadas de velar por la aplicación del derecho que no forman parte del sistema de justicia penal. Retomaremos estas ideas en el capítulo 8, por ahora valga entender que el estudio de las infracciones administrativas también puede interesar a la criminología.
 
-::: {layout-ncol=2}
-
+::: {layout-ncol="2"}
 ![](/images/zemiology2.jpg){width="19%"}
 
 ![](/images/socialharm.jpg){width="18%"}
-
 :::
 
 Otros autores han propuesto el desarrollo de una **zemiología** como alternativa crítica a la criminología, una disciplina centrada en el estudio no del delito, sino del **daño social** [@Hillyard_07]. Esta corriente surge para poner el acento en daños sociales generados por el Estado o grandes corporaciones, pero que rara vez son criminalizados. Desde esta perspectiva se argumenta que ceñirnos solamente al estudio de las conductas que son criminalizadas y pasan a ser, por tanto, tipificadas en las legislaciones penales como delitos dejaría fuera de nuestra mirada una serie de actos altamente dañosos, pero que por las dinámicas de poder en la sociedad actual no llegan al Código Penal. Por el contrario, señalan que pese a las pomposas declaraciones de penalistas la legislación penal están plagados de infracciones que recogen comportamientos muy triviales y que probablemente no merecen reproche penal alguno. Piensan que el control del delito es ineficaz, doloroso, y perpetuador de diferencias sociales y que el concepto de delito (y la criminología construida sobre este concepto) no hace más que legitimar la expansion de este control. Es una perspectiva que aspira a liberar a las criminólogas del corsé de la legislación penal. Por tanto proponen que debemos abandonar el estudio del delito y adoptar, en su lugar, una «perspectiva del daño social» que no diferencie entre los daños calificados como delitos y otros tipos de daños.
@@ -69,11 +67,11 @@ Y esto nos lleva directamente a la siguiente pregunta. ¿Qué es un delito? Como
 
 > "A muchos les puede parecer extraño ... que haya algún problema para responder a la pregunta «¿qué es el delito?», pero la definición de delito para la criminología ha sido durante mucho tiempo objeto de un considerable debate. Sin duda, la respuesta más común se basa en la ley, es decir, en el comportamiento clasificado como delito en la legislación. Según esta visión estándar de los libros de texto, un delito es un comportamiento prohibido por el derecho penal y la tarea de la criminología es describir y luego explicar los patrones de violación del derecho penal y los esfuerzos realizados para limitarlos."
 
-Los penalistas suelen definir los delitos como las acciones u omisiones tipificadas como tales por la ley penal que, teóricamente, suponen los ataques o puestas en peligros más graves de los bienes jurídicos más importantes para la ciudadanía.
+Los penalistas suelen definir los delitos como las acciones u omisiones tipificadas como tales por la ley penal que, teóricamente, suponen los ataques o puestas en peligros más graves de los bienes jurídicos más importantes para la ciudadanía. Generalmente se considera que un delito es "la conducta (acción u omisión) típica, antijuríica, culpable y punible" [@Muñoz-Conde_22], que de forma secuencial reune esos distintos elementos elaborados por la dogmática penal (tipicidad, antijuridicad, culpabilidad y punibilidad) y que estudiareis en vuestra asignatura de Derecho Penal.
 
 > "El derecho penal se ocupa de identificar las formas de comportamiento, acción u omisión, la estructura de los delitos, los principios jurídicos subyacentes y los elementos constitutivos que, en ausencia de justificación o excusa, dan lugar a la responsabilidad penal. Para los teóricos del derecho penal y los filósofos del derecho, una forma obvia de resistirse a la criminalización excesiva es desarrollar una explicación más sólida de lo que debe y no debe ser criminalizado. Se centran en articular principios y valores para guiar y restringir a quienes formulan y aprueban nuevas leyes penales, así comoa quienes las administran." [@Zedner_11, p. 278]
 
-El delito, no obstante, no solamente es una categoría legal, sino que también es una construcción social. Las conductas que se consideran delictivas han ido variando a lo largo del tiempo y los códigos penales tambian varían de forma significativa entre países. Hay algunas conductas que suelen ser consideradas delictivas de forma más o menos universal, pero su regulación y contornos también ha cambiado a lo largo del tiempo. Cada vez hay un mayor interés por parte de historiadores de entender el delito y la justicia penal, desde la historia se están produciendo contribuciones muy relevantes para entender precisamente estas variaciones a lo largo de la historia.
+El delito, no obstante, no solamente es una categoría legal, sino que también es una construcción social. Las conductas que se consideran delictivas han ido variando a lo largo del tiempo y los códigos penales tambian varían de forma significativa entre países. Hay algunas conductas que suelen ser consideradas delictivas de forma más o menos universal, pero su regulación y contornos también ha cambiado a lo largo del tiempo. Cada vez hay un mayor interés por parte de historiadores de entender el delito y la justicia penal. Estos están produciendo contribuciones muy relevantes para entender precisamente estas variaciones a lo largo de la historia.
 
 En todo coso, para hacer frente a esta limitación para ponernos de acuerdo sobre lo que es un delito, @Felson_06 [p. 35] propone que adoptemos un enfoque pragmático y consideremos como delito "cualquier conducta identificable que un numero apreciable de gobiernos haya prohibido y a la que aplique sanciones penales". Otros criminólogos en cambio proponían una definición del delito que tratase de trascender el problema de la vinculación a legislaciones penales concretas tratando de identificar su naturaleza universal [@Gottfredson_11]. Así @Gottfredson_90 [p. 15] definían el delito como "actos de fuerza o fraude realizados en beneficio del interés propio".
 
@@ -95,7 +93,7 @@ De lo que se deriva que [@Zedner_11, p. 279-280]:
 
 La criminología se preocupa, por tanto, por al menos tres tipos de cuestiones en lo que refiere al delito:
 
--   ¿Cómo determinados actos u omisiones vienen a ser definidos como delitos y cuáles son los procesos, intereses y dinámicas que guían los actos legislativos de criminalización?
+-   ¿Cómo determinados actos u omisiones vienen a ser definidos como delitos y cuáles son los procesos, intereses y dinámicas que guían los actos legislativos de criminalización y de descriminalización?
 
 -   ¿De qué forma las instancias del sistema de justicia penal (policía, fiscales, jueces, prisiones) actúan frente al delito en la práctica y cuales son los factores que condicionan e influyen estas respuestas?
 
@@ -306,7 +304,6 @@ Las teorías de la elección racional se remontan a los inicios del pensamiento 
 El renacimiento del paradigma racionalista se dio con el artículo de Gary S. @Becker_68, *Crime and Punishment: An Economic Approach*, que introdujo un marco microeconómico para explicar la conducta delictiva. Becker modeló la delincuencia como un cálculo de utilidad esperada: una persona compara los beneficios de un acto ilegal con sus costos, que incluyen la probabilidad de ser descubierto y la severidad del castigo, además de los costos de oportunidad (por ejemplo, los salarios legales perdidos). Se comete el delito si la recompensa esperada es mayor que la alternativa legal; si no lo es, no se comete. También planteó el problema de la sociedad: elegir el esfuerzo de aplicación de la ley (probabilidad de sanción) y la gravedad del castigo para minimizar la pérdida social total (daño por el delito + costos de aplicación + costos de sanción).
 
 ::: {layout-ncol="2"}
-
 ![](/images/becker.webp){width="32%"}
 
 ![](/images/garybecker.jpg){width="12%"}
@@ -329,7 +326,6 @@ Aun con estas críticas, el artículo de Becker revitalizó el enfoque racionali
 Ante las críticas al modelo económico puro, criminólogos como Derek Cornish y Ronald @Clarke_86 (*The Reasoning Criminal*) propusieron una versión más matizada: la teoría de la racionalidad acotada (*bounded rationality*). Según ellos, los delincuentes sí actúan con intencionalidad y propósito, pero su racionalidad está limitada por información incompleta, presiones situacionales y sesgos cognitivos. En lugar de imaginar al delincuente como un calculador abstracto, Cornish y Clarke lo describieron como un actor que toma decisiones prácticas en contextos concretos: elegir una casa sin alarma para robar, evitar lugares muy vigilados, preferir delitos de bajo esfuerzo. Estudios empíricos de ladrones de coches o carteristas muestran que efectivamente ponderan riesgos inmediatos y oportunidades visibles, aunque de manera rápida y heurística, más que mediante cálculos precisos. Esta transición de la racionalidad absoluta a la racionalidad acotada supuso un avance teórico, permitiendo incorporar hallazgos de la psicología cognitiva.
 
 ::: {layout-ncol="2"}
-
 ![](/images/ronaldclarke.jpg){width="3in"}
 
 ![](/images/the-reasoning-criminal.jpg){width="2.05in"}
@@ -350,7 +346,6 @@ El trabajo de Kahneman ha sido importante en el desarrollo de la teoría del pro
 Ambos sistemas interactúan constantemente, pero no de manera simétrica: el Sistema 1 domina la mayoría de decisiones cotidianas, y el Sistema 2 interviene solo cuando se requiere un esfuerzo adicional.
 
 ::: {layout-ncol="2"}
-
 ![](/images/Daniel-Kahneman.jpg){width="30%"}
 
 ![](/images/thinking.jpg){width="14%"}

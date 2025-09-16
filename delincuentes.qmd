@@ -157,9 +157,77 @@ El inicio temprano en la delincuencia de este subgrupo para @Moffitt_93 resulta 
 
 \[TERMINAR SECCIóN\] ...
 
-## Los “psicópatas”
+## Los “psicópatas” y el desorden de personalidad antisocial
 
-\[EN CONSTRUCCIÓN\]
+Existe una fascinación cultural por la figura de los psicópatas. En la criminología española, Vicente Garrido, profesor de psicología de la Universidad de Valencia que juegó un papel clave en la institucionalización y desarrollo científico de la disciplina, ha escrito de forma abundante sobre el tema, en ocasiones en formatos dirigidos a una audiencia general, no solo escritos, por tanto, para académicos [@Garrido_93; @Garrido_00; @Garrido_03; @Garrido_24]. Siguiendo los titulos de sus libros los psicópatas serían los delincuentes más peligrosos y sus formas camaleónicas haría que fueran dificiles de detectar en distintos entornos.
+
+![Vicente Garrido y una de sus libros sobre el tema](/images/garridopsicopatas.webp) 
+
+La psicopatía es un constructo clínico y forense que suele diagnosticarse usando una escala desarrollada por el psicólogo canadiense Robert Hare, el cuál ha dedicado su vida al estudio de este tema. Este autor desarrolló originalmente la PCL (*Psychopathy CheckList* o lista de verificación o comprobación de psicopatías) y la PCL-R (*Psychopathy CheckList Revised* o lista revisada de verificación o comprobación de psicopatías).
+
+> "La PCL-R es una escala de valoración clínica que utiliza una entrevista semiestructurada, información del historial clínico y criterios de puntuación específicos para valorar cada uno de los 20 ítems en una escala de 3 puntos (0, 1, 2) según el grado en que se aplica a un individuo determinado. Como se describe a continuación (sección «En busca de la estructura de la psicopatía»; figura 1), 18 de los ítems forman cuatro factores o dimensiones: Interpersonal (encanto superficial/labia, sentido grandioso de la autoestima, mentira patológica, engaño/manipulación); Afectivo (falta de remordimiento o culpa, afectividad superficial, insensibilidad/falta de empatía, incapacidad para aceptar la responsabilidad de las acciones); Estilo de vida (necesidad de estimulación/propensión al aburrimiento, estilo de vida parasitario, falta de objetivos realistas a largo plazo, impulsividad, irresponsabilidad); y Antisocial (control deficiente del comportamiento, problemas de conducta tempranos, delincuencia juvenil, revocación de la libertad condicional, versatilidad delictiva). Otros dos elementos (conducta sexual promiscua, muchas relaciones a corto plazo) no se incluyen en ningún factor, pero contribuyen a la puntuación total del PCL-R. Las dimensiones interpersonal/afectiva y estilo de vida/antisocial comprenden, respectivamente, los factores 1 y 2 del PCL-R (véase la figura 2) descritos por Hare (2003). Las puntuaciones totales del PCL-R pueden variar de 0 a 40 y reflejan el grado en que el individuo se ajusta al prototipo de psicópata. Para fines de investigación y «diagnóstico», se suele utilizar una puntuación de corte de 30 para la psicopatía." [@Hare_08, pp. 218-219]
+
+![Estructura factorial de los componentes de la PCL-R](/images/hare.png)
+
+El psicópata se caracterizaría por ser "una persona emocionalmente fria, manipuladora, que no tiene sentimientos de culpa o conciencia, y que es capaz de actuar con gran impulsividad y temeridad, pero también siguiendo de forma maquiavélica un plan preconcebido" [@Redondo_23, p. 445]. @Redondo_23 destacan como aunque Hare siempre ha defendido que este es un constructo muy solido, quizás habría que considerar la psicopatía más como un espectro, que se puede manifestar en distintos grados y de forma diversa, según la persona.
+
+La psicopatía, como tal, no está reconocida como trastorno por parte de las clasificiaciones oficiales de psicopatología que se emplean a nivel internacional. Hay dos instrumentos que se manejan como listados oficiales de psicopatologías:
+
+-   El \*Manual diagnóstico y estadístico de los trastornos mentales". Generalmente conocido por su abreviación en inglés, DSM, y que se encuentra ahora en su quinta edición, de ahí que se le suela llamar DSM-5. Este manual fue desarrollado y ha sido actualizado de forma periódica por la Asociacón Americana de Psiquiatría.
+
+-   La *Clasificación internacional de las enfermedades*, o abreviando ICD-10, que es publicada por la Organización Mundial de la Salud y que se encuentra en su décima edición.
+
+Ninguno de estos listados oficiales incluye la psicopatía como tal, aunque es cierto que ambos recogen trastornos que tienen un cierto solapamiento con la psicopatía. El DSM-5 hace referencia al **trastorno antisocial de la personalidad** y el ICD-10 menciona el **trastorno disocial de la personalidad**. En ambos casos, y a diferencia del concepto de psicopatía se pone un mayor énfasis en el componente antisocial del comportamiento para poder diagnosticas estos trastornos.
+
+Según el DSM-5, para diagnosticar un trastorno de personalidad antisocial los pacientes deben tener:
+
+-   Un desprecio persistente por los derechos de los demas, que se ha de manifestar con la presencia de tres o más de los siguientes signos:
+
+-   Desprecio por la ley manifestado en la comisión repetida de actos delictivos que son motivo de arresto
+
+-   Ser una persona engañosa y, por tanto, mentir repetidamente, usar alias, o estafar a otros
+
+-   Actuar impulsivamente o no planificar el delito.
+
+-   Ser provocados facilmente o agresivos, lo que se manifiesta en peleas físicas constantes o agresiones a los demás.
+
+-   Ser imprudentes
+
+-   Actuar de forma irresponsable de forma continua
+
+-   No sentir remordimiento, mostrando indiferencia al mal ajeno
+
+-   Tiene que haber evidencia de que el paciente tuvo un trastorno de la conducta antes de los 15 años de edad.
+
+ICD-10 incluye este trastorno dentro de los trastornos específicos de la personalidad, que implica que nos encontrariamos frente a comportamientos que afectan a varios aspectos de la personalidad, de forma duradera, generalizada y desadaptativa, que comienzan en la infancia o adolescencia y continuan en la madurez, pudiendo conllevar un malestar personal para el paciente así como un deterioro profesional y social. El trastorno disocial de personalidad se caracterizaría por comportamientos y actitudes que muestran:
+
+-   Una despreocupación cruel por los sentimientos de los demas y falta de empatía.
+
+-   Irresponsabilidad y despreocupación por normas, reglas y obligaciones sociales.
+
+-   Incapacidad para mantener relaciones personales duraderas.
+
+-   Baja tolerancia a la frustración o bajo umbral para descargas de agresividad.
+
+-   Incapacidad para sentir culpa y para aprender del castigo.
+
+-   Predisposición a culpar a los demas o a racionalizar el comportamiento conflictivo.
+
+Robert Hare siempre ha criticado que las categorias del DSM y el ICD han puesto demasiado énfasis en la dimesión del comportamiento antisocial, y no en las otras esferas de la psicopatía, que tienen un componente más aféctivo e interpersonal [@Hare_08].
+
+De lo que no cabe duda es que es un concepto que ha sido muy popular y que tiene implicaciones que no son triviales. Como señalan @Redondo_23 [pp. 447-448]:
+
+> "en numerosas ocasiones (sobre todo en Estados Unidos) se" ha "utilizado en los procesos penales como prueba de la potencial peligrosidad de un delincuente, cuestión esta importante para decidir si se le aplicaba la pena de muerte o se le imponía una detención preventiva una vez cumplida la condena... Asimismo, la clasificación de un preso con este diagnóstico tiene amplias repercusiones en cuanto a sus expectativas de tratamiento, ya que... se ha considerado como un trastorno incurable; una opinión que todavía hoy en día es ampliamente popular".
+
+Es generalmente un constructo que se ha asociado con la delincuencia violenta y crónica. Cuando se ha empleado la PCL-R de Hare con muestras de delincuentes violentos y crónicos se ha tendido a encontrar prevalencias altas de personas que tenían puntuaciones altas en esta escala.
+
+Todo esto, no obstante, sigue generando debate. Existe, de entrada, una cierta circularidad en el argumento. Si definimos, al menos en parte, estos trastornos o constructos diciendo que son personas que cometen delitos de forma habitual, no debería ser una sorpresa que entre delincuentes habituales nos encontremos con que estas escalas detectan "psicópatas" o trastornos antisociales o disociales de la personalidad. No deja de haber un cierto paralelismo y solapamiento entre estos conceptos y la noción del delincuente crónico tal y como la describía Terrie Moffitt.
+
+Uno de los autores más críticos de estas ideas es Rasmus Rosenberg Larsen, profesor de epistemiología forense y filosoía de la ciencia, en la Universidad de Toronto-Mississauga en Canada. Este investigador recientemente publicó un libro, \*Psycopathy unmasked: the rise and fall of a dangerous diagnosis" [@Larsen_25], que califica a este diagnostico como un una "peligrosa idea zombi".
+
+![El libro Psycopathy Unmasked de Rasmus Rosenberg Larsen](/images/psycopathy.webp)
+
+En el libro Larsen ofrece una refutación crítica de la psicopatía y su uso legal, analizando minuciosamente las afirmaciones centrales sobre el diagnóstico y que tradicionalmente han servido para justificar su papel en el sistema de justicia penal. @Larsen_25 cuestiona si la psicopatía debe considerarse un concepto científico legítimo. Su resumen de la bibliografía científica sugiere que la mayoría de las afirmaciones que se hacen sobre la psicopatía son muy engañosas y no están respaldadas por la evidencia científica. @Larsen_25 considera que es urgente aplicar una moratoria en el uso forense de las evaluaciones PCL, basándose en la observación de que esta práctica parece violar los códigos éticos profesionales de la psiquiatría y la psicología. Este autor también destaca como este es un ámbito de investigación en el que la crisis de la reproducibilidad y el uso de prácticas cientificas cuestionables han contribuido a generar resultados que no soportan un escrutinio riguroso.
 
 ## Identidad y delincuencia
 
@@ -201,11 +269,11 @@ Para @Matza_10 la identidad desviada se construye y se moldea a través de una i
 
 Dejando las consideraciones de Matza atrás, hay que destacar como a día de hoy numerosos estudios demuestran que tanto la identidad personal (cómo se ven a sí mismos los individuos) como la identidad social (cómo se relacionan los individuos con los grupos y las categorías sociales) están profundamente entrelazadas con el comportamiento delictivo, la persistencia y el abandono de la delincuencia [@Boduszek_15; @Copp_20; @Rocque_16].
 
-El desarrollo de una *identidad delictiva*, a menudo moldeada por comparaciones sociales negativas, roles prosociales fallidos y asociaciones con compañeros o amigos delincuentes, puede aumentar el riesgo de delinquir, mientras que los cambios hacia una identidad prosocial son sólidos predictores del abandono de la delincuencia. Shadd @Maruna_01, por ejemplo, revolucionó el estudio del desistimiento del delito al  demostrar que los delincuentes que desisten de delinquir han construido narrativas poderosas que les han ayudado a dar sentido a su pasado, a encontrar satisfacción en comportamientos productivos y a sentir que controlan su futuro. Maruna, usó las ideas de la psicología narrativa a las que aludimos anteriormente, para sostener que si queremos comprender verdaderamente a los delincuentes, debemos entender las historias que cuentan, y que, a su vez, este proceso de creación de historias tiene la capacidad de transformar vidas.
+El desarrollo de una *identidad delictiva*, a menudo moldeada por comparaciones sociales negativas, roles prosociales fallidos y asociaciones con compañeros o amigos delincuentes, puede aumentar el riesgo de delinquir, mientras que los cambios hacia una identidad prosocial son sólidos predictores del abandono de la delincuencia. Shadd @Maruna_01, por ejemplo, revolucionó el estudio del desistimiento del delito al demostrar que los delincuentes que desisten de delinquir han construido narrativas poderosas que les han ayudado a dar sentido a su pasado, a encontrar satisfacción en comportamientos productivos y a sentir que controlan su futuro. Maruna, usó las ideas de la psicología narrativa a las que aludimos anteriormente, para sostener que si queremos comprender verdaderamente a los delincuentes, debemos entender las historias que cuentan, y que, a su vez, este proceso de creación de historias tiene la capacidad de transformar vidas.
 
 La teoría de la identidad social explica además cómo las afiliaciones grupales, especialmente con compañeros o amigos delincuentes, median el impacto de los entornos sociales en el pensamiento y el comportamiento delictivos [@Hennigan_11; @Lauger_20; @Echelmeyer_23]. Las personas pueden adoptar una identidad criminal cuando se afilian a grupos delictivos (por ejemplo, bandas o grupos organizados de delincuentes) y esto les reporta un sentido positivo de sí mismos. Si los grupos convencionales rechazan o estigmatizan a determinadas personas, estas pueden buscar un sentimiento de pertenencia en grupos que redefinan su comportamiento desviado como valioso. En determinados contextos la identidad criminal puede convertirse en más relevante (por ejemplo, entre iguales que también cometen delitos) y pasar a adoptar las normas del grupo como parte de su identidad social. En algunos casos extremos, los miembros de algunos grupos criminales pueden experimentar una fusión de su identidad personal y grupal [@Newson_25], lo que puede conducir a una lealtad extrema.
 
-Los contextos sociales más amplios, como las relaciones familiares, la conexión con la comunidad y los estatus sociales interseccionales (por ejemplo, raza, clase, género), también desempeñan un papel fundamental en la configuración tanto de la identidad como de las vías hacia la delincuencia o el abandono de la misma. 
+Los contextos sociales más amplios, como las relaciones familiares, la conexión con la comunidad y los estatus sociales interseccionales (por ejemplo, raza, clase, género), también desempeñan un papel fundamental en la configuración tanto de la identidad como de las vías hacia la delincuencia o el abandono de la misma.
 
 Los recientes avances teóricos y empíricos que se han ido produciendo han venido a poner de relieve los aspectos dinámicos, narrativos y situacionales de la identidad, haciendo hincapié en que la identidad no es estática, sino que evoluciona en respuesta a las experiencias vitales y las interacciones sociales. En general, la literatura criminológica subraya que las intervenciones dirigidas a la identidad, tanto personal como social, pueden ser útiles para la prevención de la delincuencia y la rehabilitación.
 
