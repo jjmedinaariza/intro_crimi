@@ -356,3 +356,25 @@ Esto implica adoptar una humildad epistémica. Una participación eficaz en el d
 Una amenaza ética significativa para la integridad académica es la «captura», que se produce cuando los investigadores desarrollan relaciones demasiado estrechas con las élites políticas. Esta proximidad corre el riesgo de llevar al académico a moderar sus declaraciones (o a guardar silencio) ante un escándalo o frente a determinado tipo de prácticas para no poner en peligro sus contactos u oportunidades institucionales, perdiendo así su objetividad. La integridad requiere comunicarse con claridad, sin jerga oscura, y resistirse conscientemente a la «intromisión ilegítima y al «prestigio dudoso» de los mundos no académicos».
 
 Al comprometerse con la profundización democrática —abrazando la ambición intelectual mientras se practica la humildad política, llevando a cabo rigurosamente los tres momentos de la investigación y estableciendo límites éticos firmes contra la captura institucional—, la criminología puede cumplir su misión aplicada sin sacrificar su independencia académica.
+
+## Conclusiones
+
+Aquí tienes una propuesta de conclusión que sintetiza los puntos clave del ensayo, uniendo la naturaleza política de la disciplina con la propuesta final del "currante democrático".
+
+Puedes usar este texto para cerrar el capítulo de manera lógica y cohesiva:
+
+***
+
+### Conclusión: Hacia una criminología pública y democrática
+
+A lo largo de este capítulo hemos transitado desde el reconocimiento de la naturaleza ineludiblemente política de la criminología hasta la búsqueda de un modelo profesional que nos permita operar en este terreno con integridad. Hemos visto cómo el delito, lejos de ser una mera cuestión técnica, se ha convertido en un arma arrojadiza en la arena política, utilizada a menudo para movilizar miedos, justificar el populismo punitivo y erosionar derechos fundamentales. Esta "gobernanza a través del delito" nos plantea un desafío ético y profesional de primer orden: ¿cómo intervenir sin convertirnos en meros instrumentos de estas dinámicas ni retirarnos a una torre de marfil irrelevante?
+
+La respuesta no reside en una supuesta neutralidad aséptica —que a menudo solo sirve para legitimar el *status quo*— ni en el activismo panfletario que sacrifica el rigor por la ideología. Como hemos analizado a través de las figuras propuestas por Loader y Sparks, el camino más prometedor es el del **"currante democrático"** (*democratic under-labourer*).
+
+Este modelo nos invita a abrazar una posición de **ambición intelectual y humildad política**. Como criminólogos y criminólogas, nuestra responsabilidad es doble:
+
+* **En lo científico:** Producir conocimiento riguroso, fiable y crítico que desmonte mitos y aporte evidencia sobre lo que realmente funciona y lo que es justo.
+
+*  **En lo cívico:** Entender que la evidencia científica es un insumo para el debate democrático, no su sustituto. No somos "guardianes platónicos" que dictan la verdad desde arriba, sino facilitadores que ayudan a la ciudadanía y a las instituciones a deliberar mejor sobre cómo gestionar sus conflictos.
+
+En definitiva, asumir la dimensión política de la criminología no significa politizar la ciencia, sino **democratizar el conocimiento**. Nuestra meta última debe ser mejorar la calidad de la discusión pública sobre la seguridad y la justicia, fomentando políticas que no solo sean eficaces, sino también respetuosas con los valores democráticos de libertad, igualdad y dignidad humana. Solo así pasaremos de ser meros técnicos de la seguridad a verdaderos académicos ciudadanos.
