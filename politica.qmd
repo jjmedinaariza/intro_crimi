@@ -23,11 +23,11 @@ La derivada de esto es que pretender que, como disciplina científica y practica
 
 Partiendo de estas coordenadas, en este capítulo vamos a analizar en particular varias cuestiones.
 
-* En primer lugar, vamos a describir de que forma estas conexiones se han hecho más presentes y plantean un mayor reto en el contexto politico actual; un contexto en el que los políticos cada vez de forma más explícita han decidido hacer de la política criminal un campo de confrontación.
+-   En primer lugar, vamos a describir de que forma estas conexiones se han hecho más presentes y plantean un mayor reto en el contexto politico actual; un contexto en el que los políticos cada vez de forma más explícita han decidido hacer de la política criminal un campo de confrontación.
 
-* En segundo lugar, vamos a analizar de qué forma las ciencias sociales han planteado el debate sobre cuál ha de ser la relación entre ciencia y valores; en qué medida los científicos deberíamos ser neutrales y que significa eso de la objetividad.
+-   En segundo lugar, vamos a analizar de qué forma las ciencias sociales han planteado el debate sobre cuál ha de ser la relación entre ciencia y valores; en qué medida los científicos deberíamos ser neutrales y que significa eso de la objetividad.
 
-* Finalmente, vamos a examinar de qué forma estos debates se han desarrollado en el seno específico de la criminología y cuáles han sido las distintas posiciones que se han considerado adecuadas desde distintas perspectivas para ubicar el papel que los criminólogos y las criminólogas podemos y debemos desarrollar en este contexto de contienda política.
+-   Finalmente, vamos a examinar de qué forma estos debates se han desarrollado en el seno específico de la criminología y cuáles han sido las distintas posiciones que se han considerado adecuadas desde distintas perspectivas para ubicar el papel que los criminólogos y las criminólogas podemos y debemos desarrollar en este contexto de contienda política.
 
 ## El uso político de la inseguridad
 
@@ -125,7 +125,7 @@ No obstante, como muchos autores posteriores han señalado, la posición de Webe
 
 La crítica posterior ha señalado también el contexto histórico de la postura weberiana. Weber escribía en un momento de crisis del Estado alemán y de polarización ideológica tras la unificación nacional y la Primera Guerra Mundial. Su defensa de la neutralidad del científico debe leerse como una reacción contra la politización de la cátedra universitaria y contra la instrumentalización de la ciencia por parte de las ideologías nacionalistas y socialistas. En este contexto, es posible argumentar que su insistencia en separar hechos y valores cumplía una función moral y política (preservar la autonomía del pensamiento científico) [@Whimster_19; @Turner_19].
 
-Weber, al reconocer el papel de los valores, abrió la posibilidad de un enfoque reflexivo; sin embargo, mantuvo un ideal de separación entre conocimiento y compromiso moral que el pensamiento posterior consideró insostenible. 
+Weber, al reconocer el papel de los valores, abrió la posibilidad de un enfoque reflexivo; sin embargo, mantuvo un ideal de separación entre conocimiento y compromiso moral que el pensamiento posterior consideró insostenible.
 
 ### Gunnar Myrdal y la objetividad como reflexividad valorativa
 
@@ -152,10 +152,6 @@ Becker introduce aquí un concepto particularmente relevante, el de la **jerarqu
 En otras palabras, no a todos los actores sociales se les concede la misma credibilidad. En los sistemas sociales jerárquicos (empresas, instituciones, gobiernos, incluso universidades), el relato de los que se encuentran en posiciones de poder se percibe como el relato "oficial" o "verdadero", mientras que las voces subordinadas (obreros, minorías, pacientes, presos, estudiantes, mujeres, etc.) tienden a ser desestimadas o vistas como sesgadas, emocionales o no científicas. Becker concluye que la sociología y la criminología no son neutrales respecto a esa jerarquía. Si el sociólogo o la criminóloga simplemente adopta el punto de vista de los actores dominantes (porque es el más accesible, el más articulado o el que se encuentra más institucionalmente legitimado), está reproduciendo una forma de sesgo estructural.
 
 De ahí su famosa pregunta retórica: "¿De qué lado estamos?". Esta pregunta, lejos de ser un llamado al partidismo, apunta a la necesidad de hacer explícito el punto de vista desde el cual se produce el conocimiento. Becker sostiene que los científicos sociales suelen ser acusados de parcialidad cuando sus investigaciones dan voz a los sectores subordinados o marginados, mientras que, por el contrario, rara vez se cuestiona la parcialidad de quienes estudian desde la perspectiva del orden establecido. La imparcialidad, concluye, no consiste en evitar tomar partido, sino en reconocer y justificar críticamente el propio posicionamiento.
-
-La concepción de Becker se enmarca en la tradición del **interaccionismo simbólico** de la Escuela de Chicago. Esta corriente sociologica concibe la realidad social como un producto de la interacción entre actores y define la labor del investigador como un proceso interpretativo. En este enfoque teórico, los significados no son entidades objetivas que puedan ser descubiertas desde fuera, sino construcciones situadas que emergen de la práctica social. Por tanto, el sociólogo no puede ocupar una posición externa o neutral respecto a su objeto: su presencia modifica el campo de observación y forma parte de la dinámica que estudia.
-
-Becker extiende este principio a la epistemología de la investigación. La objetividad no es el resultado de la distancia, sino de la transparencia reflexiva sobre las condiciones en que se produce el conocimiento. En su metodología, inspirada en la observación participante y el trabajo de campo etnográfico, el investigador se aproxima a los actores sociales, comparte parcialmente sus experiencias y reconstruye sus significados desde dentro. Esta proximidad no implicaría pérdida de rigor, sino una forma más profunda de comprensión, que requiere explicitar las mediaciones y los límites de la interpretación.
 
 Para Becker, la cuestión clave no es, por tanto, si el investigador tiene valores (eso es inevitable), sino qué hace con ellos. Toda investigación es, en última instancia, una *intervención* en el mundo social: el científico selecciona ciertos problemas, define categorías y produce narrativas que influyen en la percepción pública de la realidad. Por ello, debe asumir la responsabilidad moral de esas decisiones.
 
@@ -197,11 +193,11 @@ En el contexto actual de crisis de legitimidad científica y ataques políticos 
 
 ### Criminología administrative y políticas basadas en la evidencia
 
-Cómo se puede deducir de todo lo anterior, no debería sorprender que la criminología contemporánea se encuentra atravesada por debates en torno al papel del conocimiento experto en la formulación de políticas públicas. Dos de los enfoques recientes más influyentes en este campo han sido la **criminología administrativa** y **la política basada en evidencia** (evidence-based policy, EBP). Aunque ambos comparten una vocación pragmática y una orientación hacia la resolución de problemas, difieren en sus fundamentos epistemológicos, sus supuestos sobre la naturaleza del delito y sus implicaciones políticas. 
+Cómo se puede deducir de todo lo anterior, no debería sorprender que la criminología contemporánea se encuentra atravesada por debates en torno al papel del conocimiento experto en la formulación de políticas públicas. Dos de los enfoques recientes más influyentes en este campo han sido la **criminología administrativa** y **la política basada en evidencia** (evidence-based policy, EBP). Aunque ambos comparten una vocación pragmática y una orientación hacia la resolución de problemas, difieren en sus fundamentos epistemológicos, sus supuestos sobre la naturaleza del delito y sus implicaciones políticas.
 
-El concepto de **criminología administrativa** surge en el contexto británico de los años ochenta y noventa, en un momento de fuerte transformación del Estado y de proliferación de enfoques gerenciales inspirados en el **new public management** (nuevo gerencialismo público)[^2]. Aunque el término fue acuñado por sus críticos, describe un programa de investigación que se consolidó en torno a los departamentos gubernamentales (en particular, el *Home Office*), cuando gobernaba el partido conservador (*tories*), y a académicos vinculados a la prevención situacional y las teorías de la elección racional, como Ronald Clarke y Derek Cornish.
+El concepto de **criminología administrativa** surge en el contexto británico de los años ochenta y noventa, en un momento de fuerte transformación del Estado y de proliferación de enfoques gerenciales inspirados en el **new public management** (nuevo gerencialismo público)[^politica-2]. Aunque el término fue acuñado por sus críticos, describe un programa de investigación que se consolidó en torno a los departamentos gubernamentales (en particular, el *Home Office*), cuando gobernaba el partido conservador (*tories*), y a académicos vinculados a la prevención situacional y las teorías de la elección racional, como Ronald Clarke y Derek Cornish.
 
-[^2]: Corriente de pensamiento orientada a reformas los principios de trabajo y organizacion de la administración pública para hacerlos más parecidos a los existentes en la empresa privada y orientarlos hacia la busqueda de resultados mensurables.
+[^politica-2]: Corriente de pensamiento orientada a reformas los principios de trabajo y organizacion de la administración pública para hacerlos más parecidos a los existentes en la empresa privada y orientarlos hacia la busqueda de resultados mensurables.
 
 La criminología administrativa entiende el delito fundamentalmente como un problema técnico susceptible de ser gestionado mediante intervenciones específicas y focalizadas. Desde esta perspectiva, el delito no se explica principalmente por causas sociales, sino por oportunidades concretas, incentivos y decisiones individuales. Ello conduce a priorizar estrategias como la modificación del entorno físico, el endurecimiento de objetivos, el diseño de espacios defensivos, o la gestión del riesgo a través de herramientas actuariales [@Medina_11b].
 
@@ -217,39 +213,39 @@ El paradigma EBP pone el énfasis en la medición continua, la transparencia en 
 
 Sin embargo, la EBP no está exenta de controversias. En primer lugar, se le reprocha una concepción limitada de lo que constituye "evidencia científica", al privilegiar exclusivamente ciertos métodos cuantitativos y marginalizar saberes cualitativos, experienciales o comunitarios. En segundo lugar, se observa que la producción de evidencia depende de prioridades políticas preexistentes: se investiga aquello que los gobiernos desean evaluar, no necesariamente lo que es socialmente más relevante. Por último, algunos autores denuncian que la EBP puede reforzar dinámicas de control selectivo y desigual, al centrarse en intervenciones focalizadas que recaen desproporcionadamente sobre grupos sociales específicos.
 
-Aunque estas dos corrientes no son idénticas, ambas perspectivas comparten varios elementos que explican su frecuente asociación. 
+Aunque estas dos corrientes no son idénticas, ambas perspectivas comparten varios elementos que explican su frecuente asociación.
 
-* En primer lugar, comparten un pragmatismo instrumental orientado al "qué funciona" en la reducción del delito. Esta orientación práctica se refleja en la preferencia por intervenciones mensurables, replicables y evaluables.
+-   En primer lugar, comparten un pragmatismo instrumental orientado al "qué funciona" en la reducción del delito. Esta orientación práctica se refleja en la preferencia por intervenciones mensurables, replicables y evaluables.
 
-* En segundo lugar, ambas valoran el uso intensivo de datos y la adopción de métodos de evaluación (más solidas y exigentes en EBP). La figura del experto que analiza métricas, diseña indicadores y produce recomendaciones se convierte en un actor central.
+-   En segundo lugar, ambas valoran el uso intensivo de datos y la adopción de métodos de evaluación (más solidas y exigentes en EBP). La figura del experto que analiza métricas, diseña indicadores y produce recomendaciones se convierte en un actor central.
 
-* En tercer lugar, existe una afinidad con agendas gubernamentales que buscan legitimar sus políticas a través de un discurso de eficiencia y racionalidad técnica. Tanto la criminología administrativa como la EBP proporcionan herramientas que pueden permitir justificar decisiones bajo la apariencia de neutralidad científica.
+-   En tercer lugar, existe una afinidad con agendas gubernamentales que buscan legitimar sus políticas a través de un discurso de eficiencia y racionalidad técnica. Tanto la criminología administrativa como la EBP proporcionan herramientas que pueden permitir justificar decisiones bajo la apariencia de neutralidad científica.
 
 Los críticos sostienen que estas perspectivas, aunque valiosas para mejorar programas específicos, pueden contribuir a una visión reduccionista de la criminología. Al tratar el delito como un problema técnico y no político, pueden desatender cuestiones fundamentales como la desigualdad, la exclusión social, la relación entre Estado y ciudadanía, o los efectos colaterales del castigo.
 
-Un segundo eje de crítica se refiere al riesgo de tecnocratización del control penal. Cuando  la evidencia científica y el conocimiento experto se convierten en criterios dominantes, se corre el riesgo de desplazar debates democráticos sobre la justicia, los derechos y la legitimidad del sistema penal.
+Un segundo eje de crítica se refiere al riesgo de tecnocratización del control penal. Cuando la evidencia científica y el conocimiento experto se convierten en criterios dominantes, se corre el riesgo de desplazar debates democráticos sobre la justicia, los derechos y la legitimidad del sistema penal.
 
 Finalmente, tanto en la criminología administrativa como en la EBP subyace una noción racionalista del comportamiento humano, que no siempre captura la complejidad de los contextos sociales, culturales y emocionales donde ocurre el delito.
 
-La criminología administrativa y la política basada en evidencia representan dos enfoques que han transformado profundamente el campo del control del delito. Sus contribuciones a la evaluación rigurosa, la planificación estratégica y la eficiencia de las intervenciones son innegables. Sin embargo, sus límites también son significativos: ambos enfoques tienden a estrechar la mirada analítica, a depolitizar la cuestión criminal y a favorecer la gestión técnica sobre la reflexión crítica. El desafío contemporáneo consiste, por tanto, en integrar su vocación empírica con una criminología más amplia, capaz de situar el delito en su contexto social y político, y de someter a escrutinio tanto las prácticas del Estado como las estructuras que producen inseguridad y desigualdad, una cuestión a la que retornaremos en el último apartado de este capítulo [^3] [@Strassheim_14].
+La criminología administrativa y la política basada en evidencia representan dos enfoques que han transformado profundamente el campo del control del delito. Sus contribuciones a la evaluación rigurosa, la planificación estratégica y la eficiencia de las intervenciones son innegables. Sin embargo, sus límites también son significativos: ambos enfoques tienden a estrechar la mirada analítica, a depolitizar la cuestión criminal y a favorecer la gestión técnica sobre la reflexión crítica. El desafío contemporáneo consiste, por tanto, en integrar su vocación empírica con una criminología más amplia, capaz de situar el delito en su contexto social y político, y de someter a escrutinio tanto las prácticas del Estado como las estructuras que producen inseguridad y desigualdad, una cuestión a la que retornaremos en el último apartado de este capítulo [^politica-3] [@Strassheim_14].
 
-[^3]: Para más detalles sobre como mejorar el uso de la evidencia científica por el gobierno ver: @Parkhurst_17 
+[^politica-3]: Para más detalles sobre como mejorar el uso de la evidencia científica por el gobierno ver: @Parkhurst_17
 
 ### Infraestructuras de investigación criminológica en estructuras gubernativas
 
-La creciente influencia del paradigma de la evidencia (EBP) en la formulación de políticas públicas ha desplazado la atención  hacia las estructuras que los sostienen. Es imprescindible observar cómo los Estados organizan sus capacidades institucionales para generar, filtrar y utilizar conocimiento en la toma de decisiones. Las infraestructuras gubernamentales de investigación constituyen el entramado que hace posible este tránsito entre saber y poder, y en el ámbito de la política criminal adquieren una importancia decisiva. Son estas infraestructuras (agencias, unidades estadísticas, mecanismos de evaluación, relaciones con la academia y normas de transparencia) las que determinan qué se considera evidencia útil, qué preguntas se formulan y cuáles quedan fuera del radar.
+La creciente influencia del paradigma de la evidencia (EBP) en la formulación de políticas públicas ha desplazado la atención hacia las estructuras que los sostienen. Es imprescindible observar cómo los Estados organizan sus capacidades institucionales para generar, filtrar y utilizar conocimiento en la toma de decisiones. Las infraestructuras gubernamentales de investigación constituyen el entramado que hace posible este tránsito entre saber y poder, y en el ámbito de la política criminal adquieren una importancia decisiva. Son estas infraestructuras (agencias, unidades estadísticas, mecanismos de evaluación, relaciones con la academia y normas de transparencia) las que determinan qué se considera evidencia útil, qué preguntas se formulan y cuáles quedan fuera del radar.
 
 Cuando se examina su funcionamiento, se advierte que la producción de evidencia no es nunca un proceso neutral. Depende de las capacidades internas del gobierno para analizar datos, de su disposición a colaborar con instituciones externas, de la existencia de protocolos de evaluación bien asentados y del papel de intermediarios capaces de traducir el lenguaje técnico al político. También se ve afectada por tensiones más profundas: la urgencia de la agenda política, la presión de los medios, las preferencias ideológicas de los gobiernos y las limitaciones estructurales que impone cada tradición administrativa. En este sentido, la evidencia para la política criminal no emerge nunca en el vacío; surge en el interior de una arquitectura institucional que le da forma, dirección y, en ocasiones, límites.
 
 Si las infraestructuras de investigación se diseñan de forma demasiado estrecha o tecnocrática, pueden reproducir algunas limitaciones señaladas en la sección anterior:
 
-* Enfoque excesivo en métricas cuantitativas que dejan fuera dimensiones cualitativas, sociales o éticas.
+-   Enfoque excesivo en métricas cuantitativas que dejan fuera dimensiones cualitativas, sociales o éticas.
 
-* Sesgos hacia problemas "gestionables", olvidando factores estructurales del delito.
+-   Sesgos hacia problemas "gestionables", olvidando factores estructurales del delito.
 
-* Dependencia jerárquica de los ministerios, que puede limitar la independencia del análisis.
+-   Dependencia jerárquica de los ministerios, que puede limitar la independencia del análisis.
 
-* Circularidad entre agenda política y producción de evidencia, reduciendo el espacio para enfoques críticos o innovadores
+-   Circularidad entre agenda política y producción de evidencia, reduciendo el espacio para enfoques críticos o innovadores
 
 Entre los países europeos, Reino Unido, Países Bajos y Suecia ofrecen tres configuraciones particularmente reveladoras de esa arquitectura institucional. Aunque comparten la ambición de producir políticas criminales informadas por la investigación, han construido infraestructuras que responden a lógicas distintas: más fragmentadas y competitivas en el caso británico, más centralizadas y estables en el holandés, y más equilibradas entre lo nacional y lo local en el sueco. Analizar estas tres tradiciones permite comprender no solo cómo circula la evidencia dentro del Estado, sino también cómo las administraciones moldean aquello que llaman conocimiento útil.
 
@@ -269,17 +265,17 @@ La experiencia comparativa de Reino Unido, Suecia y Países Bajos confirma que l
 
 En nuestro país la infraestructura de investigación para la política criminal ciertamente presenta un perfil diferente: más fragmentado, territorialmente desigual (con mejores síntomas en Cataluña), mucho más pobre, y menos institucionalizado que en los países comparados. La producción académica se concentra principalmente en universidades y centros de investigación dependientes de estas, mientras que los organismos públicos como el Ministerio del Interior o el Observatorio de la Violencia de Género generan estadísticas y evaluaciones puntuales más que investigación científica sistemática. Como ya hemos visto en capítulos anteriores ni tan siquiera contamos con una encuesta nacional de victimación periodica. Aunque existen programas (infra-)financiados por organismos como la *Agencia Estatal de Investigación*, la coordinación entre producción científica y formulación de políticas es limitada, y no hay un equivalente claro al College of Policing, WODC, NSCR o Brå. Esto implica que, si bien España cuenta con evidencia académica relevante, su articulación institucional para traducirla en políticas criminales de forma continua y sistemática es todavía incipiente:
 
-* no hay mecanismos institucionalizados de transferencia de conocimiento;
+-   no hay mecanismos institucionalizados de transferencia de conocimiento;
 
-* la contratación de investigación desde la administración es escasa y a menudo infrafinanciada;
+-   la contratación de investigación desde la administración es escasa y a menudo infrafinanciada;
 
-* y las estructuras burocráticas españolas recompensan menos la "evidencia" que la argumentación jurídica y político-normativa.
+-   y las estructuras burocráticas españolas recompensan menos la "evidencia" que la argumentación jurídica y político-normativa.
 
 Todo esto dificulta la consolidación de una política criminal plenamente basada en evidencia, aunque es cierto que hay algunos síntomas de que existe una conciencia mayor en ciertos círculos hacia la necesidad de movernos en esta dirección (como, por ejemplo, se materializa en la creación de la *Oficina Nacional de Asesoramiento Científico*).
 
 ## ¿Hacia una criminología pública?
 
-Ian Loader y Richard Sparks en  *Public Criminology* reflexionaban sobre todas estas cuestiones y hacían un análisis sobre como deben pensarse desde la criminología. En este libro, estos autores, por un lado, resumen la historia de la relación entre criminología y política y, por otra parte, proponen una solución a cómo debería articularse esta relación. En este apartado, vamos a seguir las principales lineas argumentativas de estos autores que de alguna forma reflejan las maneras que la criminología ha respondido a los retos de la politización del delito que planteabamos en secciones anteriores.
+Ian Loader y Richard Sparks en *Public Criminology* reflexionaban sobre todas estas cuestiones y hacían un análisis sobre como deben pensarse desde la criminología. En este libro, estos autores, por un lado, resumen la historia de la relación entre criminología y política y, por otra parte, proponen una solución a cómo debería articularse esta relación. En este apartado, vamos a seguir las principales lineas argumentativas de estos autores que de alguna forma reflejan las maneras que la criminología ha respondido a los retos de la politización del delito que planteabamos en secciones anteriores.
 
 ### La evolución del pensamiento criminológico
 
