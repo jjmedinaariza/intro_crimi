@@ -213,9 +213,9 @@ La criminología hasta la irrupción con fuerza de voces feministas dentro de la
 ![](images/womencrime.jpg){width="49%"}
 :::
 
-La criminología de caracter biológico del siglo XIX era indudablemente profundamente racista y contribuyó a través de sus prácticas [@Rafter_97] a legitimar el movimiento eugenésico [^concepto-2] y la ideología nazi [@Rafter_08].
+La criminología de caracter biológico del siglo XIX era indudablemente profundamente racista y contribuyó a través de sus prácticas [@Rafter_97] a legitimar el movimiento eugenésico [^concepto-1] y la ideología nazi [@Rafter_08].
 
-[^concepto-2]: Ver la entrada de eugenesia en [Wikipedia](https://es.wikipedia.org/wiki/Eugenesia).
+[^concepto-1]: Ver la entrada de eugenesia en [Wikipedia](https://es.wikipedia.org/wiki/Eugenesia).
 
 > "Al igual que otros miembros de las clases cultas, la mayoría de los criminólogos del siglo XIX aceptaban los principios del llamado racismo científico, según el cual los blancos son la raza más evolucionada de todas. El racismo científico solía formar parte de las explicaciones evolutivas del comportamiento delictivo: los peores delincuentes son como salvajes, más cercanos a los hotentotes y otros primitivos de piel negra que a los blancos normales, con su sentido moral bien desarrollado." [@Rafter_11, p. 151]
 
