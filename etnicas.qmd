@@ -1,8 +1,8 @@
 ---
 title: "Diferencias étnicas y lo foraneo"
 author:
-  name: Elisa García España
-  affiliation: Universidad de Málaga
+  name: 
+  affiliation: 
 ---
 
 ## Criminología y racismo en sus orígenes
