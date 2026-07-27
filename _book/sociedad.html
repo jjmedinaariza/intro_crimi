@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -179,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./victimas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Las victimas y los procesos de victimación</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Las víctimas y los procesos de victimación</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -276,12 +296,22 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
-  <li><a href="#control-social-eficacia-colectiva-y-delito" id="toc-control-social-eficacia-colectiva-y-delito" class="nav-link active" data-scroll-target="#control-social-eficacia-colectiva-y-delito"><span class="header-section-number">9.1</span> Control social, eficacia colectiva y delito</a></li>
-  <li><a href="#el-descubrimiento-del-miedo-al-delito" id="toc-el-descubrimiento-del-miedo-al-delito" class="nav-link" data-scroll-target="#el-descubrimiento-del-miedo-al-delito"><span class="header-section-number">9.2</span> El descubrimiento del miedo al delito</a></li>
-  <li><a href="#ciudadanos-y-punitivismo" id="toc-ciudadanos-y-punitivismo" class="nav-link" data-scroll-target="#ciudadanos-y-punitivismo"><span class="header-section-number">9.3</span> Ciudadanos y punitivismo</a></li>
-  <li><a href="#medios-de-comunicación-y-delincuencia" id="toc-medios-de-comunicación-y-delincuencia" class="nav-link" data-scroll-target="#medios-de-comunicación-y-delincuencia"><span class="header-section-number">9.4</span> Medios de comunicación y delincuencia</a></li>
-  <li><a href="#participación-ciudadana-democracia-y-coproducción" id="toc-participación-ciudadana-democracia-y-coproducción" class="nav-link" data-scroll-target="#participación-ciudadana-democracia-y-coproducción"><span class="header-section-number">9.5</span> Participación ciudadana, democracia y coproducción</a></li>
-  <li><a href="#criminología-cultural" id="toc-criminología-cultural" class="nav-link" data-scroll-target="#criminología-cultural"><span class="header-section-number">9.6</span> Criminología cultural</a></li>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción"><span class="header-section-number">9.1</span> Introducción</a></li>
+  <li><a href="#el-miedo-al-delito" id="toc-el-miedo-al-delito" class="nav-link" data-scroll-target="#el-miedo-al-delito"><span class="header-section-number">9.2</span> El miedo al delito</a>
+  <ul class="collapse">
+  <li><a href="#la-invención-del-miedo-al-delito" id="toc-la-invención-del-miedo-al-delito" class="nav-link" data-scroll-target="#la-invención-del-miedo-al-delito"><span class="header-section-number">9.2.1</span> La “invención” del miedo al delito</a></li>
+  <li><a href="#el-miedo-al-delito-como-expresión-de-otros-malestares" id="toc-el-miedo-al-delito-como-expresión-de-otros-malestares" class="nav-link" data-scroll-target="#el-miedo-al-delito-como-expresión-de-otros-malestares"><span class="header-section-number">9.2.2</span> El miedo al delito como expresión de otros malestares</a></li>
+  <li><a href="#podemos-hablar-de-un-miedo-específico-al-delito" id="toc-podemos-hablar-de-un-miedo-específico-al-delito" class="nav-link" data-scroll-target="#podemos-hablar-de-un-miedo-específico-al-delito"><span class="header-section-number">9.2.3</span> ¿Podemos hablar de un miedo específico al delito?</a></li>
+  <li><a href="#género-y-miedo-al-delito" id="toc-género-y-miedo-al-delito" class="nav-link" data-scroll-target="#género-y-miedo-al-delito"><span class="header-section-number">9.2.4</span> Género y miedo al delito</a></li>
+  <li><a href="#y-españa" id="toc-y-españa" class="nav-link" data-scroll-target="#y-españa"><span class="header-section-number">9.2.5</span> ¿Y España?</a></li>
+  </ul></li>
+  <li><a href="#medios-de-comunicación-y-delincuencia" id="toc-medios-de-comunicación-y-delincuencia" class="nav-link" data-scroll-target="#medios-de-comunicación-y-delincuencia"><span class="header-section-number">9.3</span> Medios de comunicación y delincuencia</a>
+  <ul class="collapse">
+  <li><a href="#la-imagen-del-delito" id="toc-la-imagen-del-delito" class="nav-link" data-scroll-target="#la-imagen-del-delito"><span class="header-section-number">9.3.1</span> La imagen del delito</a></li>
+  <li><a href="#la-imagen-de-la-justicia-penal" id="toc-la-imagen-de-la-justicia-penal" class="nav-link" data-scroll-target="#la-imagen-de-la-justicia-penal"><span class="header-section-number">9.3.2</span> La imagen de la justicia penal</a></li>
+  </ul></li>
+  <li><a href="#ciudadanos-y-punitivismo" id="toc-ciudadanos-y-punitivismo" class="nav-link" data-scroll-target="#ciudadanos-y-punitivismo"><span class="header-section-number">9.4</span> Ciudadanos y punitivismo</a></li>
+  <li><a href="#criminología-cultural" id="toc-criminología-cultural" class="nav-link" data-scroll-target="#criminología-cultural"><span class="header-section-number">9.5</span> Criminología cultural</a></li>
   </ul>
 </nav>
     </div>
@@ -320,25 +350,313 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="control-social-eficacia-colectiva-y-delito" class="level2" data-number="9.1">
-<h2 data-number="9.1" class="anchored" data-anchor-id="control-social-eficacia-colectiva-y-delito"><span class="header-section-number">9.1</span> Control social, eficacia colectiva y delito</h2>
+<section id="introducción" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="introducción"><span class="header-section-number">9.1</span> Introducción</h2>
+<p>A estas alturas ya hemos examinado muchos de los objetos tradicionales de estudio de la criminología. Hemos estudiado el delito como acto o evento; nos hemos preguntado quién lo comete, ya sea una persona o toda una organización, una empresa o un Estado; nos hemos puesto del lado de quien lo padece; y hemos visto de qué modo le responde la maquinaria estatal y las instituciones de control penal. Con todo eso podría parecer que ya hemos terminado de cartografiar todo el terreno. Tenemos el hecho, sus protagonistas y el aparato institucional oficial que se pone en marcha cuando algo ocurre. Y sin embargo falta una pieza fundamental,lo que la sociedad hace con el delito al margen de esa maquinaria, cómo lo vive, lo interpreta y lo cuenta. Recordar el experimento filosófico: “Si un árbol cae en un bosque y nadie está cerca para oírlo, ¿hace algún sonido?”. ¿Podemos entender el delito sin como lo oye y lo interpreta la sociedad?</p>
+<p>El delito no es un evento objetivo que acontece únicamente en la calle o donde quiera que tome lugar. Transcurre también en el telediario, en el grupo de WhatsApp del vecindario, en la charla de sobremesa y en esa sensación de inseguridad que una puede llevar encima al volver de noche a casa. La sociedad no se limita a sufrir el delito como hecho acotable a unas coordenadas espacio temporales, sino que lo percibe, lo teme, lo relata, lo interpreta y responde a él de forma colectiva. Y lo que nos interesa abordar en este capítulo es que esa lectura colectiva no es un ruido ajeno alrededor del delito “de verdad”, es, ella misma, un objeto de estudio científico. El miedo que no se ajusta al riesgo real, la alarma social que sube justo cuando las tasas de delito bajan, la imagen del delincuente que nos hemos formado sin haber presenciado nunca un delito, nuestro imaginario sobre la actuación policial, todo ello se puede medir, investigar y discutir, y las criminólogas llevan décadas haciéndolo.</p>
+<p>Vista así, la delincuencia deja de ser un simple suceso (algo que pasa en un lugar y a una hora) para volverse además un fenómeno cultural, un asunto cargado de emociones, de imágenes y de significados que hablan tanto de la sociedad que los produce como del hecho en sí. Este capítulo recorre varios de esos objetos, cada uno con su propia tradición de investigación detrás. Veremos el miedo al delito y de qué está hecho en realidad; el papel de los medios en la construcción de la realidad delictiva y en la fabricación de pánicos; la demanda social de castigo, y por qué arrecia aunque el delito no aumente; y, para terminar, el enfoque que coloca la emoción y el sentido en el centro del análisis, la criminología cultural. Reunirlos aquí es una forma de ensanchar el catálogo de lo que la criminología considera de su incumbencia, no solo el delito y quienes lo protagonizan, sino también la vida social y simbólica que lo rodea.</p>
 </section>
-<section id="el-descubrimiento-del-miedo-al-delito" class="level2" data-number="9.2">
-<h2 data-number="9.2" class="anchored" data-anchor-id="el-descubrimiento-del-miedo-al-delito"><span class="header-section-number">9.2</span> El descubrimiento del miedo al delito</h2>
+<section id="el-miedo-al-delito" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="el-miedo-al-delito"><span class="header-section-number">9.2</span> El miedo al delito</h2>
+<section id="la-invención-del-miedo-al-delito" class="level3" data-number="9.2.1">
+<h3 data-number="9.2.1" class="anchored" data-anchor-id="la-invención-del-miedo-al-delito"><span class="header-section-number">9.2.1</span> La “invención” del miedo al delito</h3>
+<p>El miedo al delito parece una de esas cosas que han existido desde siempre. Probablemente ha habido gente asustada por el delito desde que hay delitos. Y sin embargo, como <strong>objeto de estudio</strong> (algo que se define, se mide y se investiga), es relativamente reciente. Nace en un sitio y en una época bastante precisos, los Estados Unidos de finales de los años sesenta.</p>
+<p>La historia empieza, curiosamente, por un problema de naturaleza técnica. Hasta entonces el delito se medía casi solo con las estadísticas de la policía, y a lo largo de los años sesenta fue creciendo la sospecha de que esas cifras se dejaban fuera muchísimo delito, el que nunca llega a denunciarse, la llamada cifra negra. Para medir mejor la delincuencia, en Estados Unidos se empezó a preguntar a la gente directamente, casa por casa, si había sido víctima de algún delito. Son las primeras <strong>encuestas de victimización</strong>, hacia 1965. Y al preguntar por la experiencia del delito, esas encuestas tropezaron con algo que no iban buscando de forma particularmente deliberada, el tamaño de la preocupación ciudadana por el crimen. Por primera vez se le podía poner un número a lo asustada que estaba la población. El miedo al delito apareció en el radar, en buena medida, porque se había construido un radar capaz de detectarlo.</p>
+<p>No fue solo cosa de encuestas. En aquellos años el delito se había vuelto en Estados Unidos un asunto político de primer orden, y por dos caminos enfrentados. De un lado, el programa reformista de la “Gran Sociedad” de Lyndon Johnson veía el delito como síntoma de males sociales (pobreza, vivienda indigna, exclusión); su comisión de expertos, que informó en 1967 con el título <em>El desafío del delito en una sociedad libre</em>, llegó a sostener que pretender controlar el delito solo con policías, tribunales y prisiones era negarse a admitir que el aumento de la delincuencia delata el fracaso de toda una sociedad. Del otro lado, y como veremos en más detalle en el capitulo sobre política y delito, crecía una política de “ley y orden” que proponía lo contrario: más poder para la policía, penas más severas, y mano dura contra los sospechosos de haber cometido delitos. Richard Nixon tituló su primer documento de campaña <em>Hacia una libertad sin miedo</em>, y en 1968 se aprobó, en ese clima, una ley de “calles seguras”. El primer libro que puso el “miedo al delito” en su título, de Richard Harris, es de 1969, y cuenta precisamente cómo ese miedo se fue fabricando, en parte, en los despachos y en los mítines. ⚠️</p>
+<p>De ahí una idea que Murray Lee ha desarrollado con detalle <span class="citation" data-cites="Lee_01">(<a href="references.html#ref-Lee_01" role="doc-biblioref">Lee 2001</a>)</span>, el miedo al delito no era un hecho que estuviera ahí quieto, esperando a que la ciencia lo descubriera. Es, en buena parte, un objeto que se fue <strong>produciendo</strong> a la vez que se lo medía y se lo nombraba. Las encuestas no se limitaron a retratar un miedo que ya existía; ayudaron a darle forma, a convertirlo en una cosa contable y gobernable sobre la que tenía sentido pedirle algo al Estado. Lejos de restarle interés, esto es lo que lo vuelve un objeto de estudio tan revelador. Cuando investigamos el miedo al delito estudiamos, tanto o más que al delito, a la sociedad que teme, que lo mide y que hace política con él.</p>
+<p>A Europa, y a España, el miedo al delito llegó un poco más tarde y por esa misma puerta, la de las encuestas. Cuando aquí empezaron a incluirse preguntas sobre inseguridad, importamos con ellas un objeto anglosajón con las preguntas ya redactadas. Y eso pesa, porque una pregunta pensada para el Chicago o el Londres de hace décadas no siempre mide lo mismo al traducirla y plantearla en Málaga.</p>
+<p>Y así como se inventó, el paradigma del “miedo al delito” se discute hoy. Buena parte de la criminología lo considera estrecho y propone mirar más allá, hacia las inseguridades difusas de la vida cotidiana y el sentirse o no en casa en el propio entorno, en tiempos de incertidumbre <span class="citation" data-cites="Loader_23">(<a href="references.html#ref-Loader_23" role="doc-biblioref">Loader et&nbsp;al. 2023</a>)</span>.</p>
 </section>
-<section id="ciudadanos-y-punitivismo" class="level2" data-number="9.3">
-<h2 data-number="9.3" class="anchored" data-anchor-id="ciudadanos-y-punitivismo"><span class="header-section-number">9.3</span> Ciudadanos y punitivismo</h2>
+<section id="el-miedo-al-delito-como-expresión-de-otros-malestares" class="level3" data-number="9.2.2">
+<h3 data-number="9.2.2" class="anchored" data-anchor-id="el-miedo-al-delito-como-expresión-de-otros-malestares"><span class="header-section-number">9.2.2</span> El miedo al delito como expresión de otros malestares</h3>
+<p>Las primeras encuestas de investigación sacaron a la luz resultados sobre la distribución social del miedo al delito que han organizado buena parte de la investigación posterior y que casi nunca deja de sorprender a quien lo encuentra por primera vez: el miedo no se corresponde con el riesgo. Cabría esperar que temieran más quienes más probabilidades tienen de ser víctimas, y aparentemente ocurre a menudo lo contrario. El perfil con más papeletas de acabar en una pelea a la salida de un bar, un hombre joven, es de los que menos miedo declaran; una persona mayor, que sale poco de noche y es víctima con mucha menos frecuencia, suele declarar bastante más miedo. El miedo, está claro, no es un termómetro de la delincuencia. Tiene vida propia, y por eso merece estudiarse por sí mismo.</p>
+<p>¿De qué está hecho, si no está hecho de riesgo? Ayuda aquí el trabajo de Jonathan Jackson y su equipo en la London School of Economics <span class="citation" data-cites="Jackson_04">(<a href="references.html#ref-Jackson_04" role="doc-biblioref">Jackson 2004</a>)</span>, que propone entender buena parte de este miedo como <strong>expresivo</strong>. Para mucha gente, hablar del miedo al delito es una manera de hablar de otra cosa. El delito hace de pantalla donde se proyectan inquietudes más difusas y más difíciles de nombrar, como la sensación de que el barrio se degrada, de que las normas se aflojan, de que el mundo que una conocía se le escapa entre los dedos. Temer al delincuente es una forma concreta, y por eso más manejable, de temer al cambio.</p>
+<p>Debajo late la idea de la <strong>seguridad ontológica</strong> <span class="citation" data-cites="Giddens_91">(<a href="references.html#ref-Giddens_91" role="doc-biblioref">Giddens 1991</a>)</span>. Suena solemne y es simple: es esa confianza básica en que el mundo es más o menos previsible, en que mañana se parecerá a hoy, la que nos deja salir a la calle sin angustiarnos a cada paso. Cuando se resquebraja, aflora una inquietud que necesita agarrarse a algo, y el miedo al delito le ofrece un objeto con cara y ojos: el ladrón, el extraño, el que merodea.</p>
+<p>Zygmunt Bauman le puso a todo esto marco de época con su <strong>modernidad líquida</strong> <span class="citation" data-cites="Bauman_00">(<a href="references.html#ref-Bauman_00" role="doc-biblioref">Bauman 2000</a>)</span>: vivimos, sostiene, en un mundo donde lo que antes era sólido —el empleo para toda la vida, la pareja para siempre, el barrio de siempre— se ha vuelto provisional, revocable de un día para otro. Lo resume en una palabra alemana, <em>Unsicherheit</em>, que junta lo que el español separa: inseguridad, incertidumbre y desprotección. Esa desazón busca dónde posarse, y el delito le sirve, porque temer al que merodea en la esquina resulta más llevadero que temer a la precariedad de una vida entera, que no tiene rostro. A Bauman hay que leerlo con red, eso sí: es un autor que parece explicarlo todo, y quien lo explica todo acaba explicando poco en concreto; su diagnóstico funciona mientras cada afirmación se pueda anclar en un dato o en un caso. Digamos que Jackson describe el mecanismo y Bauman, por qué hoy está tan desatado.</p>
+<p>Esto no es solo teoría anglosajona. En Chile, Lucía Dammert encontró que lo que mejor predice el miedo al delito no es haber sido víctima, sino un conjunto de inseguridades económicas, sociales y políticas, más un miedo a la vida que un miedo al delito <span class="citation" data-cites="Dammert_03">(<a href="references.html#ref-Dammert_03" role="doc-biblioref">Dammert y Malone 2003</a>)</span>. Que el patrón aparezca también en América Latina lo refuerza y lo acerca a nuestro contexto.</p>
+<p>Hay además un disparador más terrenal y muy estudiado, el <strong>desorden</strong> percibido. Mucha gente calibra la seguridad de su calle leyendo “señales de desorden” (una pintada, la basura, un grupo de chavales en una esquina, un portal abandonado) más que estadísticas. Y esa lectura no es neutra, porque se tiende a ver más desorden donde hay más presencia de minorías o de pobreza, aunque el desorden “objetivo” sea el mismo, ya que el prejuicio tiñe lo que se mira <span class="citation" data-cites="Bradford_25 Sampson_04">(<a href="references.html#ref-Bradford_25" role="doc-biblioref">Bradford et&nbsp;al. 2025</a>; <a href="references.html#ref-Sampson_04" role="doc-biblioref">Sampson y Raudenbush 2004</a>)</span>. El desorden, como el miedo, está en parte en el ojo del que mira, y ese ojo arrastra los sesgos clasistas y racistas de su sociedad.</p>
+<p>Ahora bien, esta lectura tiene un límite. Que buena parte del miedo al delito exprese inquietudes más hondas no significa que todo él sea humo, ni que no exista un miedo real y concreto al delito. Distinguir lo uno de lo otro resultó ser, sobre todo, un problema de medición.</p>
 </section>
-<section id="medios-de-comunicación-y-delincuencia" class="level2" data-number="9.4">
-<h2 data-number="9.4" class="anchored" data-anchor-id="medios-de-comunicación-y-delincuencia"><span class="header-section-number">9.4</span> Medios de comunicación y delincuencia</h2>
+<section id="podemos-hablar-de-un-miedo-específico-al-delito" class="level3" data-number="9.2.3">
+<h3 data-number="9.2.3" class="anchored" data-anchor-id="podemos-hablar-de-un-miedo-específico-al-delito"><span class="header-section-number">9.2.3</span> ¿Podemos hablar de un miedo específico al delito?</h3>
+<p>Durante años, casi todo lo que sabíamos del miedo al delito venía de una o dos preguntas de encuesta que, vistas de cerca, no preguntan exactamente por el miedo. La más habitual es alguna variante de “¿se siente segura caminando sola por su barrio al caer la noche?”, que capta más bien una valoración general de lo insegura que parece la zona, y no un episodio de miedo realmente vivido. Un grupo de investigadoras de la Universidad de Sheffield —Stephen Farrall, Jason Ditton, Jon Bannister y Elizabeth Gilchrist— comprobó qué había detrás de esas respuestas preguntando a la gente cuántas veces, y cuándo, había sentido miedo de verdad <span class="citation" data-cites="Farrall_97">(<a href="references.html#ref-Farrall_97" role="doc-biblioref">Farrall et&nbsp;al. 1997</a>)</span>. El hallazgo fue incómodo: buena parte de quienes puntuaban alto en las preguntas estándar no habían tenido un solo episodio de miedo en el último año. La imagen de un país atemorizado se debía, en parte, al propio instrumento, que convertía en “miedo” lo que muchas veces era la ansiedad difusa del apartado anterior.</p>
+<p>Ahora bien, afinar la medición no hizo desaparecer el miedo al delito, sino que lo volvió más nítido. Cuando Jonathan Jackson y Emily Gray separaron la ansiedad difusa de los episodios concretos de preocupación —el temor a una situación puntual, en un lugar y un momento—, apareció un miedo específico y real en una parte de la población <span class="citation" data-cites="JacksonGray_10">(<a href="references.html#ref-JacksonGray_10" role="doc-biblioref">Jackson y Gray 2010</a>)</span>. Y apareció además algo que la investigación previa había pasado por alto: no todo ese miedo es dañino. Jackson y Gray distinguen un miedo <strong>disfuncional</strong>, que corroe la calidad de vida sin dar nada a cambio, de un miedo <strong>funcional</strong>, que empuja a tomar precauciones sensatas, hace que la persona se sienta más segura y no le amarga la existencia. En su encuesta londinense, en torno a una cuarta parte de quienes se declaraban preocupados por el delito encajaban en ese segundo tipo: su inquietud se parecía más a una manera de cuidarse que a una condena ⚠️. El miedo al delito, así, no es una sola cosa: va desde quien no teme, pasa por una vigilancia de bajo nivel que hasta resulta útil, y llega a la angustia frecuente que sí incapacita.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>¿Qué mide de verdad una encuesta de miedo al delito?</strong></p>
+<p>Durante décadas, las grandes encuestas midieron el miedo con un único indicador —lo segura que alguien <em>dice</em> sentirse en la calle de noche—, que mezcla el miedo con el juicio sobre el barrio, con la cautela razonable y hasta con la costumbre de salir poco. Consciente del problema, la investigación reciente ha intentado preguntar mejor: separar la preocupación difusa de los episodios concretos y medir con qué <strong>frecuencia</strong> e <strong>intensidad</strong> se siente miedo, no solo si se siente. Dos esfuerzos destacan. La <em>Crime Survey for England and Wales</em> incorporó preguntas sobre la frecuencia real de la preocupación, y no solo sobre su presencia ⚠️. Y, para poder comparar países, el equipo de la London School of Economics codiseñó un módulo especial de la <em>Encuesta Social Europea</em> (ronda 5, 2010), con una batería de indicadores mucho más fina que el clásico “¿se siente segura de noche?” <span class="citation" data-cites="JacksonKuha">(<a href="references.html#ref-JacksonKuha" role="doc-biblioref">Jackson y Kuha 2014</a>)</span>. Medir mejor no es un capricho técnico: de cómo se pregunte depende que el retrato de una sociedad salga sereno o aterrorizado.</p>
+</div>
+</div>
+</div>
 </section>
-<section id="participación-ciudadana-democracia-y-coproducción" class="level2" data-number="9.5">
-<h2 data-number="9.5" class="anchored" data-anchor-id="participación-ciudadana-democracia-y-coproducción"><span class="header-section-number">9.5</span> Participación ciudadana, democracia y coproducción</h2>
+<section id="género-y-miedo-al-delito" class="level3" data-number="9.2.4">
+<h3 data-number="9.2.4" class="anchored" data-anchor-id="género-y-miedo-al-delito"><span class="header-section-number">9.2.4</span> Género y miedo al delito</h3>
+<p>El caso de las mujeres pide una parada aparte, porque durante años se contó mal. Las encuestas mostraban una y otra vez que las mujeres declaran más miedo que los hombres y, a la vez, sufren menos delito violento en el espacio público; y esa diferencia, pequeña pero constante, se magnificó en encuestas de aficionados y acabó petrificada por los medios en un estereotipo cómodo: todas las mujeres, temerosas; todos los hombres, valientes <span class="citation" data-cites="Gilchrist_98">(<a href="references.html#ref-Gilchrist_98" role="doc-biblioref">Gilchrist et&nbsp;al. 1998</a>)</span>. Sobre ese estereotipo se levantó una supuesta paradoja: ¿por qué teme más quien menos se victimiza?</p>
+<p>La criminología ha dado varias respuestas, y casi todas apuntan a que la paradoja es más aparente que real. La primera es que las cifras engañan: buena parte de la violencia que sufren las mujeres —la sexual, y la que ocurre dentro de casa— no llega a las estadísticas porque no se denuncia, así que su riesgo real está infracontabilizado. La segunda es lo que se ha llamado la <strong>sombra de la agresión sexual</strong>: para muchas mujeres, el temor a una violación tiñe y agrava el miedo a delitos en apariencia menores, porque un tirón o un merodeador pueden acabar en algo mucho peor <span class="citation" data-cites="Ferraro_95">(<a href="references.html#ref-Ferraro_95" role="doc-biblioref">Ferraro 1995</a>)</span>. Y la tercera tiene que ver con la vulnerabilidad, física y social: quien se sabe con menos medios para defenderse o para recuperarse del golpe teme más, y no sin motivo.</p>
+<p>Hay una vuelta de tuerca más, que enlaza con el problema de medición que acabamos de ver. Cuando Robbie Sutton y Stephen Farrall midieron, junto al miedo, la tendencia de cada persona a dar respuestas socialmente aceptables, encontraron algo revelador: en los hombres —no en las mujeres— declarar poco miedo iba de la mano de esa tendencia a quedar bien <span class="citation" data-cites="SuttonFarrall_05">(<a href="references.html#ref-SuttonFarrall_05" role="doc-biblioref">Sutton y Farrall 2005</a>)</span>. Dicho de otro modo, buena parte de la valentía masculina de las encuestas es pose: los hombres esconden el miedo que a las mujeres se les tolera expresar. Corregido ese sesgo, la distancia entre unos y otras se encoge, y a veces se invierte. Sumadas las dos cosas —victimización oculta y hombres que disimulan—, la vieja paradoja se desinfla casi del todo. El miedo de las mujeres deja de ser un enigma irracional para leerse como lo que probablemente es: una respuesta atinada a un riesgo real, de género y mal medido, que además les condiciona la vida cotidiana como al hombre rara vez —por dónde caminar, a qué hora, con las llaves entre los dedos—. Volveremos sobre ello al tratar las víctimas y la mirada de género; baste por ahora con no comprar entera la vieja “paradoja”.</p>
 </section>
-<section id="criminología-cultural" class="level2" data-number="9.6">
-<h2 data-number="9.6" class="anchored" data-anchor-id="criminología-cultural"><span class="header-section-number">9.6</span> Criminología cultural</h2>
+<section id="y-españa" class="level3" data-number="9.2.5">
+<h3 data-number="9.2.5" class="anchored" data-anchor-id="y-españa"><span class="header-section-number">9.2.5</span> ¿Y España?</h3>
+<p>Somos uno de los países más seguros de nuestro entorno —las tasas de delito, y sobre todo las de delito violento, están entre las más bajas de Europa occidental ⚠️—, y aun así la sensación de inseguridad y el ruido público sobre la delincuencia no guardan mucha proporción con ese dato. El desajuste de Jackson, a lo grande. Cuesta no mirar hacia la precariedad como telón de fondo: un empleo que no se asienta, una vivienda inalcanzable, la impresión de que a la generación de los padres el mundo le encajaba de un modo que a la de las hijas ya no. Es la <em>Unsicherheit</em> de Bauman con acento español. La criminología hecha aquí ha empezado a estudiarlo con solvencia —a defender, por ejemplo, que el miedo al delito no es un simple eco de haber sido víctima, sino un fenómeno con lógica propia <span class="citation" data-cites="NarvaezMora_09">(<a href="references.html#ref-NarvaezMora_09" role="doc-biblioref">Mora 2009</a>)</span>— y a medir lo que cuesta, porque vivir con miedo pasa factura al bienestar de quien lo carga <span class="citation" data-cites="Alfaro_18">(<a href="references.html#ref-Alfaro_18" role="doc-biblioref">Alfaro-Beracoechea et&nbsp;al. 2018</a>)</span>. Lo que aún no hemos contestado es de dónde saca ese miedo sus imágenes y sus villanos. Casi todas llegan por una pantalla, y a esa pantalla dedicamos el objeto siguiente.</p>
+</section>
+</section>
+<section id="medios-de-comunicación-y-delincuencia" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="medios-de-comunicación-y-delincuencia"><span class="header-section-number">9.3</span> Medios de comunicación y delincuencia</h2>
+<section id="la-imagen-del-delito" class="level3" data-number="9.3.1">
+<h3 data-number="9.3.1" class="anchored" data-anchor-id="la-imagen-del-delito"><span class="header-section-number">9.3.1</span> La imagen del delito</h3>
+<p>Casi todo lo que creemos saber sobre el delito no lo hemos visto con nuestros ojos, nos ha llegado por una pantalla. Muy poca gente ha presenciado un asesinato, un secuestro o un tiroteo; casi todo el mundo, en cambio, ha visto centenares en los telediarios, en las series, en el cine, y cada vez más capturado de alguna forma en redes sociales. Nuestra imagen del delito es, en muy buena medida, un producto de los medios, y ese producto (la realidad delictiva tal como los medios la construyen) es el objeto de este apartado. Como todo producto, está fabricado con unos criterios que deciden qué merece ser reflejado y qué no.</p>
+<p>Esos criterios distorsionan de una manera bastante predecible. Los medios sobrerrepresentan el delito violento, sexual y espectacular, el raro, y apenas se ocupan del corriente, el hurto o la estafa, y mucho menos el delito de cuello blanco y corporativo, que causa un daño enorme pero no despierta las mismas emociones. <em>If it bleeds, it leads</em> (si sangra es titular), se dice en las redacciones anglosajonas. El resultado es una imagen del delito que dirige nuestras ansiedades hacia determinados peligros y no otros, hacia el desconocido violento que acecha, cuando la mayor parte del daño real está en otra parte, más aburrida y peor iluminada. Los medios no inventan el miedo del apartado anterior, pero le dan de comer exactamente lo que lo engorda.</p>
+<p>¿Por qué distorsionan justo así? No suele ser por mala fe (aunque a veces puede estar presente), sino por la lógica del propio medio y del mercado en que vive. Neil Postman lo argumentó para la televisión, y vale todavía más para el móvil. Cuando un soporte se financia captando y reteniendo la atención, todo (también la información) tiende a volverse espectáculo, y en ese terreno lo visual, lo súbito y lo que agita las emociones le gana siempre la partida a aquello que puede ser importante pero mas aburrido <span class="citation" data-cites="Postman_85">(<a href="references.html#ref-Postman_85" role="doc-biblioref">Postman 1985</a>)</span>.</p>
+<p>A ello se suman los <strong>criterios de noticiabilidad</strong> que interioriza cualquier redacción. Un suceso es más “noticia” cuanto más violento, inesperado y sexual resulte, y cuanto más demarcado sea el reparto entre víctima inocente y culpable reconocible. Repetidos a diario, esos criterios acaban dibujando casi el negativo del delito real, lo que se ha llamado una “ley de los opuestos” <span class="citation" data-cites="Reiner_00 Jewkes">(<a href="references.html#ref-Reiner_00" role="doc-biblioref">Reiner, Livingstone, y Allen 2000</a>; <a href="references.html#ref-Jewkes" role="doc-biblioref">Jewkes, s.&nbsp;f.</a>)</span>.</p>
+<p>El caso extremo de esta fabricación tiene nombre propio, el <strong>pánico moral</strong>, un concepto que le debemos al sociólogo Stanley Cohen. Cohen lo definió así en 1972 <span class="citation" data-cites="Cohen_72">(<a href="references.html#ref-Cohen_72" role="doc-biblioref">Cohen 1972</a>)</span>:</p>
+<blockquote class="blockquote">
+<p>Las sociedades parecen estar sujetas, cada cierto tiempo, a periodos de pánico moral. Una condición, un episodio, una persona o un grupo de personas pasa a definirse como una amenaza para los valores y los intereses de la sociedad; los medios de masas presentan su naturaleza de forma estilizada y estereotipada; las barricadas morales las ocupan editores, obispos, políticos y demás personas de bien; expertos socialmente acreditados pronuncian sus diagnósticos y sus soluciones; y se recurre a maneras de afrontarla o, más a menudo, se improvisan. Después la condición desaparece, se sumerge o se deteriora y se vuelve más visible.</p>
+</blockquote>
+<p>Su caso de estudio hoy nos parece casi enternecedor: los roces entre <em>mods</em> y <em>rockers</em>, dos tribus juveniles, en las playas inglesas de los años sesenta. Fueron unos cuantos altercados menores; pero la prensa los cubrió como si anunciaran el derrumbe del orden social, con titulares alarmados y fotos bien escogidas, y a base de repetirlo convirtió a aquellos chavales en <em>folk devils</em>, en demonios populares, en la encarnación de todo lo que iba mal en la sociedad británica. La alarma creció hasta desbordar lo ocurrido, las autoridades respondieron con dureza y, lo más interesante, la propia reacción dio alas a lo que decía combatir: más jóvenes quisieron sumarse a algo que salía en todas partes. La profecía se cumplió a sí misma.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Quadrophenia</strong>. Si os gusta la música y el cine podéis ver la película británica <em>Quadrophenia</em> (1979) basada en una opera rock con música de The Who y que recrea de forma ficticia e imaginada una trama vinculada a estos conflictos entre mod y rockers. Cuando hablamos de medios y la representación de la delincuencia es importante entender que no solamente nos referimos a representación en noticiarios y medios de comunicación, sino también en series, películas, novelas y otros formatos que aspiran a entretener, pero que de una forma u otra también contribuyen a crear un determinado imaginario sobre el delito y sus soluciones. Hay toda una literatura que también estudia la representación del delito y las respuestas al mismo en este tipo de formatos.</p>
+</div>
+</div>
+</div>
+<p>El esquema, una vez aprendido, se reconoce en todas partes: algo o alguien se define como amenaza a los valores de la sociedad; los medios lo estilizan y lo amplifican; se fabrica un villano reconocible; la preocupación pública se dispara muy por encima del problema real; y llega la respuesta contundente, que a menudo agranda el problema en lugar de resolverlo. A veces el pánico pasa y se olvida; otras deja poso en forma de leyes nuevas. Y no hace falta que nadie mienta, basta con seleccionar, repetir y subir el volumen.</p>
+<p>España tiene su propio muestrario, y merece la pena mirarlo con el esquema en la mano. Los llamados “menas” (menores extranjeros no acompañados) se han convertido estos últimos años en un folk devil de manual, señalados como amenaza en una proporción que las cifras no sostienen y explotados políticamente con evidente rédito️; volveremos sobre ellos al tratar la etnia y lo foráneo. El pánico a la okupación es otro ejemplo casi de laboratorio: una alarma intensísima, alimentada por medios y por empresas de seguridad que venden justo la solución que el pánico reclama, muy por encima de lo que el fenómeno pesa en la realidad. Antes hubo otros (las “bandas latinas”) y habrá más, cada época fabrica sus demonios.</p>
+<p>Cohen escribió todo esto en 1972, cuando para prender un pánico hacían falta unos cuantos periódicos y un telediario. El mecanismo sigue intacto, pero ha perdido a los porteros (<em>gatekeepers</em>). Hoy un pánico moral puede organizarse de forma más sencilla, sin filtro o intermediarios, en el grupo de WhatsApp del vecindario o en la cadena que reenvía el bulo de una oleada de robos (o de un secuestro que nunca ocurrió). La amplificación, que antes era cosa de unas pocas redacciones, ahora la hacemos entre todas, más deprisa y con menos margen para comprobar nada. Hay incluso quien sostiene que el pánico ha dejado de ser un episodio excepcional para volverse un ruido casi permanente️.</p>
+<p>Estas nuevas circunstancias han generado en las ciencias sociales y en circulos de ciberseguridad un interés creciente en cómo la desinformación en estos ámbitos en relación con determinados conflictos sociales es instrumentalizada por actores políticos internos o externos con el propósito último de generar malestar social y desastibilizar nuestras sociedades democráticas, de ahí que haya un interés cada vez mayor en el estudio criminológico de la desinformación.</p>
+<p>Importa, por tanto, saber quién mueve hoy esa amplificación, porque no somos sólo los vecinos reenviando bulos de buena fe. En la conversación digital intervienen también granjas de cuentas automatizadas (bots) financiadas por gobiernos extranjeros (el ruso, entre otros como distintos servicios de inteligencia europeos y norteamericanos han documentado) y los propios dueños de las plataformas, cuyos algoritmos premian la indignación y cuyos intereses políticos no son neutrales. En España, la fuerte concentración de la propiedad mediática en muy pocos grupos añade su sesgo a lo que se cuenta y a cómo se cuenta <span class="citation" data-cites="Concentracion">(<a href="references.html#ref-Concentracion" role="doc-biblioref">Muñoz, Zugasti, y Corchete 2021</a>)</span>.</p>
+<p>Y los efectos de todo esto no se agotan en el clima punitivo que discutiremos en la proxíma sección. A veces la desinformación no reclama una ley más dura, sino que prende la mecha directamente. En julio de 2025, en Torre Pacheco (Murcia), la agresión a un vecino de 68 años a manos de un joven de origen magrebí corrió por las redes envuelta en bulos y en llamamientos a la “caza” del inmigrante; grupos ultras llegados de toda España protagonizaron varias noches de ataques racistas contra vecinas y vecinos marroquíes, con más de cien mil mensajes de odio contabilizados en apenas dos semanas. Lejos de ser una anécdota, este salto del odio digital a la violencia física se ha vuelto objeto de estudio criminológico.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Del odio en la pantalla al delito de odio en la calle</strong></p>
+<p>Que la palabra encienda la violencia no es solo una intuición, sino algo que se ha podido contrastar empiricamente. Una línea de criminología computacional ha mostrado que, tras un suceso que actúa de detonante (un atentado, una agresión con tinte identitario), se dispara el discurso de odio en las redes y, con él, sube el <strong>delito de odio</strong> contra el colectivo asociado al agresor. Lo comprobaron Williams y Burnap tras el asesinato de Woolwich (2013) y en su estudio <em>Hate in the Machine</em>, donde los mensajes antinegros y antimusulmanes en redes predecían agresiones racistas y religiosas reales <span class="citation" data-cites="Williams_16 Williams_20">(<a href="references.html#ref-Williams_16" role="doc-biblioref">Williams y Burnap 2016</a>; <a href="references.html#ref-Williams_20" role="doc-biblioref">Williams et&nbsp;al. 2020</a>)</span>. En España se ha replicado el hallazgo. Cruzando mensajes de X y Facebook con los registros policiales de delitos de odio, el lenguaje inflamatorio en línea permite anticipar la violencia contra personas migrantes y LGTBI <span class="citation" data-cites="Arcila_24">(<a href="references.html#ref-Arcila_24" role="doc-biblioref">Calderón et&nbsp;al. 2024</a>)</span>. Y los propios bulos que ligan migración y delito se han estudiado aquí como “pánicos morales clásicos en un ecosistema digital nuevo” <span class="citation" data-cites="Aguerri_25">(<a href="references.html#ref-Aguerri_25" role="doc-biblioref">Aguerri, Miró-Llinares, y Sampayo 2025</a>)</span>, lo que cierra el círculo con Cohen. El mecanismo es el de siempre, lo que cambia es el altavoz y la velocidad. Existen ya, además, revisiones sistemáticas del campo sobre esta temática que podéis leer si estáis interesadas <span class="citation" data-cites="Castano_21">(<a href="references.html#ref-Castano_21" role="doc-biblioref">Castaño-Pulgarín et&nbsp;al. 2021</a>)</span>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="la-imagen-de-la-justicia-penal" class="level3" data-number="9.3.2">
+<h3 data-number="9.3.2" class="anchored" data-anchor-id="la-imagen-de-la-justicia-penal"><span class="header-section-number">9.3.2</span> La imagen de la justicia penal</h3>
+<p>Los medios no solo cuentan el delito, también cuentan la respuesta al delito. Nuestras imágenes de qué es y qué hace la policía, de qué son y qué ocurre en las cárceles, de cómo funciona un juicio, están más moldeadas por el cine y la televisión que por ninguna experiencia directa con esas instituciones.</p>
+<p>Y esa imagen ha cambiado con la época. Robert Reiner, Sonia Livingstone y Jessica Allen analizaron el contenido de la prensa y del cine británicos entre 1945 y 1991 y vieron que lo que se movía no era tanto la <em>cantidad</em> de delito representado como su <em>carácter</em> <span class="citation" data-cites="Reiner_00">(<a href="references.html#ref-Reiner_00" role="doc-biblioref">Reiner, Livingstone, y Allen 2000</a>)</span>. Con las décadas, la víctima se desplaza al centro del relato y su sufrimiento se subraya cada vez más, la confianza en la justicia se resquebraja y la policía se vuelve la heroína de la función, a menudo una justiciera que se salta las reglas para atrapar al malo <span class="citation" data-cites="Allen_98">(<a href="references.html#ref-Allen_98" role="doc-biblioref">Allen, Livingstone, y Reiner 1998</a>)</span>. Lo resumieron con una frase, “se acabaron los finales felices”. Donde antes la ficción tranquilizaba restaurando el orden, ahora inquieta mostrando un daño que no siempre se repara.</p>
+<p>Las instituciones del sistema, además, no se quedan de brazos cruzados mientras los medios construyen esta realidad imaginada. La policía, la fiscalía o el gobierno son fuentes privilegiadas (“definidores primarios”, se las ha llamado <span class="citation" data-cites="Hall_78">(<a href="references.html#ref-Hall_78" role="doc-biblioref">Hall et&nbsp;al. 1978</a>)</span>). Llegan las primeras y con el relato ya montado, fijando el marco desde el que se cuenta lo ocurrido <span class="citation" data-cites="Ericson_87">(<a href="references.html#ref-Ericson_87" role="doc-biblioref">Ericson, Baranek, y Chan 1987</a>)</span>. Y cada vez más tienen su propia maquinaria de comunicación y sus propias cuentas en redes, con las que proyectan una imagen de eficacia y legitiman su actuación sin pasar por filtro periodístico alguno <span class="citation" data-cites="Colbran">(<a href="references.html#ref-Colbran" role="doc-biblioref">Colbran 2018</a>)</span>.</p>
+<p>A la producción cultural que normaliza y ensalza la labor policial (de la pelicula de polis a los vídeos institucionales) se la ha bautizado con cierta sorna como <strong>copaganda</strong>. Esta forma de propaganda construye relatos que nos habitúan a ver la vigilancia, y a veces hasta la violencia policial, como algo natural, y que orientan la mirada hacia unos culpables y no otros, con frecuencia siguiendo un claro sesgo racial <span class="citation" data-cites="Cheng_21 Hurley_15">(<a href="references.html#ref-Cheng_21" role="doc-biblioref">Cheng 2021</a>; <a href="references.html#ref-Hurley_15" role="doc-biblioref">Hurley, Jensen, y King 2015</a>)</span>. La propia cárcel se ha hecho espectáculo, con su promesa recurrente de devolvernos unas calles seguras <span class="citation" data-cites="Cheliotis">(<a href="references.html#ref-Cheliotis" role="doc-biblioref">Cheliotis, s.&nbsp;f.</a>)</span>.</p>
+<p>Nada de esto, con todo, significa que los medios inyecten miedo o dureza en ciudadanos pasivas predispuestos a que se les lave el cerebro. Cuando se ha ido a comprobar el famoso “efecto de los medios”, la evidencia resulta bastante más enredada de lo que el sentido común supone. Décadas de investigación no han demostrado un efecto directo y potente, entre otras cosas porque lo que cada quien hace con lo que ve depende mucho de quién es y de dónde vive <span class="citation" data-cites="Birkbeck_14">(<a href="references.html#ref-Birkbeck_14" role="doc-biblioref">Birkbeck 2014</a>)</span>. Los medios fijan con fuerza el imaginario del delito y la agenda de lo que nos preocupa; de ahí a determinar lo que siente o pide cada persona hay un trecho.</p>
+<p>Su efecto más seguro es, en todo caso, colectivo antes que individual. Toda esta maquinaria (la imagen distorsionada del delito y la glorificación de la respuesta dura) rara vez estalla en una noche de violencia como la de Torre Pacheco; lo más habitual es que se sedimente en algo más difuso y más duradero, en una demanda social de que se contrate más policía, que reclama leyes que castiguen, que exige penas contundentes y pide mano dura. Esa demanda es el objeto del apartado siguiente, aunque su traducción en política penal la veremos en el capítulo sobre política criminal.</p>
+</section>
+</section>
+<section id="ciudadanos-y-punitivismo" class="level2" data-number="9.4">
+<h2 data-number="9.4" class="anchored" data-anchor-id="ciudadanos-y-punitivismo"><span class="header-section-number">9.4</span> Ciudadanos y punitivismo</h2>
+<p>A esa demanda de castigo la llamamos <strong>punitivismo</strong>. Nombramos con la palabra la inclinación a tomar el castigo como respuesta por defecto (más penas, más cárcel, condenas más largas, mano dura) y la creencia de que endurecer la respuesta penal siempre es la solución. Es lo que Jorge Ollero <span class="citation" data-cites="Ollero_21">(<a href="references.html#ref-Ollero_21" role="doc-biblioref">Ollero 2021</a>)</span> llama el <em>penalismo mágico</em>, la creencia mítica en el poder del castigo para solucionar complejos problemas sociales y políticos.</p>
+<p>Aparece aquí otro objeto de estudio de pleno derecho para la criminolgía dentro de lo que hemos llamado respuestas sociales al delito, porque las actitudes punitivas se miden y se investigan como cualquier otro fenómeno social. Y lo primero que sobresale una vez nos fijamos en el estudio de estas actitudes es que esa demanda no sigue necesariamente la evolución objetiva de las tasas de delito. En muchos paises la delincuencia lleva años estable o a la baja y, aun así, las demandas de mayor dureza no han dejado de crecer. Si estas demandas no están motivadas por el nivel real del delito tenemos que preguntarnos a que responden.</p>
+<p>Parte de la respuesta ya la conocemos, y se puede deducir de las cuestiones que hemos introducido en las secciones anteriores de este capítulo, el miedo que no nace del riesgo y el pánico que fabrican los medios. Pero la investigación sobre actitudes punitivas apunta a algo más de fondo. Cuando Tyler y Boeckmann (1997) se preguntaron por qué la gente quiere castigar a quien rompe las reglas o viola la ley, encontraron que el mecanismo principal no estaba en el miedo a ser víctima ni en el cálculo racional sobre la peligrosidad, sino en la percepción de que la sociedad se descompone, de que se pierden la moral compartida y la disciplina social <span class="citation" data-cites="Tyler_97">(<a href="references.html#ref-Tyler_97" role="doc-biblioref">Tyler y Boeckmann 1997</a>)</span>. Castigar es, en buena medida, una forma de reafirmar unos valores que se sienten amenazados. Es el mismo malestar que latía bajo el miedo expresivo, ahora vuelto exigencia de mano dura. No pedimos más castigo porque haya más delito, sino porque sentimos (no necesariamente de forma fundada) que las bases morales de la sociedad se encuentran bajo asedio.</p>
+<p>Ahora bien, la imagen de un público sediento de castigo hay que tomarla con pinzas, porque la propia investigación la ha ido desmintiendo. Preguntada en abstracto, por ejemplo sobre si los tribunales son blandos, la gente responde con dureza; pero cuando se le presentan casos concretos, o con algo más de información, sus preferencias se vuelven bastante más matizadas, a veces más suaves que las de los propios jueces. La opinión punitiva es, en palabras de esta literatura, “blanda” y selectiva, y una misma persona puede pedir firmeza para el desconocido peligroso y una segunda oportunidad para el caso que conoce de cerca <span class="citation" data-cites="Maruna_04 Roberts_03">(<a href="references.html#ref-Maruna_04" role="doc-biblioref">Maruna y King 2004</a>; <a href="references.html#ref-Roberts_03" role="doc-biblioref">Roberts et&nbsp;al. 2003</a>)</span>. Se ha hablado por eso del “mito del público punitivo” <span class="citation" data-cites="Pickett_19">(<a href="references.html#ref-Pickett_19" role="doc-biblioref">Pickett 2019</a>)</span>. Ese público, además, opina sobre una realidad que conoce mal, porque sobrestima cuánto crece el delito y subestima lo severos que ya son los tribunales, de modo que reclama más dureza en parte porque está mal informado <span class="citation" data-cites="Hough_98">(<a href="references.html#ref-Hough_98" role="doc-biblioref">Hough y Roberts 1998</a>)</span>.</p>
+<p>Qué ocurre cuando esa demanda entra en la política, cómo los partidos compiten por parecer los más duros o por qué España es de los países más seguros de Europa y a la vez de los que más encarcela, es materia del capítulo sobre política criminal, y allí lo veremos. Aquí basta con cerrar sin menospreciar estas actitudes. Es fácil despachar la demanda de castigo como ignorancia del populacho, y sería probablemente injusto. Detrás hay un dolor verdadero y una intuición de justicia que merecen un esfuerzo de comprensión. El problema no es ese sentimiento, sino que la emoción, por legítima que sea, es mala consejera para diseñar penas, porque lo que aplaca la indignación y lo que de verdad reduce el daño futuro rara vez coinciden. Y esa constatación, que detrás del castigo late sobre todo emoción y sentido y no cálculo, nos lleva a la última parada del capítulo, la criminología cultural, donde la emoción y el significado dejan de ser el telón de fondo para volverse el objeto central.</p>
+</section>
+<section id="criminología-cultural" class="level2" data-number="9.5">
+<h2 data-number="9.5" class="anchored" data-anchor-id="criminología-cultural"><span class="header-section-number">9.5</span> Criminología cultural</h2>
+<p>Toda la criminología que hemos manejado en el libro tiende a mirar el delito de dos maneras. O como el cálculo de quien sopesa lo que gana y lo que arriesga (el delincuente racional que veréis en teoría criminológica), o como el síntoma de algo que va mal, la pobreza o la familia rota. Las dos capturan cosas ciertas. Pero dejan fuera algo que cualquiera que haya sido joven reconoce, que muchas veces se transgrede no por cálculo ni por avería, sino porque <em>se siente</em>, por la emoción o por lo que uno quiere ser ante los demás. Poner el significado y la emoción en el centro del análisis es lo que hace la <strong>criminología cultural</strong> <span class="citation" data-cites="Ferrell_08">(<a href="references.html#ref-Ferrell_08" role="doc-biblioref">Ferrell, Hayward, y Young 2008</a>)</span>. Su punto de partida es que el delito y su control son, antes que nada, productos de sentido. No hay hechos delictivos que signifiquen lo mismo para todo el mundo, sino significados en disputa, y quien tiene poder impone el suyo, empezando por la definición de qué cuenta como delito <span class="citation" data-cites="Ilan_19 HaywardYoung_19">(<a href="references.html#ref-Ilan_19" role="doc-biblioref">Ilan 2019</a>; <a href="references.html#ref-HaywardYoung_19" role="doc-biblioref">Hayward y Young 2019</a>)</span>.Este es un tema al que ya habiamos aludido en el capitulo sobre el delito y que retomamos aquí.</p>
+<p>La intuición fundacional la dejó escrita Jack Katz <span class="citation" data-cites="Katz_88">(<a href="references.html#ref-Katz_88" role="doc-biblioref">Katz 1988</a>)</span>. Hay una fenomenología de la transgresión, unas “seducciones” del delito que ninguna hoja de cálculo recoge, como el subidón de robar por robar o el vértigo de pintar un vagón entero jugándose el tipo. Otros lo han llamado <em>edgework</em>, el arte de bailar en el borde, de buscar a propósito el filo del peligro por lo que se siente al asomarse. El grafiti o las carreras ilegales no se entienden por lo que se gana, sino por lo que se vive.</p>
+<p>Ese sentido no vive solo en la cabeza de quien transgrede, también en las imágenes que nos rodean. Hoy el delito y su castigo nos llegan envueltos en un flujo constante de representaciones (el telediario, la serie, el videojuego, el vídeo que circula por el móvil), hasta el punto de que la frontera entre el delito real y su imagen se difumina. Hayward y Presdee hablan de un “vasto salón de espejos” en el que el significado del delito se fabrica tanto en la calle como en la pantalla <span class="citation" data-cites="Hayward_10">(<a href="references.html#ref-Hayward_10" role="doc-biblioref">Hayward y Presdee 2010</a>)</span>. La criminología cultural aprende a leer esas imágenes con la misma seriedad con que otros leen una tabla de datos. Y el significado tampoco es solo visual, también se siente en el cuerpo, en los ruidos y los ritmos de cada lugar.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>¿A qué suena una prisión?</strong></p>
+<p>Casi todo lo que creemos saber de la cárcel nos llega por imágenes, pero quien la habita la conoce también por lo que oye en la misma. Kate Herrity pasó meses <em>escuchando</em> una prisión inglesa, sus rejas, sus gritos, su megafonía y sus silencios, y mostró que ese paisaje sonoro es cualquier cosa menos ruido de fondo, porque por él circulan el poder, el orden y la forma en que la gente sobrevive dentro <span class="citation" data-cites="Herrity_24">(<a href="references.html#ref-Herrity_24" role="doc-biblioref">Herrity 2024</a>)</span>. Es un ejemplo del “giro sensorial” de la criminología cultural, que atiende no solo a cómo se representa el delito, sino a cómo se siente. Del espectáculo de la cárcel visto desde fuera pasamos al ruido de la cárcel vivido desde dentro.</p>
+</div>
+</div>
+</div>
+<p>Otra veta del enfoque se fija en las <strong>historias</strong>. Entendemos el delito, en buena medida, a través de relatos, los de las víctimas, los de quienes lo cometen o los del <em>true crime</em> que hoy puebla pódcast y plataformas, y esos relatos no son un reflejo neutro de lo ocurrido, sino que construyen sentido y hacen cosas <span class="citation" data-cites="Presser_15 Fleetwood_25">(<a href="references.html#ref-Presser_15" role="doc-biblioref">Presser y Sandberg 2015</a>; <a href="references.html#ref-Fleetwood_25" role="doc-biblioref">Fleetwood 2024</a>)</span>. En España lo vivimos con el llamado <strong>cine quinqui</strong> de la Transición, aquellas películas de delincuentes juveniles de barriada (<em>Perros callejeros</em>, <em>Deprisa, deprisa</em>, <em>El Vaquilla</em>) que convirtieron a chavales marginales, algunos delincuentes reales, en iconos populares, mitad temidos y mitad admirados ⚠️. La misma historia que criminaliza puede idolatrar. Y aquel cine tuvo un reverso trágico, porque buena parte de esa generación quedó arrasada por la heroína que se cebó con los barrios pobres en los años ochenta. Ese cruce entre la transgresión vuelta mito y la droga vuelta ruina nos lleva al hilo que ha ido asomando por todo el libro, el del consumo.</p>
+<p>Mirado con las gafas de siempre, el consumo es adicción (patología) o es un mercado (cálculo). La criminología cultural añade una tercera mirada que las otras dos suelen dejar fuera, la del sentido y el placer. Ninguna explicación del consumo se sostiene si no da cuenta de por qué, para quien consume, aquello merece la pena. Pocas veces se ha dicho con tanta crudeza como en <em>Trainspotting</em>, la novela de Irvine Welsh, cuando Renton describe lo que siente al meterse un pico:</p>
+<blockquote class="blockquote">
+<p>Fui a meterme un pico. Nos costó una eternidad encontrar una vena buena; las mías no viven tan cerca de la superficie como las de la mayoría. Cuando llegó, saboreé el subidón. Ali tenía razón. Coge tu mejor orgasmo, multiplica la sensación por veinte, y aún estás lejísimos. Mis huesos secos y agrietados se ablandan y se licúan bajo las tiernas caricias de mi hermosa heroína. La tierra se movió, y sigue moviéndose. [<span class="citation" data-cites="Welsh_93">Welsh (<a href="references.html#ref-Welsh_93" role="doc-biblioref">1993</a>)</span>; traducción nuestra]</p>
+</blockquote>
+<p>No es una apología, porque la misma historia enseña después la ruina; es un intento de no mentir sobre las razones del consumo. Y en cuanto se admite que consumir tiene sentido y placer, deja de poder tratarse solo como enfermedad o como delito. Parker, Aldridge y Measham lo formularon con la tesis de la <strong>normalización</strong> <span class="citation" data-cites="Parker_98">(<a href="references.html#ref-Parker_98" role="doc-biblioref">Parker, Aldridge, y Measham 1998</a>)</span>, según la cual, para toda una generación, cierto consumo recreativo dejó de ser cosa de una subcultura desviada y pasó a ser un ingrediente más del ocio. Lo que obliga a preguntarse quién decide qué consumo es delito y cuál es solo una copa, una pregunta que recorre varios capítulos del libro.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong><em>Everybody in the Place</em></strong></p>
+<p>El artista Jeremy Deller montó en 2019 un documental extraordinario, <em>Everybody in the Place</em>, con forma de clase ante un aula de estudiantes de bachillerato. Su tema aparente es la explosión del <em>acid house</em> y los raves en el Reino Unido de finales de los ochenta; su tema real es la historia social y política de aquella Gran Bretaña, la de la desindustrialización y el thatcherismo que siguieron a la huelga de los mineros. Deller muestra que aquella música y aquellas fiestas ilegales, con su éxtasis y su euforia colectiva, no cayeron del cielo, sino que brotaron de un contexto muy concreto, el de una clase trabajadora que perdía sus fábricas y sus espacios de encuentro. Y muestra también la respuesta del Estado, la Criminal Justice Act de 1994, que llegó a prohibir las reuniones con música caracterizada por “una sucesión de ritmos repetitivos”. Es la lección de este apartado hecha película. Entender una transgresión pide verla como una forma de la cultura popular, con su placer y su sentido, enraizada en un momento social, y preguntarse quién tiene el poder de convertir un baile en delito.</p>
+</div>
+</div>
+</div>
+<p>Hay una vuelta más, que enlaza con lo que vimos del miedo. Vivimos en una cultura del consumo (la modernidad líquida de Bauman, otra vez) que enseña a desear ya, sin espera, y que convierte la propia transgresión en un producto, con su estética y su mercado. El mismo mundo que vende la emoción y la inmediatez no puede luego extrañarse de que algunos las persigan por vías que no tocaban. Hay toda una línea de trabajo sobre este “nexo crimen-consumo” (Hayward y Smith), y su giro más incómodo es que no se trata solo de que se consuman drogas o emociones, sino de que el propio ocio mercantilizado, la noche y la fiesta vendidas como experiencia, genera daños que rara vez contamos como delito <span class="citation" data-cites="HaywardSmith_23">(<a href="references.html#ref-HaywardSmith_23" role="doc-biblioref">Hayward y Smith 2023</a>)</span>.</p>
+<p>Llegados aquí, se ve que la criminología cultural no ha entrado en escena solo al final. El miedo del que hablábamos era emoción; el pánico moral era la sociedad fabricando villanos y cargando de sentido a unos chavales en una playa. Buena parte de este capítulo, mirada desde ahora, ya trataba de esto, de cómo el delito y la respuesta al delito son cosas cargadas de significado para quienes las viven.</p>
+<p>La criminología cultural pide, eso sí, sujetar una tentación. Al poner el foco en la emoción y el estilo, es fácil resbalar hacia el romanticismo, hacia una estética de la transgresión que celebra al rebelde y olvida dos cosas que este capítulo se ha tomado en serio, que hay víctimas reales y que buena parte del daño se concentra donde se concentra la desventaja. El sentido importa, pero el sentido no paga las facturas de quien sufre el delito. El propio enfoque lo sabe, porque leer el delito como significado nunca fue renunciar a la estructura, sino conectar la experiencia de cada cual con las desigualdades que la enmarcan <span class="citation" data-cites="Ilan_19">(<a href="references.html#ref-Ilan_19" role="doc-biblioref">Ilan 2019</a>)</span>.</p>
+<p>Y con esto cerramos el recorrido. A lo largo del capítulo hemos tratado el delito no como un hecho que le ocurre a la sociedad, sino como algo que la sociedad percibe, teme, dramatiza, castiga y significa. El miedo, los medios, la demanda de castigo y la criminología cultural son, cada uno a su modo, formas de estudiar esa vida social y simbólica del delito. Reclamarla como objeto de la criminología, con el mismo rigor con que se estudian las cifras o las leyes, es buena parte de lo que os pedirá esta disciplina.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Aguerri_25" class="csl-entry" role="listitem">
+Aguerri, Jesús C., Fernando Miró-Llinares, y Sara Sampayo. 2025. <span>«Disinformation Linking Migration and Crime in Spain: Classic Moral Panics in a New Digital Ecosystem»</span>. <em>European Journal on Criminal Policy and Research</em> 31: 399-419.
+</div>
+<div id="ref-Alfaro_18" class="csl-entry" role="listitem">
+Alfaro-Beracoechea, Laura, Alicia Puente, Silvia da Costa, Norma Ruvalcaba, y Darío Páez. 2018. <span>«Effects of Fear of Crime on Subjective Well-being: A Meta-analytic Review»</span>. <em>The European Journal of Psychology Applied to Legal Context</em> 10 (2): 89-96.
+</div>
+<div id="ref-Allen_98" class="csl-entry" role="listitem">
+Allen, Jessica, Sonia Livingstone, y Robert Reiner. 1998. <span>«True Lies: Changing Images of Crime in British Postwar Cinema»</span>. <em>European Journal of Communication</em> 13 (1): 53-75.
+</div>
+<div id="ref-Bauman_00" class="csl-entry" role="listitem">
+Bauman, Zygmunt. 2000. <em>Liquid Modernity</em>. Cambridge: Polity Press.
+</div>
+<div id="ref-Birkbeck_14" class="csl-entry" role="listitem">
+Birkbeck, Christopher. 2014. <span>«Media and Crime»</span>. En <em>Oxford Handbooks Online: Criminology and Criminal Justice</em>. Oxford: Oxford University Press.
+</div>
+<div id="ref-Bradford_25" class="csl-entry" role="listitem">
+Bradford, Ben, Evi Girling, Ian Loader, y Richard Sparks. 2025. <span>«<span>“Seeing disorder”</span> in an English Town»</span>. <em>Criminology and Criminal Justice</em>.
+</div>
+<div id="ref-Arcila_24" class="csl-entry" role="listitem">
+Calderón, Carlos Arcila, Patricia Sánchez Holgado, Jesús Gómez, Marcos Barbosa, y Haodong Qi. 2024. <span>«From Online Hate Speech to Offline Hate Crime: The Role of Inflammatory Language in Forecasting Violence against Migrant and LGBT Communities»</span>. <em>Humanities and Social Sciences Communications</em> 11.
+</div>
+<div id="ref-Castano_21" class="csl-entry" role="listitem">
+Castaño-Pulgarín, Sergio Andrés, Natalia Suárez-Betancur, Luz Magnolia Tilano Vega, y Harvey Mauricio Herrera López. 2021. <span>«Internet, Social Media and Online Hate Speech: Systematic Review»</span>. <em>Aggression and Violent Behavior</em> 58.
+</div>
+<div id="ref-Cheliotis" class="csl-entry" role="listitem">
+Cheliotis, Leonidas K. s.&nbsp;f. <span>«The Ambivalent Consequences of Visibility: Crime and Prisons in the Mass Media»</span>. <em>Crime, Media, Culture</em>.
+</div>
+<div id="ref-Cheng_21" class="csl-entry" role="listitem">
+Cheng, Tony. 2021. <span>«Social Media, Socialization, and Pursuing Legitimation of Police Violence»</span>. <em>Criminology</em>.
+</div>
+<div id="ref-Cohen_72" class="csl-entry" role="listitem">
+Cohen, Stanley. 1972. <em>Folk Devils and Moral Panics: The Creation of the Mods and Rockers</em>. London: MacGibbon; Kee.
+</div>
+<div id="ref-Colbran" class="csl-entry" role="listitem">
+Colbran, Marianne P. 2018. <span>«Policing, Social Media and the New Media Landscape: Can the Police and the Traditional Media Ever Successfully Bypass Each Other?»</span> <em>Policing and Society</em>.
+</div>
+<div id="ref-Dammert_03" class="csl-entry" role="listitem">
+Dammert, Lucía, y Mary Fran T. Malone. 2003. <span>«Fear of Crime or Fear of Life? Public Insecurities in Chile»</span>. <em>Bulletin of Latin American Research</em> 22 (1): 79-101.
+</div>
+<div id="ref-Ericson_87" class="csl-entry" role="listitem">
+Ericson, Richard, Patricia Baranek, y Janet Chan. 1987. <em>Visualizing deviance: A study of news organization</em>. Toronto University Press.
+</div>
+<div id="ref-Farrall_97" class="csl-entry" role="listitem">
+Farrall, Stephen, Jon Bannister, Jason Ditton, y Elizabeth Gilchrist. 1997. <span>«Questioning the Measurement of the <span>“Fear of Crime”</span>: Findings from a Major Methodological Study»</span>. <em>British Journal of Criminology</em> 37 (4): 658-79.
+</div>
+<div id="ref-Ferraro_95" class="csl-entry" role="listitem">
+Ferraro, Kenneth F. 1995. <em>Fear of Crime: Interpreting Victimization Risk</em>. Albany: State University of New York Press.
+</div>
+<div id="ref-Ferrell_08" class="csl-entry" role="listitem">
+Ferrell, Jeff, Keith Hayward, y Jock Young. 2008. <em>Cultural Criminology: An Invitation</em>. London: Sage.
+</div>
+<div id="ref-Fleetwood_25" class="csl-entry" role="listitem">
+Fleetwood, Jennifer. 2024. <em>What We Talk About When We Talk About Crime</em>. Notting Hill Editions.
+</div>
+<div id="ref-Giddens_91" class="csl-entry" role="listitem">
+Giddens, Anthony. 1991. <em>Modernity and Self-Identity: Self and Society in the Late Modern Age</em>. Cambridge: Polity Press.
+</div>
+<div id="ref-Gilchrist_98" class="csl-entry" role="listitem">
+Gilchrist, Elizabeth, Jon Bannister, Jason Ditton, y Stephen Farrall. 1998. <span>«Women and the <span>“Fear of Crime”</span>: Challenging the Accepted Stereotype»</span>. <em>British Journal of Criminology</em> 38 (2): 283-98.
+</div>
+<div id="ref-Hall_78" class="csl-entry" role="listitem">
+Hall, Stuart, Chas Critcher, Tony Jefferson, John Clarke, y Brian Roberts. 1978. <em>Policing the Crisis: Mugging, the State, and Law and Order</em>. London: Macmillan.
+</div>
+<div id="ref-Hayward_10" class="csl-entry" role="listitem">
+Hayward, Keith, y Mike Presdee, eds. 2010. <em>Framing Crime: Cultural Criminology and the Image</em>. London: Routledge.
+</div>
+<div id="ref-HaywardSmith_23" class="csl-entry" role="listitem">
+Hayward, Keith, y Oliver Smith. 2023. <span>«Crime and Consumer Culture»</span>. En <em>The Oxford Handbook of Criminology</em>, editado por Alison Liebling, Shadd Maruna, y Lesley McAra, 7.ª ed. Oxford: Oxford University Press.
+</div>
+<div id="ref-HaywardYoung_19" class="csl-entry" role="listitem">
+Hayward, Keith, y Jock Young. 2019. <span>«Algunas notas sobre la criminología cultural»</span>. <em>Delito y Sociedad</em>, n.º 47.
+</div>
+<div id="ref-Herrity_24" class="csl-entry" role="listitem">
+Herrity, Kate. 2024. <em>Sound, Order and Survival in Prison: The Rhythms and Routines of Everyday Life</em>. Bristol: Bristol University Press.
+</div>
+<div id="ref-Hough_98" class="csl-entry" role="listitem">
+Hough, Mike, y Julian V. Roberts. 1998. <span>«Attitudes to Punishment: Findings from the British Crime Survey»</span>. Home Office Research Study 179. Home Office.
+</div>
+<div id="ref-Hurley_15" class="csl-entry" role="listitem">
+Hurley, Ryan J., Jakob D. Jensen, y Andy J. King. 2015. <span>«Viewer Ethnicity Matters: Black Crime in TV News and Its Impact on Decisions Regarding Public Policy»</span>. <em>Journal of Social Issues</em> 71 (1): 155-70.
+</div>
+<div id="ref-Ilan_19" class="csl-entry" role="listitem">
+Ilan, Jonathan. 2019. <span>«Cultural Criminology: The Time is Now»</span>. <em>Critical Criminology</em> 27 (1): 5-20.
+</div>
+<div id="ref-Jackson_04" class="csl-entry" role="listitem">
+Jackson, Jonathan. 2004. <span>«Experience and Expression: Social and Cultural Significance in the Fear of Crime»</span>. <em>British Journal of Criminology</em> 44 (6): 946-66.
+</div>
+<div id="ref-JacksonGray_10" class="csl-entry" role="listitem">
+Jackson, Jonathan, y Emily Gray. 2010. <span>«Functional Fear and Public Insecurities about Crime»</span>. <em>British Journal of Criminology</em> 50: 1-22.
+</div>
+<div id="ref-JacksonKuha" class="csl-entry" role="listitem">
+Jackson, Jonathan, y Jouni Kuha. 2014. <span>«Worry about Crime among European Citizens: A Latent Class Analysis of Cross-National Data»</span>.
+</div>
+<div id="ref-Jewkes" class="csl-entry" role="listitem">
+Jewkes, Yvonne. s.&nbsp;f. <em>Media and Crime</em>. London: Sage.
+</div>
+<div id="ref-Katz_88" class="csl-entry" role="listitem">
+Katz, Jack. 1988. <em>Seductions of crime: moral and sensual attractions in doing evil</em>. Basic Books.
+</div>
+<div id="ref-Lee_01" class="csl-entry" role="listitem">
+Lee, Murray. 2001. <span>«The Genesis of <span>“Fear of Crime”</span>»</span>. <em>Theoretical Criminology</em> 5 (4): 467-85.
+</div>
+<div id="ref-Loader_23" class="csl-entry" role="listitem">
+Loader, Ian, Richard Sparks, Ben Bradford, Ryan Casey, Evi Girling, y Gosia Polanska. 2023. <span>«Security and Everyday Life in Uncertain Times»</span>. En <em>The Oxford Handbook of Criminology</em>, editado por Alison Liebling, Shadd Maruna, y Lesley McAra, 7.ª ed. Oxford: Oxford University Press.
+</div>
+<div id="ref-Maruna_04" class="csl-entry" role="listitem">
+Maruna, Shadd, y Anna King. 2004. <span>«Public Opinion and Community Penalties»</span>. En <em>Alternatives to Prison: Options for an Insecure Society</em>, editado por Anthony E. Bottoms, Sue Rex, y Gwen Robinson. Cullompton: Willan.
+</div>
+<div id="ref-NarvaezMora_09" class="csl-entry" role="listitem">
+Mora, Maribel Narváez. 2009. <span>«El miedo al delito no es un supuesto de victimización indirecta»</span>. <em>International e-Journal of Criminal Sciences</em>, n.º 3.
+</div>
+<div id="ref-Concentracion" class="csl-entry" role="listitem">
+Muñoz, Juan Pablo Artero, Ricardo Zugasti, y Clara Hernández Corchete. 2021. <span>«Concentración mediática y sesgo político en España»</span>.
+</div>
+<div id="ref-Ollero_21" class="csl-entry" role="listitem">
+Ollero, Jorge. 2021. <em>Penalismo mágico: Cómo transformar la creencia de que el castigo solucionará todos nuestros problemas sociales y políticos</em>. Aconcagua Libros.
+</div>
+<div id="ref-Parker_98" class="csl-entry" role="listitem">
+Parker, Howard, Judith Aldridge, y Fiona Measham. 1998. <em>Illegal Leisure: The Normalization of Adolescent Recreational Drug Use</em>. London: Routledge.
+</div>
+<div id="ref-Pickett_19" class="csl-entry" role="listitem">
+Pickett, Justin T. 2019. <span>«Public Opinion and Criminal Justice Policy: Theory and Research»</span>. <em>Annual Review of Criminology</em> 2: 405-28.
+</div>
+<div id="ref-Postman_85" class="csl-entry" role="listitem">
+Postman, Neil. 1985. <em>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</em>. New York: Viking.
+</div>
+<div id="ref-Presser_15" class="csl-entry" role="listitem">
+Presser, Lois, y Sveinung Sandberg, eds. 2015. <em>Narrative Criminology: Understanding Stories of Crime</em>. New York: New York University Press.
+</div>
+<div id="ref-Reiner_00" class="csl-entry" role="listitem">
+Reiner, Robert, Sonia Livingstone, y Jessica Allen. 2000. <span>«No More Happy Endings? The Media and Popular Concern about Crime since the Second World War»</span>. En <em>Crime, Risk and Insecurity: Law and Order in Everyday Life and Political Discourse</em>, editado por Tim Hope y Richard Sparks, 107-26. London: Routledge.
+</div>
+<div id="ref-Roberts_03" class="csl-entry" role="listitem">
+Roberts, Julian V., Loretta J. Stalans, David Indermaur, y Mike Hough. 2003. <em>Penal Populism and Public Opinion: Lessons from Five Countries</em>. Oxford: Oxford University Press.
+</div>
+<div id="ref-Sampson_04" class="csl-entry" role="listitem">
+Sampson, Robert J., y Stephen W. Raudenbush. 2004. <span>«Seeing Disorder: Neighborhood Stigma and the Social Construction of Broken Windows»</span>. <em>Social Psychology Quarterly</em> 67 (4): 319-42.
+</div>
+<div id="ref-SuttonFarrall_05" class="csl-entry" role="listitem">
+Sutton, Robbie M., y Stephen Farrall. 2005. <span>«Gender, Socially Desirable Responding and the Fear of Crime: Are Women Really More Anxious about Crime?»</span> <em>British Journal of Criminology</em> 45 (2): 212-24.
+</div>
+<div id="ref-Tyler_97" class="csl-entry" role="listitem">
+Tyler, Tom R., y Robert J. Boeckmann. 1997. <span>«Three Strikes and You Are Out, but Why? The Psychology of Public Support for Punishing Rule Breakers»</span>. <em>Law and Society Review</em> 31 (2): 237-66.
+</div>
+<div id="ref-Welsh_93" class="csl-entry" role="listitem">
+Welsh, Irvine. 1993. <em>Trainspotting</em>. London: Secker; Warburg.
+</div>
+<div id="ref-Williams_16" class="csl-entry" role="listitem">
+Williams, Matthew L., y Pete Burnap. 2016. <span>«Cyberhate on Social Media in the Aftermath of Woolwich: A Case Study in Computational Criminology and Big Data»</span>. <em>British Journal of Criminology</em> 56 (2): 211-38.
+</div>
+<div id="ref-Williams_20" class="csl-entry" role="listitem">
+Williams, Matthew L., Pete Burnap, Amir Javed, Han Liu, y Sefa Ozalp. 2020. <span>«Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime»</span>. <em>British Journal of Criminology</em> 60 (1): 93-117.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

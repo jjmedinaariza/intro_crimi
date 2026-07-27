@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -179,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./victimas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Las victimas y los procesos de victimación</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Las víctimas y los procesos de victimación</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -276,9 +296,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
-  <li><a href="#el-sistema-global-y-etnocentrista-de-producción-del-conocimiento" id="toc-el-sistema-global-y-etnocentrista-de-producción-del-conocimiento" class="nav-link active" data-scroll-target="#el-sistema-global-y-etnocentrista-de-producción-del-conocimiento"><span class="header-section-number">13.1</span> El sistema global (y etnocentrista) de producción del conocimiento</a></li>
-  <li><a href="#la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur" id="toc-la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur" class="nav-link" data-scroll-target="#la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur"><span class="header-section-number">13.2</span> La miopía postcolonial de la criminología: la criminología del sur</a></li>
-  <li><a href="#una-criminología-mediterránea" id="toc-una-criminología-mediterránea" class="nav-link" data-scroll-target="#una-criminología-mediterránea"><span class="header-section-number">13.3</span> ¿Una criminología mediterránea?</a></li>
+  <li><a href="#el-sistema-global-y-etnocéntrico-de-producción-del-conocimiento" id="toc-el-sistema-global-y-etnocéntrico-de-producción-del-conocimiento" class="nav-link active" data-scroll-target="#el-sistema-global-y-etnocéntrico-de-producción-del-conocimiento"><span class="header-section-number">13.1</span> El sistema global (y etnocéntrico) de producción del conocimiento</a></li>
+  <li><a href="#la-investigación-comparada-y-quién-la-dirige" id="toc-la-investigación-comparada-y-quién-la-dirige" class="nav-link" data-scroll-target="#la-investigación-comparada-y-quién-la-dirige"><span class="header-section-number">13.2</span> La investigación comparada y quién la dirige</a></li>
+  <li><a href="#la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur" id="toc-la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur" class="nav-link" data-scroll-target="#la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur"><span class="header-section-number">13.3</span> La miopía postcolonial de la criminología: la criminología del sur</a></li>
+  <li><a href="#el-giro-decolonial-descolonizar-las-categorías" id="toc-el-giro-decolonial-descolonizar-las-categorías" class="nav-link" data-scroll-target="#el-giro-decolonial-descolonizar-las-categorías"><span class="header-section-number">13.4</span> El giro decolonial: descolonizar las categorías</a></li>
+  <li><a href="#una-criminología-mediterránea" id="toc-una-criminología-mediterránea" class="nav-link" data-scroll-target="#una-criminología-mediterránea"><span class="header-section-number">13.5</span> ¿Una criminología mediterránea?</a></li>
+  <li><a href="#el-poder-penal-también-tiene-centro-y-periferia" id="toc-el-poder-penal-también-tiene-centro-y-periferia" class="nav-link" data-scroll-target="#el-poder-penal-también-tiene-centro-y-periferia"><span class="header-section-number">13.6</span> El poder penal también tiene centro y periferia</a></li>
+  <li><a href="#un-mundo-y-una-disciplina-en-movimiento" id="toc-un-mundo-y-una-disciplina-en-movimiento" class="nav-link" data-scroll-target="#un-mundo-y-una-disciplina-en-movimiento"><span class="header-section-number">13.7</span> Un mundo (y una disciplina) en movimiento</a></li>
   </ul>
 </nav>
     </div>
@@ -317,17 +341,330 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="el-sistema-global-y-etnocentrista-de-producción-del-conocimiento" class="level2" data-number="13.1">
-<h2 data-number="13.1" class="anchored" data-anchor-id="el-sistema-global-y-etnocentrista-de-producción-del-conocimiento"><span class="header-section-number">13.1</span> El sistema global (y etnocentrista) de producción del conocimiento</h2>
+<p>A estas alturas del manual habéis conocido a mucha gente. Merton y la anomia, Sutherland y el aprendizaje, Becker y el etiquetado, Garland y la cultura del control. Si miráis el mapa, casi todos esos apellidos escribieron desde dos o tres países. La teoría criminológica que estáis aprendiendo como si valiese para cualquier lugar se fabricó, en su mayor parte, en un rincón bastante concreto del mundo: el mundo anglosajón del siglo XX. ¿Es una casualidad sin importancia, o nos dice algo sobre la criminología misma?</p>
+<p>Estamos en la parte del libro dedicada a los <strong>sesgos</strong>, y el que nos ocupa ahora es geopolítico. Al lado del sesgo de género (cap. 11, <em>Género y la mirada criminológica</em>) y del de la mirada sobre lo foráneo (cap. 12, <em>Diferencias étnicas y lo foráneo</em>), aquí trabajamos el <strong>etnocentrismo</strong>, que es la costumbre de tomar la experiencia de una parte del mundo como si nos valiera para entender la experiencia del mundo entero. Para pensarlo recuperamos una herramienta que ya asomó en el cap. 1 (<em>¿Qué es la criminología?</em>), el análisis del <strong>sistema-mundo</strong> de Immanuel Wallerstein, y esta vez la giramos sobre la propia disciplina: ¿dónde, y al final del capítulo también cuándo, se produce el conocimiento que damos por universal?</p>
+<!-- IMAGEN (dejo el hueco): un mapamundi estilizado, no político, sombreado en tres tonos según centro / semiperiferia / periferia del sistema-mundo, con España quedando a caballo entre dos tonos. Función: fijar visualmente el andamio del capítulo desde la primera página. -->
+<section id="el-sistema-global-y-etnocéntrico-de-producción-del-conocimiento" class="level2" data-number="13.1">
+<h2 data-number="13.1" class="anchored" data-anchor-id="el-sistema-global-y-etnocéntrico-de-producción-del-conocimiento"><span class="header-section-number">13.1</span> El sistema global (y etnocéntrico) de producción del conocimiento</h2>
+<p>Wallerstein propuso mirar la modernidad no como un conjunto de países independientes que compiten, sino como una sola <strong>economía-mundo</strong> capitalista, con una división del trabajo repartida por el planeta. En esa división hay un <strong>centro</strong>, donde se concentran las actividades más rentables y mejor pagadas; una <strong>periferia</strong>, que aporta materias primas y trabajo barato; y una <strong>semiperiferia</strong> intermedia, que explota a la periferia mientras el centro la explota a ella. Más que tres grupos de países fijos, son tres <em>posiciones</em> dentro de una misma estructura, y con el tiempo se puede subir o bajar entre ellas <span class="citation" data-cites="Wallerstein_04b">(<a href="references.html#ref-Wallerstein_04b" role="doc-biblioref">Wallerstein 2004b</a>)</span> ⚠️.</p>
+<p>Todo esto es economía política, pero Wallerstein no se detuvo en la economía. Él mismo estiró su análisis del sistema-mundo hacia otro terreno, el de las estructuras del conocimiento <span class="citation" data-cites="Wallerstein_04">(<a href="references.html#ref-Wallerstein_04" role="doc-biblioref">Wallerstein 2004a</a>)</span>, y ese es el que aquí nos interesa. Esa misma estructura no solo reparte mercancías, también reparte el conocimiento que se da por bueno. Hay sitios donde se produce la teoría y sitios donde se consume, centros que exportan categorías y periferias que las importan. Y cuando una teoría viaja del centro a la periferia no llega con la etiqueta de su procedencia, llega con la de “universal”.</p>
+<p>Si además, en criminología, entendemos que una teoría no solamente te ofrece un marco para entender, sino también un marco para intervenir políticamente, podemos apreciar la relevancia de esta cuestión. No solamente estamos hablando del intercambio (unidireccional) de conceptos científicos, sino también de la transferencia (también unidireccional) de concretas políticas públicas para intervenir frente al delito.</p>
+<p>La criminología funciona así, y quizá con más claridad que otras disciplinas. Sus grandes marcos se acuñaron leyendo sociedades muy determinadas, el sueño americano de la posguerra o el Chicago y el Londres de mediados del siglo XX, y desde ahí se enseñan en Sevilla, en Bogotá o en Manila como si describieran el delito sin más. La disciplina tiene su propio centro y su propia periferia: un núcleo angloparlante, sobre todo Estados Unidos y el Reino Unido, que escribe la teoría, y una periferia que la aplica, la traduce y, en el mejor de los casos, aporta el dato local que confirma lo que el centro ya daba por sabido. La australiana Raewyn Connell planteó estas ideas para la sociología en <em>Southern Theory</em> <span class="citation" data-cites="Connell_07">(<a href="references.html#ref-Connell_07" role="doc-biblioref">Connell 2007</a>)</span> ⚠️. Las ciencias sociales se presentan como universales, pero hablan con el acento de una metrópoli que casi nunca se reconoce como tal.</p>
+<p>En criminología, ese mismo diagnóstico lo sostiene Rosemary Barberet <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">2014</a>)</span> ⚠️, apoyándose en la propia Connell y en Chandra Talpade Mohanty <span class="citation" data-cites="Mohanty_03">(<a href="references.html#ref-Mohanty_03" role="doc-biblioref">Mohanty 2003</a>)</span> ⚠️:</p>
+<blockquote class="blockquote">
+<p>Buena parte de esta producción académica se genera en el mundo angloamericano y, de forma más general, en el Norte global, y tiende a concentrarse en análisis de alcance local o nacional. Ese foco doméstico de los estudios sobre las mujeres y el delito reproduce el de la propia disciplina de la justicia penal y la criminología. <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">Barberet 2014</a>)</span> ⚠️</p>
+</blockquote>
+<p>Con Mohanty, además, subraya que las teorías del norte no solo viajan, sino que se imponen, y que al hacerlo dejan en la sombra el saber de la periferia y, muy en particular, las voces de las mujeres del sur.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>La ciencia de los universitarios raros.</strong> En 2010, tres psicólogos se preguntaron de dónde salían los sujetos de los grandes estudios sobre “la mente humana”, y encontraron algo incómodo. La inmensa mayoría procedía de sociedades <strong>WEIRD</strong> (occidentales, educadas, industrializadas, ricas y democráticas, por sus siglas en inglés). El 68 % de los participantes era estadounidense y el 96 % procedía de países industrializados de Occidente, en su mayoría estudiantes de psicología de primero. Y el problema no era solo la falta de variedad. Cuando por fin se comparó a esa gente con el resto del mundo, resultó ser de las <strong>menos representativas</strong> de la especie. En cosas tan básicas como la percepción visual (la ilusión óptica de Müller-Lyer engaña más a un occidental que a muchas otras poblaciones), la idea de justicia o la noción del yo, los WEIRD son la excepción, no la regla. Una ciencia levantada sobre los humanos más atípicos, presentada como la ciencia del ser humano sin más <span class="citation" data-cites="Henrich_10">(<a href="references.html#ref-Henrich_10" role="doc-biblioref">Henrich, Heine, y Norenzayan 2010</a>)</span> ⚠️. La criminología, que toma mucho prestado de la psicología, hereda el problema.</p>
+</div>
+</div>
+</div>
+<p>Como señalaba en un capítulo que escribí hace ya años:</p>
+<blockquote class="blockquote">
+<p>La poderosa seducción de las ideas generadas en el centro lleva a menudo a las investigadoras de la periferia a limitarse a comprobar si “se aplican a sus contextos nacionales”, reduciendo así la aportación de la periferia a una especie de laboratorio de validez externa. La fuerza y la enorme difusión de las ideas teóricas y políticas de la criminología angloamericana obligan a quien investiga en la periferia a estar en guardia para no reconstruir de forma artificial sus propios contextos nacionales a imagen de esos productos de exportación <span class="citation" data-cites="Medina_11">(<a href="references.html#ref-Medina_11" role="doc-biblioref">Medina 2011, 19</a>)</span>.</p>
+</blockquote>
 </section>
-<section id="la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur" class="level2" data-number="13.2">
-<h2 data-number="13.2" class="anchored" data-anchor-id="la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur"><span class="header-section-number">13.2</span> La miopía postcolonial de la criminología: la criminología del sur</h2>
-<p>(Consultar esto: https://thebscblog.wordpress.com/2021/11/09/in-defence-of-decolonisation-a-response-to-southern-criminology/)</p>
+<section id="la-investigación-comparada-y-quién-la-dirige" class="level2" data-number="13.2">
+<h2 data-number="13.2" class="anchored" data-anchor-id="la-investigación-comparada-y-quién-la-dirige"><span class="header-section-number">13.2</span> La investigación comparada y quién la dirige</h2>
+<p>En parte lo que estamos apuntando es que la criminología nacional tiene un techo. Encerrada en un solo país, interpreta sus peculiaridades como leyes universales y no dispone de nada con que contrastarlas. Comparar promete romper ese techo, porque enseña que lo que en casa parecía natural (por ejemplo, la edad penal o el peso que se le da a la cárcel), podría ser de otra manera. Buena parte del antídoto contra el etnocentrismo del que hablábamos pasa por ahí, por salir a ver cómo se hacen las cosas en otros sitios. El problema no está en comparar, sino en cómo y desde dónde se compara.</p>
+<p>Ese impulso cuajó, desde los años ochenta, en toda una maquinaria de investigación comparada que vale la pena conocer, porque es donde el reparto entre centro y periferia deja de ser una metáfora y se vuelve una realidad que se puede observar. Dos proyectos se han convertido en el ejemplo paradigmático de la investigación comparada en criminología. La <strong>Encuesta Internacional de Víctimas del Delito (ICVS)</strong> preguntó por las mismas experiencias de victimación en decenas de países para poder ponerlas una al lado de otra. El <strong>Estudio Internacional de Delincuencia Autoinformada (ISRD)</strong> hizo algo parecido con los delitos que reconoce haber hecho el alumnado de secundaria.</p>
+<p>Estas grandes encuestas prestaron, y en el caso del ISRD sigue prestando, un servicio real. Generaron datos donde los Estados no se molestaban en producirlos y abrieron a investigadoras de la periferia una vía para entrar en redes internacionales y ganar visibilidad.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Dos encuestas para situarse.</strong> La <strong>Encuesta Internacional de Víctimas del Delito</strong> (ICVS, por sus siglas en inglés) arrancó en 1989 y, en sucesivas oleadas coordinadas en parte desde institutos de Naciones Unidas, ha preguntado a la población de decenas de países si ha sufrido robos o agresiones, al margen de que los denunciara. El <strong>Estudio Internacional de Delincuencia Autoinformada</strong> (ISRD) hace algo equivalente con la delincuencia juvenil, preguntando directamente en las aulas. Su utilidad es doble. Permiten comparar sin depender de las estadísticas policiales, que cada país levanta a su manera, y sacan a la luz la cifra negra, el delito que nunca llegó a denunciarse. En España el grupo liderado por una de las pioneras de nuestra disciplina, la profesora Cristina Rechea (que da nombre a uno de los premios más distinguidos de la Sociedad Española de Investigación Criminológica) formó parte de la red que trajo a nuestro país esta encuesta.</p>
+</div>
+</div>
+</div>
+<p>Toda esa infraestructura se diseña, se coordina y (a veces) se paga en un puñado de sitios, casi siempre en el centro. El cuestionario se redacta allí, la pregunta de investigación generalmente se decide allí, y la periferia entra en una fase más tardía, la del trabajo de campo. ¿Permiten estas colaboraciones que en la periferia se desarrollen ideas propias, o tratan a quienes colaboran como gestores de campo de un proyecto intelectual ajeno? ¿Comparan de verdad preguntas transnacionales, o exportan una forma concreta, la angloamericana, de pensar el delito? <span class="citation" data-cites="Medina_11">(<a href="references.html#ref-Medina_11" role="doc-biblioref">Medina 2011</a>)</span>.</p>
+<p>Hay además un sesgo en a quién se estudia. Estas encuestas han mirado sobre todo a la semiperiferia europea y a otros países de habla inglesa, donde la criminología ya tenía casa montada, y mucho menos a la periferia poscolonial (aunque en su implementación se hicieron esfuerzos genuinos en incorporarlas limitados por la inexistencia de una financiación sólida más allá de la que podía generar cada país participante). África sigue siendo un continente casi invisible para la criminología del Atlántico Norte.</p>
+<p>Detrás de buena parte de este esfuerzo están las organizaciones internacionales. Naciones Unidas y sus agencias, la Organización Mundial de la Salud, el Banco Mundial o la OCDE financian, coordinan y publican investigación comparada, y al hacerlo no solo miden. También deciden qué merece medirse y qué se nombra como problema global. Rosemary Barberet, que ha trabajado ese terreno desde dentro como observadora en Naciones Unidas, lo ha mostrado con la violencia contra las mujeres <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">Barberet 2014</a>)</span> ⚠️. Que hoy exista todo un aparato internacional de indicadores sobre esa violencia no es un dato técnico neutro, sino el poso de décadas de trabajo político de los movimientos de mujeres y de sus encuentros (y desencuentros) con esas organizaciones. Quien controla la categoría que se mide, qué cuenta como violencia y cómo se cuenta, controla buena parte de lo que después se podrá comparar y el relato que se pueda generar a partir de esta infraestructura informacional compartida.</p>
+<p>Queda una pregunta quizás más controvertida. ¿Se puede comparar de forma válida? El británico David Nelken <span class="citation" data-cites="Nelken_10">(<a href="references.html#ref-Nelken_10" role="doc-biblioref">2010</a>)</span> ⚠️ ha insistido en que cotejar sistemas de justicia penal se parece más a traducir que a medir. Entender por qué en los Países Bajos se toleran conductas que en otro país se persiguen obliga a meterse en una cultura jurídica entera, y hay términos que sencillamente no viajan bien <span class="citation" data-cites="Nelken_10">(<a href="references.html#ref-Nelken_10" role="doc-biblioref">Nelken 2010</a>)</span> ⚠️. Cuando el ICVS pregunta lo mismo en ochenta países, no está nada claro que “sentirse seguro al caminar de noche” quiera decir lo mismo en Tokio, en San Salvador o en Estocolmo. La estandarización que hace posible la comparación es también lo que amenaza con vaciarla de contenido.</p>
+<p>Maureen Cain llevó esa sospecha un paso más allá. La criminología occidental, escribió, cae en dos vicios de sentido contrario. Unas veces exotiza al otro (orientalismo) y otras, con más frecuencia, hace lo opuesto, niega que la diferencia sea real y trata cualquier apartamiento de la norma occidental como un déficit que corregir. A esto último lo llamó <strong>occidentalismo</strong> <span class="citation" data-cites="Cain_00">(<a href="references.html#ref-Cain_00" role="doc-biblioref">Cain 2000</a>)</span> ⚠️. Su propuesta, nacida de años enseñando criminología en el Caribe, es menos ambiciosa que la comparación y quizá por eso más honrada. En lugar de exportar teoría desde el centro y comprobar si “encaja” fuera, propone una globalización interactiva, en la que sociedades distintas aprenden unas de otras sin que una dicte a las demás. No se trata de renunciar a comparar, sino de cambiar quién dirige la comparación y con qué ánimo.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Cómo se descentra una investigación, en la práctica.</strong> Denunciar el etnocentrismo es fácil; investigar de otra manera cuesta más. La propia Barberet, en su libro, propone medidas concretas y nada grandilocuentes. Dar prioridad a las investigadoras autóctonas de la región que se estudia, en vez de leer solo lo que el norte escribe sobre ella. No organizar encuentros de científicos en lugares exóticos que permitan una especie de turismo académico, sin realmente contar con aportaciones locales que verdaderamente sumen al debate. Leer en más de un idioma, y no únicamente en inglés. Y tomarse en serio las fuentes que la academia suele descartar, como los informes de las oenegés locales, las misiones de constatación o las biografías de mujeres del sur. Son gestos pequeños que cambian de quién se aprende <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">Barberet 2014</a>)</span> ⚠️.</p>
+</div>
+</div>
+</div>
 </section>
-<section id="una-criminología-mediterránea" class="level2" data-number="13.3">
-<h2 data-number="13.3" class="anchored" data-anchor-id="una-criminología-mediterránea"><span class="header-section-number">13.3</span> ¿Una criminología mediterránea?</h2>
+<section id="la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur" class="level2" data-number="13.3">
+<h2 data-number="13.3" class="anchored" data-anchor-id="la-miopía-postcolonial-de-la-criminología-la-criminología-del-sur"><span class="header-section-number">13.3</span> La miopía postcolonial de la criminología: la criminología del sur</h2>
+<p>Si el mapa del saber tiene un centro y una periferia, alguien tenía que decirlo desde abajo. En eso consiste la <strong>criminología del sur</strong>. No es una teoría nueva sobre por qué se delinque, sino un proyecto para democratizar la producción del conocimiento criminológico y discutir quién tiene derecho a teorizar y quién queda relegado a poner los casos <span class="citation" data-cites="Carrington_18">(<a href="references.html#ref-Carrington_18" role="doc-biblioref">Carrington et&nbsp;al. 2018</a>)</span>. El nombre despista un poco, porque no habla tanto de un sur geográfico como de una posición, la de quien está fuera del centro que dicta. Australia, desde donde escriben varias de sus impulsoras, no es precisamente pobre, pero sí es periferia epistémica del eje Estados Unidos–Reino Unido.</p>
+<p>La denuncia encaja con lo que vimos en el epígrafe anterior. En la división internacional del trabajo criminológico, al sur global se le reserva el papel de <strong>mina de datos</strong>. Aporta realidades llamativas, desde la violencia extrema hasta las cárceles desbordadas, que el norte estudia y convierte en teoría. El dato viene del sur y la teoría se firma en el norte. Wallerstein explicaba <em>por qué</em> pasa eso en la economía, y la criminología del sur lo constata dentro de nuestra disciplina. En los últimos años ese programa ha empezado a dar agenda propia, con trabajos que estudian el delito y la gobernanza en el sur global sin medirlos con la vara del norte <span class="citation" data-cites="Watson_25">(<a href="references.html#ref-Watson_25" role="doc-biblioref">Watson et&nbsp;al. 2025</a>)</span> ⚠️.</p>
+<p>Carrington, Hogg y Sozzo <span class="citation" data-cites="Carrington_16">(<a href="references.html#ref-Carrington_16" role="doc-biblioref">2016</a>)</span> ⚠️ lo formulan sin rodeos.</p>
+<blockquote class="blockquote">
+<p>Al proponer el argumento a favor de una Criminología del Sur no es nuestro propósito incrementar el creciente catálogo de nuevas criminologías. En lugar de fragmentar aún más el campo, vemos a la Criminología del Sur como un proyecto teórico, empírico y político animado por superar las divisiones globales y democratizar la epistemología, al nivelar los desbalances de poder que privilegian los saberes producidos en los centros metropolitanos del Norte Global, particularmente aquellos ubicados en el mundo anglo-parlante.</p>
+</blockquote>
+<p>El centro, cómo no, tiene su propia versión de esta historia, y vale la pena escucharla en su forma más pulida. En el <em>Oxford Handbook of Criminology</em>, la obra de referencia de la disciplina, Manuel Eisner firmó en 2023 una síntesis de la criminología comparada que incluso reconoce el sesgo. Cita a Jianhong Liu <span class="citation" data-cites="Liu_18">(<a href="references.html#ref-Liu_18" role="doc-biblioref">Liu 2018</a>)</span> ⚠️ cuando afirma que la criminología comparada es “en buena medida una empresa occidental” y admite que la comparación arrastra un gradiente centro-periferia. Y aun así, su conclusión es aparentemente tranquilizadora <span class="citation" data-cites="Eisner_23">(<a href="references.html#ref-Eisner_23" role="doc-biblioref">Eisner 2023</a>)</span> ⚠️:</p>
+<blockquote class="blockquote">
+<p>Los tiempos en que la criminología se hacía casi por completo en sociedades occidentales acomodadas están tocando a su fin. […] La criminología empieza a ser menos etnocéntrica, más internacional y diversa, y global.</p>
+</blockquote>
+<p>Suena bien. El problema es quién lo dice y desde dónde. El anuncio del fin del etnocentrismo lo firma un catedrático de Cambridge, en un manual de Oxford, en inglés, apoyado en bases de datos de agencias con sede en Viena y Ginebra. El mapa se sigue dibujando desde el mismo rincón. Y los silencios son elocuentes. Un capítulo de 2023 sobre criminología “global” no menciona ni una vez a Connell ni a Agozino, y cita a la criminología del sur de pasada, casi como una cortesía. Cuando llega la teoría discutida en el capítulo, toda es del norte.</p>
+<p>El sur, en cambio, reaparece donde el reparto lo ha colocado siempre, como proveedor de datos y como laboratorio, el lugar donde los indicadores de delito salen “más altos” y donde se van a probar las teorías del honor o los factores de riesgo pensados en otra parte. Hasta el instrumento delata la posición. Eisner da por sentado que el homicidio es el único delito que se mide de forma fiable para comparar (lo cual tiene cierta base), pero con esa vara desaparecen del mapa la violencia del Estado, el daño ambiental o el delito de los poderosos. Se cuenta el delito de unos y no el de otros. Y cuando dos antiguas colonias británicas como Singapur y Jamaica divergen en sus niveles de violencia, concluye que el pasado colonial “difícilmente” lo explica, justo el hilo que la criminología del sur y lo decolonial se niegan a soltar. No es mala fe ni torpeza. Es la disciplina mirándose al espejo con honestidad y sin poder salir del cuadro. Por eso Eisner, que se proponía certificar el final del etnocentrismo, acaba siendo su mejor ilustración.</p>
+<p>Hay una versión aún más incómoda de la crítica. El criminólogo Biko Agozino sostiene que la criminología no solo se hizo <em>en</em> el norte, sino en buena parte <em>para</em> el imperio. Habría nacido como un saber útil para administrar y controlar a las poblaciones colonizadas, y esa deuda de origen seguiría marcándola. La llamó <strong>criminología contracolonial</strong> <span class="citation" data-cites="Agozino_03">(<a href="references.html#ref-Agozino_03" role="doc-biblioref">Agozino 2003</a>)</span> ⚠️. No hace falta comprar la tesis entera para que haga su trabajo, porque obliga a preguntarse si el sesgo geográfico de la disciplina es un accidente que se corrige sumando autoras de otros sitios o algo más profundo, inscrito en para qué se inventó la criminología.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Cuando la colonia no es “el pasado” ni “otro país”.</strong> En Australia o en Canadá, la sobrerrepresentación de las personas indígenas en las cárceles es abrumadora. La criminología del centro puede leer eso como un problema de “delincuencia” explicable con sus teorías de siempre, la desventaja social o la debilidad del control informal. La mirada postcolonial lo lee al revés, como la continuación por vía penal de un <strong>colonialismo de asentamiento</strong> que nunca llegó a cerrarse. El mismo dato cuenta dos historias muy distintas según con qué categorías lo mires. Chris Cunneen ha trabajado esa frontera entre la justicia penal y la herencia colonial <span class="citation" data-cites="Cunneen_11">(<a href="references.html#ref-Cunneen_11" role="doc-biblioref">Cunneen 2011</a>)</span>.</p>
+</div>
+</div>
+</div>
+<p>Aquí se abre una grieta que da para el epígrafe siguiente. Mirar desde el sur está muy bien, pero ¿basta con cambiar de sitio si seguimos pensando con las herramientas del centro? Hay quien responde que no, que no basta con ampliar la nómina de autoras, y que hay que descolonizar de raíz las propias categorías. Ese es el debate, vivo y a ratos áspero, entre la criminología del sur y el giro decolonial.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+</section>
+<section id="el-giro-decolonial-descolonizar-las-categorías" class="level2" data-number="13.4">
+<h2 data-number="13.4" class="anchored" data-anchor-id="el-giro-decolonial-descolonizar-las-categorías"><span class="header-section-number">13.4</span> El giro decolonial: descolonizar las categorías</h2>
+<p>Dejábamos el epígrafe anterior con una pregunta afilada: ¿basta con mirar desde el sur si se sigue pensando con las herramientas del centro? El <strong>giro decolonial</strong> responde que no. Es una corriente distinta de la criminología del sur (y conviene no confundirlas), con raíces sobre todo latinoamericanas, que no se conforma con reclamar un sitio en la mesa. Sostiene que la mesa entera, las categorías con las que pensamos el mundo, se fabricó en la colonia y sigue colonizada.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Tres familias con un aire de familia.</strong> Antes de entrar, conviene un mapa, porque estos nombres se citan entre sí y es fácil confundirlos. No conviene meterlas en el mismo saco:</p>
+<ul>
+<li>La <strong>teoría postcolonial</strong> nace de los estudios literarios y culturales, sobre todo del sur asiático y el mundo árabe: Edward Said <span class="citation" data-cites="Said_78">(<a href="references.html#ref-Said_78" role="doc-biblioref">Said 1978</a>)</span> y su <em>Orientalismo</em> (que nos hará mucha falta al llegar a España), Gayatri Spivak <span class="citation" data-cites="Spivak_88">(<a href="references.html#ref-Spivak_88" role="doc-biblioref">Spivak 1988</a>)</span>, Homi Bhabha <span class="citation" data-cites="Bhabha_94">(<a href="references.html#ref-Bhabha_94" role="doc-biblioref">Bhabha 1994</a>)</span>.</li>
+<li>El <strong>giro decolonial</strong> es latinoamericano y más filosófico: Quijano <span class="citation" data-cites="Quijano_00">(<a href="references.html#ref-Quijano_00" role="doc-biblioref">Quijano 2000</a>)</span> y Mignolo <span class="citation" data-cites="Mignolo_11">(<a href="references.html#ref-Mignolo_11" role="doc-biblioref">Mignolo 2011</a>)</span>, pero también Enrique Dussel <span class="citation" data-cites="Dussel_95">(<a href="references.html#ref-Dussel_95" role="doc-biblioref">Dussel 1995</a>)</span>, Ramón Grosfoguel <span class="citation" data-cites="Grosfoguel_11">(<a href="references.html#ref-Grosfoguel_11" role="doc-biblioref">Grosfoguel 2011</a>)</span> o Nelson Maldonado-Torres <span class="citation" data-cites="MaldonadoTorres_07">(<a href="references.html#ref-MaldonadoTorres_07" role="doc-biblioref">Maldonado-Torres 2007</a>)</span>.</li>
+<li>La <strong>criminología (y la teoría) del sur</strong> es más sociológica y empírica: Connell <span class="citation" data-cites="Connell_07">(<a href="references.html#ref-Connell_07" role="doc-biblioref">Connell 2007</a>)</span>, Carrington <span class="citation" data-cites="Carrington_18">(<a href="references.html#ref-Carrington_18" role="doc-biblioref">Carrington et&nbsp;al. 2018</a>)</span> y compañía.</li>
+</ul>
+<p>Comparten un aire de familia (el sur global, el reproche al eurocentrismo) y dialogan entre sí, pero no dicen exactamente lo mismo. Y por detrás de las tres, como tronco común, está Frantz Fanon <span class="citation" data-cites="Fanon_61">(<a href="references.html#ref-Fanon_61" role="doc-biblioref">Fanon 1961</a>)</span>, que pensó como nadie la violencia colonial y la psique del colonizado. Si algún nombre te pica la curiosidad, cualquiera de ellos es una buena puerta de entrada. ⚠️</p>
+</div>
+</div>
+</div>
+<p>El concepto central del giro decolonial lo aportó el sociólogo peruano Aníbal Quijano: la <strong>colonialidad del poder</strong> <span class="citation" data-cites="Quijano_00">(<a href="references.html#ref-Quijano_00" role="doc-biblioref">Quijano 2000</a>)</span> ⚠️. Quijano argumenta que el colonialismo como administración política terminó (las colonias se independizaron), pero la <em>colonialidad</em> no. Esta quedó como un patrón de poder que sigue organizando el mundo. Su pieza clave es la <strong>raza</strong>, que para Quijano no es un dato biológico anterior a la conquista, sino un invento de la conquista misma y consiste en la clasificación de la humanidad en superiores e inferiores, que sirvió para repartir quién manda, quién trabaja y quién sabe. Distinguir el <em>colonialismo</em> (como estructura político social que acabó) de <strong>colonialidad</strong> (que continúa) es quizá lo más útil que os podéis llevar de este epígrafe.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Colonialidad del género.</strong> Si la colonialidad clasificó a la humanidad por raza, también lo hizo por género. La filósofa María Lugones <span class="citation" data-cites="Lugones_07">(<a href="references.html#ref-Lugones_07" role="doc-biblioref">2007</a>)</span> ⚠️ sostiene que el sistema de género binario y jerárquico que damos por natural fue en buena parte impuesto por la colonización, que arrasó otras formas de organizar los sexos. Rita Segato <span class="citation" data-cites="Segato_16">(<a href="references.html#ref-Segato_16" role="doc-biblioref">2016</a>)</span> ⚠️ lo lleva al terreno de la violencia contra las mujeres en contextos coloniales y poscoloniales.</p>
+</div>
+</div>
+</div>
+<p>Si la raza organizó también quién produce conocimiento legítimo, entonces no hay un saber “desde ningún lugar”, todo conocer se hace desde una posición. A eso lo llama Walter Mignolo la <strong>geopolítica del conocimiento</strong> <span class="citation" data-cites="Mignolo_11">(<a href="references.html#ref-Mignolo_11" role="doc-biblioref">Mignolo 2011</a>)</span> ⚠️. Lo que el centro presenta como universal y neutro es, visto así, un saber local que ha conseguido hacerse pasar por global. Y la salida que proponen los decoloniales no es otra teoría más completa, sino la <em>desobediencia epistémica</em>, pensar desde las genealogías que la modernidad europea silenció, en lugar de pedirles permiso a las suyas.</p>
+<p>Entre la criminología del sur, más empírica, y este giro decolonial, más filosófico, hay quien ha intentado tender un puente. Boaventura de Sousa Santos y sus <strong>epistemologías del sur</strong> <span class="citation" data-cites="Santos_14">(<a href="references.html#ref-Santos_14" role="doc-biblioref">Sousa Santos 2014</a>)</span> ⚠️ proponen tomarse en serio los saberes que la ciencia moderna descartó como no-conocimiento (los del campesinado, los pueblos indígenas, las tradiciones no occidentales) sin renunciar por ello al rigor. Es un buen sitio para situarse si las dos posturas anteriores os parecen, una demasiado tímida y la otra demasiado abstracta.</p>
+<p>¿Y qué tiene que ver todo esto con el delito y el castigo? Cada vez más. Hay un esfuerzo reciente y explícito por llevar estas preguntas a lo que podríamos llamar la <em>cuestión criminal</em>: repensar de raíz nociones tan básicas como delito, víctima, orden o pena a la luz de su herencia colonial <span class="citation" data-cites="Aliverti_23">(<a href="references.html#ref-Aliverti_23" role="doc-biblioref">Aliverti et&nbsp;al. 2023</a>)</span>. No hay consenso, y está bien que no lo haya. La criminología del sur dice: democraticemos, traigamos al sur a la conversación. El giro decolonial contesta: eso es necesario, pero insuficiente, porque las palabras mismas de la conversación son coloniales. Podéis quedaros con una postura, con la otra o (quizás lo más honesto) con la tensión entre ambas.</p>
+<p>Lo relevante es considerar qué añade en concreto esta mirada a nuestra disciplina. Barberet <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">2014</a>)</span> ⚠️ lo resume bien. Una lente postcolonial obliga a incorporar ejes que la criminología nacional suele pasar por alto, como la nacionalidad y el estatus migratorio o de refugiada, el peso del colonialismo y del racismo global, o las voces de los pueblos indígenas y de las mujeres del sur. Y hace algo más de fondo. Ensancha la propia definición de delito, que deja de agotarse en el código penal para abarcar las violaciones de derechos humanos, los crímenes de guerra y el daño social.</p>
+<p>Ahora bien, la propia Barberet <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">2014</a>)</span> ⚠️ pone un límite que compartimos. Respaldar la crítica al etnocentrismo no obliga a caer en el relativismo que lo excusa todo. Por ejemplo, prácticas que dañan a las mujeres, como la mutilación genital femenina o el matrimonio infantil, no quedan justificadas por apelar a la “tradición” o a la “cultura local”. Se trata de armonizar el respeto a las realidades postcoloniales con la defensa de unos derechos humanos que también valen para ellas. Es la otra cara de las dos trampas que señalaba Nelken. Tan tramposo es el etnocentrismo que mide a los demás con la vara propia como el relativismo que renuncia a toda vara.</p>
+<p>Llevamos ya un buen rato hablando de teoría sobre la teoría (metateoría), y ese es justo el riesgo del giro decolonial, puede quedarse en abstracción elegante y sofisticada. El antídoto es bajarlo a un caso concreto. Y no a cualquiera, sino a uno que la criminología postcolonial anglosajona (en la medida que podamos hablar que esta existe en sentido propio) casi nunca mira, porque no encaja limpiamente ni en el norte ni en el sur: el nuestro. Veamos qué pasa cuando aplicamos todo esto a España.</p>
+</section>
+<section id="una-criminología-mediterránea" class="level2" data-number="13.5">
+<h2 data-number="13.5" class="anchored" data-anchor-id="una-criminología-mediterránea"><span class="header-section-number">13.5</span> ¿Una criminología mediterránea?</h2>
+<p>Toda la discusión anterior se vuelve mucho más interesante cuando la traemos a casa. España fue <strong>centro</strong> imperial temprano (el primer imperio verdaderamente global, el de 1492), tan arriba como se puede estar. Pero luego se deslizó hacia la <strong>semiperiferia</strong> europea. Perdió el grueso del imperio americano a comienzos del siglo XIX, y lo que quedaba (Cuba, Puerto Rico, Filipinas) en 1898, ese “desastre” que todavía colea en el imaginario nacional. Y aún le dio tiempo a un colonialismo tardío y más modesto en el norte de África (el protectorado de Marruecos, el Sáhara, Guinea, Ifni). Ex-metrópoli y periferia de Europa a la vez. Parte de lo que no hace tanto los países del norte de Europa designaban como PIGS (“cerdos”, como acrónimo despectivo: “Portugal, Italy, Greece y Spain”; en aquel momento países con alto endeudamiento público, bajo crecimiento, déficits presupuestarios e ineficiencias fiscales). Ni centro del canon criminológico anglosajón, ni sur global sin más. Esa peculiaridad, lejos de ser un inconveniente, es un lugar cuanto menos interesante desde el que pensar.</p>
+<p>Uno de los autores más relevantes en teoría postcolonial es Edward Said. Su <em>Orientalismo</em> <span class="citation" data-cites="Said_78">(<a href="references.html#ref-Said_78" role="doc-biblioref">Said 1978</a>)</span> ⚠️ mostró cómo Occidente construyó “el Oriente” como un otro exótico, atrasado y peligroso, y cómo ese retrato decía más de quien lo pintaba que de lo pintado. Pues bien, España tiene su propia y antiquísima versión: la figura del <strong>“moro”</strong>. No es un invento del colonialismo africano del siglo XX; viene de mucho antes (de la mal llamada Reconquista, de la expulsión de los moriscos) y se reactiva una y otra vez a lo largo de nuestra historia en las guerras coloniales del Rif, en las tropas marroquíes que Franco trajo a la Guerra Civil, y hoy en el modo en que se habla de la inmigración magrebí. Eloy Martín Corrales ha rastreado esa imagen del magrebí en la cultura española <span class="citation" data-cites="MartinCorrales_02">(<a href="references.html#ref-MartinCorrales_02" role="doc-biblioref">Corrales 2002</a>)</span> ⚠️. Para nuestra disciplina esto no es folclore: esa racialización histórica es el sustrato sobre el que se levantan los controles de la frontera sur (Ceuta, Melilla, el Estrecho) y buena parte de la sospecha penal que hoy recae sobre ciertos cuerpos. El <em>cómo se construyó</em> esa mirada lo trabajamos aquí; el <em>cómo opera hoy</em> ya lo habéis visto con detalle en el cap. 12 (<em>Diferencias étnicas y lo foráneo</em>).</p>
+<p>Todo esto desemboca en un debate que hasta hace poco parecía impensable en un manual de criminología y hoy ya no lo es, el de las <strong>reparaciones</strong>. Si la violencia colonial produjo daños masivos (despojos, masacres, trabajos forzados, expolio de la riqueza nacional), ¿son eso crímenes, aunque en su momento fueran perfectamente legales? ¿qué tipo de respuestas hay que dar a estas situaciones?</p>
+<p>El caso español tiene episodios concretos y espinosos para los que no hay que remontarse al siglo XV y la conquista a través de prácticas genocidas del continente americano (el uso de armas químicas contra la población del Rif en los años veinte es quizá el más documentado), y la pregunta de si cabe repararlos, y cómo, enlaza la historia colonial con la criminología del daño y del Estado.</p>
+<p>Con todo, si nos remontamos hasta el siglo XV, el caso de mayor calado es la propia conquista de América. ¿Fue un genocidio? Entre las historiadoras, el debate no versa sobre si hubo una catástrofe demográfica descomunal, porque la hubo, con un desplome de la población indígena que en algunas regiones rozó el noventa por ciento ⚠️, sino sobre si la palabra “genocidio”, con su exigencia de intención, es la que mejor la nombra. David Stannard no tuvo dudas y la llamó directamente un holocausto, el mayor de la historia <span class="citation" data-cites="Stannard_92">(<a href="references.html#ref-Stannard_92" role="doc-biblioref">Stannard 1992</a>)</span> ⚠️. Matthew Restall, más cauto, habla de un efecto genocida sin un plan deliberado y recuerda que buena parte de la mortandad la causaron las epidemias tanto como la espada <span class="citation" data-cites="Restall_03">(<a href="references.html#ref-Restall_03" role="doc-biblioref">Restall 2003</a>)</span> ⚠️. Lo que ninguna historiografía seria pone en duda es la magnitud del daño. Y no es un debate nuevo. Ya en 1550, en la Controversia de Valladolid, Bartolomé de las Casas y Juan Ginés de Sepúlveda discutieron ante la Corona si la guerra contra los indígenas era justa, quizá la primera vez que un imperio se preguntó en voz alta por la legitimidad de su propia dominación <span class="citation" data-cites="LasCasas_1552">(<a href="references.html#ref-LasCasas_1552" role="doc-biblioref">Casas 1552</a>)</span> ⚠️.</p>
+<p>Ese pasado sigue vivo en la política. En 2019 el presidente de México pidió al rey de España y al papa que se disculparan por los agravios de la conquista, y el Gobierno español rechazó la petición por considerar extemporáneo pedir perdón por hechos de hace cinco siglos. La cuestión se enredó enseguida en la guerra cultural, con la derecha y la extrema derecha erigidas en defensoras del legado imperial y en reanimadoras de la vieja “leyenda negra”, la idea de que criticar la conquista es una difamación interesada contra España. Años después, en 2026, el propio Felipe VI reconoció que en la conquista hubo “mucho abuso”. Si una disculpa es un mero gesto diplomático o una obligación moral, y qué relación guarda con las reparaciones materiales, es parte del mismo debate que sigue abierto.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>¿Reparar el pasado? Un debate abierto.</strong> La discusión sobre las reparaciones lleva décadas en la filosofía política y el derecho, y no está ni mucho menos cerrada. Hay quien la fundamenta en la propia tradición liberal, como Bernard Boxill, que construye un argumento de raíz lockeana según el cual, si una injusticia histórica despojó a alguien de lo que le correspondía, la deuda no se extingue por el paso del tiempo <span class="citation" data-cites="Boxill_03">(<a href="references.html#ref-Boxill_03" role="doc-biblioref">Boxill 2003</a>)</span> ⚠️. Otras autoras desplazan el foco del agravio individual a las estructuras. Catherine Lu lee el colonialismo como una injusticia estructural que ninguna disculpa puntual repara <span class="citation" data-cites="Lu_17">(<a href="references.html#ref-Lu_17" role="doc-biblioref">Lu 2017</a>)</span> ⚠️, y Olúfẹ́mi Táíwò propone mirar hacia delante, entendiendo las reparaciones no como saldar una cuenta del pasado, sino como construir un mundo más justo, ligado además a la crisis climática <span class="citation" data-cites="Taiwo_22">(<a href="references.html#ref-Taiwo_22" role="doc-biblioref">Táíwò 2022</a>)</span> ⚠️. En el extremo más escéptico, Eric Posner y Adrian Vermeule examinan si estas demandas encajan de verdad en los marcos jurídicos y cómo identificar, generaciones después, quién debe y a quién <span class="citation" data-cites="PosnerVermeule_03">(<a href="references.html#ref-PosnerVermeule_03" role="doc-biblioref">Posner y Vermeule 2003</a>)</span> ⚠️. Y frente a la teoría está la política concreta. El Plan de Diez Puntos de la Comisión de Reparaciones de la CARICOM reclama a las antiguas potencias europeas medidas tangibles, desde una disculpa formal hasta programas de desarrollo y condonación de deuda <span class="citation" data-cites="CARICOM_14">(<a href="references.html#ref-CARICOM_14" role="doc-biblioref">CARICOM Reparations Commission 2014</a>)</span> ⚠️. Si el hilo os pica, cualquiera de estos nombres es una buena puerta de entrada.</p>
+</div>
+</div>
+</div>
+<p>Pero lo de verdad revelador no es <em>si</em> se repara (por más que este sea un debate particularmente acentuado en la guerra cultural emprendida por la extrema derecha política), sino <em>a quién</em> se elige reparar. Y ahí España ofrece un buen ejemplo. En 1492 los Reyes Católicos expulsaron a los judíos; poco después, entre 1609 y 1614, se expulsó a los moriscos, descendientes de los musulmanes que habían sido convertidos a la fuerza. Dos destierros paralelos. Y sin embargo la <strong>Ley 12/2015</strong> ofreció la nacionalidad española a los descendientes de los <strong>sefardíes</strong> expulsados (reconociendo expresamente aquel agravio), mientras que para los <strong>moriscos</strong> no ha habido nada equivalente. La misma España que repara simbólicamente una expulsión guarda silencio sobre la otra. ¿Por qué una sí y la otra no? La respuesta tiene poco que ver con la gravedad del daño y mucho con quién resulta hoy un damnificado “cómodo” de reconocer.</p>
+<p>Esa asimetría refleja en buena parte todo lo que vimos en el capítulo 7 sobre el concepto de víctima ideal, pero traída aquí al plano colectivo e histórico. No todas las víctimas conmueven por igual. Unas encajan en un relato que la sociedad puede abrazar sin coste, y otras remueven conflictos que preferiría no tocar. El sefardí expulsado es, en el imaginario español actual, una víctima que merece nuestra simpatía (lejana en el tiempo, sin contencioso presente, incluso halagadora de cierta idea romantizada de “las tres culturas”). El morisco, en cambio, tira de un hilo algo menos cómodo en el imaginario colectivo (el de “lo moro”, el de la frontera, el de la inmigración magrebí de hoy, el de los menas), y reconocerlo tendría un precio político que reconocer al primero no tiene. Recordad lo que ya dijimos, la víctima ideal no se elige por su sufrimiento, sino por lo que cuesta reconocerla.</p>
+<p>¿Adónde nos lleva todo esto? A una propuesta, más que a una conclusión. Si España ocupa esa posición doble (semiperiférica, mediterránea, a la vez ex-imperio y frontera sur de Europa), entonces tiene desde dónde hacer una criminología que no sea ni una copia aplicada del norte ni un préstamo del sur global, una <strong>criminología mediterránea</strong> con su propio lugar de enunciación <span class="citation" data-cites="Medina_11">(<a href="references.html#ref-Medina_11" role="doc-biblioref">Medina 2011</a>)</span>.</p>
+<p>¿Y qué miraría esa criminología? Cosas que el canon anglosajón no ve, o ve mal. La frontera sur como objeto criminológico de pleno derecho (no como anécdota, sino como laboratorio de control, racialización y muerte administrada). La herencia penal compartida con América Latina, que permite comparaciones que no tienen por qué pasar por Londres ni por Chicago. El modo en que la vieja figura del “moro” sigue habitando comisarías, juzgados y titulares. La política de drogas leída desde un país que es a la vez puente, productor y consumidor. Y, en general, la sospecha metódica ante toda categoría importada que llega con la etiqueta de “universal”.</p>
+<p>Casi todos esos objetos tienen algo en común. Ninguno se entiende encerrado dentro de las fronteras españolas. La frontera sur existe porque existen flujos migratorios globales; la economía de la droga, porque hay mercados y desigualdades que cruzan continentes. Es la lección de Barberet aplicada al caso español. Los problemas locales de delincuencia, victimación y justicia están moldeados por fuerzas globales (la globalización, las migraciones, la desigualdad económica, el desarrollo desigual), y una criminología mediterránea que se tomara esa conexión en serio dejaría, por definición, de ser provinciana <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">Barberet 2014</a>)</span> ⚠️.</p>
+<p>Merece la pena recalcar que “Criminología mediterránea” puede degenerar en convertirse en una etiqueta vacía, o en gesto identitario (un nacionalismo académico de bandera), si no se llena de trabajo comparado de verdad. No se trata de reivindicar lo nuestro por ser nuestro, sino de producir desde aquí un conocimiento que en otro sitio no se produciría. Es un programa por hacer, no una escuela ya hecha. Que llegue a existir dependerá, en parte, de lo que hagáis vosotras como las criminólogas del futuro.</p>
+</section>
+<section id="el-poder-penal-también-tiene-centro-y-periferia" class="level2" data-number="13.6">
+<h2 data-number="13.6" class="anchored" data-anchor-id="el-poder-penal-también-tiene-centro-y-periferia"><span class="header-section-number">13.6</span> El poder penal también tiene centro y periferia</h2>
+<p>Queda una última pieza. Hasta aquí hemos mirado el reparto desigual del <em>saber</em> criminológico, y lo hemos bajado a un caso, el español. Falta la otra mitad, la del <em>poder</em> penal. Porque la criminología no es solo la ciencia del delito, también lo es de la justicia penal, y esa se reparte por el mundo con la misma geografía desigual que la teoría. El reparto viene de lejos. Mike Brogden mostró hace décadas que la propia institución policial tiene pedigrí colonial. El modelo que Inglaterra exportó por su imperio no era el del <em>bobby</em> amable del relato oficial, sino el de una policía centralizada y militarizada, pensada para controlar poblaciones colonizadas y ensayada en Irlanda y en la India antes de volver a casa <span class="citation" data-cites="Brogden_87">(<a href="references.html#ref-Brogden_87" role="doc-biblioref">Brogden 1987</a>)</span> (en el mismo sentido, véase <span class="citation" data-cites="Guariglia_23">Guariglia (<a href="references.html#ref-Guariglia_23" role="doc-biblioref">2023</a>)</span>). La forma en que hoy se vigila y se castiga carga con esa herencia.</p>
+<p>Sumemos el presente. El delito es cada vez más transnacional (el dinero, las drogas, los datos y las personas cruzan fronteras que ninguna policía nacional abarca), y por eso la cooperación entre países no es un lujo sino una necesidad. De ahí las instituciones supranacionales, desde la Interpol y Europol hasta la Oficina de la ONU contra la Droga y el Delito o la Corte Penal Internacional. Nada de esto es sospechoso en sí. El problema, igual que con la investigación comparada, no es que se coopere, sino quién dirige la cooperación y con qué intereses.</p>
+<p>Un buen ejemplo de ello lo ha estudiado Cornelia Woll <span class="citation" data-cites="Woll_23">(<a href="references.html#ref-Woll_23" role="doc-biblioref">2023</a>)</span> ⚠️. Como casi ninguna empresa global puede operar sin acceso al sistema de pagos en dólares y al mercado estadounidense, el Departamento de Justicia de Estados Unidos ha convertido su derecho interno en una policía mundial. Persigue a multinacionales extranjeras por hechos ocurridos en su mayor parte fuera de su territorio (entrando en conflicto con uno de los principios que estudiaréis en la parte general de derecho penal, el principio de territorialidad), las sanciona con más frecuencia y con multas más altas que a las propias, y esos miles de millones acaban en el Tesoro estadounidense. Los demás Estados quedan ante un dilema. O procesan penalmente ellos a sus empresas, o lo hará Washington y se llevará la recaudación. Para no perder ni la jurisdicción ni el dinero, buena parte de Europa ha terminado copiando el modelo estadounidense de justicia penal negociada. Para Woll, la rendición de cuentas empresarial a escala global tiene menos de justicia internacional neutral que de geopolítica del poder de mercado.</p>
+<p>No siempre hace falta tanta coerción. Muchas veces basta con que el modelo del centro se venda como el único razonable. El <em>community policing</em> angloamericano se ha exportado en masa a sociedades muy distintas de aquellas donde nació, presentado como la buena práctica universal, con poca evidencia de que encaje y sin preguntarse siquiera qué significa “comunidad” en cada sitio <span class="citation" data-cites="BrogdenNijhar_05">(<a href="references.html#ref-BrogdenNijhar_05" role="doc-biblioref">Brogden y Nijhar 2005</a>)</span> ⚠️. Lo mismo ocurrió con la tolerancia cero y las ventanas rotas, que viajaron del Nueva York de Giuliani a medio mundo como un producto de éxito <span class="citation" data-cites="Wacquant_14">(<a href="references.html#ref-Wacquant_14" role="doc-biblioref">Wacquant 2014</a>)</span> y que en España se ha traducido en las llamadas ordenanzas del civismo. Y no hay que verlo solo como imposición. Muchas veces es demanda, de élites locales convertidas al lenguaje del mercado y del orden, que importan el modelo con entusiasmo. Máximo Sozzo y sus colegas han mostrado que estos préstamos no se copian tal cual, se traducen, y en la traducción cambian de sentido <span class="citation" data-cites="MelossiSozzoSparks_11">(<a href="references.html#ref-MelossiSozzoSparks_11" role="doc-biblioref">Melossi, Sozzo, y Sparks 2011</a>)</span> ⚠️.</p>
+<p>El caso más sangriento es el de las drogas. El régimen de prohibición que rige hoy en casi todo el planeta no salió de un consenso entre iguales, lo diseñó e impuso el centro, con Estados Unidos al frente, a través de los convenios de la ONU, la presión diplomática y la ayuda militar. La periferia productora y de tránsito puso, y sigue poniendo, los muertos, las cárceles llenas y los territorios militarizados, mientras el consumo del norte apenas se toca <span class="citation" data-cites="BewleyTaylor_12">(<a href="references.html#ref-BewleyTaylor_12" role="doc-biblioref">Bewley-Taylor 2012</a>)</span> ⚠️.</p>
+<p>En resumidas cuentas, la justicia penal y la política criminal, igual que la teoría, tienen su centro y su periferia. El centro no solo escribe los libros, también fija los estándares, exporta los modelos y, cuando le conviene, aplica su ley más allá de sus fronteras. La cooperación internacional es real y necesaria; la pregunta, siempre, es quién la dirige y a quién beneficia.</p>
+</section>
+<section id="un-mundo-y-una-disciplina-en-movimiento" class="level2" data-number="13.7">
+<h2 data-number="13.7" class="anchored" data-anchor-id="un-mundo-y-una-disciplina-en-movimiento"><span class="header-section-number">13.7</span> Un mundo (y una disciplina) en movimiento</h2>
+<p>Hemos hablado todo el capítulo de <em>dónde</em> se hace la criminología. Nos queda un último giro, y es el del <em>cuándo</em>. Porque la teoría que estudiáis no solo se escribió en un sitio: se escribió en un momento. Y ese momento se está yendo. La anomia y la tensión estructural miran el sueño americano de posguerra; las subculturas, el Chicago y el Londres de mediados de siglo; incluso la cultura del control de Garland retrata un tránsito muy angloamericano. Buena parte del núcleo canónico de la disciplina se acuñó leyendo unas sociedades concretas que hoy, sencillamente, ya no existen.</p>
+<p>Cuidado, que aquí es fácil pasarse de frenada. No estamos diciendo que no se haya teorizado nada nuevo: la sociedad del riesgo, la gubernamentalidad, la vigilancia o la criminología cultural son intentos serios de pensar el mundo que viene. La afirmación sólida —la que un colega no os podrá tumbar— es más modesta y más inquietante: seguimos apoyándonos en un núcleo teórico que refleja sociedades pasadas, y lo nuevo no ha llegado a desplazarlo. Aprendemos el delito del siglo XXI con unas gafas fabricadas para el XX.</p>
+<p>Si el conocimiento se produce en el centro del sistema-mundo, y ese centro se está desplazando —el ascenso de Asia, la multipolaridad, el peso demográfico y económico moviéndose hacia el sur—, entonces la geografía de la producción criminológica no es un dato fijo: es la foto de un momento que va a cambiar. Dicho para vosotras, que empezáis: el mapa de la disciplina que estáis aprendiendo es provisional, y a lo largo de vuestra vida profesional lo veréis redibujarse.</p>
+<p>Y aquí entra, con fuerza propia, la dimensión ambiental, que enlaza con el cap. 14 (<em>Antropocentrismo y criminología verde</em>) que veremos a continuación. El cambio climático no solo genera nuevos daños y conflictos; reordena quién es vulnerable y quién produce el saber sobre esa vulnerabilidad. Buena parte de lo que viene se jugará en latitudes que el canon nunca miró.</p>
+<p>Y hay un tercer paso, más especulativo, con el que cerramos. No solo va a cambiar <em>dónde</em> se hace criminología, sino quizá <em>qué</em> es y <em>si</em> conserva la forma que hoy tiene. Una disciplina que nació pegada al Estado-nación y a su código penal no tiene garantizada su configuración actual en un mundo de daños transnacionales, actores no estatales, corporaciones que legislan de hecho y tecnologías que rehacen a la vez las oportunidades de delito y las de control. No es una ocurrencia nuestra: ya en el cap. 4 (<em>El delito</em>) os encontrasteis la advertencia de John Braithwaite de que las herramientas de la criminología pueden ir perdiendo relevancia frente al mundo que emerge <span class="citation" data-cites="Braithwaite_00">(<a href="references.html#ref-Braithwaite_00" role="doc-biblioref">Braithwaite 2000</a>)</span>. En esa misma dirección apunta Barberet cuando invita a estirar la criminología y a hacerla dialogar con el derecho internacional, la salud pública o los estudios del desarrollo, y a pensar la investigación desde una suerte de ciudadanía global <span class="citation" data-cites="Barberet_14">(<a href="references.html#ref-Barberet_14" role="doc-biblioref">Barberet 2014</a>)</span> ⚠️.</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Señales del presente, no profecías.</strong> Si queréis rastrear ese desplazamiento sin caer en la adivinación, mirad indicadores concretos: el peso creciente de revistas y congresos de criminología en Asia y en América Latina; la aparición de asociaciones regionales que ya no orbitan alrededor de Estados Unidos y el Reino Unido; la irrupción de daños —ambientales, digitales— que no caben en el código penal con el que nació la disciplina. No prueban hacia dónde vamos, pero sí marcan por dónde ha empezado a moverse el mapa.</p>
+</div>
+</div>
+</div>
+<p>Terminamos con una cautela que es casi una regla de oficio. Todo esto es terreno abonado para la profecía grandilocuente, y la profecía es mala ciencia. El antídoto es sencillo: anclad cada afirmación sobre el futuro en algo del presente que ya se pueda observar. No “el mundo cambiará radicalmente”, sino “ya vemos criminologías del sur ganando peso, ya vemos daños que el código penal no sabe nombrar; esto apunta a que…”. Quien lee las señales del presente acierta más que quien adivina el futuro. Y con esa mirada —atenta, situada y sin certezas cerradas— os dejamos al cerrar este capítulo: no con un mapa definitivo, sino con la conciencia de que todo mapa es de su tiempo. También el nuestro.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Agozino_03" class="csl-entry" role="listitem">
+Agozino, Biko. 2003. <em>Counter-Colonial Criminology: A Critique of Imperialist Reason</em>. London: Pluto Press.
+</div>
+<div id="ref-Aliverti_23" class="csl-entry" role="listitem">
+Aliverti, Ana, Henrique Carvalho, Anastasia Chamberlen, y Máximo Sozzo, eds. 2023. <em>Decolonizing the criminal question: Colonial legacies, contemporary problems</em>. Oxford University Press.
+</div>
+<div id="ref-Barberet_14" class="csl-entry" role="listitem">
+Barberet, Rosemary. 2014. <em>Women, Crime and Criminal Justice: A Global Enquiry</em>. London: Routledge.
+</div>
+<div id="ref-BewleyTaylor_12" class="csl-entry" role="listitem">
+Bewley-Taylor, David R. 2012. <em>International Drug Control: Consensus Fractured</em>. Cambridge: Cambridge University Press.
+</div>
+<div id="ref-Bhabha_94" class="csl-entry" role="listitem">
+Bhabha, Homi K. 1994. <em>The Location of Culture</em>. London: Routledge.
+</div>
+<div id="ref-Boxill_03" class="csl-entry" role="listitem">
+Boxill, Bernard R. 2003. <span>«A Lockean Argument for Black Reparations»</span>. <em>The Journal of Ethics</em> 7 (1): 63-91.
+</div>
+<div id="ref-Braithwaite_00" class="csl-entry" role="listitem">
+Braithwaite, John. 2000. <span>«The new regulatory state and the transformation of Criminology»</span>. <em>British Journal of Criminology</em> 40 (2): 222-38. https://doi.org/<a href="https://doi.org/10.1093/bjc/40.2.222">https://doi.org/10.1093/bjc/40.2.222</a>.
+</div>
+<div id="ref-Brogden_87" class="csl-entry" role="listitem">
+Brogden, Mike. 1987. <span>«The Emergence of the Police—The Colonial Dimension»</span>. <em>British Journal of Criminology</em> 27 (1): 4-14.
+</div>
+<div id="ref-BrogdenNijhar_05" class="csl-entry" role="listitem">
+Brogden, Mike, y Preeti Nijhar. 2005. <em>Community Policing: National and International Models and Approaches</em>. Cullompton: Willan Publishing.
+</div>
+<div id="ref-Cain_00" class="csl-entry" role="listitem">
+Cain, Maureen. 2000. <span>«Orientalism, Occidentalism and the Sociology of Crime»</span>. <em>British Journal of Criminology</em> 40 (2): 239-60. https://doi.org/<a href="https://doi.org/10.1093/bjc/40.2.239">https://doi.org/10.1093/bjc/40.2.239</a>.
+</div>
+<div id="ref-CARICOM_14" class="csl-entry" role="listitem">
+CARICOM Reparations Commission. 2014. <span>«Ten Point Plan for Reparatory Justice»</span>. Caribbean Community (CARICOM).
+</div>
+<div id="ref-Carrington_18" class="csl-entry" role="listitem">
+Carrington, Kerry, Russell Hogg, John Scott, Máximo Sozzo, y Reece Walters. 2018. <em>Southern criminology</em>. Routledge.
+</div>
+<div id="ref-Carrington_16" class="csl-entry" role="listitem">
+Carrington, Kerry, Russell Hogg, y Máximo Sozzo. 2016. <span>«Southern Criminology»</span>. <em>British Journal of Criminology</em> 56 (1): 1-20. https://doi.org/<a href="https://doi.org/10.1093/bjc/azv083">https://doi.org/10.1093/bjc/azv083</a>.
+</div>
+<div id="ref-LasCasas_1552" class="csl-entry" role="listitem">
+Casas, Bartolomé de las. 1552. <em>Brevísima relación de la destrucción de las Indias</em>. Sevilla: Casa de Sebastián Trujillo.
+</div>
+<div id="ref-Connell_07" class="csl-entry" role="listitem">
+Connell, Raewyn. 2007. <em>Southern Theory: The Global Dynamics of Knowledge in Social Science</em>. Cambridge: Polity Press.
+</div>
+<div id="ref-MartinCorrales_02" class="csl-entry" role="listitem">
+Corrales, Eloy Martín. 2002. <em>La imagen del magrebí en España: una perspectiva histórica siglos XVI-XX</em>. Barcelona: Edicions Bellaterra.
+</div>
+<div id="ref-Cunneen_11" class="csl-entry" role="listitem">
+Cunneen, Chris. 2011. <span>«Postcolonial perspectives in criminology»</span>. En <em>What is criminology?</em>, editado por Mary Bosworth y Carolyn Hoyle, 249-65. Oxford University Press.
+</div>
+<div id="ref-Dussel_95" class="csl-entry" role="listitem">
+Dussel, Enrique. 1995. <em>The Invention of the Americas: Eclipse of "the Other" and the Myth of Modernity</em>. New York: Continuum.
+</div>
+<div id="ref-Eisner_23" class="csl-entry" role="listitem">
+Eisner, Manuel. 2023. <span>«Towards a global comparative criminology»</span>. En <em>The Oxford Handbook of Criminology</em>, editado por Alison Liebling, Shadd Maruna, y Lesley McAra, 75-94. Oxford: Oxford University Press.
+</div>
+<div id="ref-Fanon_61" class="csl-entry" role="listitem">
+Fanon, Frantz. 1961. <em>Les damnés de la terre</em>. Paris: François Maspero.
+</div>
+<div id="ref-Grosfoguel_11" class="csl-entry" role="listitem">
+Grosfoguel, Ramón. 2011. <span>«Decolonizing Post-Colonial Studies and Paradigms of Political-Economy: Transmodernity, Decolonial Thinking, and Global Coloniality»</span>. <em>TRANSMODERNITY: Journal of Peripheral Cultural Production of the Luso-Hispanic World</em> 1 (1). https://doi.org/<a href="https://doi.org/10.5070/T411000004">https://doi.org/10.5070/T411000004</a>.
+</div>
+<div id="ref-Guariglia_23" class="csl-entry" role="listitem">
+Guariglia, Matthew. 2023. <em>Police and the empire city: Race and the origins of modern policing in New York</em>. Duke University Press.
+</div>
+<div id="ref-Henrich_10" class="csl-entry" role="listitem">
+Henrich, Joseph, Steven J. Heine, y Ara Norenzayan. 2010. <span>«The weirdest people in the world?»</span> <em>Behavioral and Brain Sciences</em> 33 (2-3): 61-83. https://doi.org/<a href="https://doi.org/10.1017/S0140525X0999152X">https://doi.org/10.1017/S0140525X0999152X</a>.
+</div>
+<div id="ref-Liu_18" class="csl-entry" role="listitem">
+Liu, Jianhong. 2018. <span>«The Asian Criminological Paradigm and How It Links Global North and South: Combining an Extended Conceptual Toolbox from the North with Innovative Asian Contexts»</span>. <em>International Journal of Offender Therapy and Comparative Criminology</em> 62 (1): 73-87.
+</div>
+<div id="ref-Lu_17" class="csl-entry" role="listitem">
+Lu, Catherine. 2017. <em>Justice and Reconciliation in World Politics</em>. Cambridge: Cambridge University Press.
+</div>
+<div id="ref-Lugones_07" class="csl-entry" role="listitem">
+Lugones, María. 2007. <span>«Heterosexualism and the Colonial/Modern Gender System»</span>. <em>Hypatia</em> 22 (1): 186-209.
+</div>
+<div id="ref-MaldonadoTorres_07" class="csl-entry" role="listitem">
+Maldonado-Torres, Nelson. 2007. <span>«On the Coloniality of Being: Contributions to the Development of a Concept»</span>. <em>Cultural Studies</em> 21 (2-3): 240-70.
+</div>
+<div id="ref-Medina_11" class="csl-entry" role="listitem">
+Medina, Juanjo. 2011. <span>«Doing criminology in the ’semi-periphery’ and the ’periphery’: in search of a postcolonial criminology»</span>. En <em>Routledge handbook of international criminology</em>, editado por Sheldon Zang, Rosemary Barberet, y Cindy Smith, 13-24. Routledge.
+</div>
+<div id="ref-MelossiSozzoSparks_11" class="csl-entry" role="listitem">
+Melossi, Dario, Máximo Sozzo, y Richard Sparks, eds. 2011. <em>Travels of the Criminal Question: Cultural Embeddedness and Diffusion</em>. Oxford: Hart Publishing.
+</div>
+<div id="ref-Mignolo_11" class="csl-entry" role="listitem">
+Mignolo, Walter D. 2011. <em>The Darker Side of Western Modernity: Global Futures, Decolonial Options</em>. Durham: Duke University Press.
+</div>
+<div id="ref-Mohanty_03" class="csl-entry" role="listitem">
+Mohanty, Chandra Talpade. 2003. <em>Feminism Without Borders: Decolonizing Theory, Practicing Solidarity</em>. Durham: Duke University Press.
+</div>
+<div id="ref-Nelken_10" class="csl-entry" role="listitem">
+Nelken, David. 2010. <em>Comparative Criminal Justice: Making Sense of Difference</em>. London: SAGE.
+</div>
+<div id="ref-PosnerVermeule_03" class="csl-entry" role="listitem">
+Posner, Eric A., y Adrian Vermeule. 2003. <span>«Reparations for Slavery and Other Historical Injustices»</span>. <em>Columbia Law Review</em> 103 (3): 689-748.
+</div>
+<div id="ref-Quijano_00" class="csl-entry" role="listitem">
+Quijano, Aníbal. 2000. <span>«Coloniality of Power and Eurocentrism in Latin America»</span>. <em>International Sociology</em> 15 (2): 215-32. https://doi.org/<a href="https://doi.org/10.1177/0268580900015002005">https://doi.org/10.1177/0268580900015002005</a>.
+</div>
+<div id="ref-Restall_03" class="csl-entry" role="listitem">
+Restall, Matthew. 2003. <em>Seven Myths of the Spanish Conquest</em>. New York: Oxford University Press.
+</div>
+<div id="ref-Said_78" class="csl-entry" role="listitem">
+Said, Edward W. 1978. <em>Orientalism</em>. New York: Pantheon Books.
+</div>
+<div id="ref-Segato_16" class="csl-entry" role="listitem">
+Segato, Rita Laura. 2016. <em>La guerra contra las mujeres</em>. Madrid: Traficantes de Sueños.
+</div>
+<div id="ref-Santos_14" class="csl-entry" role="listitem">
+Sousa Santos, Boaventura de. 2014. <em>Epistemologies of the South: Justice Against Epistemicide</em>. Boulder: Paradigm Publishers.
+</div>
+<div id="ref-Spivak_88" class="csl-entry" role="listitem">
+Spivak, Gayatri Chakravorty. 1988. <span>«Can the Subaltern Speak?»</span> En <em>Marxism and the Interpretation of Culture</em>, editado por Cary Nelson y Lawrence Grossberg, 271-313. Urbana: University of Illinois Press.
+</div>
+<div id="ref-Stannard_92" class="csl-entry" role="listitem">
+Stannard, David E. 1992. <em>American Holocaust: Columbus and the Conquest of the New World</em>. New York: Oxford University Press.
+</div>
+<div id="ref-Taiwo_22" class="csl-entry" role="listitem">
+Táíwò, Olúfẹ́mi O. 2022. <em>Reconsidering Reparations</em>. New York: Oxford University Press.
+</div>
+<div id="ref-Wacquant_14" class="csl-entry" role="listitem">
+Wacquant, Loic. 2014. <span>«The global firestorm of law and order: On punishment and neoliberalism»</span>. <em>Thesis Eleven</em> 122 (1): 72-88. https://doi.org/<a href="https://doi.org/10.1177/0725513614536136">https://doi.org/10.1177/0725513614536136</a>.
+</div>
+<div id="ref-Wallerstein_04" class="csl-entry" role="listitem">
+Wallerstein, Immanuel. 2004a. <em>Uncertainties of knowledge</em>. Temple University Press.
+</div>
+<div id="ref-Wallerstein_04b" class="csl-entry" role="listitem">
+———. 2004b. <em>World-Systems Analysis: An Introduction</em>. Durham: Duke University Press.
+</div>
+<div id="ref-Watson_25" class="csl-entry" role="listitem">
+Watson, Danielle, Jarrett Blaustein, Nathan W. Pino, y Julie Berg. 2025. <span>«Crime and Governance in the Global South»</span>. <em>Annual Review of Criminology</em> 8: 291-310. https://doi.org/<a href="https://doi.org/10.1146/annurev-criminol-022222-032132">https://doi.org/10.1146/annurev-criminol-022222-032132</a>.
+</div>
+<div id="ref-Woll_23" class="csl-entry" role="listitem">
+Woll, Cornelia. 2023. <em>Corporate Crime and Punishment: The Politics of Negotiated Justice in Global Markets</em>. Princeton: Princeton University Press.
+</div>
+</div>
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Quien quiera asomarse a esa discusión tal como se dio, con su temperatura y todo, tiene un buen punto de entrada en el texto <em>In defence of decolonisation: a response to southern criminology</em>, publicado en el blog de la Sociedad Británica de Criminología en 2021 ⚠️.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
 </section>
 
 </main> <!-- /main -->
