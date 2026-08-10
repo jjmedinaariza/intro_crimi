@@ -111,7 +111,7 @@ La criminología evolutiva que ha dominado el estudio de los delincuentes durant
 >
 > -   La curva del delito se caracteriza por un rápido aumento y un pico temprano, seguido de un rápido descenso inicial y luego un descenso gradual."
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **¿Son las premisas de la curva de la edad y el delito universales**
 :::
 

@@ -1,0 +1,21 @@
+/* ---- Callouts del manual ---- */
+div.callout {
+  border-radius: 0.4rem;
+  padding: 0.4rem 0.9rem;
+  margin: 1.4rem 0;
+}
+/* Profundización — azul muy claro */
+div.callout.callout-note {
+  background-color: #eaf2fb;
+  border-left-color: #7aa6d6 !important;
+}
+/* Documentales y películas — verde muy claro */
+div.callout.callout-tip {
+  background-color: #ecf5ee;
+  border-left-color: #7fae8c !important;
+}
+/* Orientación profesional — ocre claro */
+div.callout.callout-warning {
+  background-color: #faf3e2;
+  border-left-color: #c9a961 !important;
+}

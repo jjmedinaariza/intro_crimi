@@ -107,7 +107,7 @@ Así, tanto Willis como Wacquant permiten entender la clase no solo como una pos
 
 Desde Marx hasta Wacquant, la teoría de la clase ha transitado de la estructura económica a la práctica social. Hoy, comprender la relación entre clase y delito exige asumir que la clase no es solo una categoría objetiva, sino también un modo de vida y una posición institucionalmente fabricada. En ese sentido, las desigualdades penales no son únicamente reflejo de diferencias económicas, sino resultado de cómo las instituciones —educativas, laborales, policiales y judiciales— enseñan a los individuos su lugar en el orden social. Esta concepción amplia de clase social será clave para analizar, en la siguiente sección, cómo se distribuyen empíricamente el delito y la sanción en las sociedades contemporáneas.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **Philippe Bourgois: clase, violencia simbólica y criminalización en la vida cotidiana**
 
 El trabajo etnográfico de Philippe @Bourgois_95 ofrece una ilustración empírica de cómo las distintas dimensiones teóricas de la clase que hemos visto —estructural, simbólica, moral y afectiva— convergen en la vida cotidiana de las poblaciones marginalizadas. Su obra puede leerse como un puente entre los análisis estructurales del capitalismo y del Estado, las teorías del habitus y la reproducción simbólica, las perspectivas culturales sobre la resistencia de clase y las críticas feministas sobre la moralidad y el valor social.

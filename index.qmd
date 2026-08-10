@@ -4,7 +4,7 @@ Esta es la página web de "Criminología: una introducción". Este es un libro d
 
 El libro se distribuye bajo una licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) y ha sido producido usando [Quarto](https://quarto.org/).
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 Una licencia Creative Commons solo es válida cuando la aplica la persona o entidad que posee los derechos sobre la obra protegida. Las obras pueden contener componentes (por ejemplo, fotografías, ilustraciones o citas) a los que el titular de los derechos de la obra no puede aplicar la licencia. En última instancia, es responsabilidad del lector evaluar de forma independiente el estado de los derechos de autor de cualquier obra o componente de una obra que utilice, teniendo en cuenta el uso que le vaya a dar
 :::
 

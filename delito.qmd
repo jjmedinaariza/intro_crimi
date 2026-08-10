@@ -189,7 +189,7 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 
 Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **Las tendencias históricas del delito**
 
 Hay un creciente interés por entender cambios en la delincuencia a largo plazo. Por las dificultades de obteber datos fiables sobre otras formas de delincuencia, buena parte de la investigación se ha centrado en estudiar los patrones de la violencia, fundamentalmente en Europa, desde mediados del siglo XVI hasta nuestros días. El trabajo de @Eisner_03 en este ámbito es de obligada lectura. @Eisner_03 [p. 83] observa que:
@@ -215,7 +215,7 @@ La mayoría de los estudios indican que los delitos violentos y contra la propie
 
 \[INSERTAR FIGURA\]
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **La teoría de las actividades rutinarias**
 
 La teoría de las actividades rutinarias fue desarrollada precisamente para tratar de entender cambios en los niveles de delincuencia. Inicialmente desarrollada por Marcus Felson y Lawrence E. Cohen en un artículo titulado *Social change and crime rate trends: a routine activity approach*, esta teoría ofrece una perspectiva única sobre las tendencias de las tasas de criminalidad al enfocarse en las circunstancias en las que ocurren los actos delictivos predatorios, en lugar de las características o motivaciones de los delincuentes. La teoría argumenta que el delito no es simplemente el resultado de inclinaciones criminales individuales, sino que está fundamentalmente moldeado por las oportunidades que se presentan a través de las actividades rutinarias de la vida diaria.
@@ -273,7 +273,7 @@ Al margen de estudiar el delito a nivel más macro y agregado para entender su d
 
 El concepto del delito como una «transacción situada» fue desarrollado notablemente por David F. Luckenbill, quien analizó los homicidios como secuencias de interacciones entre el agresor y la víctima. Una «transacción situada» se refiere a una cadena de interacción entre dos o más individuos que dura el tiempo que se encuentran en la presencia física inmediata unos de otros. @Luckenbill_77 descubrió que el asesinato suele ser el resultado de una serie de intercambios cada vez más intensos ---lo que Goffman denominó «competición de caracteres»--- en los que cada parte busca mantener o recuperar su «prestigio» mediante desafíos verbales y físicos. El resultado (por ejemplo, el homicidio) viene determinado por el contexto social inmediato y las acciones de todos los implicados, y no solo por la intención o los antecedentes individuales. Investigaciones posteriores respaldan esta opinión, demostrando que muchos delitos violentos, especialmente los homicidios, se desarrollan como procesos interactivos.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **La teoría de las acciones coercitivas**
 
 @Tedeschi_94 desarrollaron toda una teoría de la violencia inspirados en parte por este modelo. La teoría de la violencia de Tedeschi y Felson, denominada *teoría interaccionista social de las acciones coercitivas*, estructura y secuencia las situaciones violentas centrándose en el daño como comportamiento orientado a objetivos que surge de procesos interaccionistas sociales. Siguiendo a Bandura consideran que toda violencia se considera instrumental y mediada cognitivamente, rechazando la "agresión enfadada" automática asociada a las teorías que distinguen entre violencia instrumental y expresiva.La teoría describe tres motivos sociales principales que inician y dan forma a los episodios coercitivos:
@@ -383,7 +383,7 @@ Estos estados emocionales no solo son respuestas al acto, sino que también pued
 
 Algunos estudios sugieren que diferentes subconjuntos de delitos se asocian más con diferentes emociones. @Canter_04, por ejemplo, encontraba en un estudio con una muestra de 83 delincuentes encarcelados que los delitos contra la propiedad resultaban más placenteros que los delitos contra las personas.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **Jack Katz y la seducción moral del delito**
 
 Jack Katz publicó a finales de los 80 un influyente trabajo que reinvicaba el estudio de las emociones. En *Seductions of Crime* [@Katz_88], se argumenta que el papel de las emociones en el crimen es central. @Katz_88 señala que la investigación criminológica ha estado preocupada por la búsqueda de fuerzas de trasfondo como defectos psicológicos o entornos sociales, descuidando las atracciones positivas, a menudo "maravillosas", dentro de la experiencia vivida de la criminalidad. El trabajo de Katz se centra en las cualidades seductoras de los crímenes, destacando cómo varias formas de criminalidad son "sensualmente atractivas".

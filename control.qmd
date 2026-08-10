@@ -21,7 +21,7 @@ La firma de los Tratados de Paz de Westfalia en 1648 marcó un hito en la histor
 
 Antes de Westfalia, Europa estaba organizada bajo un sistema feudal y religioso en el que el poder político y judicial estaba fragmentado. La Iglesia, los señores feudales y el Sacro Imperio Romano Germánico compartían y competían por la autoridad sobre territorios y poblaciones. La justicia no era uniforme; coexistían tribunales eclesiásticos, jurisdicciones señoriales y cortes reales, cada una con diferentes criterios de legitimidad y aplicación de la ley.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **¿Y por aquí**
 
 En la Peninsula Ibérica no existía aún España. Teniamos la monarquía hispánica: un conjunto de reinos, señoríos y territorios que compartían un mismo monarca (el rey “de las Españas”), pero cada uno mantenía sus propias leyes, instituciones, monedas y sistemas fiscales. El rey gobernaba cada uno de estos territorios según sus propios fueros y consejos (Consejo de Castilla, de Aragón, de Italia, de Indias, etc.). No existía una administración centralizada ni una identidad nacional común. Los súbditos solían identificarse como castellanos, aragoneses, napolitanos o flamencos, más que como “españoles” en sentido político. No había un único sistema judicial unificado, sino múltiples jurisdicciones que dependían de cada reino, ciudad o señorío. Era un sistema complejo, desigual y fuertemente marcado por el carácter estamental y religioso del Antiguo Régimen. La pena debía servir para atemorizar y escarmentar más que para rehabilitar y las autoridades tenían un gran margen para interpretar la ley y fijar penas.
@@ -67,7 +67,7 @@ Muchos autores citan a Beccaria como el padre de una "escuela clásica de crimin
 
 Por tanto, la importancia histórica de Beccaria no reside en haber generado una teoría criminológica sobre el hombre delincuente, sino que radica en que tradujo las condiciones políticas creadas por Westfalia —la soberanía estatal y el monopolio del castigo— en principios jurídicos racionales, creando un marco conceptual para sistemas penales codificados y humanos.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **¿Podemos hablar de una Escuela Clásica de criminología**
 
 Aunque a menudo se citan a Beccaria y a Bentham como los flamantes integrantes de dicha escuela, otros autores sostienen que ni era una escuela, ni era criminología. Con esta etiqueta se fuerza la asimilación de autores a un proyecto científico (la criminología) que no fue realmente inventada hasta décadas más tarde. Sí es verdad que estos autores compartían una visión del delincuente como un ser humano normal que en su delinquir no hacía más que satisfacer necesidades y aspiraciones humanas básicas. Pero, aunque muchos manuales proponen un debate entre determinismo y agencia humana (libre albedrio) contraponiendo el positivismo criminológico que surgiría después y los proponentes de la escuela clásica, este es un debate un tanto ficticio en cuanto que los autores clásicos no ignoraban fuerzas deterministas. El interés de estos autores estaba más centrado en la reforma de la justicia penal que en el entendimiento de la delincuencia. Algunas ideas estaban influidas por una agenda humanista y progresista y fueron muy influyentes al guiar pensamiento y práctica posterior: prevención a través de la disuasión, la necesidad de una buena ley y administración de justicia, etc. Pero también tenían ideas que eran conservadoras incluso para aquella época.
@@ -199,7 +199,7 @@ La prisión moderna fue, al mismo tiempo, una institución moral, científica y 
 
 En la primera mitad del siglo XX, especialmente tras la Segunda Guerra Mundial, estas corrientes convergieron en la noción de tratamiento penitenciario integral, que combinaba educación, asistencia psicológica, y el trabajo. Este modelo, aún dominante en muchas legislaciones, hereda las tensiones del siglo XIX: la promesa de rehabilitación convive con la persistencia del control, la exclusión y la desigualdad.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **Resocialización en las carceles españolas durante el siglo XX**
 
 Las nuevas teorías psicológicas de la resocialización tardaron en llegar a nuestro país más que a otros. En España con la llegada del régimen dictatorial franquista en 1939, el sistema penal y penitenciario adoptó una orientación profundamente autoritaria e ideológica. La finalidad principal de la pena no era la resocialización en sentido moderno (o de la forma que se estaba interpretando en las democracias contemporaneas), sino la “reeducación moral” del individuo conforme a los valores del régimen: obediencia, religión, patria y disciplina. La prisión se concebía como un espacio de control político y moral, donde el delincuente, volviendo a las concepciones dominantes durante decadas anteriores y superadas en otros países, debía “purificarse” mediante el trabajo, la religión y la obediencia. Los presos políticos, en particular, eran objeto de una reeducación forzada que buscaba su sometimiento ideológico.
@@ -227,7 +227,7 @@ En esta sección brevemente exploramos cómo la teoría del etiquetamiento (o la
 
 La teoría del etiquetamiento surgió en el contexto del interaccionismo simbólico de los años sesenta, influida por autores como Howard Becker, Edwin Lemert, Erving Goffman y Frank Tannenbaum.
 
-::: {.callout-note appearance="\"simple"}
+::: {.callout-note appearance="simple"}
 **¿Qué es el interaccionismo simbólico**
 
 El interaccionismo simbólico es una corriente sociológica que explica el comportamiento humano y la vida social a partir de las interacciones cotidianas entre las personas y los significados que estas atribuyen a las cosas, las acciones y las relaciones. En otras palabras, sostiene que la realidad social no existe de forma objetiva e independiente, sino que se construye constantemente a través de la comunicación y los símbolos que usamos para entendernos unos con otros.
