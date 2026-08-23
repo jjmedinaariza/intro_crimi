@@ -278,6 +278,10 @@ Al daño primario que produce el delito se suma, con frecuencia, el agravio de n
 
 - La segunda, más abstracta y por tanto más dificil de reconocer, es la que esta autora denomina **injusticia hermenéutica**: la falta de palabras y de marcos compartidos para nombrar lo que a una le ha pasado. Antes de que existieran expresiones como "acoso sexual", "control coercitivo" o "violación por un conocido", quienes sufrían esas situaciones apenas tenían un vocabulario reconocido para hablar de ellas, para hacerlas inteligibles, ni siquiera para sí mismas. Que un daño no tenga nombre no es una cuestión trivial, es una manera de que no cuente a efectos sociales o legales.
 
+![Théo van Rysselberghe, *Rostro con la mano apretada sobre la boca*, litografía del álbum 
+*Hommage des artistes à Picquart*, París, 1899. Rijksmuseum, Ámsterdam, RP-P-1947-337. 
+Dominio público.](images/piquart.jpg){#fig-picquart width="100%" fig-alt="Litografía de un rostro con una mano que le aprieta la boca, impidiéndole hablar."}
+
 Desde esta perspectiva, el interrogante que formuló la victimología positivista clásica (*¿qué hizo la víctima que pudiera haber propiciado el hecho?*) no era sino una forma de injusticia testimonial institucionalizada y elevada a categoría teórica. Mientras que la crítica feminista fue, en el fondo, en esencia, una batalla política por la credibilidad y por las palabras para la creación de un nuevo marco conceptual de sentido. Queda entonces una pregunta por responder: si de lo que se trata es de a quién se cree, ¿de qué depende que se crea a una víctima y no a otra? Retomamos esta cuestión en el siguiente apartado.
 
 ### La víctima ideal
@@ -334,10 +338,6 @@ Conviene precisar qué entraña de manera específica esa segunda "herida", pues
 Sin embargo, esta aproximación incurre en un reduccionismo: reduce lo que en esencia constituye una vulneración de derechos a un mero estado anímico o patología emocional, abriendo la puerta a un paternalismo institucional que utiliza el "riesgo de revictimización" como pretexto para apartar a la víctima del procedimiento penal "por su propio bien"  . 
 
 Como estos autores sostienen [@Pemberton_23], resulta mucho más preciso conceptualizar la victimización secundaria como una forma estructural de **injusticia epistémica**. En este proceso se agravia a la víctima en su condición de sujeto con capacidad de conocer y testificar: se devalúa sistemáticamente su credibilidad (injusticia testimonial), se desestima su relato, se prescinde de su participación activa o se le niegan los recursos interpretativos necesarios para articular el daño padecido (injusticia hermenéutica).
-
-![Théo van Rysselberghe, *Rostro con la mano apretada sobre la boca*, litografía del álbum 
-*Hommage des artistes à Picquart*, París, 1899. Rijksmuseum, Ámsterdam, RP-P-1947-337. 
-Dominio público.](images/piquart.jpg){#fig-picquart width="100%" fig-alt="Litografía de un rostro con una mano que le aprieta la boca, impidiéndole hablar."}
 
 Esta hostilidad no responde a incidentes aislados ni a la falta de sensibilidad puntual de un agente o funcionario judicial. El sistema legal lleva incorporado el modelo de la **víctima ideal**, y quien no encaja en dicho modelo es recibido con sospecha. La víctima que conocía a su agresor, la que no se resistió "bastante", la que tardó en denunciar, la que había bebido, la que no se comporta como esperamos que una persona traumatizada se tiene que comportas; todas ellas pasan a ser escrutinadas y consideradas con cierta sospecha. La victimación secundaria es lo que ocurre, de forma sistemática, cuando una víctima real choca con un modelo, el de la víctima ideal, que no la contempla.
 
