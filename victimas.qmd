@@ -277,14 +277,18 @@ Sería cómodo contar todo esto como un error del pasado ya superado. No lo es. 
 
 En este punto crítico, la **criminología feminista** desempeñó un papel transformador. Frente al interrogante fundacional de la victimología positivista (*¿qué hizo la víctima para provocar el hecho?*), el feminismo formuló una pregunta radicalmente distinta: **¿por qué a unas víctimas se les otorga credibilidad y amparo institucional, mientras a otras se las somete a sospecha?**
 
+El pensamiento feminista despojó a la "precipitación victimal" de su halo técnico para denunciarla como lo que realmente era: **culpabilización de la víctima** (*victim blaming*). Al hacerlo, desplazó de raíz el foco de análisis. 
+
 ![Marcha contra la culpabilización de las víctimas (*SlutWalk*), Edmonton, 2011. Foto: [Hugh Lee](https://www.flickr.com/photos/40609437@N04/5798165784), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marcha_das_Vadias.jpg).](images/slut_shaming.jpg){#fig-slutwalk width="100%" fig-alt="Manifestantes con pancartas en una marcha contra la culpabilización de las víctimas de agresión sexual."}
 
-El pensamiento feminista despojó a la "precipitación victimal" de su halo técnico para denunciarla como lo que realmente era: **culpabilización de la víctima** (*victim blaming*). Al hacerlo, desplazó de raíz el foco de análisis. El problema ya no residía en la conducta individual de quien padecía la agresión, sino en los mecanismos normativos que regulaban su reconocimiento social y judicial. Esta ruptura epistemológica convirtió la cuestión de quién accede al estatus pleno de víctima (y qué estructuras de poder, clase y género gobiernan ese reparto) en un eje vertebrador de la victimología crítica y de la criminología contemporánea [@Walklate_89; @Stanko_85]️.No resultaba casual, por tanto, que fuera la violencia contra las mujeres la que más frontalmente chocaba contra el molde institucional de la "víctima creíble", convirtiéndose en el ámbito donde el sistema penal operaba con mayores niveles de ceguera y hostilidad.
+El problema ya no residía en la conducta individual de quien padecía la agresión, sino en los mecanismos normativos que regulaban su reconocimiento social y judicial. Esta ruptura epistemológica convirtió la cuestión de quién accede al estatus pleno de víctima (y qué estructuras de poder, clase y género gobiernan ese reparto) en un eje vertebrador de la victimología crítica y de la criminología contemporánea [@Walklate_89; @Stanko_85]️.No resultaba casual, por tanto, que fuera la violencia contra las mujeres la que más frontalmente chocaba contra el molde institucional de la "víctima creíble", convirtiéndose en el ámbito donde el sistema penal operaba con mayores niveles de ceguera y hostilidad.
 
 ::: {.callout-note appearance="simple"}
 **¿Qué es mirar con perspectiva feminista?**
 
-A lo largo del capítulo, el feminismo aparece una y otra vez como el que corrige la mirada criminológica tradicional y masculina, así que conviene decir en qué consiste esa mirada, porque el feminismo no es simplemente "hablar de mujeres" o "defender las mujeres". Una perspectiva feminista parte de que el género organiza el poder, y de ahí extrae varias consecuencias para la victimología: (1) hace visibles daños que se daban por privados o menores (la violencia en la pareja, la sexual, el acoso); (2) desplaza la pregunta desde la conducta de la víctima hacia las estructuras que deciden a quién se cree; (3) desconfía de categorías y métodos que dan por universal la experiencia de unos pocos; y (4) demanda la adopción de prácticas que cambien estas dinámicas.
+A lo largo del capítulo, el feminismo aparece una y otra vez como el que corrige la mirada criminológica tradicional y masculina, así que conviene decir en qué consiste esa mirada, porque el feminismo no es simplemente "hablar de mujeres" o "defender las mujeres". 
+
+Una perspectiva feminista parte de que el género organiza el poder, y de ahí extrae varias consecuencias para la victimología: (1) hace visibles daños que se daban por privados o menores (la violencia en la pareja, la sexual, el acoso); (2) desplaza la pregunta desde la conducta de la víctima hacia las estructuras que deciden a quién se cree; (3) desconfía de categorías y métodos que dan por universal la experiencia de unos pocos; y (4) demanda la adopción de prácticas que cambien estas dinámicas.
 
 No hay una sola versión de esta perspectiva. Los feminismos son plurales y discuten entre sí (pensad, por ejemplo, en el debate dentro del feminismo sobre la prostitución). Pero todas comparten ese punto de partida. El capítulo 11 (*Género*) desarrollará de forma más detenida esta perspectiva.
 :::
@@ -311,6 +315,11 @@ Christie ilustra esta figura mediante un caso ilustrativo: una mujer anciana que
 - **Desconexión con el ofensor:** No existía ningún vínculo previo entre las partes.
 
 Para Christie la víctima ideal necesita un **agresor ideal**, y los dos se fabrican a la vez. Cuanto más monstruoso, ajeno y deshumanizado resulte el infractor ("un hombre peligroso que viene de lejos", en sus palabras), más nítida e incontestable deviene la inocencia de quien padece el ataque. La figura del "monstruo en el callejón" resulta reconfortante para la sociedad porque traza una frontera clara y tranquilizadora entre el mal absoluto (externo y ajeno) y la comunidad protegida. El problema radica en que la inmensa mayoría del daño delictivo real no acontece en ese escenario.
+
+![Mural dedicado a Nevenka Fernández en Ponferrada. 
+Foto: [Viascos](https://commons.wikimedia.org/wiki/User:Viascos), 
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), vía 
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nevenka_Mural_Ponferrada.jpg).](images/nevenka.jpg){#fig-nevenka width="100%" fig-alt="Mural callejero en Ponferrada dedicado a Nevenka Fernández."}
 
 El modelo encierra, además, una **paradoja estructural de poder**: para ser reconocida como víctima ideal es preciso ser lo bastante vulnerable para suscitar compasión, pero al mismo tiempo disponer del capital social, económico y emocional suficiente para alzar la voz, denunciar y sostener el desgaste del proceso judicial. Con demasiado poder, se deja de inspirar empatía; con muy poco, se carece de agencia para reclamar el estatus de víctima.
 
