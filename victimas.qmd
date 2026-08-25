@@ -111,7 +111,11 @@ Estas teorías no han estado exentas de críticas. Mal leídas, podrían desliza
 
 - **El plano de la responsabilidad moral y penal:** La autoría y la culpa del delito recaen de manera exclusiva e indivisible sobre quien decide cometer la agresión.
 
-Por ejemplo, una mujer joven que sale de un local de ocio nocturno ha decidido salir a divertirse; en ningún caso ha decidido ser agredida. Su rutina explica, a lo sumo, la oportunidad o la convergencia situacional del encuentro; pero en ningún caso explica ni justifica la agresión. Entre la oportunidad ambiental y la consumación del delito media siempre una voluntad individual que opta por quebrantar la ley, y es esa decisión libre del agresor la única causa eficiente del daño. Las teorías de la oportunidad identifican los nodos espaciotemporales donde resulta más probable que se crucen las trayectorias de infractores y víctimas potenciales; en ningún caso distribuyen ni atenúan la culpabilidad entre quien perpetra el ataque y quien sufre la victimización.
+Por ejemplo, una mujer joven que sale de un local de ocio nocturno ha decidido salir a divertirse; en ningún caso ha decidido ser agredida. Su rutina explica, a lo sumo, la oportunidad o la convergencia situacional del encuentro; pero en ningún caso explica ni justifica la agresión.
+
+![Imagen generada con ChatGPT.](images/responsabilizacion.png)
+
+Entre la oportunidad ambiental y la consumación del delito media siempre una voluntad individual que opta por quebrantar la ley, y es esa decisión libre del agresor la única causa eficiente del daño. Las teorías de la oportunidad identifican los nodos espaciotemporales donde resulta más probable que se crucen las trayectorias de infractores y víctimas potenciales; en ningún caso distribuyen ni atenúan la culpabilidad entre quien perpetra el ataque y quien sufre la victimización.
 
 ::: {.callout-note appearance="simple"}
 **Del análisis al consejo: cuando la prevención responsabiliza.**
