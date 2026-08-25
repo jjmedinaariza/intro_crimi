@@ -342,9 +342,7 @@ El sefardí expulsado es, en el imaginario español actual, una víctima que mer
 
 ### ¿Otros elementos para una criminología mediterranea hecha desde España?
 
-¿Adónde nos lleva todo esto? A una propuesta, más que a una conclusión. Si España ocupa esa posición doble (semiperiférica, mediterránea, a la vez ex-imperio y frontera sur de Europa), entonces tiene desde dónde hacer una criminología que no sea ni una copia aplicada del norte ni un préstamo del sur global, una **criminología mediterránea** con su propio lugar de enunciación [@Medina_11].
-
-¿Y qué miraría esa criminología? Cosas que el canon anglosajón no ve, o ve mal:
+¿Adónde nos lleva todo esto? A una propuesta, más que a una conclusión. Si España ocupa esa posición doble (semiperiférica, mediterránea, a la vez ex-imperio y frontera sur de Europa), entonces tiene desde dónde hacer una criminología que no sea ni una copia aplicada del norte ni un préstamo del sur global, una **criminología mediterránea** con su propio lugar de enunciación [@Medina_11]. ¿Y qué miraría esa criminología? Cosas que el canon anglosajón no ve, o ve mal:
 
 - *La frontera sur como objeto criminológico de pleno derecho*, no como anécdota, sino como laboratorio de control, racialización y muerte administrada. Es lo que Achille Mbembe [@Mbembe_19] llamó **necropolítica** (el poder de decidir quién puede vivir y quién debe morir) y **fronterización** (*bordérisation* en el original), la conversión de la frontera misma en un espacio de violencia y muerte.
 
@@ -357,6 +355,14 @@ El sefardí expulsado es, en el imaginario español actual, una víctima que mer
 - *La sospecha metódica ante toda categoría importada* que llega con la etiqueta de "universal". No para rechazarla sin más, sino para preguntarse siempre dónde se fabricó, para gobernar a quién, y si de verdad dice algo de lo que pasa aquí.
 
 - *Nuestro pasado histórico, y en particular el esclavista, como objeto criminológico* y no como página cerrada. España fue potencia negrera hasta muy tarde (la esclavitud no se abolió en Cuba hasta 1886) y muchas fortunas de su burguesía salieron de la trata [@Piqueras_12]; lo revelador, y aquí vuelven la melancolía y la afasia, es que ese pasado apenas tiene memoria pública [@Rodrigo_22]. Y no es solo memoria: aquella economía de cuerpos racializados y explotables se transformó, y hoy reaparece en la sobreexplotación del migrante (en la economía formal (Huelva, los invernaderos de Almería, los cuidados) y en la sumergida (la trata, el trabajo forzado)), una mano de obra barata y deportable que la propia ley de extranjería contribuye a fabricar.
+
+::: {.callout-tip appearance="simple"}
+**Sobre el pasado esclavista**
+
+Hay varios documentales que podéis encontrar en plataformas de streaming sobre este pasado. Los enlaces a los mismos los podéis obtener en la página de recursos audiovisuales del grupo de investigación sobre la España esclavista (https://espanaesclavista.es/). Incluyen *Encadenados*, un documental de cuatro capítulos del Canal de la Historia; *Cachita: la esclavitud borrada* sobre la amnesia de la que hablaba Paul Gilroy aplicada al caso español; y *Gurumbe: canciones de tu memoria negra* sobre las huellas africanas en nuestra cultura y música.
+
+Podéis conectar el visionado de estos documentales con lecturas sociologicas sobre la explotacion laboral de los migrantes en nuestro país o documentales sobre el tema como: ["Bajo el plástico"](https://www.youtube.com/watch?v=oDOfRj0LKds), ["Jornaleros, el mal patrón"](https://www.canalsur.es/rtva/canal-sur-en-el-mundo/jornaleros-mal-patron_1_1388828.html), ["The invisible"](https://www.marbellafilmfestival.com/film/the-invisible-modern-slavery-in-europe/), o ["El Ejido, la ley del beneficio"](https://www.filmaffinity.com/es/film568094.html)
+:::
 
 Casi todos esos objetos tienen algo en común. Ninguno se entiende encerrado dentro de las fronteras españolas. La frontera sur existe porque existen flujos migratorios globales; la economía de la droga, porque hay mercados y desigualdades que cruzan continentes; la explotación del jornalero migrante, porque hay cadenas de valor globales que necesitan mano de obra barata y sin derechos. Los problemas locales de delincuencia, victimación y justicia están moldeados por fuerzas globales (la globalización, las migraciones, la desigualdad económica, el desarrollo desigual), y una criminología mediterránea tendría que tomarse esa conexión en serio [@Barberet_14].
 
