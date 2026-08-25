@@ -345,7 +345,9 @@ La máquinaria social y legal del reconocimiento no se queda en el plano de las 
 
 ## La victimación secundaria y el reparto del daño
 
-En la sección anterior hablamos de los mecanismos generales que operan para decidir a quién se cree y se reconoce tras experimentar una victimación. Toca en esta sección ver cuáles son sus consecuencias. Como indicabamos al comienzo de este tema la victimación no es un **suceso**, el instante en que alguien sufre un delito, sino un **proceso**. Podemos distinguir al menos dos momentos en este proceso. La **victimación primaria** es el daño que causa directamente el delito: la lesión, la pérdida, el miedo. La **victimación secundaria** es el daño *añadido* por la forma en que responden a la víctima quienes deberían ayudarla: la policía que la interroga como si mintiera, el juzgado que la obliga a narrar una y otra vez lo peor de su vida, el entorno social que cotillea, los medios de comunicación social que en casos de cierta relevancia construyen un relato parcial que sirva para atraer audiencias, etc. Las consecuencias de la victimación, por tanto, no se detienen una vez termina el evento delictivo que la ha generado.
+En la sección anterior hablamos de los mecanismos generales que operan para decidir a quién se cree y se reconoce tras experimentar una victimación. Toca en esta sección ver cuáles son sus consecuencias. Como indicabamos al comienzo de este tema la victimación no es un **suceso**, el instante en que alguien sufre un delito, sino un **proceso**. 
+
+Podemos distinguir al menos dos momentos en este proceso. La **victimación primaria** es el daño que causa directamente el delito: la lesión, la pérdida, el miedo. La **victimación secundaria** es el daño *añadido* por la forma en que responden a la víctima quienes deberían ayudarla: la policía que la interroga como si mintiera, el juzgado que la obliga a narrar una y otra vez lo peor de su vida, el entorno social que cotillea, los medios de comunicación social que en casos de cierta relevancia construyen un relato parcial que sirva para atraer audiencias, etc. Las consecuencias de la victimación, por tanto, no se detienen una vez termina el evento delictivo que la ha generado.
 
 ::: {.callout-note appearance="simple"}
 **¿Y la "victimación terciaria"?**
@@ -357,9 +359,9 @@ Algunas autoras añaden un tercer momento: la huella a largo plazo, cuando la co
 
 Conviene precisar qué entraña de manera específica esa segunda "herida", pues la criminología contemporánea advierte de que las definiciones convencionales resultan insuficientes. En los inicios de este campo de estudio, era habitual describir la victimización secundaria simplemente como "más trauma": el sistema de justicia agravaba el daño psicológico derivado del delito originario.
 
-![Edvard Munch, *El grito*, 1893. Nasjonalmuseet, Oslo. Dominio público.](images/the_scream.jpeg){#fig-grito width="100%" fig-alt="Figura andrógina en un puente, con las manos en las mejillas y la boca abierta, bajo un cielo de franjas rojas y anaranjadas."}
+Sin embargo, esta aproximación incurre en un reduccionismo: reduce lo que en esencia constituye una vulneración de derechos a un mero estado anímico o patología emocional, abriendo la puerta a un paternalismo institucional que utiliza el "riesgo de revictimización" como pretexto para apartar a la víctima del procedimiento penal "por su propio bien".
 
-Sin embargo, esta aproximación incurre en un reduccionismo: reduce lo que en esencia constituye una vulneración de derechos a un mero estado anímico o patología emocional, abriendo la puerta a un paternalismo institucional que utiliza el "riesgo de revictimización" como pretexto para apartar a la víctima del procedimiento penal "por su propio bien" .
+![Edvard Munch, *El grito*, 1893. Nasjonalmuseet, Oslo. Dominio público.](images/the_scream.jpeg){#fig-grito width="100%" fig-alt="Figura andrógina en un puente, con las manos en las mejillas y la boca abierta, bajo un cielo de franjas rojas y anaranjadas."}
 
 Como estos autores sostienen [@Pemberton_23], resulta mucho más preciso conceptualizar la victimización secundaria como una forma estructural de **injusticia epistémica**. En este proceso se agravia a la víctima en su condición de sujeto con capacidad de conocer y testificar: se devalúa sistemáticamente su credibilidad (injusticia testimonial), se desestima su relato, se prescinde de su participación activa o se le niegan los recursos interpretativos necesarios para articular el daño padecido (injusticia hermenéutica).
 
