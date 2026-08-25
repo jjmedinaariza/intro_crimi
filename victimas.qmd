@@ -88,6 +88,17 @@ La investigación criminológica contemporánea ha refinado esta intuición orig
 
 Diversos estudios han contrastado esta dinámica con metodologías de alta precisión para medir rutinas cotidianas. Por ejemplo, en una serie de investigaciones con jóvenes en Filadelfia se reconstruyó la trayectoria espaciotemporal del día en que sufrieron una agresión física y se comparó a cada participante consigo mismo en distintos momentos de esa misma jornada [@Wiebe_16; @Dong_20]. Al utilizar a cada persona como su propio control (*diseño de caso cruzado*), estos modelos descartan la influencia de la edad, el sexo o la personalidad, aislando el impacto directo del contexto situacional. Los factores que incrementaban el riesgo de victimación eran la presencia en espacios públicos en actividades no estructuradas, la ausencia de guardianes y el tránsito por zonas marcadas por edificios abandonados, violencia previa y desorden físico.
 
+![Porcentaje de tiempo que los participantes pasaron, en cada hora del día, en distintos 
+tipos de lugares y medios de transporte, según el grupo: jóvenes agredidos con arma de fuego, 
+jóvenes agredidos sin arma de fuego y controles de la comunidad. La reconstrucción procede de 
+entrevistas de presupuesto espacio-temporal sobre el día previo. La exposición a unos u otros 
+entornos no es constante a lo largo del día ni igual entre grupos, lo que sugiere que el riesgo 
+de agresión depende del contexto concreto en que transcurre la actividad cotidiana y no solo de 
+características estables de las personas. Fuente: Wiebe et al. (2016), figura 1.[^cred-wiebe]](images/risk.jpg){#fig-wiebe width="100%" fig-alt="Series apiladas por hora del día que muestran el reparto del tiempo entre tipos de lugar y medios de transporte para tres grupos de participantes."}
+
+[^cred-wiebe]: Wiebe DJ et al., "Mapping Activity Patterns to Quantify Risk of Violent Assault 
+in Urban Environments", *Epidemiology*, 2016;27(1):32-41. PMC4658670.
+
 Esta lógica converge con el enfoque de las **actividades rutinarias** de Cohen y Felson [@Cohen_79], ya analizado en el capítulo 4 (*El delito*): para que el hecho delictivo concurra en el espacio y el tiempo deben coincidir un agresor motivado, un objetivo adecuado y la ausencia de un guardián capaz. En este esquema, la víctima se conceptualiza como el objetivo adecuado o la portadora del mismo.
 
 Sin embargo, la violencia machista en el ámbito de la pareja y la familia opera aquí como un caso negativo. El retrato derivado del estilo de vida y las actividades rutinarias (exposición nocturna, agresor desconocido, la calle) explica de forma deficiente la victimización más grave que sufre la mitad de la población. Una mujer que sufre violencia de género no es victimizada por "exponerse" a riesgos en el espacio público ante extraños; es agredida en su propio hogar, por la persona con quien convive y de forma recurrente en el tiempo, en el espacio que estas teorías presumen seguro. Paradójicamente, quien debería actuar como "guardián capaz" es el propio agresor. Toda teoría de la oportunidad que ignore esta realidad adolece de un sesgo explicativo estructural.
