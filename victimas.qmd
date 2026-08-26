@@ -375,7 +375,11 @@ Un área donde este concepto es muy util analíticamente es en el de la violenci
 
 ### Los abusos sexuales en la Iglesia como ejemplo
 
-La violencia contra la mujer no es el único terreno donde el reconocimiento se niega y el proceso se alarga durante años. El informe del Defensor del Pueblo sobre los abusos sexuales en la Iglesia católica [@DefensorPueblo_23], junto con el análisis académico de estos [@PeredaTamaritBartolome_24], ofrece un segundo caso de estudio en el contexto español que ilustra estas mismas dinámicas desde un prisma complementario: aquí la víctima no es una persona adulta, sino un niño o niña, y el agresor no es un extraño, sino una figura de autoridad moral y confianza comunitaria.
+La violencia contra la mujer no es el único terreno donde el reconocimiento se niega. El Informe del Defensor del Pueblo sobre los abusos sexuales en la Iglesia católica [@DefensorPueblo_23], junto con el análisis académico de estos [@PeredaTamaritBartolome_24], ofrece un segundo caso de estudio en el contexto español que ilustra estas mismas dinámicas desde un prisma complementario: aquí la víctima no es una persona adulta, sino un niño o niña, y el agresor no es un extraño, sino una figura de autoridad moral y confianza comunitaria.
+
+![De cada cien víctimas de abuso sexual en la infancia, siete vieron una condena. 
+Elaboración propia a partir de Defensor del Pueblo (2023), 
+*Informe sobre los abusos sexuales en el ámbito de la Iglesia católica*, pp. 179-180.](images/embudo-denuncia-abusos.png){#fig-embudo width="100%" fig-alt="Gráfico de barras decrecientes: de cien víctimas, 41 se lo contaron a un adulto, 21 denunciaron y 7 obtuvieron condena."}
 
 Este ejemplo resulta especialmente revelador: sobre el papel, un menor encarna de forma casi arquetípica los atributos de la *víctima ideal* (fragilidad física, indefensión y total ausencia de responsabilidad en el hecho). Sin embargo, en la práctica institucional operaron poderosas barreras estructurales que silenciaron la victimización primaria e infligieron una severa **victimización secundaria**.
 
