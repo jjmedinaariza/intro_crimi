@@ -207,6 +207,8 @@ Uno de los mecanismos teóricos empleados por la criminología para entender el 
 
 Su caso de estudio que sirvió para sustentar esta teoría hoy nos puede parecer casi enternecedor. En su estudio de caso Cohen hablaba de los roces entre *mods* y *rockers*, dos tribus juveniles, en las playas inglesas de los años sesenta. Se trataba en realidad de unos cuantos altercados menores; pero la prensa británica los cubrió de forma apocalíptica como si anunciaran el derrumbe del orden social, con titulares exagerados y fotos bien escogidas para generar una sensación de caos y ansiedad entre los lectores, y a base de repetirlo convirtió a aquellos chavales en *folk devils*, en demonios populares, en la encarnación de todo lo que iba mal en la sociedad británica del periodo. La alarma creció hasta desbordar lo ocurrido, las autoridades respondieron con dureza y, lo más interesante, la propia reacción dio alas a lo que decía combatir: más jóvenes quisieron sumarse a algo que salía en todas partes. Fue una profecía autocumplida.
 
+![Imagen generada con ChatGPT sobre el trabajo de Stan Cohen "Folk Devils and Moral Panics"](images/moralpanics.png)
+
 ::: {.callout-tip appearance="simple"}
 **Quadrophenia**.
 
