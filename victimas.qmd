@@ -34,11 +34,11 @@ Al monopolizar el ejercicio de la fuerza y la administración de justicia, el Es
 
 Este enfoque civilizatorio, no obstante, presenta importantes fisuras:
 
-- **Sesgo eurocéntrico:** Se fundamenta casi con exclusividad en series documentales europeas; extrapolar la trayectoria europea como un patrón universal de desarrollo constituye un error que se analiza en profundidad en el capítulo 13.
+- *Sesgo eurocéntrico:* Se fundamenta casi con exclusividad en series documentales europeas; extrapolar la trayectoria europea como un patrón universal de desarrollo constituye un error que se analiza en profundidad en el capítulo 13.
 
-- **Invisibilización de la violencia estatal:** El relato lineal del "declive de la violencia" suele marginar la letalidad ejercida por el propio aparato estatal (guerras interestatales, violencia colonial, represión y castigo punitivo), dimensiones que se examinan en el capítulo 6 (*Grupos, entidades y Estados que delinquen*).
+- *Invisibilización de la violencia estatal:* El relato lineal del "declive de la violencia" suele marginar la letalidad ejercida por el propio aparato estatal (guerras interestatales, violencia colonial, represión y castigo punitivo), dimensiones que se examinan en el capítulo 6 (*Grupos, entidades y Estados que delinquen*).
 
-- **Mito del pasado armónico:** Como se ha advertido, el orden premoderno distaba de ser un escenario de justicia igualitaria y libre de coacciones.
+- *Mito del pasado armónico:* Como se ha advertido, el orden premoderno distaba de ser un escenario de justicia igualitaria y libre de coacciones.
 
 Con todo, este debate es imprescindible porque previene cualquier nostalgia anacrónica hacia un pasado idealizado. La pérdida de protagonismo directo de la víctima y las ganancias colectivas en pacificación social constituyen, en realidad, dos dimensiones inseparables de una misma transformación estructural. Este capítulo sitúa el foco en la primera de ellas, sin perder de vista la segunda
 :::
@@ -435,7 +435,11 @@ Este ascenso exhibe dos dimensiones contrapuestas. Por un lado, **la conquista d
 
 ![Manifestación el Día Internacional de la Mujer. Foto: [BiblioJu](https://commons.wikimedia.org/wiki/User:BiblioJu), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), vía [Wikimedia Commons](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Mujer#/media/Archivo:Marcha_8M_2025_en_Montevideo,_Uruguay_11.jpg)](images/lucha_feminista.jpg){#fig-XXX width="100%" fig-alt="..."}
 
-Por otro lado, se ha dado **la instrumentalización punitivista de las víctimas**. En la política criminal de las últimas décadas, el sufrimiento de la víctima se ha convertido con frecuencia en la coartada discursiva para legitimar el endurecimiento penal. David Garland conceptualizó a la víctima en la modernidad tardía como un personaje representativo (*representative character*) cuya experiencia de ultraje se universaliza para deslegitimar las garantías procesales y el conocimiento criminológico experto [@Garland_02b]: la invocación al dolor de la víctima blinda cualquier reforma penal frente a la crítica racional. En una línea convergente, Jonathan Simon analizó cómo las sociedades contemporáneas han pasado a *gobernar a través del delito* (*governing through crime*) [@Simon_07], reorganizando las prioridades del Estado en torno al miedo y a la tutela securitaria. El populismo penal [@Pratt_07] culmina esta deriva mediante leyes con nombres y apellidos de víctimas concretas (*eponymous laws*), reformas legislativas aprobadas al calor de la conmoción mediática y un relato falaz de suma cero en el que cada derecho o garantía reconocido a la persona acusada se presenta como un despojo a la víctima.
+Por otro lado, se ha dado **la instrumentalización punitivista de las víctimas**. En la política criminal de las últimas décadas, el sufrimiento de la víctima se ha convertido con frecuencia en la coartada discursiva para legitimar el endurecimiento penal. David Garland conceptualizó a la víctima en la modernidad tardía como un personaje representativo (*representative character*) cuya experiencia de ultraje se universaliza para deslegitimar las garantías procesales y el conocimiento criminológico experto [@Garland_02b]: la invocación al dolor de la víctima blinda cualquier reforma penal frente a la crítica racional. 
+
+![Portada de documento programático del PSOE, Febrero del 2002.](images/psoe.png){#fig-psoe width="100%"}
+
+En una línea convergente, Jonathan Simon analizó cómo las sociedades contemporáneas han pasado a *gobernar a través del delito* (*governing through crime*) [@Simon_07], reorganizando las prioridades del Estado en torno al miedo y a la tutela securitaria. El populismo penal [@Pratt_07] culmina esta deriva mediante leyes con nombres y apellidos de víctimas concretas (*eponymous laws*), reformas legislativas aprobadas al calor de la conmoción mediática y un relato falaz de suma cero en el que cada derecho o garantía reconocido a la persona acusada se presenta como un despojo a la víctima.
 
 Lo fundamental de esta dinámica es que se trata de la misma voz. No existe una división ontológica entre una "víctima buena" intrínsecamente restaurativa y una "víctima mala" movida por el castigo: existe un recurso político de extraordinaria potencia (el dolor humano socialmente legitimado) susceptible de canalizarse hacia la ampliación de derechos o hacia la profundización del rigor punitivo estatal.
 
