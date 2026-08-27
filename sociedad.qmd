@@ -233,6 +233,9 @@ Importa, por tanto, saber quién mueve hoy esa amplificación, porque no somos s
 
 A ello se suman los propios dueños de las plataformas, cuyos algoritmos premian la indignación y cuyos intereses políticos distan de ser neutrales como se puede desprender de lo que cubrimos en el capítulo 6. En España, la concentración de la propiedad mediática es alta, con unos pocos grupos que reúnen más del 75% de la audiencia en casi todos los sectores y un marcado paralelismo político; todo ello añade su sesgo a lo que se cuenta y a cómo se cuenta [@MPM_26].
 
+![La desinformación visual rara vez inventa imágenes: recicla imágenes auténticas. 
+Elaboración propia a partir de las verificaciones de Newtral y Maldita.es (julio de 2025).](images/recontextualizacion-torre-pacheco.png){#fig-recontextualizacion width="100%" fig-alt="Cinco filas que enfrentan lo que se dijo que mostraba cada vídeo difundido sobre Torre Pacheco con el lugar y la fecha en que realmente se grabó: México 2021, Eslovaquia 2023, Almería, Polonia y Torrevieja."}
+
 Y los efectos de todo esto no se agotan en el clima punitivo que discutiremos en la próxima sección. A veces la desinformación no reclama una ley más dura, sino que prende la mecha directamente. En julio de 2025, en Torre Pacheco (Murcia), la agresión a un vecino de 68 años a manos de un joven de origen magrebí corrió por las redes envuelta en bulos y en llamamientos a la "caza" del inmigrante; grupos ultras llegados de toda España protagonizaron varias noches de ataques racistas contra vecinas y vecinos marroquíes, con más de cien mil mensajes de odio contabilizados en apenas dos semanas. Lejos de ser una anécdota, este salto del odio digital a la violencia física se ha vuelto objeto de estudio criminológico.
 
 ::: callout-note
@@ -248,6 +251,13 @@ Los medios no solo cuentan, representan y distorsionan el delito, también cuent
 La imagen del control penal proyectada por los medios ha cambiado con la época. Robert Reiner, Sonia Livingstone y Jessica Allen [-@Reiner_00] analizaron el contenido de la prensa y del cine británicos entre 1945 y 1991 y vieron que lo que se movía no era tanto la *cantidad* de delito representado como su *carácter*. Con las décadas, la víctima se desplaza al centro del relato y su sufrimiento se subraya cada vez más, la confianza en la justicia se resquebraja y la policía se vuelve la heroína de la función, a menudo una justiciera que se salta las reglas para atrapar al malo [@Allen_98]. Lo resumieron con una frase, "se acabaron los finales felices". Donde antes la ficción tranquilizaba restaurando el orden, ahora inquieta mostrando un daño que no siempre se repara.
 
 Las instituciones del sistema, además, no se quedan de brazos cruzados mientras los medios construyen esta realidad imaginada. La policía, la fiscalía o el gobierno son fuentes privilegiadas ("definidores primarios", se las ha llamado [@Hall_78]). Llegan las primeras y con el relato ya montado, fijando el marco interpretativo desde el que se cuenta lo ocurrido [@Ericson_87]. Y cada vez más tienen su propia maquinaria de comunicación y sus propias cuentas en redes, con las que proyectan una imagen de eficacia y legitiman su actuación sin pasar por filtro periodístico alguno [@Colbran].
+
+![La construcción mediática de la policía: del drama televisivo a la gestión 
+profesional de la comunicación policial.[^cred-copaganda]](images/portadas-policia-medios.png){#fig-copaganda width="90%" fig-alt="Seis cubiertas sobre policía y medios: Policing and Social Media, de Schneider; Policing and The Media, de Colbran; Policing and Media, de Lee y McGovern; Good Cop/Bad Cop, de Lovell; Copaganda, de Karakatsanis; y TV Cops, de Nichols-Pethick."}
+
+[^cred-copaganda]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). 
+Los derechos corresponden a Lexington Books, Routledge, Routledge, NYU Press, 
+The New Press y Routledge respectivamente.
 
 A la producción cultural que normaliza y ensalza la labor policial se la ha bautizado con cierta sorna como **copaganda** [@Karakatsanis_25]. \[CONTAR Y CITAR EL TRABAJO DE SERGIO SOBRE ESTE TEMA\] Esta forma de propaganda construye relatos que nos habitúan a ver la vigilancia, y a veces hasta la violencia policial, como algo natural, y que orientan la mirada hacia unos culpables y no otros, con frecuencia siguiendo un claro sesgo racial [@Cheng_21; @Hurley_15].
 
