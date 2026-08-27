@@ -295,9 +295,24 @@ Toda esta maquinaria (la imagen distorsionada del delito y la glorificación de 
 
 A la demanda social de castigo la llamamos **punitivismo**. Nombramos con este término a la inclinación a tomar el castigo como respuesta por defecto (más penas, más cárcel, condenas más largas, mano dura) y la creencia de que endurecer la respuesta penal siempre es la solución. Es lo que el jurista Jorge Ollero [-@Ollero_21] llama el *penalismo mágico*, la creencia mítica en el poder del castigo para solucionar complejos problemas sociales y políticos.
 
-Aparece, por tanto, aquí otro objeto de estudio de pleno derecho para la criminología dentro de lo que hemos llamado respuestas sociales al delito, porque las actitudes punitivas se miden y se investigan como cualquier otro fenómeno social. Y lo primero que sobresale una vez nos fijamos en el estudio de estas actitudes es que, como veíamos con el miedo, esa demanda no sigue necesariamente la evolución objetiva de las tasas de delito. En muchos países la delincuencia lleva años estable o a la baja y, aun así, las demandas de mayor dureza no han dejado de crecer. Si esa demanda de dureza no se explica solo por el nivel real del delito, hay que preguntarse a qué más responde.
+![Dos formas de ser punitivo: encarcelar a más gente o encarcelarla más tiempo. 
+Elaboración propia a partir de la European Social Survey, ronda 5 (2010), 
+variables `stcbg2t` y `tmprs`. Datos ponderados.](images/punitivismo-ess-2010.png){#fig-punitivismo-ess width="100%" fig-alt="Diagrama de dispersión con 27 países. Eje horizontal: porcentaje que prefiere prisión. Eje vertical: porcentaje que pide tres años o más entre quienes eligen prisión. España aparece destacada en rojo, por encima de la media en el primer eje y por debajo en el segundo."}
+
+Aparece, por tanto, aquí otro objeto de estudio de pleno derecho para la criminología dentro de lo que hemos llamado respuestas sociales al delito, porque las actitudes punitivas se miden y se investigan como cualquier otro fenómeno social. 
+
+Y lo primero que sobresale una vez nos fijamos en el estudio de estas actitudes es que, como veíamos con el miedo, esa demanda no sigue necesariamente la evolución objetiva de las tasas de delito. En muchos países la delincuencia lleva años estable o a la baja y, aun así, las demandas de mayor dureza no han dejado de crecer. Si esa demanda de dureza no se explica solo por el nivel real del delito, hay que preguntarse a qué más responde.
+
+![Donde la ciudadanía pide penas más largas hay más gente en prisión, pero España se sale 
+de la pauta. Elaboración propia a partir de la European Social Survey, ronda 5 (2010), 
+y del Consejo de Europa, SPACE I 2010, tabla 1.](images/opinion-vs-prision-2010_1.png){#fig-opinion-prision width="100%" fig-alt="Diagrama de dispersión de 25 países. Eje horizontal: población reclusa por cien mil habitantes en 2010. Eje vertical: porcentaje que pediría tres años o más de prisión. La nube sigue una tendencia creciente y España, destacada en rojo, queda claramente por debajo de la línea."}
 
 Parte de la respuesta ya la conocemos, y se puede deducir de las cuestiones que hemos introducido en las secciones anteriores de este capítulo, el miedo que no nace del riesgo y el pánico que fabrican los medios. Pero la investigación sobre actitudes punitivas apunta a algo más de fondo. Cuando Tyler y Boeckmann [-@Tyler_97] se preguntaron por qué la gente quiere castigar a quien rompe las reglas o viola la ley, encontraron que el mecanismo principal no era el miedo a ser víctima ni el cálculo racional sobre la peligrosidad, sino la percepción de que la sociedad se descompone, de que se pierden la moral compartida y la disciplina social. Castigar es, en buena medida, una forma de reafirmar unos valores que se sienten amenazados. Es el mismo malestar que veíamos que se escondía bajo el miedo expresivo, pero ahora transformado en exigencia de mano dura.
+
+![Cuánta gente encierra cada país de más o de menos respecto a lo que pediría su ciudadanía. 
+Residuos de una regresión de la tasa de población reclusa sobre la severidad de la opinión. 
+Elaboración propia a partir de la European Social Survey, ronda 5 (2010), y del Consejo de 
+Europa, SPACE I 2010.](images/residuos-prision-opinion-2010.png){#fig-residuos width="100%" fig-alt="Gráfico de barras divergentes con 25 países ordenados por residuo. Estonia, Ucrania, Polonia, Lituania y España encierran más de lo esperado; Portugal, Eslovenia y Grecia, mucho menos."}
 
 Esa raíz es más moral y emocional que calculadora. Castigamos desde intuiciones de justicia y de merecimiento antes que desde un cálculo sobre la disuasión [@Darley_09; @Silver_17], desde valores de autoridad y respeto al orden [@GerberJackson_16], y desde la emoción misma que el delito despierta, un ingrediente durante mucho tiempo desatendido [@Hartnagel_12]. No pedimos más castigo porque haya más delito, sino porque sentimos (no necesariamente de forma fundada) que las bases morales de la sociedad se encuentran bajo asedio.
 
