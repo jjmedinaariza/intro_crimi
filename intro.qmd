@@ -16,11 +16,13 @@
 
 ## Plan de trabajo
 
-El plan es intentar tener borradores preliminares del capítulo sobre concepto, delincuentes, delito, respuestas estatales, clase social, y política antes de finalizar el 2025.
+En la actualidad hay borradores preliminares de los capitulos cuya autoría corresponde a Juanjo Medina. Faltaría el capítulo de prevención, el 15 (no estará concluido hasta el 2027). Los capítulos que están siendo realizados por colaboradores estarán colgados en red a finales de septiembre o principios de octubre del 2026 en formato borrador. No obstante, estos aparecerán en versión más cruda, en el sentido de que no contendrán imágenes ni notas de clasificación como las que discutimos más adelante. Estos contenidos se irán incorporando a estos capítulos a lo largo del 2027.
 
-Nuestra aspiración es tener la mayor parte del volumen terminado en septiembre del 2026, listo para ser usado en el primer semestre del curso 2026/2027, aunque es posible que algún capítulo se retrase hasta finales del 2026.
+Todo lo que está colgado ya en red es "utilizable". Se puede emplear como apuntes de clase y como manual de lectura para el alumnado. No obstante, es nuestra intención seguir limando contenidos y trabajando en la edición de estos materiales a lo largo del curso 2026-2027. 
 
-Estamos en proceso de garantizar el uso de todas las imágenes empleadas. Algunas de ellas no presentan problemas, para el uso legítimo de otras aún estamos en fase de tramitar los permisos necesarios.
+Nuestra aspiración es tener el primer borrador final, con correcciones y control editorial terminado, para septiembre del 2027. En esa fecha también es nuestra intención renderizar el libro en formato pdf para que quien quiera pueda descararselo e imprimirlo. La versión en PDF no incluirá imágenes fotográficas para facilitar la impresión.
+
+Estamos en proceso de garantizar el uso de todas las imágenes empleadas. Algunas de ellas no presentan problemas, para el uso legítimo de otras aún estamos en fase de tramitar los permisos necesarios o de verificar los términos del copyright.
 
 La apariencia de las imágenes también es algo que tenemos que optimizar. Somos conscientes de que su apariencia varía dependiendo de si se emplea un teléfono u otro tipo de dispositivo. Para poder corregir esto tenemos que programar esta parte del libro directamente en *html* y esto es algo un poco más trabajoso que solamente haremos más adelante.
 
@@ -32,13 +34,7 @@ Uno pensaría que la introducción a la criminología, una asignatura generalmen
 
 Quitando manuales ya muy viejunos, en España si eres profesor de una introducción a la criminología tienes básicamente dos opciones: los principios de criminología de @Redondo_23 o la introducción de @Larrauri_20 . Por más que estos dos volumenes tienen muchas virtudes a nosotras como docentes nos plantean una serie de limitaciones.
 
-::: {layout-ncol="2"}
-![](images/introduccion.png){width="40%"}
-
-![](images/larrauri.jpeg){width="40%"}
-
-Elena Larrauri y su manual
-:::
+![Introducción a la criminología de Elena Larrauri](images/introduccion.png){width="40%"}
 
 El manual de @Larrauri_20 aspira a dar una introducción moderna y ajustada al hecho de que esta suele ser una asignatura del primer semestre de primero. Nuestro principal problema con este manual es que, por más que nos gusta, se nos queda corto, sobre todo si tenemos en cuenta que tiene dos partes, una que puede valer para una introducción a la criminología (con unas cien páginas) y otra que más bien es una introducción al sistema de justicia penal o al control penal (que en numerosos planes de estudios es una asignatura diferente también de primero).
 
