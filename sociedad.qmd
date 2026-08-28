@@ -143,11 +143,28 @@ Para ver de cerca lo que describe Barjola recomendamos la docuserie *El caso Alc
 
 Somos uno de los países más seguros de nuestro entorno (las tasas de delito, y sobre todo las de delito violento, están entre las más bajas de Europa occidental), y aun así la sensación de inseguridad y el ruido público sobre la delincuencia no guardan mucha proporción con ese dato. Y parte de ese ruido es más social que personal. Cuando el CIS pregunta en sus periódicos barómetros de opinión, los españoles tienden a nombrar la inseguridad más como un problema del país que como un problema que les afecte a ellos, un desfase entre el miedo propio y la preocupación social que Navarro y Caro [-@NavarroCaro_15] llaman el "locus de proyección" y que, probablemente, es una forma de capturar esa distinción entre el miedo expresivo y el miedo real que ya hemos visto antes.
 
-El retrato del miedo en España depende en buena medida de como lo midamos. Con la pregunta clásica, la de sentirse segura caminando sola de noche y con los datos más recientes, España quedaría en una posición desahogada dentro de Europa, por debajo de sus vecinos mediterráneos (@fig-ess-noche).
+Veréis que empezamos aludiendo a estudios del CIS que hablan del grado en que los españoles piensan que el delito o la inseguridad ciudadana son un problema. Esto no es exactamente miedo al delito. ¿Por que lo traemos a colación? En parte es porque uno de los problemas que tenemos en España es que la ausencia de una tradición consolidada de encuestas de victimación nacionales implica que no tenemos buenas medidas de miedo al delito y eso hace que los investigadores se hayan agarrado a cualquier indicador social disponible que nos permite aproximarnos a este tema. A ese respecto quienes hacemos criminología hemos usado las susodichas preguntas del CIS y hemos tirado de otras preguntas que se incluyen en encuestas europeas en las que participa España, para así, de forma indirecta, tratar de capturar lo que piensan y sienten los españoles y las españolas sobre estas cuestiones.
 
-![Sensación de seguridad al caminar sola de noche por el propio barrio. Europa, ESS 2023. España, resaltada.](images/ess_seguridad_noche.svg){#fig-ess-noche width="100%"}
+Entre ellas ha sido particularmente útil la *Encuesta Social Europea*, que se repite cada dos años, y nos permite retrotraernos a comienzos del actual milenio. Gracias a esta encuesta sabemos que en España vivir en un entorno seguro importa mucho más que en el resto de Europa, y eso 
+no ha cambiado en veinte años.
 
-Pero ya hemos señalado que esa pregunta capta mal la inquietud de fondo. No es realmente una medida del miedo. Cuando Jackson y Kuha [-@JacksonKuha] aplicaron una medida más sofisticada, que combina cada cuánto se preocupa la gente por el delito y cuánto le afecta esa preocupación, España cambia de grupo y aparece entre los países con más proporción de personas muy preocupadas, cerca de Europa del Este y del Sur (@fig-ess-worry). Conviene tener encuenta que las dos fotos no son del mismo año ni incluyen exactamente los mismos países (corresponden a ediciones distintas de la ESS), por tanto no hay que sobre-interpretar sus diferencias, pero es demasiado aventurado sugerir que al menos parte de las mismas tengan que ver con la distinta forma de preguntar.
+![Vivir en un entorno seguro importa en España mucho más que en el resto de Europa, y eso 
+no ha cambiado en veinte años. Elaboración propia a partir de la European Social Survey, 
+olas 1 a 11 (2002-2023). Datos ponderados.](images/entorno-seguro-ess.png){#fig-entorno-seguro width="100%" fig-alt="Gráfico de líneas de 2002 a 2023 con una línea por país. España, en rojo, se mantiene entre el 71 % y el 81 %, muy por encima de la mediana de los países, que oscila entre el 61 % y el 67 %."}
+
+También sabemos que quienes vivimos en España otorgamos una especial relevancia al Estado para que actué con fortaleza y desarrolle políticas que garanticen nuestra seguridad.
+
+![Durante veinte años, España ha sido uno de los países donde más gente reclama un Estado 
+que garantice su seguridad. Elaboración propia a partir de la European Social Survey, 
+olas 1 a 11 (2002-2023). Datos ponderados.](images/estado-fuerte-ess_2.png){#fig-estado-fuerte width="100%" fig-alt="Gráfico de líneas de 2002 a 2023 con una línea por país. España, en rojo, se mantiene entre el 70 % y el 80 % durante dos décadas y converge en 2023 con la mediana de los países, que sube hasta el 68 %."}
+
+Conviene entender que aquí lo que se mide es la importancia que se concede a la seguridad como valor personal, *no el miedo al delito ni la percepción de riesgo*. Un país puede valorar mucho la seguridad y sentirse seguro. Frente a ello el retrato del miedo en España depende en buena medida de como lo midamos. Con la pregunta clásica, la de sentirse segura caminando sola de noche y con los datos más recientes, España quedaría en una posición desahogada dentro de Europa, muy cercana al promedio europeo durante 20 años.
+
+![El miedo a caminar solo de noche por el propio barrio ha caído en toda Europa, y en esto 
+España no se distingue del resto. Elaboración propia a partir de la European Social Survey, 
+olas 1 a 11 (2002-2023). Datos ponderados.](images/inseguridad-noche-ess.png){#fig-inseguridad-noche width="100%" fig-alt="Gráfico de líneas de 2002 a 2023 con una línea por país. España, en rojo, sigue de cerca la mediana de los países durante toda la serie, bajando del 26,7 % al 17,3 %."}
+
+Pero ya hemos señalado que esa pregunta capta mal la inquietud de fondo. No es realmente una medida del miedo. Cuando Jackson y Kuha [-@JacksonKuha] aplicaron una medida más sofisticada, que combina cada cuánto se preocupa la gente por el delito y cuánto le afecta esa preocupación, España cambia de grupo y aparece entre los países con más proporción de personas muy preocupadas, cerca de Europa del Este y del Sur (@fig-ess-worry). No es demasiado aventurado sugerir que al menos parte de las diferencias tengan que ver con la distinta forma de preguntar.
 
 ![Preocupación por el delito según la clasificación de Jackson y Kuha por frecuencia e impacto. Europa, ESS 2006. España, resaltada.](images/ess_preocupacion_jackson.svg){#fig-ess-worry width="100%"}
 
