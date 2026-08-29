@@ -16,11 +16,21 @@
 
 ## Plan de trabajo
 
-En la actualidad hay borradores preliminares de los capitulos cuya autoría corresponde a Juanjo Medina. Faltaría el capítulo de prevención, el 15 (no estará concluido hasta el 2027). Los capítulos que están siendo realizados por colaboradores estarán colgados en red a finales de septiembre o principios de octubre del 2026 en formato borrador. No obstante, estos aparecerán en versión más cruda, en el sentido de que no contendrán imágenes ni notas de clasificación como las que discutimos más adelante. Estos contenidos se irán incorporando a estos capítulos a lo largo del 2027.
+En la actualidad hay borradores preliminares de los capitulos cuya autoría corresponde a Juanjo Medina. Faltaría el capítulo de prevención, el 2 y el 15 (no estarán concluido hasta el 2027). Los capítulos que están siendo realizados por colaboradores estarán colgados en red a finales de septiembre o principios de octubre del 2026 en formato borrador. No obstante, estos aparecerán en versión más cruda, en el sentido de que no contendrán imágenes ni notas de clasificación como las que discutimos más adelante. Estos contenidos se irán incorporando a estos capítulos a lo largo del 2027.
 
-Todo lo que está colgado ya en red es "utilizable". Se puede emplear como apuntes de clase y como manual de lectura para el alumnado. No obstante, es nuestra intención seguir limando contenidos y trabajando en la edición de estos materiales a lo largo del curso 2026-2027. 
+Todo lo que está colgado ya en red es "utilizable". Se puede emplear como apuntes de clase y como manual de lectura para el alumnado. No obstante, es nuestra intención seguir limando contenidos y trabajando en la edición de estos materiales a lo largo del curso 2026-2027.
 
-Nuestra aspiración es tener el primer borrador final, con correcciones y control editorial terminado, para septiembre del 2027. En esa fecha también es nuestra intención renderizar el libro en formato pdf para que quien quiera pueda descararselo e imprimirlo. La versión en PDF no incluirá imágenes fotográficas para facilitar la impresión.
+Nuestra aspiración es tener el primer borrador final, con correcciones y control editorial terminado, para septiembre del 2027. En esa fecha también es nuestra intención renderizar el libro en formato PDF para que quien quiera pueda descargarselo e imprimirlo. La versión en PDF no incluirá imágenes fotográficas para facilitar la impresión. Teniendo en cuenta la extensión promedio de los capítulos ya colgados y lo que aún falta por llegar, la versión en PDF es probable que supere las 600 páginas.
+
+## Advertencias para lectores/as
+
+El texto aspira a estar escrito en un tono cercano y directo siguiendo las recomendaciones de Howard Becker [-@Becker_20] al respecto. No obstante conviene hacer unos comentarios al respecto:
+
+- 25 años viviendo en la anglosfera le han hecho mucha pupa a mi capacidad para escribir un castellano correcto. Es probable que se aprecien lo que una compañera cariñósamente califica "juanjadas": construcciones gramaticales raras, palabras castellanas inventadas, giros estilísticos o expresiones que suenan como traducciones un poco Spanglish. Soy de quienes escriben "vomitándolo" todo primero, dando saltos cuando me quedo atascado, y preocupándome por la calidad de la expresión después, no de quienes no ponen algo en papel hasta que han encontrado la forma optima de expresarlo. De ahí que buena parte del trabajo pendiente sea seguir limando este tipo de cosas durante la fase de control editorial.
+
+- El manual lleva más de año y medio en preparación. Se ha ido escribiendo por capítulos y hay secciones nuevas en capítulos que se escribieron hace tiempo. Es difícil en ese contexto mantener el mismo registro. A veces se me va la olla y escribo en un tono mas elevado, formal, abstracto, pomposo o como lo queramos llamar. En otras me pasa lo contrario y escribo en un tono excesivamente coloquial. Esta es otra de las tareas pendientes del trabajo editorial.
+
+- Algunos capítulos y/o secciones me han salido probablemente más largas de lo que deseaba. Aún no hemos testado el manual al completo con alumnos. Es probable que recortemos algunas partes durante el proceso editorial. En todo caso, tampoco pretendemos que el docente use todos los capítulos de todo el manual. Que cada cuál use lo que le parezca conveniente. En ese sentido preferimos ofrecer de más que quedarnos cortos y que, en función de las limitaciones locales de los planes de estudios en cada universidad, uséis aquellas partes que si no quedarían huérfanas en la formación de vuestras alumnas y alumnos.
 
 Estamos en proceso de garantizar el uso de todas las imágenes empleadas. Algunas de ellas no presentan problemas, para el uso legítimo de otras aún estamos en fase de tramitar los permisos necesarios o de verificar los términos del copyright.
 
@@ -38,7 +48,7 @@ Quitando manuales ya muy viejunos, en España si eres profesor de una introducci
 
 El manual de @Larrauri_20 aspira a dar una introducción moderna y ajustada al hecho de que esta suele ser una asignatura del primer semestre de primero. Es un muy buen manual y escrito en un estilo ameno. Nuestro principal problema con este manual es que, por más que nos gusta, se nos queda corto, sobre todo si tenemos en cuenta que tiene dos partes, una que puede valer para una introducción a la criminología (con unas cien páginas) y otra que más bien es una introducción al sistema de justicia penal o al control penal (que en numerosos planes de estudios es una asignatura diferente también de primero).
 
-![Principios de Criminología de Santiago Redondo y Vicente Garrido ](images/principios.png){width="40%"}
+![Principios de Criminología de Santiago Redondo y Vicente Garrido](images/principios.png){width="40%"}
 
 Con más de 800 páginas los Principios de Criminología de Santiago Redondo y Vicente Garrido no es precisamente un libro corto. Ha visto ya varias re-ediciones y no nos cabe duda de que es un buen libro que el alumnado de criminología debería consultar. Nuestro problema con este manual es que una parte muy notable del mismo es más bien un manual para las asignaturas de teoría criminológica y la otra parte también muy notable lo es para asignaturas de lo que se suele llamar en los grados *Formas especiales de criminalidad*. Por tanto, lo que queda del manual para una introducción a la criminología es más restringido de lo que esas 800 y pico páginas pueden sugerir.
 
@@ -50,7 +60,7 @@ Este libro además aspira a ser gratuito y de código abierto, además de dinám
 
 [^intro-1]: Para una discusión del concepto del bien común aplicado a la publicación académica ver @Moore_25.
 
-Una de las ventajas de publicar en este formato digital y susceptible al cambio continuo es que probablemente se ira renovando y modificando de una forma más contínua que si fuera un libro de texto al uso. Su versión digital tendrá este carácter dinámico más flexible y abierto. Una vez estemos satisfechos con un primer borrador final (estimamos que septiembre del 2027) generaremos un enlace para que quien quiera pueda descargarse e imprimir este texto en formato pdf. 
+Una de las ventajas de publicar en este formato digital y susceptible al cambio continuo es que probablemente se ira renovando y modificando de una forma más contínua que si fuera un libro de texto al uso. Su versión digital tendrá este carácter dinámico más flexible y abierto. Una vez estemos satisfechos con un primer borrador final (estimamos que septiembre del 2027) generaremos un enlace para que quien quiera pueda descargarse e imprimir este texto en formato pdf.
 
 La versión en pdf probablemente solamente la actualizaremos de forma anual, por lo que es posible que en ocasiones se puedan apreciar algunas diferencias entre la versión digital y la versión susceptible de impresión como fichero pdf.
 
@@ -92,7 +102,7 @@ Somos críticos de la forma en que estas herramientas se están empleando y cons
 
 - Algunos de los gráficos generados inicialmente en R y por conveniencia y rapidez fueron pasados a Claude para que los renderizara conforme a un estilo visual adecuado para este manual.
 
-- Para generar bibliografía sobre determinados temas usamos consensus y elicit. Aunque en relación con ningún tema o cuestión concreta fueron las únicas herramientas que empleamos. También usamos para todo el proceso de documentación nuestro propio conocimiento de las materias y formas tradicionales de buscar bibliografía. 
+- Para generar bibliografía sobre determinados temas usamos consensus y elicit. Aunque en relación con ningún tema o cuestión concreta fueron las únicas herramientas que empleamos. También usamos para todo el proceso de documentación nuestro propio conocimiento de las materias y formas tradicionales de buscar bibliografía.
 
 - No soy experto en css. De forma que para modificar algunos aspectos visuales de esta página web he tenido que consultar con Claude como modificar el código, por ejemplo, a la hora de identificar como modificar el codigo css para que los fondos de los recuadros descritos en la sección anterior fueran de distinto color.
 
