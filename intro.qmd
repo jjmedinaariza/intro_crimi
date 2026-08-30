@@ -158,7 +158,9 @@ Somos críticas de la forma en que estas herramientas se están empleando y cons
 
 - Algunos de los gráficos generados inicialmente en R y por conveniencia y rapidez fueron pasados a Claude para que los renderizara conforme a un estilo visual adecuado para este manual.
 
-- Para generar bibliografía sobre determinados temas usamos consensus y elicit. Aunque en relación con ningún tema o cuestión concreta fueron las únicas herramientas que empleamos. También usamos para todo el proceso de documentación nuestro propio conocimiento de las materias y formas tradicionales de buscar bibliografía.
+- Algunas imágenes fueron editadas y montadas con la ayuda de Claude. Por ejemplo, cuando insertamos varias portadas de libros de forma conjunta enviamos un prompt para que las imágenes que habíamos conseguido estuvieran montadas en un solo png.
+
+- Para generar bibliografía sobre determinados temas usamos *consensus* y *elicit*. Aunque en relación con ningún tema o cuestión concreta fueron las únicas herramientas que empleamos. También usamos para todo el proceso de documentación nuestro propio conocimiento de las materias y formas tradicionales de buscar bibliografía.
 
 - Hemos utilizado una IA para verificar que todos los capítulos usan de forma consistente las convenciones sobre lenguaje no sexista que hemos señalado y para identificar aquellos puntos donde era necesario hacer algún cambio.
 
