@@ -1,11 +1,36 @@
 # Bienvenida {.unnumbered}
 
-Esta es la página web de "Criminología: una introducción". Este es un libro de texto digital en formato abierto y gratuito que está siendo redactado por varios expertos en la materia y que aspira a servir de manual de referencia en las asignaturas de introducción a la criminología que se imparten en los distintos grados universitarios de criminología en España.
+Esta es la página web de "Criminología: una introducción". Este es un libro de texto digital en formato abierto y gratuito que está siendo redactado por un equipo de especialistas en la materia y que aspira a servir de manual de referencia en las asignaturas de introducción a la criminología que se imparten en los distintos grados universitarios de criminología en España.
 
 El libro se distribuye bajo una licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) y ha sido producido usando [Quarto](https://quarto.org/).
 
 ::: {.callout-note appearance="simple"}
-Una licencia Creative Commons solo es válida cuando la aplica la persona o entidad que posee los derechos sobre la obra protegida. Las obras pueden contener componentes (por ejemplo, fotografías, ilustraciones o citas) a los que el titular de los derechos de la obra no puede aplicar la licencia. En última instancia, es responsabilidad del lector evaluar de forma independiente el estado de los derechos de autor de cualquier obra o componente de una obra que utilice, teniendo en cuenta el uso que le vaya a dar
+Una licencia Creative Commons solo es válida cuando la aplica la persona o entidad que posee los derechos sobre la obra protegida. Las obras pueden contener componentes (por ejemplo, fotografías, ilustraciones o citas) a los que el titular de los derechos de la obra no puede aplicar la licencia. En última instancia, es responsabilidad de quien la utilice evaluar de forma independiente el estado de los derechos de autor de cualquier obra o componente de una obra, teniendo en cuenta el uso que le vaya a dar.
 :::
 
 Esta es una página en construcción. El libro, o al menos una parte sustancial del mismo, no estará disponible hasta septiembre del 2026. Si tenéis sugerencias sobre el volumen podéis escribir a jmedina11\@us.es.
+
+## Cómo citar este libro
+
+Este es un texto vivo, que se corrige y amplía de forma continua. Por eso la cita incluye la fecha de la versión consultada: dos personas que citen "el manual" en momentos distintos pueden no estar citando exactamente lo mismo. En formato APA (7ª edición):
+
+> Medina, J. y Arenas, L. (eds.). (2026). *Criminología: una introducción* (versión de agosto de 2026). Universidad de Sevilla. https://jjmedinaariza.github.io/intro_crimi/
+
+Y en BibTeX, para quienes trabajéis con gestores bibliográficos:
+
+``` bibtex
+@book{MedinaArenas_26,
+  editor    = {Medina, Juanjo and Arenas, Lorea},
+  title     = {Criminolog{\'i}a: una introducci{\'o}n},
+  year      = {2026},
+  version   = {agosto de 2026},
+  publisher = {Universidad de Sevilla},
+  url       = {https://jjmedinaariza.github.io/intro_crimi/}
+}
+```
+
+Si lo que queréis citar es un capítulo concreto, y no el volumen entero, conviene atribuirlo a su autoría específica, que aparece indicada al principio de cada uno de ellos:
+
+> Bartolomé, R. (2026). Género y la mirada criminológica. En J. Medina y L. Arenas (eds.), *Criminología: una introducción* (versión de agosto de 2026). Universidad de Sevilla. https://jjmedinaariza.github.io/intro_crimi/
+
+Próximamente depositaremos el volumen en [Zenodo](https://zenodo.org/) y en el repositorio [CrimRxiv](https://www.crimrxiv.com/), lo que nos permitirá ofrecer un DOI estable y citable para cada versión archivada. Cuando esté disponible actualizaremos esta página, y os recomendamos que uséis el DOI con preferencia sobre la dirección web.

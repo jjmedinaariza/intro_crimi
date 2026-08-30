@@ -21,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -276,7 +311,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
-  <li><a href="#bienvenida" id="toc-bienvenida" class="nav-link active" data-scroll-target="#bienvenida">Bienvenida</a></li>
+  <li><a href="#bienvenida" id="toc-bienvenida" class="nav-link active" data-scroll-target="#bienvenida">Bienvenida</a>
+  <ul class="collapse">
+  <li><a href="#cómo-citar-este-libro" id="toc-cómo-citar-este-libro" class="nav-link" data-scroll-target="#cómo-citar-este-libro">Cómo citar este libro</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -317,7 +355,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="bienvenida" class="level1 unnumbered">
 <h1 class="unnumbered">Bienvenida</h1><p><img src="images/amber_kipp_2.png" title="Criminología: una introducción" class="quarto-cover-image nolightbox img-fluid"></p>
-<p>Esta es la página web de “Criminología: una introducción”. Este es un libro de texto digital en formato abierto y gratuito que está siendo redactado por varios expertos en la materia y que aspira a servir de manual de referencia en las asignaturas de introducción a la criminología que se imparten en los distintos grados universitarios de criminología en España.</p>
+<p>Esta es la página web de “Criminología: una introducción”. Este es un libro de texto digital en formato abierto y gratuito que está siendo redactado por un equipo de especialistas en la materia y que aspira a servir de manual de referencia en las asignaturas de introducción a la criminología que se imparten en los distintos grados universitarios de criminología en España.</p>
 <p>El libro se distribuye bajo una licencia <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> y ha sido producido usando <a href="https://quarto.org/">Quarto</a>.</p>
 <div class="callout callout-style-simple callout-note">
 <div class="callout-body d-flex">
@@ -325,13 +363,34 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-body-container">
-<p>Una licencia Creative Commons solo es válida cuando la aplica la persona o entidad que posee los derechos sobre la obra protegida. Las obras pueden contener componentes (por ejemplo, fotografías, ilustraciones o citas) a los que el titular de los derechos de la obra no puede aplicar la licencia. En última instancia, es responsabilidad del lector evaluar de forma independiente el estado de los derechos de autor de cualquier obra o componente de una obra que utilice, teniendo en cuenta el uso que le vaya a dar</p>
+<p>Una licencia Creative Commons solo es válida cuando la aplica la persona o entidad que posee los derechos sobre la obra protegida. Las obras pueden contener componentes (por ejemplo, fotografías, ilustraciones o citas) a los que el titular de los derechos de la obra no puede aplicar la licencia. En última instancia, es responsabilidad de quien la utilice evaluar de forma independiente el estado de los derechos de autor de cualquier obra o componente de una obra, teniendo en cuenta el uso que le vaya a dar.</p>
 </div>
 </div>
 </div>
 <p>Esta es una página en construcción. El libro, o al menos una parte sustancial del mismo, no estará disponible hasta septiembre del 2026. Si tenéis sugerencias sobre el volumen podéis escribir a jmedina11@us.es.</p>
+<section id="cómo-citar-este-libro" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-citar-este-libro">Cómo citar este libro</h2>
+<p>Este es un texto vivo, que se corrige y amplía de forma continua. Por eso la cita incluye la fecha de la versión consultada: dos personas que citen “el manual” en momentos distintos pueden no estar citando exactamente lo mismo. En formato APA (7ª edición):</p>
+<blockquote class="blockquote">
+<p>Medina, J. y Arenas, L. (eds.). (2026). <em>Criminología: una introducción</em> (versión de agosto de 2026). Universidad de Sevilla. https://jjmedinaariza.github.io/intro_crimi/</p>
+</blockquote>
+<p>Y en BibTeX, para quienes trabajéis con gestores bibliográficos:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@book</span>{<span class="ot">MedinaArenas_26</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">editor</span>    = {Medina, Juanjo and Arenas, Lorea},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Criminolog{<span class="ch">\'</span>i}a: una introducci{<span class="ch">\'</span>o}n},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2026},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">version</span>   = {agosto de 2026},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span> = {Universidad de Sevilla},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>       = {https://jjmedinaariza.github.io/intro_crimi/}</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Si lo que queréis citar es un capítulo concreto, y no el volumen entero, conviene atribuirlo a su autoría específica, que aparece indicada al principio de cada uno de ellos:</p>
+<blockquote class="blockquote">
+<p>Bartolomé, R. (2026). Género y la mirada criminológica. En J. Medina y L. Arenas (eds.), <em>Criminología: una introducción</em> (versión de agosto de 2026). Universidad de Sevilla. https://jjmedinaariza.github.io/intro_crimi/</p>
+</blockquote>
+<p>Próximamente depositaremos el volumen en <a href="https://zenodo.org/">Zenodo</a> y en el repositorio <a href="https://www.crimrxiv.com/">CrimRxiv</a>, lo que nos permitirá ofrecer un DOI estable y citable para cada versión archivada. Cuando esté disponible actualizaremos esta página, y os recomendamos que uséis el DOI con preferencia sobre la dirección web.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
