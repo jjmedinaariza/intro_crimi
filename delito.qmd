@@ -19,7 +19,7 @@ Como vamos a ver es algo un poco más complicado. Ya a principios del siglo XX s
 
 Para @Tappan_47 la criminología tenía que centrar su mirada en los actos definidos como delitos por la legislación penal cuando ya había una persona acusada y sancionada penalmente por el Estado, mientras que @Sutherland_49 usaba una definición más sociológica y ampliada a considerar infracciones legales no necesariamente constitutivas de ilícitos penales.
 
-El contexto de la discusión fue la introducción del concepto de **delincuencia de cuello blanco** propuesta por @Sutherland_49, y al que retornaremos en capítulos posteriores, pese a que por aquel tiempo las infracciones que el denominaba como tal no eran infracciones penales. Confundiendo el estatus legal con la conveniencia científica o metodológica, @Tappan_47 argumentaba lo siguiente:
+El contexto de la discusión fue la introducción del concepto de **delincuencia de cuello blanco** propuesto por @Sutherland_40, y al que retornaremos en el capítulo 10, pese a que muchas de las infracciones que él denominaba así, aun estando prohibidas por la ley, rara vez se tramitaban por la vía penal, sino ante organismos administrativos y jurisdicciones civiles. Confundiendo el estatus legal con la conveniencia científica o metodológica, @Tappan_47 le replicaba lo siguiente:
 
 > "Consideramos que el «delincuente de cuello blanco», el infractor de las normas de conducta y la personalidad antisocial no son delincuentes en ningún sentido significativo para el científico social, a menos que haya infringido una ley penal. No podemos considerarlo como tal a menos que haya sido debidamente condenado. Puede ser un grosero, un pecador, un leproso moral o el diablo encarnado, pero no se convierte en delincuente por los insultos sociológicos a menos que la autoridad política constituida diga que lo es." [@Tappan_47, p. 97]
 
@@ -141,13 +141,11 @@ Nada de esto invalida las observaciones de Felson o de Gottfredson y Hirschi: pa
 
 El análisis de las variaciones temporales y espaciales, el dónde y el cuándo, de la delincuencia han jugado un papel central en la práctica de la criminología científica. La llamada escuela de la **estadística moral** inauguró este tipo de estudios y aproximaciones empíricas al delito.
 
-Autores como el francés André-Michel Guerry y el belga Adolphe Quetelet, durante el siglo XIX, realizaron contribuciones fundamentales al estudio científico de la delincuencia al introducir métodos estadísticos y análisis empíricos para comprender los patrones delictivos. Su trabajo sentó las bases de la criminología y las ciencias sociales modernas al demostrar que la delincuencia podía estudiarse de forma sistemática utilizando datos y razonamientos estadísticos.
+El *Essai sur la Statistique Morale de la France* (Ensayo sobre la estadística moral de Francia) de Guerry, publicado en 1833 [@Guerry_33], y los trabajos que Quetelet publicaba por esos mismos años [@Quetelet_35] utilizaron tablas y mapas temáticos para relacionar las tasas de criminalidad con variables sociales como la alfabetización, la riqueza y la geografía. Ambos se apoyaban en la misma fuente: el *Compte général de l'administration de la justice criminelle*, la primera estadística judicial nacional del mundo, que Francia venía publicando desde 1827. Quetelet era belga, pero su criminología se construyó sobre datos franceses.
 
 ![Mapas del delito en Francia producidos por Guerry](/images/AMGuerry-carte1-low.jpg)
 
-El *Essai sur la Statistique Morale de la France* (Ensayo sobre la estadística moral de Francia) de Guerry, publicado en 1833, y los estudios estadísticos de Quetelet en Bélgica utilizaron tablas y mapas temáticos para relacionar las tasas de criminalidad con variables sociales como la alfabetización, la riqueza y la geografía.
-
-Sus análisis revelaron que las tasas de criminalidad no eran aleatorias, sino que mostraban patrones consistentes en todas las regiones y épocas, lo que sugiere que los factores sociales, y no solo las decisiones individuales, influían en el comportamiento delictivo. Contrariamente a la creencia popular, descubrieron que las tasas de criminalidad solían ser más altas en las zonas más ricas, lo que atribuyeron a las mayores oportunidades para delinquir, más que a la pobreza por sí sola.
+Sus hallazgos desmentían, además, varias de las creencias de la época. Los delitos contra la propiedad eran más frecuentes en el norte rico e industrializado, mientras que los delitos contra las personas se concentraban en el sur más pobre: no había, por tanto, una relación simple entre pobreza y delito. Guerry explicaba la pauta patrimonial por la mayor abundancia de bienes que sustraer allí donde hay riqueza, esto es, por la oportunidad. Tampoco encontraron el efecto pacificador que los reformadores esperaban de la instrucción pública: los departamentos con mayores niveles de alfabetización no registraban menos delincuencia, sino en ocasiones más. Quetelet, por su parte, sostenía que lo determinante no era tanto la pobreza absoluta como la desigualdad y la coexistencia de riqueza y miseria en un mismo territorio.
 
 Las primeras investigaciones de Quetelet demostraron que muchos tipos de delitos siguen patrones estacionales, y que ciertos delitos alcanzan su punto álgido en épocas específicas del año. Por ejemplo, los delitos violentos suelen aumentar durante los meses más cálidos, un patrón que se ha confirmado y ampliado en investigaciones posteriores. Su trabajo demostró que estas regularidades temporales se mantenían estables a lo largo de los años, lo que sugiere que la delincuencia está influenciada por factores sociales y ambientales recurrentes, en lugar de ser puramente aleatoria o deberse únicamente a decisiones individuales.
 
@@ -187,7 +185,45 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 
 - ¿Que impacto tiene el delito en las comunidades y espacios en los que ocurre?
 
-\[TERMINAR CITANDO EL ARTICULO EN PAPERS 67 E INSERTAR ALGUNOS MAPAS DE VIPOLIS\]
+::: {.callout-note appearance="simple"}
+**¿Mapas del delito o mapas de la denuncia?**
+
+La policía llega a conocer los delitos, sobre todo, porque alguien se los cuenta:
+en Inglaterra y Gales, en torno a dos tercios de los delitos registrados llegaron
+a su conocimiento por denuncia de la víctima. La denuncia es, por tanto, el filtro
+decisivo. El despliegue policial también cuenta, pero de forma muy desigual según
+el tipo de delito: resulta determinante en aquellos que solo salen a la luz si la
+policía los busca activamente (tráfico y tenencia de drogas, tenencia de armas,
+desórdenes públicos), y mucho menos en los que dependen de que la víctima acuda a
+comisaría.
+
+El problema para la criminología espacial es que la propensión a denunciar no se
+reparte de forma homogénea por el territorio. @BuilGil_21 estimaron la cifra negra
+para cada municipio y cada barrio de Inglaterra y Gales a partir de la *Crime
+Survey for England and Wales*. Alrededor del 60% de los delitos no llegaban a la
+policía, pero ese porcentaje variaba enormemente de un sitio a otro: la cifra
+negra era mayor en los municipios más pobres, pero también en los más ricos (los
+de renta intermedia eran los que más denunciaban), mayor en núcleos urbanos
+pequeños y periféricos que en las grandes conurbaciones o en el mundo rural, y
+mayor en barrios con más población sin titulación y con menos residentes nacidos
+en el país.
+
+Lo interesante es que los dos extremos de esa curva no responden al mismo
+mecanismo. En los barrios más desfavorecidos, el motivo principal para no
+denunciar es la desconfianza: cuatro de cada diez víctimas que no denunciaron
+creían que la policía no haría nada o que el asunto no le interesaría. En los
+barrios más acomodados domina otro motivo, que el delito era demasiado trivial
+como para molestarse. Existe además un debate abierto sobre el papel de la
+cohesión comunitaria, que para algunos autores reduce la denuncia porque permite
+resolver los conflictos por otras vías [@Baumer_02] y para otros la aumenta,
+porque una comunidad cohesionada coopera más con la policía [@Goudriaan_06;
+@Jackson_13].
+
+La conclusión práctica es la que ya conocéis: los mapas elaborados solo con datos
+policiales miden a la vez dónde ocurre el delito y dónde la gente denuncia.
+Comparar barrios sin tener esto presente puede llevarnos a confundir una cosa con
+la otra.
+:::
 
 ### El análisis temporal del delito
 
