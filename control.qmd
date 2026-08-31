@@ -11,35 +11,73 @@ En este capítulo examinaremos algunos de los autores y las perspectivas que han
 
 Como veremos a lo largo del capítulo, este campo ha vivido transformaciones muy relevantes que son un reflejo de las cambios sociales, políticas y económicos de nuestras sociedades durante los últimos tres siglos.
 
-## La guerra de los 30 años y la Paz de Westfalia
+## La formación del Estado y el monopolio del castigo
 
-Si queremos comprender donde estamos, tenemos que apreciar de donde venimos y eso implica mirar al pasado. En esta sección retrocedemos a eventos que tuvieron lugar durante el siglo XVII para ir entendiendo como surgió lo que hoy comprendemos como el aparato de la justicia penal. En particular, prestamos aquí atención a los acuerdos que pusieron un fin a la guerra de los 30 años que enfrentaron a las casas reales europeas entre 1618 y 1648.
+Si queremos comprender dónde estamos, tenemos que apreciar de dónde venimos. Y una de las cosas que más cuesta ver, precisamente porque hoy nos parece natural, es que el Estado tenga la potestad exclusiva de castigar. Hoy damos por supuesto que en un territorio hay una ley y unos tribunales. Si cometéis un delito en Sevilla o en Lugo, se os aplica el mismo código, con el mismo procedimiento, ante jueces que forman parte de una misma organización jerárquica. Nos parece la definición mínima de lo que es un sistema de justicia. Que sea el Estado (y no la familia de la víctima, ni el señor del lugar, ni la Iglesia, ni el gremio) quien defina qué es delito, quién lo persigue y quién impone la pena, es una situación histórica reciente y en absoluto inevitable. 
 
-La firma de los Tratados de Paz de Westfalia en 1648 marcó un hito en la historia de Europa, no solo por poner fin a la guerra de los treinta años, sino también por sentar las bases del sistema de Estados soberanos que conocemos hoy. Este nuevo orden político tuvo profundas implicaciones en la evolución de los sistemas jurídicos nacionales, incluyendo el sistema de justicia penal.
+En esta sección retrocedemos varios siglos para entender cómo se construyó ese monopolio. Conviene adelantar la conclusión: no fue un acontecimiento, sino una conquista lenta, desigual y muy tardía. Los Estados europeos proclamaron el monopolio del castigo mucho antes de poder ejercerlo de verdad.
 
-![Ratificación de uno de los tratados que se conocen como la Paz de Westfalia por Gerard ter Borch](/images/westfalia.jpg)
+Antes de la consolidación del Estado moderno, Europa estaba organizada bajo un entramado feudal y religioso en el que el poder político y judicial estaba fragmentado. La Iglesia, los señores feudales, las ciudades y las cortes reales compartían y competían por la autoridad sobre territorios y poblaciones. La justicia no era uniforme: coexistían tribunales eclesiásticos, jurisdicciones señoriales y cortes reales, cada una con sus propios criterios de legitimidad y aplicación de la ley.
 
-Antes de Westfalia, Europa estaba organizada bajo un sistema feudal y religioso en el que el poder político y judicial estaba fragmentado. La Iglesia, los señores feudales y el Sacro Imperio Romano Germánico compartían y competían por la autoridad sobre territorios y poblaciones. La justicia no era uniforme; coexistían tribunales eclesiásticos, jurisdicciones señoriales y cortes reales, cada una con diferentes criterios de legitimidad y aplicación de la ley.
+Buena parte de lo que hoy llamaríamos justicia penal ni siquiera pasaba por un tribunal. Como ya vimos en el [capítulo 7](https://intro-criminologia.es/victimas#el-regreso-de-la-v%C3%ADctima), los conflictos se resolvían mediante composición entre familias, arbitraje comunitario o venganza privada regulada. La persecución del delito dependía de la iniciativa de la víctima o de sus allegados, no de un aparato público. Y las penas eran fundamentalmente corporales y pecuniarias: no había prisiones como castigo, ni cuerpos policiales que patrullaran las calles.
 
 ::: {.callout-note appearance="simple"}
-**¿Y por aquí**
+**¿Y por aquí qué pasaba?**
 
-En la Peninsula Ibérica no existía aún España. Teniamos la monarquía hispánica: un conjunto de reinos, señoríos y territorios que compartían un mismo monarca (el rey “de las Españas”), pero cada uno mantenía sus propias leyes, instituciones, monedas y sistemas fiscales. El rey gobernaba cada uno de estos territorios según sus propios fueros y consejos (Consejo de Castilla, de Aragón, de Italia, de Indias, etc.). No existía una administración centralizada ni una identidad nacional común. Los súbditos solían identificarse como castellanos, aragoneses, napolitanos o flamencos, más que como “españoles” en sentido político. No había un único sistema judicial unificado, sino múltiples jurisdicciones que dependían de cada reino, ciudad o señorío. Era un sistema complejo, desigual y fuertemente marcado por el carácter estamental y religioso del Antiguo Régimen. La pena debía servir para atemorizar y escarmentar más que para rehabilitar y las autoridades tenían un gran margen para interpretar la ley y fijar penas.
+En la Península Ibérica no existía aún España. Teníamos la monarquía hispánica: un conjunto de reinos, señoríos y territorios que compartían un mismo monarca (el rey "de las Españas"), pero cada uno mantenía sus propias leyes, instituciones, monedas y sistemas fiscales. El rey gobernaba cada uno de estos territorios según sus propios fueros y consejos (Consejo de Castilla, de Aragón, de Italia, de Indias, etc.). No existía una administración centralizada ni una identidad nacional común. Los súbditos solían identificarse como castellanos, aragoneses, napolitanos o flamencos, más que como "españoles" en sentido político. No había un único sistema judicial unificado, sino múltiples jurisdicciones que dependían de cada reino, ciudad o señorío. Era un sistema complejo, desigual y fuertemente marcado por el carácter estamental y religioso del Antiguo Régimen. La pena debía servir para atemorizar y escarmentar más que para rehabilitar, y las autoridades tenían un gran margen para interpretar la ley y fijar penas.
+
+Los Decretos de Nueva Planta (1707–1716) empezaron a uniformizar la administración, pero la justicia criminal en manos privadas sobrevivió mucho más: los señoríos jurisdiccionales no se abolieron hasta el decreto de las Cortes de Cádiz de 1811, y de forma definitiva hasta 1837. La Inquisición no desapareció hasta 1834. El primer código penal con vigencia efectiva es el de 1848. La Guardia Civil se creó en 1844. Es decir, el Estado no tuvo el monopolio real del castigo hasta bien entrado el siglo XIX.
 :::
 
-Con la Paz de Westfalia, se estableció el principio de soberanía estatal, que otorgaba a cada Estado la autoridad exclusiva sobre su territorio y población, incluyendo la administración de la justicia. Este cambio significó una centralización del poder y una mayor uniformidad en la aplicación de la ley.
+### El monopolio del Estado y su construcción
 
-Uno de los logros más importantes de los tratados de Westfalia fue el reconocimiento formal de la soberanía estatal. Este principio establecía que cada Estado tenía autoridad exclusiva sobre su territorio y asuntos internos, sin interferencia externa. De ahí, que se reconozca este tratado como fundamental en la génesis de los Estados modernos.
+La formulación clásica de lo que estamos describiendo es de Max Weber, que en 1919 definió el Estado como aquella comunidad humana que reivindica con éxito *el monopolio del uso legítimo de la fuerza física* dentro de un territorio determinado [@Weber_19]. Es importante fijarse en dos expresiones: *reivindica* y *con éxito*. Weber no está describiendo un rasgo eterno del poder político, sino un logro histórico concreto que él atribuye al Estado moderno, es decir, al Estado que se consolida en el siglo XIX.
 
-La aparición del Estado moderno tuvo su repercusión en el control del delito. En el ámbito de la justicia penal, esto significó que el Estado asumió el monopolio de la aplicación de la ley y el castigo de los delitos, reemplazando a las autoridades eclesiásticas y feudales que anteriormente compartían esta función.
+¿Cómo se llegó hasta a la aparición de los Estados modernos? Hubo tres procesos paralelos que fueron relevantes.
 
-La centralización del poder permitió la creación de sistemas judiciales más coherentes y uniformes, basados en códigos legales nacionales y procedimientos estandarizados. Esto sentó las bases para el desarrollo del Estado de derecho y la consolidación de sistemas de justicia penal modernos.
+-   La **acumulación** de la fuerza: el Estado fue quedándose con la capacidad material de ejercer violencia, desplazando a los poderes armados privados.
 
-Antes de Westfalia, la justicia penal estaba estrechamente vinculada a la moral religiosa. Los tribunales eclesiásticos juzgaban conductas consideradas pecaminosas, como la herejía o la blasfemia, que a menudo coincidían con delitos penales. Con la Paz de Westfalia y la consagración del principio de soberanía estatal, se inición un largo proceso de secularización del derecho. La administración de la justicia pasó a estar bajo el control exclusivo del Estado, y las leyes tendieron a basarse en principios laicos, en lugar de en doctrinas religiosas.
+-   La **centralización** de la jurisdicción: fue absorbiendo la potestad de juzgar, subordinando o suprimiendo los tribunales que competían con los suyos.
 
-Este cambio permitió una mayor "objetividad" y "coherencia" en la aplicación de la ley, y facilitó la evolución de sistemas de justicia penal que se centraban en la protección del orden social y la seguridad pública, en lugar de en la salvación del alma (aunque el proceso de secularización se prolongó de forma notable durante los siglos venideros).
+-   La **secularización** del fundamento: se cambió aquello que legitimaba el castigo, que dejo de ser lo religioso para pasar a ser secular.
 
-La Paz de Westfalia marcó el nacimiento del Estado moderno, y con él, el surgimiento de un nuevo modo de entender la justicia y el castigo. Al consolidar la soberanía, la territorialidad y la secularización del poder, estableció las condiciones necesarias para que los Estados asumieran el monopolio legítimo de la violencia, crearan sistemas legales unificados y desarrollaran instituciones judiciales racionales. La centralización del poder y la autoridad exclusiva del Estado sobre la ley crearon las condiciones necesarias para que, en el siglo XVIII, pensadores de la Ilustración como Cesare Beccaria y Jeremy Bentham pudieran conceptualizar un sistema penal racional, humano y codificado.
+Ninguno de los tres procesos tiene una fecha clara de nacimiento, y ninguno estaba terminado cuando arranca el siglo XIX.
+
+Con relación al proceso de **acumulación del poder**, dos respuestas complementarias han resultado especialmente influyentes. Norbert Elias, en *El proceso de la civilización* [@Elias_39], describió un largo movimiento en el que las casas reales fueron acumulando dos monopolios entrelazados (el de la violencia y el de los impuestos) a costa de la nobleza guerrera. A medida que el uso privado de la fuerza dejaba de estar disponible, las élites tuvieron que competir por otras vías (la corte, el prestigio, el cálculo político), lo que fue transformando también las formas de comportamiento y de autocontrol.
+
+Charles Tilly [-@Tilly_90] ofreció una versión menos amable del mismo proceso. Su tesis, resumida en una frase célebre, es que "la guerra hizo al Estado y el Estado hizo la guerra": los monarcas necesitaban ejércitos, los ejércitos necesitaban dinero, el dinero exigía burocracia fiscal, y esa burocracia acabó siendo el esqueleto del Estado moderno. Tilly [-@Tilly_85] llega a comparar explícitamente la construcción estatal con el crimen organizado: el Estado ofrece protección frente a una amenaza que en buena medida él mismo genera, y cobra por ello.
+
+Tener la fuerza no es lo mismo que tener la autoridad para juzgar. La segunda transformación consistió en **la centralización**, en que esa autoridad, repartida entre señores, ciudades, Iglesia y tribunales especiales, fue concentrándose en el monarca y más tarde en el Estado. No se procedió tanto suprimiendo tribunales como subordinándolos: permitiendo que sus decisiones se recurrieran ante la justicia real y enviando oficiales del rey a administrar justicia en el territorio. El resultado que hoy nos parece obvio (una sola ley, una sola jurisdicción, una organización judicial única) es muy tardío. La Constitución de Cádiz proclamó en 1812 que "en los negocios comunes, civiles y criminales no habrá más que un solo fuero para toda clase de personas", y a continuación, en los dos artículos siguientes, mantuvo el fuero eclesiástico y el militar. La unidad de fueros no se hizo efectiva hasta el decreto de 6 de diciembre de 1868, y aun así dejó subsistentes esas mismas jurisdicciones [@TomasyValiente_79].
+
+El tercer proceso es **la secularización**: la progresiva separación entre pecado y delito, y entre autoridad religiosa y autoridad jurídica. También es real, pero conviene desconfiar de la versión simplificada según la cual la razón habría desalojado a la fe.
+
+Primero, porque la Iglesia no fue solo un obstáculo para la racionalización jurídica, contribuyó a su origen. El derecho canónico fue el primer sistema jurídico moderno de Occidente (sistemático, escrito, con jerarquía de fuentes y profesionales formados) y de él proceden herramientas que seguimos usando, empezando por la exigencia de intención para imputar responsabilidad, que es una idea teológica antes que jurídica [@Berman_83]. La secularización no consistió tanto en sustituir una técnica religiosa por otra racional como en transferir al Estado un aparato ya construido, con buena parte de sus categorías.
+
+Segundo, porque durante un largo periodo Estado e Iglesia se reforzaron mutuamente en lugar de separarse. Los historiadores lo han descrito como **confesionalización**: tras la Reforma, los poderes políticos usaron la disciplina religiosa como instrumento de gobierno de la población, produciendo lo que Gerhard Oestreich [-@Oestreich_82] llamó **disciplinamiento social** - la regulación minuciosa de la conducta cotidiana, la sobriedad, el trabajo, la sexualidad, el ocio. Reconoceréis aquí un antecedente directo de lo que posteriormente Foucault [@Foucault_86] llamará poder disciplinario, y también del papel que tendrán los cuáqueros, los capellanes y la idea de arrepentimiento en las primeras penitenciarías del siglo XIX. La religión no desaparece del castigo: se instala dentro de él.
+
+Lo que sí cambia, y esto es lo decisivo, es el **fundamento de la autoridad para castigar**. Que la ley obligue porque emana de un pacto entre ciudadanos y no de la voluntad divina es una idea ilustrada, y solo se traduce en derecho positivo con las codificaciones liberales del siglo XIX. La secularización del *contenido* del derecho penal fue todavía más lenta, y en España el retraso es fácil de medir: la Inquisición no se abolió hasta 1834; la confesionalidad del Estado se mantuvo, con interrupciones, hasta la Constitución de 1978; la homosexualidad estuvo penada bajo la Ley de Vagos y Maleantes y la Ley de Peligrosidad y Rehabilitación Social hasta 1979; y el Código Penal vigente sigue castigando el escarnio de los sentimientos religiosos. Cuando hablemos de secularización, por tanto, hablamos de una tendencia a largo plazo.
+
+### Proclamar el monopolio y poder ejercerlo
+
+En este punto conviene desactivar un malentendido muy extendido. Es tentador imaginar un proceso lineal de progreso que vaya de la fragmentación medieval a la centralización estatal y la secularización, y de ahí a un castigo más racional y más humano. La evidencia histórica no permite sostener este relato.
+
+Pieter Spierenburg [@Spierenburg_84] mostró que la consolidación del poder estatal, en un primer momento, hizo el castigo más espectacular y no menos. Las ejecuciones públicas ritualizadas, con su cuidada escenografía, no son un residuo medieval: son un producto del Estado en construcción, que necesitaba exhibir una autoridad que todavía no estaba asentada. Cuanto menos capacidad real tenía el poder para vigilar y detener, más necesitaba que los pocos castigos que imponía fueran memorables.
+
+El caso inglés lo ilustra bien.
+Entre finales del siglo XVII y comienzos del XIX, en pleno afianzamiento del Estado, el número de figuras castigadas con la pena capital pasó de unas cincuenta a más de doscientas: el llamado *Bloody Code* [@Radzinowicz_48].
+Y sin embargo Inglaterra carecía de policía y de ministerio fiscal: la persecución del delito seguía dependiendo de la iniciativa privada de las víctimas [@Hay_75]. Leyes ferozmente severas administradas por un aparato inexistente, con enormes dosis de discrecionalidad y de indulto selectivo. No es casualidad que Foucault abra *Vigilar y castigar* [@Foucault_86] con el suplicio de Damiens en 1757. Elige esa fecha precisamente porque el espectáculo punitivo del Antiguo Régimen seguía plenamente vivo en pleno siglo de las Luces.
+
+Todo lo anterior nos deja en una posición mejor para entender lo que viene. La distinción que propone Michael Mann [@Mann_84] entre dos tipos de poder estatal resulta aquí muy útil:
+
+- El **poder despótico** es la capacidad de las élites estatales para tomar decisiones sin negociarlas con la sociedad. Las monarquías absolutas tenían mucho.
+
+- El **poder infraestructural** es la capacidad real de penetrar en la sociedad y ejecutar esas decisiones sobre el territorio. Las monarquías absolutas apenas tenían ninguno.
+
+Un monarca del siglo XVII podía proclamarse fuente única de la justicia, y muchos lo hicieron. Pero no disponía de policía, ni de prisiones, ni de registros fiables de población, ni de una administración capaz de llegar a la aldea o los entornos rurales. El monopolio del castigo era, en ese momento, una pretensión sin instrumentos.
+
+Los instrumentos llegaron mucho después, y llegaron de forma simultanea: los códigos penales, los cuerpos policiales, las cárceles, los registros de antecedentes, las estadísticas criminales. Todos ellos son creaciones de finales del siglo XVIII y, sobre todo, del XIX.
+
+Por eso las dos secciones siguientes tratan justamente de eso: primero, de cómo los reformadores ilustrados pensaron cómo *debería* ser un sistema penal racional; después, de cómo el siglo XIX construyó las instituciones (la policía y la prisión) que por primera vez hicieron ese sistema materialmente posible. Conviene retener la advertencia de esta sección: que esas instituciones se presentaran como racionales y humanitarias no garantiza que lo fueran, ni que nacieran por esas razones.
 
 ## La llamada Escuela Clásica y la reforma del derecho penal
 
@@ -47,7 +85,7 @@ En los siglos XVII y XVIII, los sistemas de justicia penal en Europa eran fragme
 
 ![Auto de fe de la inquisición pintado por Francisco Goya](/images/goya_1.jpg)
 
-Este contexto mostraba la necesidad de un cambio profundo. La consolidación de Estados soberanos tras Westfalia ofrecía un marco legal uniforme, pero la práctica aún carecía de principios racionales, consistencia y protección de los derechos de los acusados. Era este escenario el que Beccaria y otros pensadores ilustrados criticaron, proponiendo alternativas basadas en la razón, la utilidad social y la proporcionalidad.
+Este contexto mostraba la necesidad de un cambio profundo. La progresiva consolidación de Estados modernos aspiraba a ofrecer un marco legal uniforme, pero la práctica aún carecía de principios racionales, consistencia y protección de los derechos de los acusados. Era este escenario el que Beccaria y otros pensadores ilustrados criticaron, proponiendo alternativas basadas en la razón, la utilidad social y la proporcionalidad.
 
 Estos autores están vinculados al periodo conocido como la Ilustración que eventualmente vendrían ligados a cambios políticos, sociales y económicos importantes (p.ej., la Revolución Francesa de 1789). La Ilustración fue un movimiento humanista filosófico que pensaba que la razón y el conocimiento empírico tenía que sustituir a la fe y la superstición como bases de una sociedad moderna. Los autores asociados a este movimiento intelectural proponían que la base de la comunidad política se debía construir sobre un contrato social entre ciudadanos, clases pudientes y poder político. Los ciudadanos tenían que ceder parte de sus libertades para que el poder político pudiera desarrollar y aplicar las leyes en beneficio del bien común. La autoridad legal debería emanar de este contrato social y no de la teología. Quienes vulnerasen las leyes impuestas por esta autoridad legal, a través del proceso del contrato social, deberían ser castigados para preservar el bien común, pero siempre y cuando este castigo se impusiera de forma razonable. Surge también la idea durante este periodo de la separación de poderes (ejecutivo, legislativo y judicial) que sigue estructurando nuestro ordenamiento constitucional.
 
@@ -65,7 +103,7 @@ En 1765 tras el éxito en Italia fue traducido y reivindicado en francés por au
 
 Muchos autores citan a Beccaria como el padre de una "escuela clásica de criminología" y destacan que al hablar, en su trabajo, del calculo penal del delincuente esta subrayando su capacidad para actuar libremente (tan solo guiado por el coste de costes y beneficios penales). No obstante, esta es una visión muy superficial de sus escritos y probablemente una malinterpretación de sus influencias intelectuales. Beccaria en su texto insiste en que el delincuente y la delincuencia tienen que ser entendidos causalmente en términos de sus circunstancias sociales y materiales (no en términos puramente de calculo racional individualista). Beccaria posiblemente mantenía una concepción de la “agencia humana” que incluía elementos de calculo racional “libre” y de acción “determinada” por las circunstancias sociales [@Beirne_93].
 
-Por tanto, la importancia histórica de Beccaria no reside en haber generado una teoría criminológica sobre el hombre delincuente, sino que radica en que tradujo las condiciones políticas creadas por Westfalia —la soberanía estatal y el monopolio del castigo— en principios jurídicos racionales, creando un marco conceptual para sistemas penales codificados y humanos.
+Por tanto, la importancia histórica de Beccaria no reside en haber generado una teoría criminológica sobre el hombre delincuente, sino que radica en que tradujo las condiciones políticas que se estaban gestando durante aquel periodo —la soberanía estatal y el monopolio del castigo— en principios jurídicos racionales, creando un marco conceptual para sistemas penales codificados y humanos.
 
 ::: {.callout-note appearance="simple"}
 **¿Podemos hablar de una Escuela Clásica de criminología**
@@ -91,21 +129,21 @@ Para Bentham nuestro comportamiento se guía, así, por la búsqueda del placer 
 
 De ello, si el delincuente persigue la obtención de “placer” y evitación de “dolor”, Bentha derivaba que el legislador penal debe tener en cuenta este calculo a la hora de diseñar las sanciones penales. El delito se puede prevenir por medio de sanciones positivas (recompensas) o sanciones negativas (castigos). Para Bentham, el legislador debería seguir cuatro reglas penológicas para calcular la proporción entre delitos y penas:
 
--   El fin de la ley penal es la prevención por tanto el legislador debería asegurarse que el “placer” obtenido por la realización del delito fuera contrarrestado por el “dolor” de la sanción penal.
+- El fin de la ley penal es la prevención por tanto el legislador debería asegurarse que el “placer” obtenido por la realización del delito fuera contrarrestado por el “dolor” de la sanción penal.
 
--   La amenaza de esta sanción, por sí sola, debería ser suficiente para que el delincuente se abstuviera o en todo caso cometiera un delito menor.
+- La amenaza de esta sanción, por sí sola, debería ser suficiente para que el delincuente se abstuviera o en todo caso cometiera un delito menor.
 
--   El castigo no debería ser excesivo si queremos que el delincuente, al delinquir, no vaya más allá de lo que le es estrictamente necesario.
+- El castigo no debería ser excesivo si queremos que el delincuente, al delinquir, no vaya más allá de lo que le es estrictamente necesario.
 
--   Los legisladores deberían tratar de que el castigo penal fuera lo más económico posible.
+- Los legisladores deberían tratar de que el castigo penal fuera lo más económico posible.
 
 Bentham también introdujo el concepto de “panóptico” como modelo de diseño de prisiones orientadas al control eficiente y sostenía que la certeza, prontitud y proporcionalidad del castigo eran más importantes que su severidad extrema. Su enfoque utilitario ofreció una metodología práctica para que los Estados aplicaran la justicia penal de manera eficiente, transparente y orientada al beneficio social.
 
-Bentham, al igual que Beccaria, aprovechó las condiciones creadas por la soberanía estatal post-Westfalia: el monopolio del castigo por parte del Estado permitió que la administración de justicia se diseñara según principios racionales, en lugar de depender de arbitrariedades locales o de la Iglesia. Su trabajo ayudó a consolidar un sistema de justicia penal preventivo y organizado, que se convirtió en un modelo para la modernización legal en Inglaterra y en otros países europeos.
+Bentham, al igual que Beccaria, aprovechó las condiciones políticas que se estaban desarrollando: el monopolio del castigo por parte del Estado permitió que la administración de justicia se diseñara según principios racionales, en lugar de depender de arbitrariedades locales o de la Iglesia. Su trabajo ayudó a consolidar un sistema de justicia penal preventivo y organizado, que se convirtió en un modelo para la modernización legal en Inglaterra y en otros países europeos.
 
 ![Diseño del panóptico de Jeremy Bentham](/images/Panopticon.jpg)
 
-Desde un punto de vista histórico, se puede trazar una línea clara: la Paz de Westfalia estableció el marco político, garantizando soberanía, centralización y secularización; Beccaria proporcionó los principios morales y racionales para un sistema penal humano y predecible; y Bentham ofreció la metodología utilitaria y sistemática para aplicar la justicia de manera eficiente y socialmente beneficiosa. Juntos, estos elementos transformaron la justicia penal: de un sistema fragmentado, arbitrario y frecuentemente cruel, a uno codificado, racional, preventivo y administrado por el Estado moderno.
+Desde un punto de vista histórico conviene no juntarlos demasiado. Beccaria publica en 1764, bajo una monarquía absoluta y en una Italia fragmentada, y lo que aporta son principios morales y racionales de un sistema penal humano y predecible: legalidad, proporcionalidad, publicidad, certeza. Bentham, que lo leyó y lo reconoció como influencia, escribe una generación después y al otro lado de la Revolución Francesa, en una Gran Bretaña en plena industrialización, y aporta otra cosa: los principios utilitarios y una metodología sistemática para aplicar la justicia de manera eficiente y socialmente beneficiosa. Y su intervención no se quedó en la filosofía: en 1798 y 1799 redactó, por encargo del magistrado Patrick Colquhoun, dos proyectos de ley para reorganizar la policía de Londres, de los que solo llegó a aprobarse una versión recortada, la Thames Police Act de 1800. Esos textos permanecieron casi inéditos hasta 2018 [@Jacques_21]. De los instrumentos que empezaban entonces a aparecer, y de lo que su llegada supuso, trata la sección siguiente.
 
 ## La invención de la policía y la prisión
 
@@ -131,15 +169,15 @@ En Inglaterra, sin embargo, el desarrollo fue más tardío. No fue hasta 1829 qu
 
 Sir Robert Peel fue un reformista que quería mejorar la prevención del delito. Tuvo que lidiar con quienes veían en la policía centralizada una amenaza contra la libertad (lo que contribuyó al carácter menos militar de la institución en el Reino Unido). Su creación en 1829 representó un momento de ruptura que cambió el significado del termino policía:
 
--   Hasta entonces había significado la gobernanza de un territorio en todos sus aspectos
+- Hasta entonces había significado la gobernanza de un territorio en todos sus aspectos
 
--   La policía hasta entonces era un sistema autocontenido que poseía todos los atributos para ejercitar la gobernanza (legislativo, regulatorio, judicial, y ejecutivo)
+- La policía hasta entonces era un sistema autocontenido que poseía todos los atributos para ejercitar la gobernanza (legislativo, regulatorio, judicial, y ejecutivo)
 
 En Londres se redujo el significado en dos sentidos:
 
--   No era ya un sistema autocontenido, sino una rama del sistema de justicia penal, que se encargaba de poner a los delincuentes en manos del poder judicial
+- No era ya un sistema autocontenido, sino una rama del sistema de justicia penal, que se encargaba de poner a los delincuentes en manos del poder judicial
 
--   “La policía” empezó a ser el término que se empleaba para designar al conjunto de hombres encargados de hacer labores policiales, que empezaron a estar estrictamente limitadas a la provisión de la seguridad.
+- “La policía” empezó a ser el término que se empleaba para designar al conjunto de hombres encargados de hacer labores policiales, que empezaron a estar estrictamente limitadas a la provisión de la seguridad.
 
 Aunque se presentaba como una institución al servicio de la seguridad general, la policía moderna surgió en un contexto de creciente conflictividad social. La expansión del capitalismo industrial y la urbanización produjeron nuevas formas de pobreza y marginación. Las clases dirigentes comenzaron a ver en la clase trabajadora un peligro potencial para el orden. Así, la policía se convirtió en un instrumento no solo de protección, sino de control de los sectores populares. Su tarea era tanto mantener la “paz” como asegurar las condiciones necesarias para la estabilidad del sistema económico.
 
@@ -147,7 +185,7 @@ Aunque se presentaba como una institución al servicio de la seguridad general, 
 
 En paralelo al desarrollo de la policía, la prisión moderna emergió como resultado de las reformas ilustradas del derecho penal. Como ya hemos visto, hasta el siglo XVIII, el castigo se entendía como un espectáculo público, donde la violencia del soberano se ejercía directamente sobre el cuerpo del condenado. Sin embargo, pensadores como Cesare Beccaria y Jeremy Bentham plantearon que la pena debía ser útil, racional y proporcional. Beccaria rechazó la tortura y la pena de muerte, proponiendo la privación de libertad como una alternativa más humana y eficaz. Bentham, por su parte, diseñó el modelo del Panóptico, una arquitectura carcelaria que permitía la vigilancia total de los presos, simbolizando la transición del poder punitivo al poder disciplinario.
 
-La prisión se convirtió así en el espacio donde el castigo se transformaba en disciplina. Michel @Foucault_75, en su muy influyente *Vigilar y castigar*, describió este cambio como el paso del “suplicio del cuerpo” a la “corrección del alma”. El objetivo ya no era destruir al delincuente, sino reformarlo, moldearlo para adaptarlo a las normas de la sociedad industrial. Este nuevo régimen punitivo coincidió con el ascenso del capitalismo: la prisión servía para encerrar y controlar a quienes no se integraban en la lógica del trabajo asalariado —vagabundos, desempleados, pobres, disidentes—, convirtiéndose en una herramienta de regulación del trabajo y de la moral social. Para @Melossi_80 la cárcel moderna surge como parte integrante del dispositivo disciplinario del capitalismo, destinado a producir sujetos obedientes, disciplinados, útiles para la fábrica (o la economía capitalista), mediante prácticas de segregación, castigo, trabajo, y disciplina.
+La prisión se convirtió así en el espacio donde el castigo se transformaba en disciplina. Michel @Foucault_86, en su muy influyente *Vigilar y castigar*, describió este cambio como el paso del “suplicio del cuerpo” a la “corrección del alma”. El objetivo ya no era destruir al delincuente, sino reformarlo, moldearlo para adaptarlo a las normas de la sociedad industrial. Este nuevo régimen punitivo coincidió con el ascenso del capitalismo: la prisión servía para encerrar y controlar a quienes no se integraban en la lógica del trabajo asalariado —vagabundos, desempleados, pobres, disidentes—, convirtiéndose en una herramienta de regulación del trabajo y de la moral social. Para @Melossi_80 la cárcel moderna surge como parte integrante del dispositivo disciplinario del capitalismo, destinado a producir sujetos obedientes, disciplinados, útiles para la fábrica (o la economía capitalista), mediante prácticas de segregación, castigo, trabajo, y disciplina.
 
 Tanto la policía como la prisión surgieron como instrumentos de control social al servicio del nuevo orden económico y político. La policía actuaba en el espacio público, garantizando la seguridad de la propiedad privada y la disciplina laboral; la prisión actuaba en el espacio cerrado, reformando a los individuos que transgredían las normas del trabajo y la moral.
 
@@ -265,11 +303,11 @@ En sintesis, la emergencia de la teoría del etiquetamiento implicó una transfo
 
 La influencia de la teoría del etiquetamiento no se limitó al plano académico: también inspiró reformas concretas en políticas penales y sociales. Si el castigo y la estigmatización generan más delincuencia, la respuesta debía orientarse hacia la desetiquetación y la reintegración social. Por ejemplo:
 
--   **Programas de "desviación" y justicia juvenil**: buscan evitar que los jóvenes sean formalmente procesados para reducir los efectos del estigma, lo que se consigue a traves de programas que "desvian" a los jóvenes del proceso penal a otro tipo de respuestos menos estigmatizantes.
+- **Programas de "desviación" y justicia juvenil**: buscan evitar que los jóvenes sean formalmente procesados para reducir los efectos del estigma, lo que se consigue a traves de programas que "desvian" a los jóvenes del proceso penal a otro tipo de respuestos menos estigmatizantes.
 
--   **Justicia restaurativa**: se centra en reparar el daño y reconciliar a las partes, condenando el acto pero no a la persona (Braithwaite, 1989).
+- **Justicia restaurativa**: se centra en reparar el daño y reconciliar a las partes, condenando el acto pero no a la persona (Braithwaite, 1989).
 
--   **Despenalización de delitos menores**: pretende reducir la criminalización innecesaria (por ejemplo, el consumo de drogas).
+- **Despenalización de delitos menores**: pretende reducir la criminalización innecesaria (por ejemplo, el consumo de drogas).
 
 Estas políticas reflejan un cambio filosófico profundo: el objetivo no es castigar al delincuente, sino reintegrarlo, reconociendo que las etiquetas sociales pueden ser más dañinas que el delito mismo. Así, el sistema penal contemporáneo se enfrenta al desafío de equilibrar su función de protección social con la necesidad de no reproducir exclusión. El reconocimiento de la influencia institucional en la producción del delito ha llevado a priorizar, al menos en ciertos círculos y a nivel discursivo, políticas de prevención, educación y justicia restaurativa, por encima de las puramente punitivas.
 
