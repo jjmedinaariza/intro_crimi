@@ -266,7 +266,9 @@ La prisión, así, dejó de concebirse como un simple espacio de sufrimiento y s
 
 España no fue ajena a esta transformación. Durante la segunda mitad del siglo XIX, se multiplicaron las reflexiones sobre la “cuestión penitenciaria”, impulsadas tanto por juristas como por filántropos y pensadores sociales. En ese contexto emergió una figura decisiva: Concepción Arenal (1820–1893).
 
-![Imagen de Concepción Arenal](/images/concepcion_arenal.jpg)
+![Concepción Arenal (1820-1893), visitadora de prisiones e inspectora de casas de corrección de mujeres, y la voz más influyente del reformismo penitenciario español del siglo XIX.[^cred-arenal]](images/concepcion_arenal.jpg){#fig-arenal width="40%" fig-alt="Retrato fotográfico en blanco y negro, de busto. Una mujer de edad avanzada mira ligeramente hacia la izquierda del espectador, con expresión seria. Lleva el pelo con raya al medio, recogido hacia atrás y cubriendo las orejas. Viste un traje oscuro de cuello alto con solapas anchas, y sobre el pecho asoma una tela blanca. Tiene los brazos cruzados. El fondo es liso y oscuro."}
+
+[^cred-arenal]: Retrato fotográfico de Concepción Arenal, anterior a 1893. Autoría no identificada. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Concepcion_Arenal_1.jpg).
 
 Concepción Arenal, jurista, escritora y reformadora social, fue una de las voces más influyentes del pensamiento penal español del siglo XIX. Su obra se situó en la encrucijada entre la filantropía cristiana, el humanismo jurídico y el correccionalismo liberal. Arenal criticó duramente la función puramente represiva de las cárceles y defendió un modelo de reeducación moral y reinserción social del delincuente.
 
@@ -327,6 +329,10 @@ El interaccionismo simbólico es una corriente sociológica que explica el compo
 :::
 
 La idea central de estos autores es que la desviación y el delito no son cualidades inherentes a ciertos actos o personas, sino el resultado de un proceso de definición social. Es decir, un comportamiento se convierte en “desviado” o “criminal” no por su naturaleza intrínseca, sino porque la sociedad (a través de sus normas, autoridades e instituciones) lo clasifica como tal.
+
+![Clotilde Adnet, diecinueve años, bordadora. Su ficha policial de enero de 1894 conserva el número, el nombre y las medidas; la palabra que la clasificaba, «anarquista», no está en la cartulina sino en el archivo que la ordena. La etiqueta rara vez se ve en la persona: vive en el sistema que la registra.[^cred-adnet]](images/etiquetamiento.jpg){#fig-ficha-adnet width="45%" fig-alt="Ficha antropométrica policial francesa de 1894. Sobre una cartulina clara va montada una fotografía en tonos sepia: el retrato de busto de una mujer joven que mira de frente a la cámara con expresión seria. Lleva el pelo oscuro recogido, con rizos sobre la frente, y viste un abrigo oscuro de hombros abullonados con un lazo ancho al cuello y un botón redondo en la solapa. Sobre la parte baja de la fotografía está escrito a mano el número 212.629. En el margen inferior de la cartulina, en letra manuscrita, se lee el nombre «Adnet Clotilde», y a la derecha las cifras 160 y 21."}
+
+[^cred-adnet]: Alphonse Bertillon, ficha antropométrica de Clotilde Adnet, registrada el 7 de enero de 1894. The Metropolitan Museum of Art, Nueva York. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adnet._Clotilde._19_ans,_n%C3%A9e_en_d%C3%A9cembre_74_%C3%A0_Argentant_(Orne)._Brodeuse._Anarchiste._Fich%C3%A9e_le_7-1-94._MET_DP289779.jpg).
 
 En su obra *Outsiders* [@Becker_63], Becker clarificaba esta idea:
 
@@ -399,6 +405,10 @@ Bruce @Western_06 evidenció que el encarcelamiento masivo no solo castiga la po
 ### Raza y etnicidad
 
 La investigación de @Blumstein_82 mostró que las diferencias raciales en las tasas de encarcelamiento no pueden explicarse únicamente por variaciones en las tasas delictivas. Posteriormente, @Gelman_07 analizaron más de 125.000 registros de detenciones en Nueva York y concluyeron que las prácticas de stop-and-frisk afectaban de manera desproporcionada a afroamericanos y latinos, incluso en barrios con niveles de criminalidad similares.
+
+![Cartel de búsqueda del FBI, 18 de agosto de 1970. El Estado que Davis analizaba como productor de categorías raciales de criminalidad la fichó a ella, con dos fotografías, la altura, el peso y una casilla de "raza". Fue detenida en octubre de ese año y absuelta de todos los cargos en junio de 1972.[^cred-davis]](images/angeladavis.jpg){#fig-wanted-davis width="45%" fig-alt="Cartel de búsqueda del FBI de 1970. En la cabecera, en letras grandes, «WANTED BY THE FBI», y debajo los cargos: fuga interestatal, asesinato y secuestro. A continuación el nombre, Angela Yvonne Davis, y su número de expediente. En el centro, dos fotografías de una mujer joven negra con peinado afro, tomadas en 1969 y 1970. Bajo ellas, una tabla con la descripción física: edad, fecha y lugar de nacimiento, estatura, peso, complexión, pelo, ojos, ocupación (maestra) y una casilla de raza que usa el término «Negro», habitual en los documentos oficiales estadounidenses de la época. Sigue un párrafo de advertencia que la describe como posiblemente armada y peligrosa, y al pie la firma del director del FBI y la fecha, 18 de agosto de 1970."}
+
+[^cred-davis]: *Wanted by the FBI: Angela Yvonne Davis*, Federal Bureau of Investigation, 18 de agosto de 1970. Obra del gobierno federal de los Estados Unidos. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es) según la ficha de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fbi-wanted-poster-for-angela-davis-august-18-1970-608-900-v0-b41sur0ispef1.webp).
 
 Los estudios de @Epp_14 confirmaron este patrón en múltiples ciudades estadounidenses: las paradas policiales motivadas por “sospecha” reflejan prejuicios raciales más que criterios objetivos. En el ámbito de las sentencias, Cassia @Spohn_00 y Michael @Tonry_95 encontraron que las personas negras e hispanas reciben penas más severas que los acusados blancos, especialmente en delitos de drogas y propiedad.
 
