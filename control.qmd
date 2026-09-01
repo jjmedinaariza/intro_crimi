@@ -200,7 +200,9 @@ Durante el siglo XVIII, las ciudades europeas comenzaron a desarrollar cuerpos s
 
 En Inglaterra, sin embargo, el desarrollo fue más tardío. No fue hasta 1829 que Sir Robert Peel fundó la *Metropolitan Police* de Londres, considerada la primera policía profesional y civil. Su objetivo principal no era la represión abierta, sino la prevención del delito mediante la vigilancia constante y la presencia pública.
 
-![Imagén de los "Peelers", los hombres de Peel, que conformaron la policía metropolitana de Londres](/images/peelers.jpg)
+![Caricatura publicada en mayo de 1829, mientras se tramitaba la ley que crearía la Policía Metropolitana. Wellington y Peel aparecen dibujados como centinelas del ejército: la objeción de la época era que el nuevo cuerpo sería una gendarmería encubierta, incompatible con las libertades inglesas.[^cred-statewatchmen]](images/robertpeel.jpg){#fig-peelers width="55%" fig-alt="Grabado satírico coloreado a mano. Dos hombres de mediana edad, con los rasgos caricaturizados de Wellington y Peel, aparecen de pie y firmes en mitad de una calle, vestidos de granaderos: gorro alto de piel de oso, casaca roja con correajes blancos cruzados y pantalón blanco. Cada uno sujeta un fusil con la bayoneta calada. A la izquierda se ve un muro de prisión rematado con pinchos y una puerta reforzada con clavos; a la derecha, la fachada de una casa de ladrillo. Al pie, el título «State Watchmen. Of 1829»."}
+
+[^cred-statewatchmen]: John Phillips, *State Watchmen. Of 1829*, publicada por John Field, mayo de 1829. British Museum, núm. 1868,0808.9008. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:State_watchmen._Of_1829._(BM_1868,0808.9008).jpg).
 
 Sir Robert Peel fue un reformista que quería mejorar la prevención del delito. Tuvo que lidiar con quienes veían en la policía centralizada una amenaza contra la libertad (lo que contribuyó al carácter menos militar de la institución en el Reino Unido). Su creación en 1829 representó un momento de ruptura que cambió el significado del termino policía [@Brodeur_10]:
 
