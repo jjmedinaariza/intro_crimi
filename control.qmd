@@ -121,7 +121,10 @@ Estos autores están vinculados al periodo conocido como la Ilustración que eve
 
 Cesare Beccaria (1738–1794), filósofo y jurista italiano, es considerado uno de los fundadores del derecho penal moderno. Su obra *Dei delitti e delle pene* (1764) marcó un antes y un después en la conceptualización del castigo y la justicia penal. Beccaria fue influenciado por pensadores como Montesquieu, cuyo análisis de la separación de poderes y la proporcionalidad de las leyes inspiró su visión, y por Rousseau, cuya noción de contrato social fundamentaba la legitimidad de las leyes como expresión de la voluntad colectiva. También se basó en la tradición jurídica romana, que promovía la codificación y racionalización del derecho.
 
-![Cesare Beccaria por Eliseo Sala](/images/Cesare_Beccaria.jpg)
+
+![Retrato de Cesare Beccaria (1738-1794) pintado por Eliseo Sala después de 1864, es decir, setenta años después de la muerte del retratado.[^cred-beccaria]](images/Cesare_Beccaria.jpg){#fig-beccaria width="40%" fig-alt="Retrato al óleo de busto sobre fondo oscuro. Un hombre de mediana edad, con peluca blanca empolvada de bucles laterales, mira ligeramente hacia el espectador. Viste casaca oscura, corbatín blanco y chorrera de encaje sobre el pecho."}
+
+[^cred-beccaria]: Eliseo Sala, retrato de Cesare Beccaria, posterior a 1864. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cesare_Beccaria.jpg).
 
 Beccaria criticó abiertamente la arbitrariedad de los sistemas penales de su tiempo, la tortura, los castigos excesivos y la pena de muerte. Propuso que las leyes fueran claras, públicas y aplicadas de manera uniforme, y que las penas fueran proporcionales a los delitos. Destacó que la función principal del castigo debía ser prevenir futuros delitos, en lugar de satisfacer un sentido de venganza o moralidad religiosa. Además, defendió garantías procesales, a través de juicios rápidos y públicos, limitando la discrecionalidad de jueces y autoridades.
 
