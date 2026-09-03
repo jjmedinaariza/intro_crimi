@@ -188,77 +188,33 @@ La criminología espacial ha estado interesada en entender cuestiones diversas c
 ::: {.callout-note appearance="simple"}
 **¿Mapas del delito o mapas de la denuncia?**
 
-La policía llega a conocer los delitos, sobre todo, porque alguien se los cuenta:
-en Inglaterra y Gales, en torno a dos tercios de los delitos registrados llegaron
-a su conocimiento por denuncia de la víctima. La denuncia es, por tanto, el filtro
-decisivo. El despliegue policial también cuenta, pero de forma muy desigual según
-el tipo de delito: resulta determinante en aquellos que solo salen a la luz si la
-policía los busca activamente (tráfico y tenencia de drogas, tenencia de armas,
-desórdenes públicos), y mucho menos en los que dependen de que la víctima acuda a
-comisaría.
+La policía llega a conocer los delitos, sobre todo, porque alguien se los cuenta: en Inglaterra y Gales, en torno a dos tercios de los delitos registrados llegaron a su conocimiento por denuncia de la víctima. La denuncia es, por tanto, el filtro decisivo. El despliegue policial también cuenta, pero de forma muy desigual según el tipo de delito: resulta determinante en aquellos que solo salen a la luz si la policía los busca activamente (tráfico y tenencia de drogas, tenencia de armas, desórdenes públicos), y mucho menos en los que dependen de que la víctima acuda a comisaría.
 
-El problema para la criminología espacial es que la propensión a denunciar no se
-reparte de forma homogénea por el territorio. @BuilGil_21 estimaron la cifra negra
-para cada municipio y cada barrio de Inglaterra y Gales a partir de la *Crime
-Survey for England and Wales*. Alrededor del 60% de los delitos no llegaban a la
-policía, pero ese porcentaje variaba enormemente de un sitio a otro: la cifra
-negra era mayor en los municipios más pobres, pero también en los más ricos (los
-de renta intermedia eran los que más denunciaban), mayor en núcleos urbanos
-pequeños y periféricos que en las grandes conurbaciones o en el mundo rural, y
-mayor en barrios con más población sin titulación y con menos residentes nacidos
-en el país.
+El problema para la criminología espacial es que la propensión a denunciar no se reparte de forma homogénea por el territorio. @BuilGil_21 estimaron la cifra negra para cada municipio y cada barrio de Inglaterra y Gales a partir de la *Crime Survey for England and Wales*. Alrededor del 60% de los delitos no llegaban a la policía, pero ese porcentaje variaba enormemente de un sitio a otro: la cifra negra era mayor en los municipios más pobres, pero también en los más ricos (los de renta intermedia eran los que más denunciaban), mayor en núcleos urbanos pequeños y periféricos que en las grandes conurbaciones o en el mundo rural, y mayor en barrios con más población sin titulación y con menos residentes nacidos en el país.
 
-Lo interesante es que los dos extremos de esa curva no responden al mismo
-mecanismo. En los barrios más desfavorecidos, el motivo principal para no
-denunciar es la desconfianza: cuatro de cada diez víctimas que no denunciaron
-creían que la policía no haría nada o que el asunto no le interesaría. En los
-barrios más acomodados domina otro motivo, que el delito era demasiado trivial
-como para molestarse. Existe además un debate abierto sobre el papel de la
-cohesión comunitaria, que para algunos autores reduce la denuncia porque permite
-resolver los conflictos por otras vías [@Baumer_02] y para otros la aumenta,
-porque una comunidad cohesionada coopera más con la policía [@Goudriaan_06;
-@Jackson_13].
+Lo interesante es que los dos extremos de esa curva no responden al mismo mecanismo. En los barrios más desfavorecidos, el motivo principal para no denunciar es la desconfianza: cuatro de cada diez víctimas que no denunciaron creían que la policía no haría nada o que el asunto no le interesaría. En los barrios más acomodados domina otro motivo, que el delito era demasiado trivial como para molestarse. Existe además un debate abierto sobre el papel de la cohesión comunitaria, que para algunos autores reduce la denuncia porque permite resolver los conflictos por otras vías [@Baumer_02] y para otros la aumenta, porque una comunidad cohesionada coopera más con la policía [@Goudriaan_06; @Jackson_13].
 
-La conclusión práctica es la que ya conocéis: los mapas elaborados solo con datos
-policiales miden a la vez dónde ocurre el delito y dónde la gente denuncia.
-Comparar barrios sin tener esto presente puede llevarnos a confundir una cosa con
-la otra.
+La conclusión práctica es la que ya conocéis: los mapas elaborados solo con datos policiales miden a la vez dónde ocurre el delito y dónde la gente denuncia. Comparar barrios sin tener esto presente puede llevarnos a confundir una cosa con la otra.
 :::
 
 ### El análisis temporal del delito
 
-Las variaciones temporales en la delincuencia también son un importante objeto de estudio para la criminología. Las investigaciones modernas concluyen sistemáticamente que las tasas de delincuencia fluctúan a lo largo del tiempo, mostrando tanto ciclos estacionales predecibles como patrones temporales más complejos a escala diaria, semanal y mensual. Sin embargo, la intensidad, el momento y las causas de estas variaciones difieren según el tipo de delito, el clima y el contexto local.
+Las variaciones temporales de la delincuencia son también un objeto central de estudio para la criminología. Conviene advertir, eso sí, que bajo esa etiqueta caben tres preguntas muy distintas. Una es la de los **ciclos cortos**: a qué hora y en qué día de la semana se concentran los delitos, algo que se explica sobre todo por el horario social, esto es, por cuándo coinciden en un mismo sitio las personas, los bienes y quienes podrían vigilarlos. Otra es la de los **ciclos estacionales**: si hay meses del año con más delincuencia, y cuánto de esa variación se debe al clima y cuánto a las rutinas que el calendario impone. Y la tercera es la de las **tendencias**: si la delincuencia sube o baja a lo largo de décadas o de siglos, una pregunta que se responde con datos mucho más frágiles y con explicaciones de otra naturaleza. Que los robos se concentren los viernes por la noche y que el homicidio lleve siglos descendiendo en Europa son dos hechos ciertos que no tienen nada que ver el uno con el otro. Los abordaremos en ese orden, de la escala más corta a la más larga. 
 
-::: {.callout-note appearance="simple"}
-**Las tendencias históricas del delito**
-
-Hay un creciente interés por entender cambios en la delincuencia a largo plazo. Por las dificultades de obtener datos fiables sobre otras formas de delincuencia, buena parte de la investigación se ha centrado en estudiar los patrones de la violencia, fundamentalmente en Europa, desde mediados del siglo XVI hasta nuestros días. El trabajo de @Eisner_03 en este ámbito es de obligada lectura. @Eisner_03 [p. 83] observa que:
-
-"se pueden distinguir diferentes trayectorias a largo plazo en la disminución de los homicidios entre las distintas regiones europeas. Sin embargo, los patrones de edad y sexo en los delitos violentos graves han cambiado muy poco a lo largo de varios siglos. La disminución a largo plazo de las tasas de homicidios parece ir acompañada de una disminución desproporcionada de los homicidios entre las élites y de una caída de los conflictos entre hombres en el espacio público. Se han ofrecido diversas explicaciones teóricas para esta disminución a largo plazo, entre ellas los efectos del proceso de civilización, el fortalecimiento de los poderes del Estado, la Reforma protestante y el individualismo moderno, pero la mayoría de las teorías han sido post hoc."
-
-Otros autores han invitado a la cautela en relación con estas interpretaciones. @Aebi_16 [p. 57] señalan que:
-
-"explicar la disminución de la violencia interpersonal en los países industrializados occidentales desde finales de la Edad Media mediante el efecto de un proceso civilizador requiere pasar por alto los genocidios, las matanzas masivas y los crímenes de guerra cometidos en estos países y en sus antiguas colonias."
-
-Mientras que @Schwerhoff_21 [p.1] sugieren que:
-
-"un análisis crítico exhaustivo de las fuentes plantea serias dudas sobre la solidez empírica de la tesis del declive. Las formas y los contenidos de las fuentes son inmensamente heterogéneos y un examen más detallado de la supuesta riqueza de los datos revela lagunas notables. Además, las estimaciones de población medievales y de principios de la Edad Moderna son muy poco fiables. Por lo tanto, defendemos que la investigación histórica sobre la violencia debe volver a centrarse en constelaciones históricas específicas, aceptar la necesidad de un análisis crítico minucioso de las fuentes y prestar especial atención a los contextos de la violencia."
-:::
-
-Los delitos se encuentran altamente concentrados en momentos específicos del día y de la semana, pero la intensidad de estas concentraciones varía por tipo de delito y región. Por ejemplo, algunos estudios sugieren que los robos a usuarios de bancos o servicios de entrega de comida a domicilio suelen concentrarse en horas muy concretas, mientras que los hurtos y otro tipo de robos exhiben una menor concentración [@Prieto_21]. Estos "puntos calientes" temporales son estables en el tiempo y pueden ser visualizados como "latidos" (heartbeats) del delito, mostrando periodos de alto y bajo riesgo.
+Comencemos por los **ciclos cortos**. Los delitos se encuentran altamente concentrados en momentos específicos del día y de la semana, pero la *intensidad* de estas concentraciones varía por tipo de delito y región. Por ejemplo, algunos estudios sugieren que los robos a usuarios de bancos o servicios de entrega de comida a domicilio suelen concentrarse en horas muy concretas, mientras que los hurtos y otro tipo de robos exhiben una menor concentración [@Prieto_21]. Estos "puntos calientes" temporales son estables en el tiempo y pueden ser visualizados como "latidos" (*heartbeats*) del delito, mostrando periodos de alto y bajo riesgo.
 
 ![Tasas estandarizadas de delitos de robos en Barcelona por hora y año para turistas y residentes.En ambos casos, los robos se concentran a última hora de la tarde, a última hora de la noche y a primera hora de la mañana. Pero los residentes muestran un patrón distintivo en forma de «W» con un aumento pronunciado durante las primeras horas de la tarde, desde el mediodía hasta las 14:00. Fuente: Trinidad, Medina y Marteache, 2024](/images/hours.png)
 
 Los delitos suelen aumentar los fines de semana y durante la noche, especialmente para las lesiones y ciertos robos en zonas nocturnas de ocio y entretenimiento, para luego descender dramáticamente durante la madrugada. En los puntos de conexión de los sistemas de transporte público, los delitos son más comunes durante las noches, y en los períodos vacacionales, con factores ambientales (por ejemplo, la presencia de establecimientos de venta de alcohol) influenciando estos patrones.
 
-La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida [@Andresen_13; @McDowall_11; @Linning_16]. Los recientes avances en el análisis de datos y la modelización espacio-temporal han profundizado nuestra comprensión, revelando tanto la previsibilidad como la variabilidad de los ciclos delictivos en diferentes entornos.
+Pasemos a los **ciclos estacionales** ahora. La mayoría de los estudios indican que los delitos violentos y contra la propiedad tienden a alcanzar su punto álgido en verano y a disminuir en invierno, pero abundan las excepciones y los matices, ya que algunos delitos muestran poca o ninguna estacionalidad y los patrones espaciales suelen permanecer estables incluso cuando las tasas generales fluctúan. Entre las explicaciones de estos patrones se encuentran **la teoría de la actividad rutinaria**, los efectos meteorológicos y los factores sociales y ambientales, pero la interacción entre estos factores es compleja y, en ocasiones, controvertida [@Andresen_13; @McDowall_11; @Linning_16]. 
 
 \[INSERTAR FIGURA\]
 
 ::: {.callout-note appearance="simple"}
 **La teoría de las actividades rutinarias**
 
-La teoría de las actividades rutinarias fue desarrollada precisamente para tratar de entender cambios en los niveles de delincuencia. Inicialmente desarrollada por Marcus Felson y Lawrence E. Cohen en un artículo titulado *Social change and crime rate trends: a routine activity approach*, esta teoría ofrece una perspectiva única sobre las tendencias de las tasas de criminalidad al enfocarse en las circunstancias en las que ocurren los actos delictivos predatorios, en lugar de las características o motivaciones de los delincuentes. La teoría argumenta que el delito no es simplemente el resultado de inclinaciones criminales individuales, sino que está fundamentalmente moldeado por las oportunidades que se presentan a través de las actividades rutinarias de la vida diaria.
+La teoría de las actividades rutinarias fue desarrollada precisamente para tratar de entender cambios en los niveles de delincuencia. Inicialmente desarrollada por Lawrence E. Cohen y Marcus Felson en un artículo titulado *Social change and crime rate trends: a routine activity approach*, esta teoría ofrece una perspectiva única sobre las tendencias de las tasas de criminalidad al enfocarse en las circunstancias en las que ocurren los actos delictivos predatorios, en lugar de las características o motivaciones de los delincuentes. La teoría argumenta que el delito no es simplemente el resultado de inclinaciones criminales individuales, sino que está fundamentalmente moldeado por las oportunidades que se presentan a través de las actividades rutinarias de la vida diaria.
 
 @Cohen_79 consideran que para que un delito ocurra se tiene que producir la convergencia espacio temporal de tres elementos:
 
@@ -282,10 +238,10 @@ La teoría destaca cómo la organización espacial y temporal de las actividades
 
 Igualmente, los cambios sociales a gran escala, como los avances tecnológicos y los cambios en la organización social, influyen significativamente en las oportunidades delictivas. La difusión de ordenadores portátiles y otros dispositivos móviles de alto valor llevó a un aumento en el volumen de bienes duraderos ligeros y fácilmente robables. El mayor uso de automóviles expandió el territorio accesible a los delincuentes depredadores y dejó más coches vulnerables al robo.
 
-Para estos autores es fundamental entender que las oportunidades del delito no se distribuyen de manera uniforme, sino que se concentran en tiempos y lugares específicos, reflejando los ritmos diarios y los movimientos de personas y propiedades. En ese sentido, las actividades ilegales se "alimentan de" y son "interdependientes con" las actividades rutinarias y legales de la vida cotidiana. Los mismos factores que aumentan las oportunidades para actividades legítimas (como la libertad de movimiento, nuevos bienes de consumo, vida social) pueden también aumentar inadvertidamente las oportunidades para el crimen predatorio.
+Para estos autores es fundamental entender que las oportunidades del delito no se distribuyen de manera uniforme, sino que se concentran en tiempos y lugares específicos, reflejando los ritmos diarios y los movimientos de personas y propiedades. En ese sentido, las actividades ilegales se "alimentan de" y son "inter-dependientes con" las actividades rutinarias y legales de la vida cotidiana. Los mismos factores que aumentan las oportunidades para actividades legítimas (como la libertad de movimiento, nuevos bienes de consumo, vida social) pueden también aumentar inadvertidamente las oportunidades para el crimen predatorio.
 :::
 
-La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad interanual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
+La delincuencia aumenta cuando hay más gente en la calle o durante las vacaciones. El clima y la temperatura pueden influir en la delincuencia, pero sus efectos suelen ser secundarios con respecto a los factores sociales y relacionados con cambios en las actividades cotidianas de las personas, y la variabilidad inter-anual puede ser elevada. Algunos estudios advierten contra la atribución excesiva de la estacionalidad al clima, señalando la importancia de los factores estocásticos y sociales.
 
 \[INSERTAT FIGURA\]
 
@@ -304,6 +260,22 @@ Tanto en Estados Unidos como en el Reino Unido, las primeras potencias criminol�
 Empecemos por la última. Es verdad que las encuestas de victimación, aunque (cuando bien hechas) son generalmente consideradas como el instrumento más fiable para medir variaciones temporales en los niveles globales de delincuencia (ya que no se ven afectadas por el sesgo de denuncia), tradicionalmente no han medido delitos que a día de hoy se han vuelto muy relevantes. La ciberdelincuencia, en particular, es la forma delictiva del siglo XXI. Las encuestas de victimación, en su mayoría, no han medido históricamente estas formas delictivas. La *Crime Survey for England and Wales* fue la primera encuesta nacional que comenzó a experimentar y medir algunos de estos nuevos delitos. En la gráfica mostrada arriba se puede ver como a partir del 2017 esta encuesta incluye medidas de ciberdelincuencia. El gráfico muestra hasta que punto este tipo de delitos se ha convertido en un elemento central para entender la delincuencia contemporánea.
 
 ¿Por qué se produce este descenso? Este ha sido un muy agrio debate en el que no han faltado todo tipo de hipótesis que no resultan del todo convincentes: cambios demográficos, cambios en los mercados de drogas, variaciones en tácticas y estrategias policiales, economías más saludables, la introducción del aborto, reducciones en los niveles de exposición al plomo, cambios culturales, etc. [@Blumstein_00; @Zimring_11; @Farrell_10]. @Farrell_08 han propuesto como alternativa la *hipótesis de la seguridad*, cambios en los niveles y prácticas ciudadanas y empresariales de seguridad han podido ser un factor determinante. Ellos muestran análisis que sugieren que la caída de dos tercios en los robos de automóviles en el Reino Unido se debió en gran medida a las mejoras en los sistemas de cierre centralizado e inmovilización y especulan que la adopción de otro tipo de medidas de seguridad en el hogar y en las empresas puede haber sido determinante en este sentido. Por lo que nos interesa, baste señalar que entender los factores que pueden ser responsables de cambios en los niveles de delincuencia es también una fructífera línea de investigación dentro de la criminología.
+
+::: {.callout-note appearance="simple"}
+**Las tendencias históricas del delito**
+
+Hay un creciente interés por entender cambios en la delincuencia a largo plazo. Por las dificultades de obtener datos fiables sobre otras formas de delincuencia, buena parte de la investigación se ha centrado en estudiar los patrones de la violencia, fundamentalmente en Europa, desde mediados del siglo XVI hasta nuestros días. El trabajo de @Eisner_03 en este ámbito es de obligada lectura. @Eisner_03 [p. 83] observa que:
+
+"se pueden distinguir diferentes trayectorias a largo plazo en la disminución de los homicidios entre las distintas regiones europeas. Sin embargo, los patrones de edad y sexo en los delitos violentos graves han cambiado muy poco a lo largo de varios siglos. La disminución a largo plazo de las tasas de homicidios parece ir acompañada de una disminución desproporcionada de los homicidios entre las élites y de una caída de los conflictos entre hombres en el espacio público. Se han ofrecido diversas explicaciones teóricas para esta disminución a largo plazo, entre ellas los efectos del proceso de civilización, el fortalecimiento de los poderes del Estado, la Reforma protestante y el individualismo moderno, pero la mayoría de las teorías han sido post hoc."
+
+Otros autores han invitado a la cautela en relación con estas interpretaciones. @Aebi_16 [p. 57] señalan que:
+
+"explicar la disminución de la violencia interpersonal en los países industrializados occidentales desde finales de la Edad Media mediante el efecto de un proceso civilizador requiere pasar por alto los genocidios, las matanzas masivas y los crímenes de guerra cometidos en estos países y en sus antiguas colonias."
+
+Mientras que @Schwerhoff_21 [p.1] sugieren que:
+
+"un análisis crítico exhaustivo de las fuentes plantea serias dudas sobre la solidez empírica de la tesis del declive. Las formas y los contenidos de las fuentes son inmensamente heterogéneos y un examen más detallado de la supuesta riqueza de los datos revela lagunas notables. Además, las estimaciones de población medievales y de principios de la Edad Moderna son muy poco fiables. Por lo tanto, defendemos que la investigación histórica sobre la violencia debe volver a centrarse en constelaciones históricas específicas, aceptar la necesidad de un análisis crítico minucioso de las fuentes y prestar especial atención a los contextos de la violencia."
+:::
 
 ## El delito a nivel micro
 
