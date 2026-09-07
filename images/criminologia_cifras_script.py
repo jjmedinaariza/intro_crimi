@@ -1,4 +1,5 @@
 import json, textwrap, matplotlib
+import matplotlib.patheffects as pe
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
@@ -43,11 +44,16 @@ a.annotate('máximo 2021-22',xy=(6,24289),xytext=(3.2,27600),size=8.4,color=INK,
 a.text(.12,13100,'12.121',size=8.4,color=INK)
 a.text(8.85,20381/2,'grados simples\n20.381',size=8.6,color='white',ha='right',va='center',weight='bold')
 a.text(8.85,25400,'dobles grados 3.695',size=8.2,color=C3,ha='right',va='bottom')
-a2=a.twinx(); a2.plot(x,d['univ'],color=INK,lw=1.4,ls=(0,(3,2)))
+a2=a.twinx()
+a2.plot(x,d['univ'],color='white',lw=2.2,ls=(0,(4,2.2)),
+        path_effects=[pe.Stroke(linewidth=4.2,foreground='#0f1c24',alpha=.5),pe.Normal()])
 a2.set_ylim(20,52); a2.tick_params(length=0,labelsize=8,colors=MUT)
-for s in ('top','left'): a2.spines[s].set_visible(False)
+for sp in ('top','left'): a2.spines[sp].set_visible(False)
 a2.spines['right'].set_color(GRID)
-a2.text(8.9,37.5,'universidades que lo ofrecen',size=8,color=MUT,va='center',ha='right')
+a2.set_ylabel('universidades que ofrecen el título',size=8.4,color=MUT,rotation=270,labelpad=16,va='bottom')
+a2.annotate('universidades que\nofrecen el título',xy=(7.0,40.0),xytext=(6.1,32.4),
+            size=8.4,color='white',weight='bold',ha='center',va='center',
+            arrowprops=dict(arrowstyle='-',color='white',lw=1.0,shrinkA=2,shrinkB=3))
 a2.set_xlim(0,9)
 head(a,'1. La matrícula se duplicó y luego se detuvo; la oferta siguió creciendo')
 
