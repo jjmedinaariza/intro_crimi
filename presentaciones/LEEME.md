@@ -10,7 +10,7 @@ Los decks no se editan a mano: se generan con un script.
 | `plantilla-b-claro.js` | El sistema visual: tokens y las maquetaciones. **Compartido por todos los capítulos.** |
 | `deck-capNN-*.js` | El contenido de un capítulo. Solo diapositivas, sin diseño. |
 | `insertar-evaluacion.py` | Inserta una diapositiva suelta en un `.pptx` ya editado a mano, sin regenerarlo. |
-| `.cache-imagenes/` | Conversiones a PNG de los `.webp` y `.gif` del libro. Se regenera sola; se puede borrar. |
+| `.cache-imagenes/` | Copias de trabajo de las imágenes: convierte `.webp` y `.gif`, que PowerPoint no traga, y reescala las que superan 2200 px o 1,2 MB. El formato de salida lo decide el canal alfa, no la extensión. Se regenera sola; se puede borrar. |
 
 ## Regenerar un deck
 
@@ -54,6 +54,7 @@ insuficiente del ocre, velos que se leen como un corte— solo se ven mirando.
 | 1 · ¿Qué es la criminología? | `Cap01_Que-es-la-criminologia.pptx` | 52 | 2 h, una sesión |
 | 2 · El delito | `Cap02_El-delito.pptx` | 57 | 2 h, dos sesiones |
 | 3 · El delincuente | `Cap03_El-delincuente.pptx` | 50 | 2 h, una sesión, 5 Wooclaps |
+| 7 · Las víctimas | `Cap07_Las-victimas.pptx` | 53 | 2 h, dos sesiones, 2 Wooclaps |
 
 El deck del capítulo 1 tiene todavía su propia copia de las maquetaciones
 (`deck-cap01-concepto.js`) y no usa `plantilla-b-claro.js`. Funciona, pero

@@ -84,20 +84,47 @@ function hoja(d, { dark = false, numbered = true } = {}) {
   return sl;
 }
 
-// PowerPoint no maneja bien .webp ni .gif: se convierten a PNG en una caché
-// local y se deja intacta la carpeta images/ del libro.
+// Dos problemas que se resuelven en la misma caché, sin tocar images/:
+//  · PowerPoint no maneja bien .webp ni .gif.
+//  · Los originales del libro llegan a pesar 9 MB, y a sesenta diapositivas
+//    por deck el .pptx se vuelve inmanejable. 2200 px de lado largo son ~165
+//    ppp proyectando a pantalla completa: de sobra, y pesa una fracción.
+const LADO_MAX = 2200;
+const PESO_MAX = 1.2 * 1024 * 1024;
+
 function normalizar(d, abs) {
   const ext = path.extname(abs).toLowerCase();
-  if (![".webp", ".gif"].includes(ext)) return abs;
-  const cache = path.join(d.cacheDir, path.basename(abs, ext) + ".png");
-  if (!fs.existsSync(cache)) {
-    fs.mkdirSync(d.cacheDir, { recursive: true });
-    execFileSync("python3", ["-c",
-      "import sys;from PIL import Image;" +
-      "im=Image.open(sys.argv[1]);im.seek(0) if getattr(im,'is_animated',False) else None;" +
-      "im.convert('RGBA').save(sys.argv[2])", abs, cache]);
-    d.convertidas.push(path.basename(abs));
-  }
+  const raro = [".webp", ".gif"].includes(ext);
+  const pesado = fs.statSync(abs).size > PESO_MAX;
+  if (!raro && !pesado) return abs;
+
+  // El formato de salida lo decide el CONTENIDO, no la extensión: un .png que
+  // en realidad es una foto sin transparencia pesa menos como .jpg. Python
+  // mira el canal alfa, guarda, y devuelve la ruta que ha usado.
+  const base = path.join(d.cacheDir, path.basename(abs, ext));
+  const yaEstaPng = fs.existsSync(base + ".png");
+  const yaEstaJpg = fs.existsSync(base + ".jpg");
+  if (yaEstaPng) return base + ".png";
+  if (yaEstaJpg) return base + ".jpg";
+
+  fs.mkdirSync(d.cacheDir, { recursive: true });
+  const cache = execFileSync("python3", ["-c",
+    "import sys\n" +
+    "from PIL import Image\n" +
+    "im = Image.open(sys.argv[1])\n" +
+    "if getattr(im, 'is_animated', False): im.seek(0)\n" +
+    "lado = int(sys.argv[3])\n" +
+    "if max(im.size) > lado: im.thumbnail((lado, lado), Image.LANCZOS)\n" +
+    "alfa = im.mode in ('RGBA', 'LA', 'P') and im.convert('RGBA').getchannel('A').getextrema()[0] < 255\n" +
+    "destino = sys.argv[2] + ('.png' if alfa else '.jpg')\n" +
+    "if alfa: im.convert('RGBA').save(destino, optimize=True)\n" +
+    "else: im.convert('RGB').save(destino, quality=86, optimize=True)\n" +
+    "print(destino, end='')\n",
+    abs, base, String(LADO_MAX)], { encoding: "utf8" });
+
+  const antes = fs.statSync(abs).size, ahora = fs.statSync(cache).size;
+  d.convertidas.push(
+    `${path.basename(abs)} (${Math.round(antes / 1024)} → ${Math.round(ahora / 1024)} KB)`);
   return cache;
 }
 
