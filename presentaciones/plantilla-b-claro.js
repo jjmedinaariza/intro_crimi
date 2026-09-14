@@ -13,6 +13,7 @@
 const pptxgen = require("pptxgenjs");
 const fs = require("fs");
 const path = require("path");
+const { execFileSync } = require("child_process");
 
 const W = 13.333, H = 7.5, M = 0.95;
 const CW = W - 2 * M;
@@ -36,13 +37,16 @@ const s = {
 
 // --- ciclo de vida ---------------------------------------------------------
 
-function crear({ titulo, subject, autoria = "Juanjo Medina · Lorea Arenas", imgDir }) {
+function crear({ titulo, subject, autoria = "Juanjo Medina · Lorea Arenas", imgDir, cacheDir }) {
   const pres = new pptxgen();
   pres.layout = "LAYOUT_WIDE";
   pres.author = autoria;
   pres.title = titulo;
   if (subject) pres.subject = subject;
-  return { pres, imgDir, n: 0, faltan: [] };
+  return {
+    pres, imgDir, n: 0, faltan: [], convertidas: [],
+    cacheDir: cacheDir || path.join(imgDir, ".cache-imagenes"),
+  };
 }
 
 function guardar(d, destino) {
@@ -54,6 +58,9 @@ function guardar(d, destino) {
       [...new Set(d.faltan)].forEach((m) => console.log("  · " + m));
     } else {
       console.log("Todas las imágenes encontradas.");
+    }
+    if (d.convertidas.length) {
+      console.log("Convertidas a PNG: " + [...new Set(d.convertidas)].join(", "));
     }
     return destino;
   });
@@ -77,11 +84,29 @@ function hoja(d, { dark = false, numbered = true } = {}) {
   return sl;
 }
 
+// PowerPoint no maneja bien .webp ni .gif: se convierten a PNG en una caché
+// local y se deja intacta la carpeta images/ del libro.
+function normalizar(d, abs) {
+  const ext = path.extname(abs).toLowerCase();
+  if (![".webp", ".gif"].includes(ext)) return abs;
+  const cache = path.join(d.cacheDir, path.basename(abs, ext) + ".png");
+  if (!fs.existsSync(cache)) {
+    fs.mkdirSync(d.cacheDir, { recursive: true });
+    execFileSync("python3", ["-c",
+      "import sys;from PIL import Image;" +
+      "im=Image.open(sys.argv[1]);im.seek(0) if getattr(im,'is_animated',False) else None;" +
+      "im.convert('RGBA').save(sys.argv[2])", abs, cache]);
+    d.convertidas.push(path.basename(abs));
+  }
+  return cache;
+}
+
 // Imagen real del libro; si falta el fichero, cae al hueco gris con la ruta
 // tal cual aparece en el .qmd. Nunca inventar rutas.
 function img(d, sl, { rel, x, y, w, h, cover = false }) {
-  const abs = path.join(d.imgDir, rel.replace(/^\//, ""));
+  let abs = path.join(d.imgDir, rel.replace(/^\//, ""));
   if (fs.existsSync(abs)) {
+    abs = normalizar(d, abs);
     sl.addImage({
       path: abs, x, y, w, h,
       sizing: { type: cover ? "cover" : "contain", w, h },
@@ -234,8 +259,13 @@ function rejilla(d, { titulo, items, notas, sub }) {
   }
   const filas = Math.ceil(items.length / 3);
   const conSub = items.some((i) => i.sub);
-  const y0 = filas > 1 ? (sub ? 2.85 : 2.75) : (sub ? 3.3 : 3.2);
-  const dy = conSub ? 1.62 : 1.25;
+  // Una etiqueta larga ocupa dos líneas y empujaría su propia glosa: se
+  // reserva altura para todas por igual y así la rejilla no se descuadra.
+  const ANCHO_ETIQUETA = 21; // caracteres por línea a 20 pt en 3,15"
+  const etiquetaAlta = items.some((i) => i.etiqueta.length > ANCHO_ETIQUETA);
+  const desplSub = etiquetaAlta ? 0.78 : 0.44;
+  const y0 = filas > 1 ? (sub ? 2.8 : 2.7) : (sub ? 3.3 : 3.2);
+  const dy = conSub ? (etiquetaAlta ? 1.92 : 1.62) : 1.25;
   items.forEach((it, i) => {
     const x = M + (i % 3) * 3.9;
     const y = y0 + Math.floor(i / 3) * dy;
@@ -249,12 +279,12 @@ function rejilla(d, { titulo, items, notas, sub }) {
       align: "center", valign: "middle",
     });
     sl.addText(it.etiqueta, {
-      x: x + 0.6, y: y - 0.04, w: 3.15, h: 0.48, isTextBox: true, margin: 0,
-      fontFace: s.body, fontSize: 20, bold: true, color: s.ink,
+      x: x + 0.6, y: y - 0.04, w: 3.15, h: desplSub, isTextBox: true, margin: 0,
+      fontFace: s.body, fontSize: 20, bold: true, color: s.ink, lineSpacing: 24,
     });
     if (it.sub) {
       sl.addText(it.sub, {
-        x: x + 0.6, y: y + 0.44, w: 3.15, h: 0.95, isTextBox: true, margin: 0,
+        x: x + 0.6, y: y + desplSub, w: 3.15, h: 0.95, isTextBox: true, margin: 0,
         fontFace: s.body, fontSize: 13.5, color: s.muted, lineSpacing: 18,
       });
     }
@@ -292,14 +322,19 @@ function imagenSangre(d, { rel, titulo, pieImg, notas, velo = 28 }) {
 // === maquetación 8 · CIERRE ===============================================
 function cierre(d, { frase, remate, notas }) {
   const sl = hoja(d, { dark: true, numbered: false });
+  // El bloque se centra según el número de líneas, para que una frase de tres
+  // no se coma el remate.
+  const lineas = frase.split("\n").length;
+  const alto = lineas * 0.78;
+  const y = 3.55 - alto / 2;
   sl.addText(frase, {
-    x: M, y: 2.45, w: 11.0, h: 2.0, isTextBox: true, margin: 0,
+    x: M, y, w: 11.0, h: alto, isTextBox: true, margin: 0,
     fontFace: s.head, fontSize: 46, bold: true, color: s.onDark,
     lineSpacing: 56,
   });
   sl.addText(remate, {
-    x: M, y: 4.75, w: 11.0, h: 0.5, isTextBox: true, margin: 0,
-    fontFace: s.body, fontSize: 20, color: s.onDarkMuted,
+    x: M, y: y + alto + 0.32, w: 11.0, h: 0.6, isTextBox: true, margin: 0,
+    fontFace: s.body, fontSize: 20, color: s.onDarkMuted, lineSpacing: 27,
   });
   sl.addNotes(notas || "");
   return sl;
@@ -383,9 +418,51 @@ function actividad(d, { rotulo, titulo, pasos, notas }) {
   return sl;
 }
 
+// === wooclap (fondo negro, como la actividad: el aula deja de escuchar) ===
+// `tipo` rotula la mecánica ("ELECCIÓN MÚLTIPLE", "NUBE DE PALABRAS"…).
+// Las opciones van con letra, no con número, para no confundirlas con los
+// círculos numerados de la rejilla, que significan otra cosa.
+function wooclap(d, { tipo = "ELECCIÓN MÚLTIPLE", pregunta, opciones = [], notas }) {
+  const sl = hoja(d, { dark: true });
+  sl.addText(`WOOCLAP  ·  ${tipo}`, {
+    x: M, y: 1.0, w: CW, h: 0.35, isTextBox: true, margin: 0,
+    fontFace: s.body, fontSize: 13, bold: true, charSpacing: 3,
+    color: s.accentFill,
+  });
+  const alto = pregunta.split("\n").length;
+  sl.addText(pregunta, {
+    x: M, y: 1.55, w: 11.0, h: alto * 0.72, isTextBox: true, margin: 0,
+    fontFace: s.head, fontSize: 38, bold: true, color: s.onDark,
+    lineSpacing: 46,
+  });
+  const letras = "ABCDEF";
+  const y0 = 1.72 + alto * 0.72;
+  opciones.forEach((op, i) => {
+    const dosCol = opciones.length > 3;
+    const x = M + (dosCol ? (i % 2) * 5.6 : 0);
+    const y = y0 + Math.floor(dosCol ? i / 2 : i) * 0.78;
+    sl.addShape("ellipse", {
+      x, y, w: 0.42, h: 0.42,
+      fill: { color: s.accentFill }, line: { type: "none" },
+    });
+    sl.addText(letras[i], {
+      x, y, w: 0.42, h: 0.42, isTextBox: true, margin: 0,
+      fontFace: s.body, fontSize: 13, bold: true, color: s.numeralOnCircle,
+      align: "center", valign: "middle",
+    });
+    sl.addText(op, {
+      x: x + 0.62, y: y - 0.02, w: dosCol ? 4.8 : 10.2, h: 0.5,
+      isTextBox: true, margin: 0,
+      fontFace: s.body, fontSize: 19, color: s.onDark,
+    });
+  });
+  sl.addNotes(notas || "");
+  return sl;
+}
+
 module.exports = {
   W, H, M, CW, s,
   crear, guardar,
   portada, afirmacion, cita, dosColumnas, datoGrande,
-  rejilla, imagenSangre, cierre, figura, figuraAlta, actividad,
+  rejilla, imagenSangre, cierre, figura, figuraAlta, actividad, wooclap,
 };
