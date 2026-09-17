@@ -372,19 +372,38 @@ function cierre(d, { frase, remate, notas }) {
 // retrato ni van a sangre.
 function figura(d, { titulo, quéMirar, rel, w: iw, h: ih, fuente, notas }) {
   const sl = hoja(d);
+  // Un titular largo parte en dos líneas y pisaría el «qué mirar»: se mide y
+  // se empuja todo lo de debajo. ~52 caracteres por línea a 30 pt en 11,43".
+  const dosLineas = titulo.length > 52;
+  const bajada = dosLineas ? 0.5 : 0;
   sl.addText(titulo, {
-    x: M, y: 0.75, w: CW, h: 0.6, isTextBox: true, margin: 0,
-    fontFace: s.head, fontSize: 30, bold: true, color: s.ink,
+    x: M, y: 0.75, w: CW, h: 0.6 + bajada, isTextBox: true, margin: 0,
+    fontFace: s.head, fontSize: 30, bold: true, color: s.ink, lineSpacing: 36,
   });
   if (quéMirar) {
     sl.addText(quéMirar, {
-      x: M, y: 1.42, w: CW, h: 0.4, isTextBox: true, margin: 0,
-      fontFace: s.body, fontSize: 15, bold: true, color: s.accent,
+      x: M, y: 1.42 + bajada, w: CW, h: 0.45, isTextBox: true, margin: 0,
+      fontFace: s.body, fontSize: 15, bold: true, color: s.accent, lineSpacing: 20,
     });
   }
-  const y0 = quéMirar ? 2.0 : 1.65;
+  const y0 = (quéMirar ? 2.0 : 1.65) + bajada;
   img(d, sl, { rel, x: (W - iw) / 2, y: y0, w: iw, h: ih });
   if (fuente) pie(sl, fuente, { x: 1.6, w: W - 3.2, y: y0 + ih + 0.14 });
+  sl.addNotes(notas || "");
+  return sl;
+}
+
+// === variante · FIGURA PLENA (la imagen ocupa la diapositiva) =============
+// Solo para figuras que ya traen DENTRO su propio titular, su indicación de
+// qué mirar y su fuente. Ponerles encima la cabecera del deck duplica lo que
+// la propia figura ya dice y, sobre todo, la encoge hasta hacerla ilegible
+// desde el fondo del aula. Si la figura no se explica sola, usar `figura`.
+function figuraPlena(d, { rel, w: iw, h: ih, notas }) {
+  const sl = hoja(d);
+  // Banda 0,45-6,75: deja libre el numeral de abajo a la derecha y permite que
+  // una figura casi cuadrada aproveche toda la altura.
+  const y = 0.45 + (6.3 - ih) / 2;
+  img(d, sl, { rel, x: (W - iw) / 2, y, w: iw, h: ih });
   sl.addNotes(notas || "");
   return sl;
 }
@@ -491,5 +510,5 @@ module.exports = {
   W, H, M, CW, s,
   crear, guardar,
   portada, afirmacion, cita, dosColumnas, datoGrande,
-  rejilla, imagenSangre, cierre, figura, figuraAlta, actividad, wooclap,
+  rejilla, imagenSangre, cierre, figura, figuraAlta, figuraPlena, actividad, wooclap,
 };

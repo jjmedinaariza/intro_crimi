@@ -32,14 +32,20 @@ P.portada(d, {
     "«¿quién sufre delitos?», que es una pregunta empírica. La sesión 2 a «¿a quién se reconoce " +
     "como víctima?», que es una pregunta política. Partirlo por ahí evita retomar una sección a " +
     "medias el segundo día.\n\n" +
-    "SESIÓN 1 (~35 min + actividad). El regreso de la víctima (8) · Quién sufre: regularidades (9) · " +
-    "Exposición y responsabilización (5) · La concentración (8) · El solapamiento (5).\n" +
-    "SESIÓN 2 (~35 min + actividad). El pecado original (7) · La corrección feminista (6) · La " +
-    "víctima ideal (8) · Victimación secundaria (8) · Las respuestas (6).\n\n" +
+    "SESIÓN 1 (~36 min + actividad). El regreso de la víctima (8) · Quién sufre: regularidades (9) · " +
+    "Exposición y responsabilización (5) · La concentración (9) · El solapamiento (5).\n" +
+    "SESIÓN 2 (~40 min + actividad). El pecado original (7) · La corrección feminista (6) · La " +
+    "víctima ideal (8) · Victimación secundaria (8) · Las respuestas (11, de las que 6 son " +
+    "asistencia).\n\n" +
+    "OJO: LA SESIÓN 2 VA MÁS CARGADA QUE LA 1. El bloque de asistencia trae tres gráficos nuevos y " +
+    "se lleva 6-7 minutos. Si hay que recortar, lo primero es «¿víctimas de qué?» (una diapositiva " +
+    "y la del Prestige) y, si aún falta, acortar la actividad final a diez minutos. Otra opción, si " +
+    "el grupo va bien de ritmo, es adelantar el bloque de la víctima ideal al final de la sesión 1: " +
+    "encaja después del solapamiento y descarga la segunda hora.\n\n" +
     "HE METIDO DOS PREGUNTAS DE WOOCLAP, una por sesión, siguiendo lo que hicimos en el capítulo " +
     "anterior. Son fáciles de quitar si prefieres la clase corrida.\n\n" +
     "SACRIFICABLE en la sesión 1: la polivictimación y el debate del proceso civilizatorio. Las " +
-    "cuatro figuras de datos NO se sacrifican.\n\n" +
+    "siete figuras de datos NO se sacrifican.\n\n" +
     "ARRANQUE: preguntar quién ha sufrido un delito alguna vez. Suelen levantar bastantes manos, y " +
     "eso ya desmonta la idea de la víctima como figura excepcional. No pedir detalles ni señalar a " +
     "nadie: solo contar manos y seguir.",
@@ -473,6 +479,46 @@ P.datoGrande(d, {
     "desde la diapositiva de las tres formas.",
 });
 
+P.dosColumnas(d, {
+  titulo: "Pero no toda es la misma violencia",
+  cols: [
+    {
+      rotulo: "Violencia situacional",
+      lineas: [
+        "Nace de conflictos puntuales.",
+        "Sin propósito de control general.",
+        "Más simétrica por género.",
+        "Suele ser esporádica y no escalar.",
+      ],
+    },
+    {
+      rotulo: "Terrorismo íntimo",
+      lineas: [
+        "La violencia es parte de un patrón",
+        "de control: aislamiento, amenazas,",
+        "control económico, humillación.",
+        "Se agrava, y sigue tras la ruptura.",
+      ],
+    },
+  ],
+  notas:
+    "Michael Johnson (1995). Es una distinción que el capítulo introduce ANTES del control " +
+    "coercitivo, y por una buena razón: no toda la violencia en la pareja se hace crónica. Hay " +
+    "quien documenta que la mayoría de los casos son esporádicos y no presentan escalada (Bland y " +
+    "Ariel).\n\n" +
+    "LA CLAVE: la diferencia no está en la gravedad de un episodio concreto, sino en el CONTEXTO DE " +
+    "CONTROL. En el terrorismo íntimo la violencia es un instrumento de dominación; en la " +
+    "situacional, el desbordamiento de un conflicto.\n\n" +
+    "EL DATO METODOLÓGICO QUE MERECE LA CLASE, porque explica una polémica entera: la violencia " +
+    "situacional predomina en las encuestas de población general y el terrorismo íntimo aparece en " +
+    "las muestras de casas de acogida, policía y servicios sanitarios. Según Johnson, eso explicaría " +
+    "los resultados contradictorios sobre la simetría de género: cada bando de la discusión estaba " +
+    "midiendo en un sitio distinto y describiendo un fenómeno distinto.\n\n" +
+    "Decir también que la literatura posterior discute si son dos categorías separadas o los polos " +
+    "de un continuo. No cerrarlo.\n\n" +
+    "Lo que viene ahora, el control coercitivo, describe la columna de la derecha.",
+});
+
 P.figura(d, {
   titulo: "El control coercitivo",
   quéMirar: "La agresión física, cuando la hay, no es el daño: es el recordatorio que sostiene todo lo demás.",
@@ -659,11 +705,14 @@ P.portada(d, {
   titulo: "Quién cuenta\ncomo víctima",
   autoria: "Juan José Medina Ariza",
   notas:
-    "SESIÓN 2. ~35 min de exposición + actividad.\n\n" +
+    "SESIÓN 2. ~40 min de exposición + actividad. Va más cargada que la primera: vigilar el reloj " +
+    "al llegar a la víctima ideal, que es donde se suele perder tiempo.\n\n" +
     "Reparto: el pecado original (7) · la corrección feminista (6) · la víctima ideal (8) · la " +
-    "victimación secundaria y el reparto del daño (8) · las respuestas (6).\n\n" +
-    "SACRIFICABLE: el bloque de «¿víctimas de qué?» y la parte de asistencia, que se pueden " +
-    "resumir en una frase cada uno. Las dos figuras de datos NO se sacrifican.\n\n" +
+    "victimación secundaria y el reparto del daño (8) · las respuestas (11, de las que 6 son el " +
+    "bloque de asistencia con sus tres gráficos).\n\n" +
+    "SACRIFICABLE, por este orden: «¿víctimas de qué?» con la del Prestige, y después la actividad " +
+    "final recortada a diez minutos haciendo solo la tercera pregunta. Las cinco figuras de datos " +
+    "de esta sesión NO se sacrifican.\n\n" +
     "ARRANQUE, dos minutos: el día anterior vimos que la victimación no se reparte al azar. Hoy la " +
     "pregunta es otra y es política: de entre quienes sufren un daño, ¿a quién reconocemos como " +
     "víctima? Recordar la votación del Wooclap del primer día: casi todos dijisteis «una mujer " +
@@ -1145,29 +1194,129 @@ P.rejilla(d, {
 });
 
 P.afirmacion(d, {
+  texto: "¿Y qué hace, en la práctica,\nun servicio de asistencia?",
+  sub: "En España, las Oficinas de Asistencia a las Víctimas del Delito.",
+  size: 42,
+  notas:
+    "BLOQUE DE ASISTENCIA. Es donde la teoría del capítulo aterriza en la práctica, y donde casi " +
+    "todas ellas van a acabar trabajando si se dedican a esto.\n\n" +
+    "El tipo de servicios varía entre países, pero suele incluir actuaciones jurídicas, " +
+    "psicológicas y asistenciales. Para España tenemos datos, y son los tres gráficos que vienen " +
+    "ahora.\n\n" +
+    "Preguntar al aula qué se imaginan que hace una oficina de estas. Casi siempre contestan " +
+    "«terapia» o «apoyo psicológico». El primer gráfico les corrige.\n\n" +
+    "Y recordar el marco: si la victimación es un proceso, la asistencia no puede ser un trámite " +
+    "puntual. Tiene que acompañar antes, durante y después, y una de sus funciones principales es " +
+    "amortiguar la victimación secundaria.",
+});
+
+P.figuraPlena(d, {
+  rel: "images/sava-actuaciones-treemap.png",
+  w: 8.3, h: 5.65,
+  notas:
+    "NO SACRIFICABLE: visualización de datos.\n\n" +
+    "El reparto: general 49 %, jurídico 22 %, psicológico 16 %, social 12 %.\n\n" +
+    "LO QUE DESMONTA: la imagen que tienen de estos servicios es la de un gabinete psicológico. Los " +
+    "bloques más grandes del gráfico son otra cosa —información sobre los derechos de la víctima " +
+    "(10.091), asesoramiento jurídico en procesos penales (10.499), entrevista de acogida (9.593), " +
+    "contactos de seguimiento telefónico (8.417), información sobre justicia gratuita (7.609).\n\n" +
+    "Es decir: el grueso del trabajo es acompañar a alguien por un sistema que no entiende. Que es " +
+    "exactamente la segunda expropiación de Christie con la que abrimos el capítulo, y que aquí " +
+    "aparece medida en actuaciones.\n\n" +
+    "No leer el treemap entero. Señalar los dos o tres rectángulos grandes y seguir.",
+});
+
+P.figuraPlena(d, {
+  rel: "images/sava-concentracion-delitos.png",
+  w: 8.64, h: 5.65,
+  notas:
+    "NO SACRIFICABLE: visualización de datos. Y es el gráfico con más carga argumental de los tres.\n\n" +
+    "EL CONTRASTE QUE HAY QUE HACER EXPLÍCITO: los delitos contra el patrimonio son el grueso de la " +
+    "delincuencia que registra la policía, y aquí son el 2,1 %. Un servicio de asistencia a las " +
+    "víctimas del delito atiende, en la práctica, a las víctimas de unos pocos delitos.\n\n" +
+    "Las cuatro primeras: torturas y otros contra la integridad moral (28,2 %), lesiones (23,5 %), " +
+    "contra la libertad y la seguridad (23,5 %), contra la libertad sexual (11,0 %).\n\n" +
+    "ESTO ES LA JERARQUÍA DE LA VICTIMACIÓN MEDIDA. No es una acusación de mala praxis: puede " +
+    "reflejar que el daño se concentra ahí, o que la derivación funciona solo para ciertos delitos, " +
+    "o las dos cosas. Pero es un dato que obliga a preguntarse quién se queda fuera. Preguntarlo al " +
+    "aula así de literal.\n\n" +
+    "Enlaza con lo que sabemos del Reino Unido, donde hay más cultura de auditoría: la policía " +
+    "evalúa la necesidad de asistencia según el TIPO DE DELITO y no según las necesidades de la " +
+    "víctima. El Victim Contact Scheme solo se dirige a víctimas de delito violento o sexual con " +
+    "condenas de doce meses o más.",
+});
+
+P.figuraPlena(d, {
+  rel: "images/sava-oav-comparacion.png",
+  w: 9.83, h: 5.65,
+  notas:
+    "NO SACRIFICABLE: visualización de datos.\n\n" +
+    "En mujeres son casi idénticos: 90,1 % y 91,2 %. En menores ya divergen: 13,4 % frente a 7,3 %. " +
+    "Y en personas extranjeras la diferencia es de más del triple.\n\n" +
+    "CUIDADO CON LA LECTURA FÁCIL, y conviene decirlo: esa diferencia no significa por sí sola que " +
+    "un servicio lo haga mejor. Puede reflejar composición de la población, vías de derivación " +
+    "distintas o criterios de registro distintos. Lo que sí demuestra es que dos servicios " +
+    "prácticamente del mismo tamaño acaban atendiendo a poblaciones muy distintas.\n\n" +
+    "El detalle del panel pequeño: en Cataluña la proporción de víctimas extranjeras se ha duplicado " +
+    "desde 2010, del 35,5 % al 55,7 %.\n\n" +
+    "Y EL PIE DEL GRÁFICO ES EL MEJOR ARGUMENTO: solo se pueden comparar TRES variables, porque es " +
+    "todo lo que ambas publican en común. Andalucía detalla tipo de delito, perfil socioeconómico y " +
+    "relación con quien agrede; Cataluña, actuaciones por víctima, acompañamientos a juicio y " +
+    "órdenes de protección. Ninguna permite responder las preguntas que responde la otra.",
+});
+
+P.datoGrande(d, {
+  cifra: "3 %",
+  unidad: "de quienes la habrían\nnecesitado recibió\nasistencia especializada",
+  glosa:
+    "Es la única estimación que tenemos, y viene de la encuesta internacional de victimación de " +
+    "2005. Veinte años. Que no haya nada mejor ya dice algo.",
+  notas:
+    "El dato que cierra el bloque, y la frase del capítulo que conviene repetir literal: «son datos " +
+    "de hace veinte años y no tenemos otros mejores, lo que ya dice algo».\n\n" +
+    "España figura además entre los países con mayor demanda insatisfecha (Daza Bonachela, a partir " +
+    "de la ICVS).\n\n" +
+    "LA CULTURA DE EVALUACIÓN, que es el problema de fondo y que interesa a quien vaya a trabajar " +
+    "en administración: Cataluña mantiene estadística oficial anual integrada en su plan " +
+    "estadístico, y Andalucía también. La Comunitat Valenciana publica cifras, pero por la vía de " +
+    "la nota de prensa. El Estado tiene desde 2015 la obligación reglamentaria de evaluar " +
+    "periódicamente el sistema, y el único informe publicado es el de 2017.\n\n" +
+    "Quien quiera comprobar si la asistencia funciona descubrirá que en buena parte del territorio " +
+    "no hay con qué hacerlo. Eso no es un descuido técnico: decidir qué se mide es decidir qué se " +
+    "puede exigir.",
+});
+
+P.afirmacion(d, {
   texto: "Que el derecho reconozca\nla asistencia no garantiza\nque la asistencia exista.",
-  sub: "España es de los países europeos donde menos víctimas llegan a un servicio especializado.",
+  sub: "Y a quién alcanza, cuando escasea, vuelve a decidirlo la maquinaria del reconocimiento.",
   size: 36,
   notas:
-    "SACRIFICABLE a la mitad si voy con retraso.\n\n" +
-    "Si la victimación es un proceso, la asistencia no puede ser un trámite puntual: tiene que " +
-    "acompañar antes, durante y después, y su función principal es amortiguar la victimación " +
-    "secundaria.\n\n" +
-    "Los problemas concretos, que interesan a quien vaya a trabajar en esto:\n" +
+    "Cierre del bloque. Los tres problemas, ya con los gráficos detrás:\n\n" +
     "· JERARQUÍA DE LA VICTIMACIÓN: los servicios responden con eficacia ante quienes encajan en el " +
-    "perfil de víctima ideal y desatienden los perfiles complejos o estigmatizados.\n" +
-    "· FRAGMENTACIÓN COMPETENCIAL: no hay un modelo único de oficina. Depende de si tu comunidad " +
-    "tiene transferidas las competencias de Justicia. La asistencia que recibes depende de dónde " +
-    "vivas.\n" +
-    "· La evaluación del Ministerio de 2017 reconoció carencias: a veces los juzgados, en el mismo " +
-    "edificio, no derivan a las víctimas. Sobrecarga administrativa, medios escasos, precariedad de " +
-    "los psicólogos.\n" +
-    "· Y el estudio catalán: pese a la buena valoración del trato humano, las intervenciones eran " +
+    "perfil de víctima ideal y desatienden los perfiles complejos o estigmatizados. El gráfico de " +
+    "los delitos lo enseña.\n" +
+    "· FRAGMENTACIÓN COMPETENCIAL: no hay un modelo único. En las comunidades sin transferencias, " +
+    "las oficinas dependen del Ministerio y atienden funcionarios. En las transferidas, gestionan " +
+    "las autonomías, y en algunas —Andalucía, País Vasco— el servicio lo presta una entidad externa " +
+    "elegida por CONCURSO PÚBLICO, que en Andalucía puede variar provincia a provincia. O sea que " +
+    "las condiciones del pliego acaban determinando quién te atiende y con qué formación.\n" +
+    "· Y LA EVALUACIÓN: la de 2017 reconoció que a veces los juzgados, en el mismo edificio, no " +
+    "derivan a las víctimas. Sobrecarga, medios escasos, precariedad de los psicólogos. El estudio " +
+    "catalán encontró que, pese a la buena valoración del trato humano, las intervenciones eran " +
     "demasiado breves y no redujeron de forma significativa ni el sufrimiento ni la victimación " +
     "secundaria.\n\n" +
-    "Sobre la justicia «sensible al trauma»: dos cautelas. Convertir todo sufrimiento en trauma " +
-    "clínico puede patologizar una reacción normal a un hecho anormal y, mal usado, volverse contra " +
-    "la víctima presentándola como «dañada». Y su eficacia está poco probada.",
+    "PARA LA LECTURA, Y ES EL MEJOR CASO DEL CAPÍTULO: el cuadro sobre el SAVA de Granada. María " +
+    "del Mar Daza documentó cómo cambió el baremo de adjudicación: en 2002 la oferta económica " +
+    "pesaba un 10 % y la formación especializada un 35 %; en 2009, el precio pesaba el 50 % y la " +
+    "formación CERO. Ese año lo ganó una sociedad anónima de multiservicios cuya oferta técnica la " +
+    "comisión puntuó con 5 sobre 20, frente a los 20 de la cooperativa saliente. Los expedientes " +
+    "nuevos cayeron de 55,9 al mes a 13, y las actuaciones anuales de 7.874 a unas 2.000.\n\n" +
+    "Si tienes cinco minutos de margen, este caso vale más que media clase: enseña que «la calidad " +
+    "de la asistencia» no se decide en un debate sobre derechos de las víctimas, sino en un pliego " +
+    "de licitación que nadie lee.\n\n" +
+    "Sobre la justicia «sensible al trauma», dos cautelas: convertir todo sufrimiento en trauma " +
+    "clínico puede patologizar una reacción normal a un hecho anormal y volverse contra la víctima " +
+    "presentándola como «dañada»; y su eficacia está poco probada.",
 });
 
 P.figura(d, {

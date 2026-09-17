@@ -408,6 +408,18 @@ Los abusos sexuales perpetrados por sacerdotes demuestran, igualmente, que la vi
 
 La Defensoría del Pueblo observa además que los síntomas del trauma (la disociación, que hace que la víctima se muestre insegura, confusa y dubitativa al declarar) tienden a leerse en sede judicial como indicio de que el relato es poco creíble [@DefensorPueblo_23]️. Esto es otro claro ejemplo de lo que anteriormente definíamos como injusticia testimonial, lo que debería reforzar la credibilidad de la víctima (evidencia del daño) se usa para restársela.
 
+::: {.callout-note appearance="simple"}
+**El modelo Barnahus de atención a menores**
+
+El modelo Barnahus, "casa de los niños" en islandés, nació en Reikiavik en 1998 para tratar de evitar la victimacion de menores por parte del sistema. En vez de que los menores recorran un peregrinaje por la comisaría, el juzgado y el forense repitiendo lo que les pasó, son los profesionales quienes se desplazan a una casa adaptada a su edad. La declaración se toma una sola vez, grabada ante un representante judicial para que valga como prueba preconstituida, y se reproduce después en el juicio. En Islandia atiende a menores de quince años por abuso sexual y, desde 2015, también por violencia física; en otros países el alcance se amplía al maltrato y a la violencia de género [-@PeredaRivas_18].
+
+En España la LOPIVI de 2021 hizo obligatoria la prueba preconstituida para las víctimas de delitos sexuales menores de catorce años, y Cataluña empezó a desplegar el modelo desde el piloto que abrió en Tarragona en 2020. En 2024 las dos primeras Barnahus aparecen ya en la estadística catalana de atención a la víctima.
+
+En España existe ya una primera evaluación del modelo. @TorresRosell_25 estudiaron una muestra de 484 procedimientos incoados entre 2018 y 2022, comparando los juzgados con Barnahus y los que todavía no la tenían, los tiempos procesales en Tarragona se redujeron a más de la mitad en los casos que llegaron a sentencia. Cuando la víctima declaraba en el juicio oral, la tasa de condena era menor que cuando se reproducía la grabación. Ahorrarle ese trance no solo la protegía; además funcionaba mejor.
+
+No obstante, en esa misma muestra la mayoría de los menores pasó por varias exploraciones y una cuarta parte declaró ante el juez instructor sin practicarse prueba preconstituida. Y el balance que hizo el Consejo de Europa en 2025 señala que en España no hay formación reglada en la materia, que la relación entre servicios sigue siendo de coordinación y no integración, y que solo cinco comunidades autónomas tienen el recurso presupuestado para su implementación [-@CoE_25].
+:::
+
 ### El reparto desigual del daño
 
 La mayoría de los manuales de victimología abordan el impacto del delito mediante dos catálogos convencionales de daños que incluyen una relación de cifras macroeconómicas (lo que "cuesta" la delincuencia) y una lista de secuelas clínicas (ansiedad, insomnio, depresión o estrés postraumático). Sin embargo, esa aproximación presenta un sesgo de fondo en el sentido de que asume el daño como una propiedad intrínseca del *delito* ("el robo produce estas consecuencias"), cuando en realidad viene a ser, en buena medida, una propiedad de la *situación de quien lo padece*.

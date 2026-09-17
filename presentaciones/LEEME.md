@@ -39,6 +39,9 @@ insuficiente del ocre, velos que se leen como un corte— solo se ven mirando.
 - **Ligeras de texto.** La diapositiva es señal, no apunte. Lo que no está en
   pantalla va en las notas del ponente.
 - **Toda visualización de datos entra**, con su fuente y una línea de qué mirar.
+  Si la figura ya trae dentro su propio titular, su anotación y su fuente —como
+  las del SAVA en el capítulo 7— va con `figuraPlena`, que le da la diapositiva
+  entera: repetirle la cabecera encima la encoge hasta hacerla ilegible.
 - **Los callouts del libro quedan fuera.** Son material de lectura; si alguno
   hace mucha falta, va como aviso en las notas.
 - **Nunca inventar rutas de imagen.** Si falta el fichero, sale un hueco gris
@@ -54,7 +57,8 @@ insuficiente del ocre, velos que se leen como un corte— solo se ven mirando.
 | 1 · ¿Qué es la criminología? | `Cap01_Que-es-la-criminologia.pptx` | 52 | 2 h, una sesión |
 | 2 · El delito | `Cap02_El-delito.pptx` | 57 | 2 h, dos sesiones |
 | 3 · El delincuente | `Cap03_El-delincuente.pptx` | 50 | 2 h, una sesión, 5 Wooclaps |
-| 7 · Las víctimas | `Cap07_Las-victimas.pptx` | 53 | 2 h, dos sesiones, 2 Wooclaps |
+| 7 · Las víctimas | `Cap07_Las-victimas.pptx` | 59 | 2 h, dos sesiones, 2 Wooclaps |
+| 8 · Las respuestas estatales | `Cap08_Respuestas-estatales.pptx` | 52 | 2 h, dos sesiones, 2 Wooclaps |
 
 El deck del capítulo 1 tiene todavía su propia copia de las maquetaciones
 (`deck-cap01-concepto.js`) y no usa `plantilla-b-claro.js`. Funciona, pero
