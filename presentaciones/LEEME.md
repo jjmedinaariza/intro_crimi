@@ -57,6 +57,7 @@ insuficiente del ocre, velos que se leen como un corte— solo se ven mirando.
 | 1 · ¿Qué es la criminología? | `Cap01_Que-es-la-criminologia.pptx` | 52 | 2 h, una sesión |
 | 2 · El delito | `Cap02_El-delito.pptx` | 57 | 2 h, dos sesiones |
 | 3 · El delincuente | `Cap03_El-delincuente.pptx` | 50 | 2 h, una sesión, 5 Wooclaps |
+| 6 · Grupos y entidades | `Cap06_Grupos-y-entidades.pptx` | 67 | 4 h, cuatro sesiones, 4 Wooclaps |
 | 7 · Las víctimas | `Cap07_Las-victimas.pptx` | 59 | 2 h, dos sesiones, 2 Wooclaps |
 | 8 · Las respuestas estatales | `Cap08_Respuestas-estatales.pptx` | 52 | 2 h, dos sesiones, 2 Wooclaps |
 

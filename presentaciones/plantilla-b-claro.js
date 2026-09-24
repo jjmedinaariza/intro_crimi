@@ -277,10 +277,16 @@ function datoGrande(d, { cifra, unidad, glosa, notas, size = 150 }) {
 // === maquetación 6 · REJILLA ==============================================
 function rejilla(d, { titulo, items, notas, sub }) {
   const sl = hoja(d);
-  titular(sl, titulo, { y: 1.0 });
+  // Mismo criterio que en `figura`: un titular largo ocupa dos líneas a 38 pt
+  // y empujaría al subtítulo. ~42 caracteres por línea en 11,43".
+  const bajada = titulo.length > 42 ? 0.55 : 0;
+  sl.addText(titulo, {
+    x: M, y: 1.0, w: CW, h: 0.8 + bajada, isTextBox: true, margin: 0,
+    fontFace: s.head, fontSize: 38, bold: true, color: s.ink, lineSpacing: 44,
+  });
   if (sub) {
     sl.addText(sub, {
-      x: M, y: 1.82, w: CW, h: 0.45, isTextBox: true, margin: 0,
+      x: M, y: 1.82 + bajada, w: CW, h: 0.45, isTextBox: true, margin: 0,
       fontFace: s.body, fontSize: 16, color: s.muted,
     });
   }
@@ -291,7 +297,7 @@ function rejilla(d, { titulo, items, notas, sub }) {
   const ANCHO_ETIQUETA = 21; // caracteres por línea a 20 pt en 3,15"
   const etiquetaAlta = items.some((i) => i.etiqueta.length > ANCHO_ETIQUETA);
   const desplSub = etiquetaAlta ? 0.78 : 0.44;
-  const y0 = filas > 1 ? (sub ? 2.8 : 2.7) : (sub ? 3.3 : 3.2);
+  const y0 = (filas > 1 ? (sub ? 2.8 : 2.7) : (sub ? 3.3 : 3.2)) + bajada;
   const dy = conSub ? (etiquetaAlta ? 1.92 : 1.62) : 1.25;
   items.forEach((it, i) => {
     const x = M + (i % 3) * 3.9;
@@ -400,9 +406,12 @@ function figura(d, { titulo, quéMirar, rel, w: iw, h: ih, fuente, notas }) {
 // desde el fondo del aula. Si la figura no se explica sola, usar `figura`.
 function figuraPlena(d, { rel, w: iw, h: ih, notas }) {
   const sl = hoja(d);
-  // Banda 0,45-6,75: deja libre el numeral de abajo a la derecha y permite que
-  // una figura casi cuadrada aproveche toda la altura.
-  const y = 0.45 + (6.3 - ih) / 2;
+  // El numeral ocupa la esquina inferior derecha (x > 10,98 · y > 6,25). Una
+  // figura estrecha puede bajar hasta 6,75 porque pasa por su izquierda; una
+  // ancha tiene que quedarse por encima de él.
+  const invadeNumeral = (W + iw) / 2 > 10.9;
+  const fondo = invadeNumeral ? 6.15 : 6.75;
+  const y = 0.45 + (fondo - 0.45 - ih) / 2;
   img(d, sl, { rel, x: (W - iw) / 2, y, w: iw, h: ih });
   sl.addNotes(notas || "");
   return sl;
