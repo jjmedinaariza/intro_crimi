@@ -18,3 +18,14 @@
 - **Paso 5:** añadido `css: estilos.css` bajo `format: html:` en `_quarto.yml`. El tema es `cosmo + brand` (tema claro único, sin modo oscuro), así que los fondos pastel funcionan sin necesidad de duplicar reglas.
 - **Incidencia pendiente:** index.qmd L7 (aviso de licencia Creative Commons) no encaja en ninguna de las tres categorías; se deja como `note` a la espera de decisión.
 - Pendiente: lanzar `quarto render` en RStudio para ver el resultado (lo hace Juanjo).
+
+## 2026-09-29 — Cap. 2 Método científico y criminología (`metodo.qmd`)
+
+- **[metodo] Autoría:** el capítulo pasa a ser de JM (el mapa de `prompt-capitulo-nuevo.md` aún lo da como ajeno; actualizar).
+- **[metodo] Guion validado** (copia en el proyecto: `claude/guion-metodo.md`): 1) ¿Para qué sirve el método?; 2) Las dos almas revisitadas (ontología/epistemología/metodología/métodos; postpositivismo, interpretativismo, construccionismo, críticas y punto de vista, realismo crítico, pragmatismo; tabla en callout; debate Young); 3) Dos culturas de investigación (Goertz y Mahoney), con "Tipos de investigación" **integrado** como primer subepígrafe; 4) Virtudes criminológicas: **curiosidad, rigor, humildad, empatía, transparencia y valentía** (decisión de JM: se añaden curiosidad y valentía; reflexividad dentro de humildad/transparencia), cierre con "virtudes en tensión"; 5) Para seguir leyendo.
+- **[metodo] Caso conductor:** "¿funciona la prisión?" (decisión de JM, en lugar del desistimiento).
+- **[metodo] Borrador completo del asistente** (~6.600 palabras) volcado en `metodo.qmd`, marcado como borrador. Copia del esqueleto en `metodo_backup_20260929_1055.qmd`.
+- **[metodo] Coordinación con cap. 15:** Weber, Myrdal, Becker (jerarquía de la credibilidad), Bourdieu y las virtudes de Loader y Sparks se quedan en `politica.qmd`; en `metodo.qmd` solo se remiten. La frase de Feynman se usa en `politica.qmd` (L366, sin cita y con errata "Feyman"): ahora puede citarse `@Feynman_74`.
+- **[metodo] Pendientes:** dos huecos de cita en bloque sin original delante (Young 2011; Mahoney y Goertz 2006/2012); ⚠️ cotejar fechas del máximo y descenso de la población penitenciaria española con `@CidVarona_26`; decidir si se añade un callout de cine/documental (`.callout-tip`); pasar el diagnóstico de voz tras la reescritura de JM.
+- **[bib] Altas:** 31 claves nuevas añadidas al final de `references.bib` en el bloque "Altas cap. 2" (copia de seguridad `references_backup_20260929_1055.bib`); pendiente de ordenar con `normaliza_bib.py`. Verificadas en la web: Bhuller_20, Chin_23, LoefflerNagin_22, Pickett_20, Villettaz_06, Villettaz_15 (parcialmente); el resto con ⚠️ en comentario. Falsos amigos señalados: Chin_23/Chin_99, Pickett_20/Pickett_19, Mills_59/Mills_03, Merton_42/Merton_38, Roberts_07/Roberts_03, Goffman_14/Goffman_59.
+- **[bib] Observación:** `Sutherland_49` figura con Holt, Rinehart & Winston; la edición original de 1949 parece ser de Dryden Press. Revisar.
