@@ -37,11 +37,15 @@ Si queremos comprender dónde estamos, tenemos que apreciar de dónde venimos. Y
 
 En esta sección retrocedemos varios siglos para entender cómo se construyó ese monopolio. Conviene adelantar la conclusión: no fue un acontecimiento, sino una conquista lenta, desigual y muy tardía. Los Estados europeos proclamaron el monopolio del castigo mucho antes de poder ejercerlo de verdad.
 
-![El derecho no se descubre: se promulga. Alguien decide qué será la regla, y ese alguien no es cualquiera[^control-1].](images/Incipit_Vidal_Mayor.jpg){#fig-vidal-mayor width="60%" fig-alt="…"}
+::: {#fig-vidal-mayor}
+
+![](images/Incipit_Vidal_Mayor.jpg){width="60%" fig-alt="…"}
+
+El derecho no se descubre: se promulga. Alguien decide qué será la regla, y ese alguien no es cualquiera[^control-1].
+
+:::
 
 [^control-1]: Incipit del *Vidal Mayor*, primera compilación del Fuero de Aragón realizada por el obispo de Huesca Vidal de Canellas en 1247. Vidal de Canellas y cancillería real del rey de Aragón, segunda mitad del siglo XIII. [Dominio público](https://creativecommons.org/publicdomain/mark/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Incipit_Vidal_Mayor.jpg).
-
-[^control-2]: Incipit del *Vidal Mayor*, primera compilación del Fuero de Aragón realizada por el obispo de Huesca Vidal de Canellas en 1247. Vidal de Canellas y cancillería real del rey de Aragón, segunda mitad del siglo XIII. [Dominio público](https://creativecommons.org/publicdomain/mark/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Incipit_Vidal_Mayor.jpg).
 
 Antes de la consolidación del Estado moderno, Europa estaba organizada bajo un entramado feudal y religioso en el que el poder político y judicial estaba fragmentado. La Iglesia, los señores feudales, las ciudades y las cortes reales compartían y competían por la autoridad sobre territorios y poblaciones. La justicia no era uniforme: coexistían tribunales eclesiásticos, jurisdicciones señoriales y cortes reales, cada una con sus propios criterios de legitimidad y aplicación de la ley.
 
@@ -69,11 +73,15 @@ La formulación clásica y todavía dominante de lo que estamos describiendo es 
 
 Ninguno de estos tres procesos tiene una fecha clara de nacimiento, y ninguno estaba terminado cuando arranca el siglo XIX.
 
-![Hobbes publica esta imagen en 1651, en plena guerra civil inglesa: no retrata un Estado consolidado, sino la pretensión de uno. El soberano está hecho de los cuerpos que lo componen y sostiene a la vez la espada y el báculo, las dos jurisdicciones que aún competían[^control-3].](images/leviathan.jpg){#fig-leviatan width="50%" fig-alt="Frontispicio grabado del Leviatán de Thomas Hobbes. En la mitad superior, la figura gigante de un soberano coronado emerge tras un paisaje de colinas y una ciudad amurallada; su torso y sus brazos están formados por centenares de pequeñas figuras humanas de espaldas al espectador. Empuña una espada en la mano derecha y un báculo episcopal en la izquierda. Sobre él, una inscripción latina tomada del libro de Job. En la mitad inferior, el título del libro flanqueado por dos columnas de cinco viñetas: a la izquierda un castillo, una corona, un cañón, un montón de armas y una batalla; a la derecha una iglesia, una mitra, unos rayos, unos instrumentos bifurcados y una asamblea de eclesiásticos sentados."}
+::: {#fig-leviatan}
+
+![](images/leviathan.jpg){width="50%" fig-alt="Frontispicio grabado del Leviatán de Thomas Hobbes. En la mitad superior, la figura gigante de un soberano coronado emerge tras un paisaje de colinas y una ciudad amurallada; su torso y sus brazos están formados por centenares de pequeñas figuras humanas de espaldas al espectador. Empuña una espada en la mano derecha y un báculo episcopal en la izquierda. Sobre él, una inscripción latina tomada del libro de Job. En la mitad inferior, el título del libro flanqueado por dos columnas de cinco viñetas: a la izquierda un castillo, una corona, un cañón, un montón de armas y una batalla; a la derecha una iglesia, una mitra, unos rayos, unos instrumentos bifurcados y una asamblea de eclesiásticos sentados."}
+
+Hobbes publica esta imagen en 1651, en plena guerra civil inglesa: no retrata un Estado consolidado, sino la pretensión de uno. El soberano está hecho de los cuerpos que lo componen y sostiene a la vez la espada y el báculo, las dos jurisdicciones que aún competían[^control-3].
+
+:::
 
 [^control-3]: Abraham Bosse, frontispicio de *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil*, de Thomas Hobbes, Londres, 1651. British Library. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leviathan_frontispiece_cropped_British_Library.jpg).
-
-[^control-4]: Abraham Bosse, frontispicio de *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil*, de Thomas Hobbes, Londres, 1651. British Library. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leviathan_frontispiece_cropped_British_Library.jpg).
 
 Con relación al proceso de **acumulación del poder**, dos respuestas complementarias han resultado especialmente influyentes en la literatura. Norbert Elias, en *El proceso de la civilización* [@Elias_39], describió un largo movimiento en el que las casas reales fueron acumulando dos monopolios entrelazados (el de la violencia y el de los impuestos) a costa de la nobleza guerrera. A medida que el uso privado de la fuerza dejaba de estar disponible, las élites tuvieron que competir por otras vías (la corte, el prestigio, el cálculo político), lo que fue transformando también las formas de comportamiento y de autocontrol.
 
@@ -93,11 +101,15 @@ Es tentador imaginar un proceso lineal de progreso que vaya de la fragmentación
 
 Pieter Spierenburg [@Spierenburg_84] mostró que la consolidación del poder estatal, en un primer momento, hizo el castigo más espectacular y no menos. Las ejecuciones públicas ritualizadas, con su cuidada escenografía, no son un residuo medieval, sino que son un producto del Estado en construcción. Un Estado que necesitaba exhibir una autoridad que todavía no estaba asentada. Cuanto menos capacidad real tenía el poder para vigilar y detener, más necesitaba que los pocos castigos que imponía fueran memorables.
 
-![El cadalso no se levanta a escondidas. Se monta en el centro de la ciudad, elevado sobre la multitud y de espaldas a los edificios del poder, para que la ejecución sea vista y recordada[^control-5].](images/patibulo.jpg){#fig-oldenbarnevelt width="75%" fig-alt="Grabado que representa la ejecución de Johan van Oldenbarnevelt en el Binnenhof de La Haya en 1619. En el centro de una plaza se alza un patíbulo de madera elevado sobre el que se distingue al condenado arrodillado y al verdugo. Alrededor, una multitud compacta de espectadores llena la plaza; al fondo, los edificios del palacio y la torre de una iglesia. Varias figuras observan desde ventanas y tejados."}
+::: {#fig-oldenbarnevelt}
+
+![](images/patibulo.jpg){width="75%" fig-alt="Grabado que representa la ejecución de Johan van Oldenbarnevelt en el Binnenhof de La Haya en 1619. En el centro de una plaza se alza un patíbulo de madera elevado sobre el que se distingue al condenado arrodillado y al verdugo. Alrededor, una multitud compacta de espectadores llena la plaza; al fondo, los edificios del palacio y la torre de una iglesia. Varias figuras observan desde ventanas y tejados."}
+
+El cadalso no se levanta a escondidas. Se monta en el centro de la ciudad, elevado sobre la multitud y de espaldas a los edificios del poder, para que la ejecución sea vista y recordada[^control-5].
+
+:::
 
 [^control-5]: *Onthoofding van Johan van Oldenbarnevelt, 1619*, grabado anónimo de 1777. Rijksmuseum, Ámsterdam, RP-P-OB-64.411. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Onthoofding_van_Johan_van_Oldenbarnevelt,_1619,_RP-P-OB-64.411.jpg).
-
-[^control-6]: *Onthoofding van Johan van Oldenbarnevelt, 1619*, grabado anónimo de 1777. Rijksmuseum, Ámsterdam, RP-P-OB-64.411. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Onthoofding_van_Johan_van_Oldenbarnevelt,_1619,_RP-P-OB-64.411.jpg).
 
 El caso inglés nos puede servir para ilustrarlo. Entre finales del siglo XVII y comienzos del XIX, en pleno afianzamiento del Estado, el número de leyes que castigaban con la muerte pasó de unas cincuenta a más de doscientas: el llamado *Bloody Code* [@Radzinowicz_48]. Y sin embargo Inglaterra carecía de policía y de ministerio fiscal: la persecución del delito seguía dependiendo de la iniciativa privada de las víctimas [@Hay_75]. Douglas @Hay_75 leyó esa combinación como un sistema y no como una disfunción: una severidad feroz sobre el papel, un aparato mínimo para aplicarla y enormes dosis de discrecionalidad e indulto selectivo producían, juntas, terror y deferencia. En la Inglaterra de Blackstone se indultaba a cerca del 60 % de los condenados a muerte [@Strange_16]. No es casualidad que Foucault abra *Vigilar y castigar* [@Foucault_86] con el suplicio de Damiens en 1757. Elige esa fecha precisamente porque el espectáculo punitivo del Antiguo Régimen seguía plenamente vivo en pleno siglo de las Luces.
 
@@ -117,11 +129,15 @@ Por eso las dos secciones siguientes tratan justamente de eso: primero, de cómo
 
 Como estamos viendo, en los siglos XVII y XVIII, los sistemas de justicia penal en Europa eran fragmentados, arbitrarios y frecuentemente crueles. La autoridad judicial se dividía entre tribunales eclesiásticos, jurisdicciones señoriales y cortes reales, lo que generaba inconsistencias en la aplicación de la ley. Los castigos eran desproporcionados y brutales. La tortura se utilizaba con frecuencia para obtener confesiones, y las ejecuciones públicas eran espectáculos destinados a infundir temor en la población. Además, la justicia estaba profundamente ligada a la moral y la religión; muchos delitos eran percibidos como pecados, y el castigo cumplía tanto una función retributiva como espiritual.
 
-![Goya pinta esta escena entre 1808 y 1812, los mismos años en que las Cortes de Cádiz debaten la Constitución. No es un testimonio de la Inquisición: es el momento en que el fundamento religioso del castigo empieza a poder representarse como escándalo, dos décadas antes de que el Santo Oficio se aboliera[^control-7].](images/goya_1.jpg){#fig-goya-inquisicion width="85%" fig-alt="Óleo de Goya que representa un auto de fe en el interior de una sala abovedada en penumbra. En primer plano, varios reos sentados llevan sambenito y coroza, el capirote cónico de los penitenciados; uno de ellos aparece encogido con la cabeza baja. A su alrededor, un tribunal de eclesiásticos y funcionarios ocupa unos bancos corridos, y al fondo una multitud se pierde en la sombra. En lo alto, sobre una tribuna elevada, una figura lee en voz alta la sentencia."}
+::: {#fig-goya-inquisicion}
+
+![](images/goya_1.jpg){width="85%" fig-alt="Óleo de Goya que representa un auto de fe en el interior de una sala abovedada en penumbra. En primer plano, varios reos sentados llevan sambenito y coroza, el capirote cónico de los penitenciados; uno de ellos aparece encogido con la cabeza baja. A su alrededor, un tribunal de eclesiásticos y funcionarios ocupa unos bancos corridos, y al fondo una multitud se pierde en la sombra. En lo alto, sobre una tribuna elevada, una figura lee en voz alta la sentencia."}
+
+Goya pinta esta escena entre 1808 y 1812, los mismos años en que las Cortes de Cádiz debaten la Constitución. No es un testimonio de la Inquisición: es el momento en que el fundamento religioso del castigo empieza a poder representarse como escándalo, dos décadas antes de que el Santo Oficio se aboliera[^control-7].
+
+:::
 
 [^control-7]: Francisco de Goya, *Escena de Inquisición*, 1808–1812. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_-_Escena_de_Inquisici%C3%B3n_-_Google_Art_Project.jpg). Reproducción digitalizada por el Google Cultural Institute.
-
-[^control-8]: Francisco de Goya, *Escena de Inquisición*, 1808–1812. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_-_Escena_de_Inquisici%C3%B3n_-_Google_Art_Project.jpg). Reproducción digitalizada por el Google Cultural Institute.
 
 Este contexto mostraba la necesidad de un cambio profundo. La progresiva consolidación de Estados modernos aspiraba a ofrecer un marco legal uniforme, pero la práctica aún carecía de principios racionales, consistencia y protección de los derechos de los acusados. Era este escenario el que Beccaria y otros pensadores ilustrados criticaron, proponiendo alternativas basadas en la razón, la utilidad social y la proporcionalidad.
 
@@ -131,11 +147,15 @@ Estos autores están vinculados al periodo conocido como la Ilustración que eve
 
 Cesare Beccaria (1738–1794), filósofo y jurista italiano, es considerado uno de los fundadores del derecho penal moderno. Su obra *Dei delitti e delle pene* (1764) marcó un antes y un después en la conceptualización del castigo y la justicia penal. Beccaria fue influenciado por pensadores como Montesquieu, cuyo análisis de la separación de poderes y la proporcionalidad de las leyes inspiró su visión, y por Rousseau, cuya noción de contrato social fundamentaba la legitimidad de las leyes como expresión de la voluntad colectiva. También se basó en la tradición jurídica romana, que promovía la codificación y racionalización del derecho.
 
-![Retrato de Cesare Beccaria (1738-1794) pintado por Eliseo Sala después de 1864, es decir, setenta años después de la muerte del retratado.[^control-9]](images/Cesare_Beccaria.jpg){#fig-beccaria width="40%" fig-alt="Retrato al óleo de busto sobre fondo oscuro. Un hombre de mediana edad, con peluca blanca empolvada de bucles laterales, mira ligeramente hacia el espectador. Viste casaca oscura, corbatín blanco y chorrera de encaje sobre el pecho."}
+::: {#fig-beccaria}
+
+![](images/Cesare_Beccaria.jpg){width="40%" fig-alt="Retrato al óleo de busto sobre fondo oscuro. Un hombre de mediana edad, con peluca blanca empolvada de bucles laterales, mira ligeramente hacia el espectador. Viste casaca oscura, corbatín blanco y chorrera de encaje sobre el pecho."}
+
+Retrato de Cesare Beccaria (1738-1794) pintado por Eliseo Sala después de 1864, es decir, setenta años después de la muerte del retratado.[^control-9]
+
+:::
 
 [^control-9]: Eliseo Sala, retrato de Cesare Beccaria, posterior a 1864. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cesare_Beccaria.jpg).
-
-[^control-10]: Eliseo Sala, retrato de Cesare Beccaria, posterior a 1864. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cesare_Beccaria.jpg).
 
 Beccaria criticó abiertamente la arbitrariedad de los sistemas penales de su tiempo, la tortura, los castigos excesivos y la pena de muerte. Propuso que las leyes fueran claras, públicas y aplicadas de manera uniforme, y que las penas fueran proporcionales a los delitos. Destacó que la función principal del castigo debía ser prevenir futuros delitos, en lugar de satisfacer un sentido de venganza o moralidad religiosa. Además, defendió garantías procesales, a través de juicios rápidos y públicos, limitando la discrecionalidad de jueces y autoridades.
 
@@ -183,11 +203,15 @@ Bentham también introdujo el concepto de "panóptico" como modelo de diseño de
 
 Bentham, al igual que Beccaria, aprovechó las condiciones políticas que se estaban desarrollando: el monopolio del castigo por parte del Estado permitió que paulatinamente la administración de justicia se diseñara según principios racionales, en lugar de depender de arbitrariedades locales o de la Iglesia. Su trabajo ayudó a fundamentar un sistema de justicia penal preventivo y organizado, que se convirtió en un modelo para la modernización legal en Inglaterra y en otros países europeos.
 
-![Planos del panóptico de Bentham: alzado y sección del edificio arriba, planta semicircular abajo. Las celdas se disponen en anillo contra el muro exterior, abiertas hacia el centro, donde se sitúa la torre de inspección.[^control-12]](images/Panopticon.jpg){#fig-panoptico width="70%" fig-alt="Lámina con tres dibujos arquitectónicos a línea. En la mitad superior, a la izquierda, el alzado exterior de un edificio de cuatro plantas con ventanas en arco; a la derecha, una sección transversal que muestra los pisos de celdas superpuestas y, en el eje, una estructura central de inspección con galerías. En la mitad inferior, la planta semicircular: un anillo de celdas separadas por tabiques radiales que convergen hacia un punto central, rodeado de varios círculos concéntricos. Las distintas partes están señaladas con letras."}
+::: {#fig-panoptico}
+
+![](images/Panopticon.jpg){width="70%" fig-alt="Lámina con tres dibujos arquitectónicos a línea. En la mitad superior, a la izquierda, el alzado exterior de un edificio de cuatro plantas con ventanas en arco; a la derecha, una sección transversal que muestra los pisos de celdas superpuestas y, en el eje, una estructura central de inspección con galerías. En la mitad inferior, la planta semicircular: un anillo de celdas separadas por tabiques radiales que convergen hacia un punto central, rodeado de varios círculos concéntricos. Las distintas partes están señaladas con letras."}
+
+Planos del panóptico de Bentham: alzado y sección del edificio arriba, planta semicircular abajo. Las celdas se disponen en anillo contra el muro exterior, abiertas hacia el centro, donde se sitúa la torre de inspección.[^control-12]
+
+:::
 
 [^control-12]: Lámina del panóptico, publicada en *The Works of Jeremy Bentham*, vol. IV, pp. 172-173, edición de John Bowring, 1843. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panopticon.jpg).
-
-[^control-13]: Lámina del panóptico, publicada en *The Works of Jeremy Bentham*, vol. IV, pp. 172-173, edición de John Bowring, 1843. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panopticon.jpg).
 
 Desde un punto de vista histórico conviene no juntarlos demasiado. Beccaria publica en 1764, bajo una monarquía absoluta y en una Italia fragmentada, y lo que aporta son principios morales y racionales de un sistema penal humano y predecible (legalidad, proporcionalidad, publicidad, certeza). Bentham, que lo leyó y lo reconoció como influencia, escribe una generación después y al otro lado de la Revolución Francesa, en una Gran Bretaña en plena industrialización, y aporta otra cosa: los principios utilitarios y una metodología sistemática para aplicar la justicia de manera eficiente y socialmente beneficiosa. Y su intervención no se quedó en la filosofía. En 1798 y 1799 redactó, por encargo del magistrado Patrick Colquhoun, dos proyectos de ley para reorganizar la policía de Londres, de los que solo llegó a aprobarse una versión recortada, la *Thames Police Act* de 1800. Esos textos permanecieron casi inéditos hasta 2018 [@Jacques_21]. De los instrumentos que empezaban entonces a aparecer, y de lo que su llegada supuso, nos ocupamos a continuación.
 
@@ -201,11 +225,15 @@ Su aparición y expansión no solo respondió a una necesidad técnica de organi
 
 El concepto de policía evolucionó junto con la idea de Estado. En el siglo XVII, *police* en Francia designaba el "buen gobierno" o la administración del orden público. La policía no era una institución o una organización sino un término que se usaba para identificar las labores políticas locales. Policía originalmente significaba gobierno municipal y, por tanto, sus funciones eran muy amplias [@Brodeur_10].
 
-![Edicto de Luis XIV de marzo de 1667, verificado en el Parlamento de París el día 15, que crea el cargo de teniente de policía de la ciudad, prebostazgo y vizcondado de París y lo separa del de teniente civil. La vigilancia deja de ser un apéndice de la justicia y pasa a ser un oficio propio, con su titular y su jurisdicción.[^control-14]](images/edicto.jpg){#fig-edicto-policia width="55%" fig-alt="Primera página de un edicto real impreso del siglo XVII. Bajo una cenefa tipográfica, el encabezamiento en mayúsculas dice «Edit du Roy», y debajo, en letra menor, que es del mes de marzo de 1667 y que crea el cargo de teniente de policía de la ciudad, prebostazgo y vizcondado de París, separándolo del de teniente civil. El cuerpo del texto, en francés antiguo y a página completa, comienza con una gran letra capital y la fórmula «Louis, par la grâce de Dieu, roi de France et de Navarre». En los márgenes hay dos sellos redondos de archivo y anotaciones manuscritas con signaturas."}
+::: {#fig-edicto-policia}
+
+![](images/edicto.jpg){width="55%" fig-alt="Primera página de un edicto real impreso del siglo XVII. Bajo una cenefa tipográfica, el encabezamiento en mayúsculas dice «Edit du Roy», y debajo, en letra menor, que es del mes de marzo de 1667 y que crea el cargo de teniente de policía de la ciudad, prebostazgo y vizcondado de París, separándolo del de teniente civil. El cuerpo del texto, en francés antiguo y a página completa, comienza con una gran letra capital y la fórmula «Louis, par la grâce de Dieu, roi de France et de Navarre». En los márgenes hay dos sellos redondos de archivo y anotaciones manuscritas con signaturas."}
+
+Edicto de Luis XIV de marzo de 1667, verificado en el Parlamento de París el día 15, que crea el cargo de teniente de policía de la ciudad, prebostazgo y vizcondado de París y lo separa del de teniente civil. La vigilancia deja de ser un apéndice de la justicia y pasa a ser un oficio propio, con su titular y su jurisdicción.[^control-14]
+
+:::
 
 [^control-14]: *Édit portant création de la lieutenance générale de police*, dado por Luis XIV en Saint-Germain-en-Laye, marzo de 1667. Archives Nationales de Francia, AD-390. Dominio público, vía \[Wikimedia Commons\](https://commons.wikimedia.org/wiki/File:%C3%89dit_imprim%C3%A9_portant_cr%C3%A9ation_de_la_lieutenance_g%C3%A9n%C3%A9rale_de_Police,*donn%C3%A9*%C3%A0_Saint%E2%80%93Ge
-
-[^control-15]: *Édit portant création de la lieutenance générale de police*, dado por Luis XIV en Saint-Germain-en-Laye, marzo de 1667. Archives Nationales de Francia, AD-390. Dominio público, vía \[Wikimedia Commons\](https://commons.wikimedia.org/wiki/File:%C3%89dit_imprim%C3%A9_portant_cr%C3%A9ation_de_la_lieutenance_g%C3%A9n%C3%A9rale_de_Police,*donn%C3%A9*%C3%A0_Saint%E2%80%93Ge
 
 Fue bajo Luis XIV, en 1667, cuando se creó en París el cargo de *lieutenant général de police*, el Teniente general de policía, considerado el origen de la policía moderna. Este cargo posteriormente se convertiría en un Ministerio durante la Revolución y el período Napoleónico. Era un cargo con poder normativo que permitía crear normas con sanciones tan severas que a estos efectos se podrían considerar normas penales. Era un cargo también con poder judicial en todas aquellas materias que se consideraban no tenían que llegar a los tribunales. La policía era el cargo y sus poderes, no el cuerpo de agentes. Este edicto no creó un cuerpo de personas encargados de garantizar el cumplimiento de la ley, aunque eventualmente el sistema de policía de París evolucionó para contar con una fuerza armada de hombres (algunos con formación militar). Los hombres al servicio del Teniente contaban con 3 inspectores que practicaban detenciones informados por una amplia red de informantes policiales y "soplones". Este cargo tenía la función de vigilar, controlar y disciplinar a la población urbana, un espacio en el que el crecimiento demográfico, la pobreza y el comercio empezaban a generar tensiones sociales. El control de la opinión pública era igualmente importante, así como la represión de la disidencia religiosa o política. El control de la opinión se contemplaba como una forma de "mantener el orden" dada la creencia de que las "ideas peligrosas" eran la fuente de problemas. ¿Quién era el "objeto" de la acción policial en Paris? Fundamentalmente los pobres sin trabajo. Este proletariado era el objetivo obvio por varias razones: se le consideraba responsable de los delitos y podían ser movilizados para generar disturbios. La idea es que había que proteger a la clase trabajadora de ser contaminada por este proletariado [@Brodeur_10].
 
@@ -223,11 +251,15 @@ En Inglaterra, sin embargo, el desarrollo fue más tardío. No fue hasta 1829 qu
 
 [^control-16]: Conviene matizar esa idea de ruptura. La historiografía reciente sostiene que ningún relato que atribuya el nacimiento de la policía moderna a una sola idea, una sola persona o una sola ley resiste la evidencia disponible: hay más continuidad que ruptura. Los célebres "principios de Peel" que circulan por tantos manuales son en realidad una reconstrucción del siglo XX, formulada por el historiador Charles Reith y consolidada a fuerza de repetirse en la manualística estadounidense. Y el modelo londinense tampoco fue la alternativa civil al continental: al crear un cuerpo dirigido por el ministro del Interior y no responsable ante las autoridades locales, el gobierno británico aplicaba a su capital las lecciones aprendidas gobernando Irlanda [@Finnane_16].
 
-![Caricatura publicada en mayo de 1829, mientras se tramitaba la ley que crearía la Policía Metropolitana. Wellington y Peel aparecen dibujados como centinelas del ejército: la objeción de la época era que el nuevo cuerpo sería una gendarmería encubierta, incompatible con las libertades inglesas.[^control-17]](images/robertpeel.jpg){#fig-peelers width="55%" fig-alt="Grabado satírico coloreado a mano. Dos hombres de mediana edad, con los rasgos caricaturizados de Wellington y Peel, aparecen de pie y firmes en mitad de una calle, vestidos de granaderos: gorro alto de piel de oso, casaca roja con correajes blancos cruzados y pantalón blanco. Cada uno sujeta un fusil con la bayoneta calada. A la izquierda se ve un muro de prisión rematado con pinchos y una puerta reforzada con clavos; a la derecha, la fachada de una casa de ladrillo. Al pie, el título «State Watchmen. Of 1829»."}
+::: {#fig-peelers}
+
+![](images/robertpeel.jpg){width="55%" fig-alt="Grabado satírico coloreado a mano. Dos hombres de mediana edad, con los rasgos caricaturizados de Wellington y Peel, aparecen de pie y firmes en mitad de una calle, vestidos de granaderos: gorro alto de piel de oso, casaca roja con correajes blancos cruzados y pantalón blanco. Cada uno sujeta un fusil con la bayoneta calada. A la izquierda se ve un muro de prisión rematado con pinchos y una puerta reforzada con clavos; a la derecha, la fachada de una casa de ladrillo. Al pie, el título «State Watchmen. Of 1829»."}
+
+Caricatura publicada en mayo de 1829, mientras se tramitaba la ley que crearía la Policía Metropolitana. Wellington y Peel aparecen dibujados como centinelas del ejército: la objeción de la época era que el nuevo cuerpo sería una gendarmería encubierta, incompatible con las libertades inglesas.[^control-17]
+
+:::
 
 [^control-17]: John Phillips, *State Watchmen. Of 1829*, publicada por John Field, mayo de 1829. British Museum, núm. 1868,0808.9008. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:State_watchmen._Of_1829._(BM_1868,0808.9008).jpg).
-
-[^control-18]: John Phillips, *State Watchmen. Of 1829*, publicada por John Field, mayo de 1829. British Museum, núm. 1868,0808.9008. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:State_watchmen._Of_1829._(BM_1868,0808.9008).jpg).
 
 Sir Robert Peel fue un reformista que quería mejorar la prevención del delito. Tuvo que lidiar con quienes veían en la policía centralizada una amenaza contra la libertad (lo que contribuyó al carácter menos militar de la institución en el Reino Unido). Su creación en 1829 representó un momento de ruptura que cambió el significado del termino policía [@Brodeur_10]:
 
@@ -255,11 +287,15 @@ Lo que vigilaba era, sobre todo, la propiedad de la tierra. Cuando en 1876 la Gu
 Y el conflicto laboral se trataba como un problema de orden público. Hasta la Ley de Huelgas de 1909 todo paro se consideraba sedición y lo juzgaban tribunales militares; durante la Restauración los españoles vivieron el 45,6% del tiempo con las garantías constitucionales suspendidas en todo o parte del territorio. En los cinco años de paz de la Segunda República las fuerzas del Estado causaron más de 1.550 muertos, y entre las víctimas cuya profesión pudo identificarse la categoría más numerosa, con enorme diferencia, es la de obreros y jornaleros [@GonzalezCalleja_14]. La fotografía de Casas Viejas corresponde a uno de esos episodios: en enero de 1933 murieron allí veintitrés campesinos y tres guardias.
 :::
 
-![Casas Viejas, enero de 1933. Los cuerpos de los vecinos muertos, fotografiados ante las autoridades que acudieron al lugar. El Gobierno sostuvo primero que habían caído en combate; la investigación posterior estableció que varios fueron sacados de sus casas y fusilados.[^control-19]](images/casasviejas.jpg){#fig-casas-viejas width="70%" fig-alt="Fotografía en blanco y negro del año 1933. En primer plano, sobre un terreno de tierra y hierba, yacen los cuerpos de varias personas muertas, tendidos boca arriba y alineados de forma irregular. Al fondo, contra un muro encalado, permanece de pie un grupo de una decena de hombres: varios guardias con uniforme y fusil, dos hombres con bata blanca y varios civiles con abrigo y sombrero, que observan la escena."}
+::: {#fig-casas-viejas}
+
+![](images/casasviejas.jpg){width="70%" fig-alt="Fotografía en blanco y negro del año 1933. En primer plano, sobre un terreno de tierra y hierba, yacen los cuerpos de varias personas muertas, tendidos boca arriba y alineados de forma irregular. Al fondo, contra un muro encalado, permanece de pie un grupo de una decena de hombres: varios guardias con uniforme y fusil, dos hombres con bata blanca y varios civiles con abrigo y sombrero, que observan la escena."}
+
+Casas Viejas, enero de 1933. Los cuerpos de los vecinos muertos, fotografiados ante las autoridades que acudieron al lugar. El Gobierno sostuvo primero que habían caído en combate; la investigación posterior estableció que varios fueron sacados de sus casas y fusilados.[^control-19]
+
+:::
 
 [^control-19]: Fotografía de los sucesos de Casas Viejas, enero de 1933. Autoría no identificada. Dominio público según la ficha de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Casas_Viejas.jpg).
-
-[^control-20]: Fotografía de los sucesos de Casas Viejas, enero de 1933. Autoría no identificada. Dominio público según la ficha de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Casas_Viejas.jpg).
 
 En paralelo al desarrollo de la policía, la prisión fue ocupando el centro del sistema de penas. Debemos evitar caer en un malentendido frecuente, porque la Ilustración no inventó el encierro. En España venía funcionando como castigo desde el siglo XVI (galeras, presidios norteafricanos, minas de Almadén) y la cárcel figura ya como pena en decenas de disposiciones anteriores a la codificación liberal [@Roldan_25; @OliverOlmo_14]. Lo que aportan los reformadores ilustrados que acabamos de estudiar no es la privación de libertad, sino una idea nueva sobre para qué debería servir: corregir a quien la padece.
 
@@ -299,11 +335,15 @@ La prisión, así, dejó de concebirse como un simple espacio de sufrimiento y s
 
 España no fue ajena a esta transformación. Durante la segunda mitad del siglo XIX, se multiplicaron las reflexiones sobre la "cuestión penitenciaria", impulsadas tanto por juristas como por filántropos y pensadores sociales [@SerranoGomez_07; @SerranoMaillo_18; @Campos_21]. En ese contexto emergió una figura decisiva: Concepción Arenal (1820–1893).
 
-![Concepción Arenal (1820-1893), visitadora de prisiones e inspectora de casas de corrección de mujeres, y la voz más influyente del reformismo penitenciario español del siglo XIX.[^control-23]](images/concepcion_arenal.jpg){#fig-arenal width="40%" fig-alt="Retrato fotográfico en blanco y negro, de busto. Una mujer de edad avanzada mira ligeramente hacia la izquierda del espectador, con expresión seria. Lleva el pelo con raya al medio, recogido hacia atrás y cubriendo las orejas. Viste un traje oscuro de cuello alto con solapas anchas, y sobre el pecho asoma una tela blanca. Tiene los brazos cruzados. El fondo es liso y oscuro."}
+::: {#fig-arenal}
+
+![](images/concepcion_arenal.jpg){width="40%" fig-alt="Retrato fotográfico en blanco y negro, de busto. Una mujer de edad avanzada mira ligeramente hacia la izquierda del espectador, con expresión seria. Lleva el pelo con raya al medio, recogido hacia atrás y cubriendo las orejas. Viste un traje oscuro de cuello alto con solapas anchas, y sobre el pecho asoma una tela blanca. Tiene los brazos cruzados. El fondo es liso y oscuro."}
+
+Concepción Arenal (1820-1893), visitadora de prisiones e inspectora de casas de corrección de mujeres, y la voz más influyente del reformismo penitenciario español del siglo XIX.[^control-23]
+
+:::
 
 [^control-23]: Retrato fotográfico de Concepción Arenal, anterior a 1893. Autoría no identificada. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Concepcion_Arenal_1.jpg).
-
-[^control-24]: Retrato fotográfico de Concepción Arenal, anterior a 1893. Autoría no identificada. Dominio público, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Concepcion_Arenal_1.jpg).
 
 Concepción Arenal, jurista, escritora y reformadora social, fue una de las voces más influyentes del pensamiento penal español del siglo XIX. Su obra se situó en la encrucijada entre la filantropía cristiana, el humanismo jurídico y el correccionalismo liberal. Arenal criticó duramente la función puramente represiva de las cárceles y defendió un modelo de reeducación moral y reinserción social del delincuente [@Caballe_18].
 
@@ -433,11 +473,15 @@ La investigación de @Blumstein_82 mostró que las diferencias raciales en las t
 
 [^control-28]: Toda esa evidencia es estadounidense, pero tambien la hay europea. Margo de Koster y Herbert Reinke sostienen que el control de las minorías no es un problema reciente ligado al multiculturalismo, sino una de las fuerzas que impulsaron la profesionalización policial desde el Antiguo Régimen. Y que el factor que hacía a un grupo vulnerable a la detención no era tanto su diferencia cultural, religiosa o étnica como su condición de **forastero desarraigado**: mucha visibilidad pública y ninguna red informal de apoyo. Eso explicaría a la vez por qué los recién llegados aparecen sobrerrepresentados en las estadísticas penales y por qué no todos lo hacen, ya que quienes logran insertarse en redes locales lo evitan [@DeKosterReinke_16]. Dos ejemplos muestran cómo opera. En la Bélgica del siglo XIX se procesaba por vagancia en Bruselas el doble o el triple que en Amberes, con la misma ley: Amberes era una ciudad portuaria que necesitaba mano de obra eventual y toleraba a quien vivía de ella, mientras que Bruselas, capital política, quería decoro en sus calles. Y los registros policiales sistemáticos sobre población romaní, iniciados en Alemania hacia 1900 e intensificados bajo el nazismo para identificarla y deportarla, fueron mantenidos por la República Federal durante casi cinco décadas y solo se suspendieron en 2001.
 
-![Cartel de búsqueda del FBI, 18 de agosto de 1970. El Estado que Davis analizaba como productor de categorías raciales de criminalidad la fichó a ella, con dos fotografías, la altura, el peso y una casilla de "raza". Fue detenida en octubre de ese año y absuelta de todos los cargos en junio de 1972.[^control-29]](images/angeladavis.webp){#fig-wanted-davis width="45%" fig-alt="Cartel de búsqueda del FBI de 1970. En la cabecera, en letras grandes, «WANTED BY THE FBI», y debajo los cargos: fuga interestatal, asesinato y secuestro. A continuación el nombre, Angela Yvonne Davis, y su número de expediente. En el centro, dos fotografías de una mujer joven negra con peinado afro, tomadas en 1969 y 1970. Bajo ellas, una tabla con la descripción física: edad, fecha y lugar de nacimiento, estatura, peso, complexión, pelo, ojos, ocupación (maestra) y una casilla de raza que usa el término «Negro», habitual en los documentos oficiales estadounidenses de la época. Sigue un párrafo de advertencia que la describe como posiblemente armada y peligrosa, y al pie la firma del director del FBI y la fecha, 18 de agosto de 1970."}
+::: {#fig-wanted-davis}
+
+![](images/angeladavis.webp){width="45%" fig-alt="Cartel de búsqueda del FBI de 1970. En la cabecera, en letras grandes, «WANTED BY THE FBI», y debajo los cargos: fuga interestatal, asesinato y secuestro. A continuación el nombre, Angela Yvonne Davis, y su número de expediente. En el centro, dos fotografías de una mujer joven negra con peinado afro, tomadas en 1969 y 1970. Bajo ellas, una tabla con la descripción física: edad, fecha y lugar de nacimiento, estatura, peso, complexión, pelo, ojos, ocupación (maestra) y una casilla de raza que usa el término «Negro», habitual en los documentos oficiales estadounidenses de la época. Sigue un párrafo de advertencia que la describe como posiblemente armada y peligrosa, y al pie la firma del director del FBI y la fecha, 18 de agosto de 1970."}
+
+Cartel de búsqueda del FBI, 18 de agosto de 1970. El Estado que Davis analizaba como productor de categorías raciales de criminalidad la fichó a ella, con dos fotografías, la altura, el peso y una casilla de "raza". Fue detenida en octubre de ese año y absuelta de todos los cargos en junio de 1972.[^control-29]
+
+:::
 
 [^control-29]: *Wanted by the FBI: Angela Yvonne Davis*, Federal Bureau of Investigation, 18 de agosto de 1970. Obra del gobierno federal de los Estados Unidos. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es) según la ficha de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fbi-wanted-poster-for-angela-davis-august-18-1970-608-900-v0-b41sur0ispef1.webp).
-
-[^control-30]: *Wanted by the FBI: Angela Yvonne Davis*, Federal Bureau of Investigation, 18 de agosto de 1970. Obra del gobierno federal de los Estados Unidos. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es) según la ficha de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fbi-wanted-poster-for-angela-davis-august-18-1970-608-900-v0-b41sur0ispef1.webp).
 
 La evidencia también muestra sesgos de género en todas las etapas del proceso penal. Liz @Kelly_88 documentó cómo las instituciones judiciales históricamente han desestimado los delitos sexuales y de violencia doméstica, culpabilizando a las víctimas. Joanne @Belknap_21 y @ChesneyLind_13 confirmaron que las mujeres enfrentan estereotipos morales y son castigadas tanto por su conducta delictiva como por desviarse de los roles tradicionales de feminidad.
 
@@ -463,11 +507,15 @@ El primero de estos modelos está vinculado al Estado de Bienestar. El desarroll
 
 El Estado *social* o de *bienestar* surgió como respuesta a las tensiones del capitalismo liberal del siglo XIX. Frente a los efectos destructivos de la industrialización (pobreza, desempleo, desigualdad y exclusión), las democracias europeas comenzaron a desarrollar políticas públicas de protección social, primero bajo el modelo bismarckiano en Alemania y más tarde bajo el paradigma keynesiano y beveridgiano en el Reino Unido.
 
-![Cartel de la Social Security League, 1944, en campaña para que el Gobierno británico adoptara el Plan Beveridge. Las prestaciones se despliegan en abanico desde un «centro de seguridad social»: maternidad, hijos, matrimonio, salud, incapacidad, accidentes de trabajo, desempleo, viudedad, vejez y sepelio. Al pie, en letra pequeña, la advertencia que define el modelo: las cantidades corresponden a «hombre, esposa y dos hijos».[^control-31]](images/beveridge.jpg){#fig-beveridge width="45%" fig-alt="Cartel impreso en blanco y negro de 1944. En la cabecera, en letras grandes de sombra, «Demand the Beveridge Plan». A la izquierda se dibuja el mostrador de un centro de seguridad social. Del centro parte en diagonal una serie de bandas superpuestas, cada una con el nombre de una prestación a la izquierda y su cuantía a la derecha: subsidio de maternidad, asignaciones por hijos, subsidio matrimonial, salud, incapacidad, compensación por accidente laboral, desempleo, viudedad, pensiones de vejez, seguro industrial y subsidio de sepelio. Entre las cifras se leen expresiones como servicio médico integral para todos y prestación sin límite de duración. En el margen inferior izquierdo, en letra pequeña, una nota indica que las prestaciones mostradas corresponden a hombre, esposa y dos hijos. Al pie, el nombre de la organización convocante, Social Security League, y su dirección en Tothill Street, Londres."}
+::: {#fig-beveridge}
+
+![](images/beveridge.jpg){width="45%" fig-alt="Cartel impreso en blanco y negro de 1944. En la cabecera, en letras grandes de sombra, «Demand the Beveridge Plan». A la izquierda se dibuja el mostrador de un centro de seguridad social. Del centro parte en diagonal una serie de bandas superpuestas, cada una con el nombre de una prestación a la izquierda y su cuantía a la derecha: subsidio de maternidad, asignaciones por hijos, subsidio matrimonial, salud, incapacidad, compensación por accidente laboral, desempleo, viudedad, pensiones de vejez, seguro industrial y subsidio de sepelio. Entre las cifras se leen expresiones como servicio médico integral para todos y prestación sin límite de duración. En el margen inferior izquierdo, en letra pequeña, una nota indica que las prestaciones mostradas corresponden a hombre, esposa y dos hijos. Al pie, el nombre de la organización convocante, Social Security League, y su dirección en Tothill Street, Londres."}
+
+Cartel de la Social Security League, 1944, en campaña para que el Gobierno británico adoptara el Plan Beveridge. Las prestaciones se despliegan en abanico desde un «centro de seguridad social»: maternidad, hijos, matrimonio, salud, incapacidad, accidentes de trabajo, desempleo, viudedad, vejez y sepelio. Al pie, en letra pequeña, la advertencia que define el modelo: las cantidades corresponden a «hombre, esposa y dos hijos».[^control-31]
+
+:::
 
 [^control-31]: *Demand the Beveridge Plan*, cartel de la Social Security League, Londres, 1944, reproducido como lámina en *Beveridge on Beveridge: Recent Speeches of Sir William Beveridge*, ed. Joan S. Clarke, Londres, 1944. LSE Library, London School of Economics, IMAGELIBRARY/1383, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%22Demand_the_Beveridge_Plan%22,_1944_(8219741831).jpg). La institución depositaria lo publica como obra sin restricciones de derechos conocidas.
-
-[^control-32]: *Demand the Beveridge Plan*, cartel de la Social Security League, Londres, 1944, reproducido como lámina en *Beveridge on Beveridge: Recent Speeches of Sir William Beveridge*, ed. Joan S. Clarke, Londres, 1944. LSE Library, London School of Economics, IMAGELIBRARY/1383, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%22Demand_the_Beveridge_Plan%22,_1944_(8219741831).jpg). La institución depositaria lo publica como obra sin restricciones de derechos conocidas.
 
 El liberalismo clásico había concebido al individuo como responsable de su propio destino, pero el Estado social reconoció que la libertad y la igualdad solo eran posibles cuando existían condiciones materiales mínimas para su ejercicio. Así, el bienestar dejó de ser una cuestión de caridad y se convirtió en un derecho ciudadano. El llamado *Informe Beveridge* (1942) propuso un sistema integral de seguridad social para combatir los "cinco gigantes" (necesidad, enfermedad, ignorancia, miseria y ocio forzoso), y T. H. Marshall (1950) sostuvo que los derechos sociales completaban el proceso histórico de ciudadanía, otorgando igualdad sustantiva y no solo formal. Este proyecto político y moral transformó también la racionalidad penal. Este planteamiento político supuso que el delito pasó a entenderse como síntoma de exclusión y desorganización social, y el castigo como un instrumento de reinserción orientado al bienestar.
 
@@ -579,7 +627,13 @@ Al margen de lo que acabamos de señalar sobre la relevancia del aparato regulat
 
 [^control-35]: En *Metropolice* varios autores españoles extienden estos análisis al caso español. Es un libro en formato abierto que os podeis descargar [aquí](https://traficantes.net/sites/default/files/pdfs/UTIL_ACAB_interior_web.pdf).
 
-![Pancarta en una protesta del 12 de abril de 2021, al día siguiente de la muerte de Daunte Wright a manos de la policía. El cartón resume el argumento abolicionista en una frase: no se puede reformar un sistema diseñado para matar. Es exactamente la premisa que Langer, Levin, Wacquant y Garland aceptan en el diagnóstico y rechazan en la conclusión.[^control-33]](images/abolishpolice.jpg){#fig-abolicion width="70%" fig-alt="Fotografía en color tomada en la calle durante una manifestación. En el centro de la imagen, una persona sostiene ante sí una pancarta de cartón marrón que le cubre el rostro y el torso. Sobre el cartón, escrito a mano con rotulador negro en letras mayúsculas y en inglés, se lee: «No se puede reformar un sistema diseñado para matar», con la palabra «diseñado» subrayada. Solo se le ven las manos, que sujetan el cartón por los lados, y las piernas. Al fondo, desenfocadas, hay otras personas con mascarilla, una bicicleta apoyada y una acera con árboles."}
+::: {#fig-abolicion}
+
+![](images/abolishpolice.jpg){width="70%" fig-alt="Fotografía en color tomada en la calle durante una manifestación. En el centro de la imagen, una persona sostiene ante sí una pancarta de cartón marrón que le cubre el rostro y el torso. Sobre el cartón, escrito a mano con rotulador negro en letras mayúsculas y en inglés, se lee: «No se puede reformar un sistema diseñado para matar», con la palabra «diseñado» subrayada. Solo se le ven las manos, que sujetan el cartón por los lados, y las piernas. Al fondo, desenfocadas, hay otras personas con mascarilla, una bicicleta apoyada y una acera con árboles."}
+
+Pancarta en una protesta del 12 de abril de 2021, al día siguiente de la muerte de Daunte Wright a manos de la policía. El cartón resume el argumento abolicionista en una frase: no se puede reformar un sistema diseñado para matar. Es exactamente la premisa que Langer, Levin, Wacquant y Garland aceptan en el diagnóstico y rechazan en la conclusión.[^control-33]
+
+:::
 
 [^control-33]: Andrew Ratto, fotografía de una protesta por la muerte de Daunte Wright, 12 de abril de 2021. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.es), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Daunte_Wright_Protest_at_GAP_(51113575581).jpg). Esta figura se distribuye bajo CC BY 2.0 y no bajo la licencia CC BY-NC-ND 4.0 del resto de la obra.
 

@@ -21,11 +21,15 @@ Si además, en criminología, entendemos que una teoría no solamente te ofrece 
 
 Los grandes paradigmas teóricos criminológicos se acuñaron leyendo sociedades muy determinadas, el sueño americano de la posguerra o el Chicago y el Londres de mediados del siglo XX. Desde esos epicentros metropolitanos se enseñan estas teorías en Sevilla, en Bogotá o en Manila como si describieran el delito sin más y fueran igual de útiles para entender lo que allí ocurre. La disciplina tiene su propio centro y su propia periferia: un núcleo angloparlante, sobre todo Estados Unidos y el Reino Unido, que escribe la teoría, y una periferia que la aplica, la traduce y, en el mejor de los casos, aporta el dato local que confirma lo que el centro ya daba por sabido.
 
-![Tres obras que replantean desde dónde se produce el conocimiento social.[^colonial-1]](images/portadas-teoria-sur.png){#fig-teoria-sur width="90%" fig-alt="Cubiertas de The Uncertainties of Knowledge, de Wallerstein; Southern Theory, de Connell; y Postcolonial Thought and Social Theory, de Go."}
+::: {#fig-teoria-sur}
+
+![](images/portadas-teoria-sur.png){width="90%" fig-alt="Cubiertas de The Uncertainties of Knowledge, de Wallerstein; Southern Theory, de Connell; y Postcolonial Thought and Social Theory, de Go."}
+
+Tres obras que replantean desde dónde se produce el conocimiento social.[^colonial-1]
+
+:::
 
 [^colonial-1]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). Los derechos corresponden a Temple University Press, Routledge y Oxford University Press respectivamente.
-
-[^colonial-2]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). Los derechos corresponden a Temple University Press, Routledge y Oxford University Press respectivamente.
 
 El sociólogo Julian Go [-@Go_16] argumenta que la teoría social nació "en, de y en cierta medida para" el imperio moderno, y todavía arrastra esa herencia. En términos análogos, la sociologa australiana Raewyn Connell planteó en *Southern Theory* [@Connell_07] como las ciencias sociales se presentan como universales, pero hablan con el acento de una metrópoli que casi nunca se reconoce como tal. En criminología, ese mismo diagnóstico lo sostiene Rosemary Barberet [-@Barberet_14], apoyándose en la propia Connell y en Chandra Talpade Mohanty [@Mohanty_03]:
 
@@ -267,11 +271,15 @@ Ante esto, los demás Estados afrontan un dilema. O procesan ellos a sus propias
 
 El centro no exportó solo la prohibición; también exportó policía. Durante la Guerra Fría, Estados Unidos entrenó y financió a las fuerzas de seguridad de América Latina a través de agencias como la *Office of Public Safety*, y lo que viajó con esa "ayuda" no fue la profesionalización prometida, sino la contrainsurgencia. Cuanta más asistencia policial recibía un país, más brutales y menos democráticas se volvían sus fuerzas, hasta desembocar en escuadrones de la muerte y tortura [@Huggins_98]. Y algunas de esas técnicas acabaron regresando a la propia policía estadounidense. Stuart Schrader ha reconstruido ese retorno con detalle: la contrainsurgencia que Byron Engle y la *Office of Public Safety* ensayaron fuera terminó rearmando a las policías de las ciudades de Estados Unidos, aplicada ahora sobre sus poblaciones racializadas [@Schrader_19]. Es el mismo bumerán que ya vimos con Go [@Go_20], pero medio siglo más tarde: no un episodio aislado, sino una constante en la forja de la policía norteamericana, que se rehace una y otra vez con lo aprendido en las guerras del imperio.
 
-![Tres estudios sobre la circulación imperial de las técnicas policiales.[^colonial-7]](images/portadas-policia-imperio.png){#fig-policia-imperio width="90%" fig-alt="Cubiertas de Badges Without Borders, de Schrader; Political Policing, de Huggins; y Policing Empires, de Go."}
+::: {#fig-policia-imperio}
+
+![](images/portadas-policia-imperio.png){width="90%" fig-alt="Cubiertas de Badges Without Borders, de Schrader; Political Policing, de Huggins; y Policing Empires, de Go."}
+
+Tres estudios sobre la circulación imperial de las técnicas policiales.[^colonial-7]
+
+:::
 
 [^colonial-7]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). Los derechos corresponden a University of California Press, Duke University Press y Oxford University Press respectivamente.
-
-[^colonial-8]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). Los derechos corresponden a University of California Press, Duke University Press y Oxford University Press respectivamente.
 
 No siempre hace falta tanta coerción como ocurrió en la guerra a las drogas. Muchas veces basta con que el modelo del centro se venda como el único razonable. El *community policing* angloamericano se ha exportado en masa a sociedades muy distintas de aquellas donde nació, presentado como la buena práctica universal, con poca evidencia de que encaje y sin preguntarse siquiera qué significa "comunidad" en cada sitio [@BrogdenNijhar_05]. Lo mismo ocurrió con la tolerancia cero y las ventanas rotas, que viajaron del Nueva York de Giuliani a medio mundo como un producto de éxito [@Wacquant_14] y que en España se ha traducido en las llamadas ordenanzas del civismo. Y no hay que verlo solo como imposición. Muchas veces es demanda, de élites locales convertidas al lenguaje del mercado y del orden, que importan el modelo con entusiasmo. Máximo Sozzo y sus colegas han mostrado que estos préstamos no se copian tal cual, se traducen, y en la traducción cambian de sentido [@MelossiSozzoSparks_11].
 
@@ -323,11 +331,15 @@ La discusión sobre las reparaciones lleva décadas en la filosofía política y
 
 Para comprender las resistencias colectivas a afrontar los crímenes del pasado imperial resulta clave la aportación del sociólogo británico Paul Gilroy [-@Gilroy_05]. En *Postcolonial Melancholia* (2005), formuló el concepto de **melancolía poscolonial** para describir la incapacidad de las antiguas metrópolis para asumir el duelo por la pérdida de su hegemonía y procesar la violencia de su historia colonial. Ante la incomodidad de ese pasado, las sociedades metropolitanas oscilan entre la amnesia institucional y el repliegue defensivo hacia mitos civilizatorios idealizados. En el contexto español, esta melancolía se manifiesta cuando, como hemos visto, cualquier examen criminológico del pasado imperial se descarta como una "afrenta nacional" o un rebrote de la leyenda negra, bloqueando la posibilidad de construir una memoria colectiva madura y desprovista de nostalgias imperiales. A ese mismo bloqueo, Ann Laura Stoler [@Stoler_16] lo ha llamado afasia colonial, y el matiz importa: no se trata tanto de amnesia, de haber olvidado, como de haber perdido las palabras para nombrar el pasado colonial, una incapacidad para articular lo que, en el fondo, se sabe. Donde Gilroy diagnostica un duelo que no llega a elaborarse, Stoler señala una lengua que se ha vuelto incapaz de nombrar al pasado.
 
-![La obra confronta dos plantas de estiba. Arriba, la de un barco negrero del siglo XVIII, con los cuerpos alineados en filas regulares según el cálculo de carga del comercio atlántico. Abajo, una embarcación de migrantes del siglo XXI, donde los mismos cuerpos aparecen amontonados sin orden. La cita de Marguerite Yourcenar que cierra la pieza (la sospecha de que la filosofía no suprimirá la esclavitud, sino que a lo sumo le cambiará el nombre) condensa el argumento: lo que cambia entre ambas siluetas no es la lógica que convierte a unas personas en carga, sino su nombre. La imagen ilustra aquello que, según Gilroy, la melancolía poscolonial impide elaborar, y aquello que la afasia colonial de Stoler no deja nombrar: no un pasado olvidado, sino un presente al que le falta el vocabulario para reconocerse como continuación de ese pasado.[^colonial-10]](images/mag.png){#fig-negrero width="100%" fig-alt="Dos siluetas de embarcación vistas en planta, en dorado sobre fondo negro. Arriba, el plano de estiba de un barco negrero del siglo XVIII con figuras humanas alineadas en filas. Abajo, una embarcación de migrantes del siglo XXI con figuras amontonadas. Al pie, una cita de Marguerite Yourcenar."}
+::: {#fig-negrero}
+
+![](images/mag.png){width="100%" fig-alt="Dos siluetas de embarcación vistas en planta, en dorado sobre fondo negro. Arriba, el plano de estiba de un barco negrero del siglo XVIII con figuras humanas alineadas en filas. Abajo, una embarcación de migrantes del siglo XXI con figuras amontonadas. Al pie, una cita de Marguerite Yourcenar."}
+
+La obra confronta dos plantas de estiba. Arriba, la de un barco negrero del siglo XVIII, con los cuerpos alineados en filas regulares según el cálculo de carga del comercio atlántico. Abajo, una embarcación de migrantes del siglo XXI, donde los mismos cuerpos aparecen amontonados sin orden. La cita de Marguerite Yourcenar que cierra la pieza (la sospecha de que la filosofía no suprimirá la esclavitud, sino que a lo sumo le cambiará el nombre) condensa el argumento: lo que cambia entre ambas siluetas no es la lógica que convierte a unas personas en carga, sino su nombre. La imagen ilustra aquello que, según Gilroy, la melancolía poscolonial impide elaborar, y aquello que la afasia colonial de Stoler no deja nombrar: no un pasado olvidado, sino un presente al que le falta el vocabulario para reconocerse como continuación de ese pasado.[^colonial-10]
+
+:::
 
 [^colonial-10]: Miguel Ángel García, *Barco de esclavos*. Impresión con tintas minerales sobre aluminio, 100 × 125 cm. Reproducida con autorización expresa del autor, que se reserva todos los derechos de reproducción de la imagen. Esta figura queda excluida de la licencia CC BY-NC-ND del resto de la obra.
-
-[^colonial-11]: Miguel Ángel García, *Barco de esclavos*. Impresión con tintas minerales sobre aluminio, 100 × 125 cm. Reproducida con autorización expresa del autor, que se reserva todos los derechos de reproducción de la imagen. Esta figura queda excluida de la licencia CC BY-NC-ND del resto de la obra.
 
 En este contexto, Gilroy introduce una distinción entre dos afectos o emociones sociales:
 
@@ -385,11 +397,15 @@ Aquí hay que separar dos cosas que es fácil confundir. Una es que algunas teor
 
 La alternativa no es renunciar a pensar el propio tiempo, sino hacerlo con otra idea de cómo fluye. El historiador alemán Reinhart Koselleck [-@Koselleck_04] propuso entender la historia como **capas de tiempo** que corren a velocidades distintas. El presente no sería entonces un escalón que sustituye al anterior, sino la confluencia de varias corrientes de duración desigual. En una misma comisaría conviven hoy prácticas heredadas del siglo XIX, lógicas actuariales de los años noventa y tecnologías de anteayer. Esto os permite sostener a la vez las dos cosas que este capítulo afirma, que buena parte del canon retrata sociedades que ya no existen y que, aun así, sigue explicando cosas. No hace falta elegir.
 
-![Una muestra de la literatura reciente sobre el reordenamiento global: rivalidad entre potencias, autocracias, vigilancia y capitalismo tecnológico, y emergencia climática. [^colonial-12]](images/portadas-geopolitica.png){#fig-portadas width="100%" fig-alt="Mosaico de diez cubiertas de libros recientes sobre geopolítica, tecnología, autocracia y clima."}
+::: {#fig-portadas}
+
+![](images/portadas-geopolitica.png){width="100%" fig-alt="Mosaico de diez cubiertas de libros recientes sobre geopolítica, tecnología, autocracia y clima."}
+
+Una muestra de la literatura reciente sobre el reordenamiento global: rivalidad entre potencias, autocracias, vigilancia y capitalismo tecnológico, y emergencia climática. [^colonial-12]
+
+:::
 
 [^colonial-12]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). Los derechos corresponden a sus respectivos editores.
-
-[^colonial-13]: Cubiertas reproducidas al amparo del derecho de cita (art. 32.1 LPI). Los derechos corresponden a sus respectivos editores.
 
 Recordad como al princio del capítulo cuando invocabamos a Wallerstein y su teoria del sistema mundo, señalabamos que la condicion de centro, periferia y semiperiferia no son estáticas, sino que son posiciones relativas sujetas al cambio. Buena parte de las tensiones que observamos hoy son el producto de desplazamientos en estas posiciones. El siglo XX fue el siglo de Estados Unidos, hoy todo eso está en el aire, China aprieta con fuerza y no está aún muy claro cual va a ser la posición de Europa, si un actor de segundo nivel pero relevante, o un conjunto desorganizado y debilitado de "prioridades nacionales". Si el conocimiento se produce en el centro del sistema-mundo, y ese centro se está desplazando (el ascenso de Asia, la multipolaridad, el peso demográfico y económico moviéndose hacia el sur), entonces la geografía de la producción criminológica no es un dato fijo, es la foto de un momento que va a cambiar. El mapa de la disciplina que estáis aprendiendo es provisional, y a lo largo de vuestra vida profesional lo veréis redibujarse. Recordad también lo que dijimos sobre los flujos del control penal, el orden mundial no solamente jerarquiza las redes de conocimiento sino también influye en el viaje de las políticas de control penal. ¿Cuáles son las políticas que podemos esperar que se difundan con éxito cuando cambie el centro del sistema mundo?
 
