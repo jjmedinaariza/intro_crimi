@@ -29,3 +29,17 @@
 - **[metodo] Pendientes:** dos huecos de cita en bloque sin original delante (Young 2011; Mahoney y Goertz 2006/2012); ⚠️ cotejar fechas del máximo y descenso de la población penitenciaria española con `@CidVarona_26`; decidir si se añade un callout de cine/documental (`.callout-tip`); pasar el diagnóstico de voz tras la reescritura de JM.
 - **[bib] Altas:** 31 claves nuevas añadidas al final de `references.bib` en el bloque "Altas cap. 2" (copia de seguridad `references_backup_20260929_1055.bib`); pendiente de ordenar con `normaliza_bib.py`. Verificadas en la web: Bhuller_20, Chin_23, LoefflerNagin_22, Pickett_20, Villettaz_06, Villettaz_15 (parcialmente); el resto con ⚠️ en comentario. Falsos amigos señalados: Chin_23/Chin_99, Pickett_20/Pickett_19, Mills_59/Mills_03, Merton_42/Merton_38, Roberts_07/Roberts_03, Goffman_14/Goffman_59.
 - **[bib] Observación:** `Sutherland_49` figura con Holt, Rinehart & Winston; la edición original de 1949 parece ser de Dryden Press. Revisar.
+
+## 2026-09-30 — Título del cap. 3 en el índice lateral
+
+- El índice lateral de la portada seguía mostrando "La delincuencia en España": las páginas de `_book/` renderizadas antes del cambio de título (index, intro, clase, colonial, genero, green, politica, prevencion, references) conservan la barra lateral antigua. Solución: `quarto render` completo del libro.
+- **[intro]** L17: "Capítulo 3. La delincuencia en España" → "Capítulo 3. Fuentes de datos".
+
+## 2026-09-30 — Notas de pie duplicadas en figuras
+
+- El editor visual de RStudio duplica la nota al guardar cuando está dentro del pie de una figura (`![... [^x]](img)`): crea una definición nueva idéntica y sin llamada.
+- Eliminadas 41 definiciones huérfanas idénticas (colonial 4, concepto 9, control 12, delito 7, sociedad 6, victimas 3). Copias en `backups_notas_20260930/`.
+- Pendiente: decidir cómo evitar que se repita (modo Source para estos capítulos o `editor: source`).
+- 14:47: RStudio volvió a guardar `sociedad.qmd` desde su copia abierta y reaparecieron los duplicados (más `[^sociedad-16]`). Limpiados de nuevo (7), manteniendo las ediciones de JM; copia en `backups_notas_20260930b/`.
+- `_quarto.yml`: `editor: visual` → `editor: source`.
+- Figuras con nota en el pie (45 en colonial, concepto, control, delito, etnicas, sociedad, victimas) convertidas a bloque de figura Quarto (`::: {#fig-id}` + imagen + párrafo de pie), para que el editor visual no duplique las notas. Probado con quarto 1.7: mismo HTML (figura numerada, pie, nota, alt). Copias en `backups_figuras_20260930/`. Limpiados otra vez 7 duplicados en sociedad.
